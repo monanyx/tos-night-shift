@@ -22,13 +22,15 @@
   --del:rgba(255,77,109,.16); --ins:rgba(56,217,150,.16);
   --display:"Bricolage Grotesque",system-ui,sans-serif; --body:"Instrument Sans",system-ui,sans-serif;
   --mono:"JetBrains Mono",ui-monospace,monospace;
+  color-scheme:dark;
 }
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 var(--body);
   background-image:radial-gradient(1200px 500px at 85% -10%,rgba(198,255,46,.07),transparent 60%);}
 a{color:inherit}
-.wrap{max-width:920px;margin:0 auto;padding:0 16px}
+.wrap{max-width:920px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.demo-bar{background:var(--acid);color:#0b0d04;font:600 13px/1.4 var(--body);text-align:center;padding-block:8px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 nav.top{display:flex;align-items:center;justify-content:space-between;padding:20px 0;gap:12px;flex-wrap:wrap}
 .logo{font:800 18px/1 var(--display);letter-spacing:-.02em;text-decoration:none;display:flex;gap:8px;align-items:center}
 .logo .moon{width:22px;height:22px;border-radius:50%;background:var(--acid);box-shadow:inset -7px -2px 0 0 var(--bg)}
@@ -81,6 +83,7 @@ footer a{color:var(--muted)}
 .card h2 a:hover{text-decoration:underline;text-decoration-color:var(--acid);text-underline-offset:4px}
 .card p{margin:0;color:#c4c4d0}
 .card .tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:14px}
+.arch{font:500 11px/1 var(--mono);text-transform:uppercase;letter-spacing:.06em;color:var(--acid);border:1px solid rgba(198,255,46,.35);border-radius:4px;padding:3px 5px;margin-left:4px;white-space:nowrap}
 .empty{border:1px dashed var(--line);border-radius:16px;padding:40px 24px;text-align:center}
 .empty h2{font-size:28px;margin-bottom:8px}
 @media (max-width:600px){.stats b{font-size:24px}.stats div{padding:12px}}
@@ -88,6 +91,7 @@ footer a{color:var(--muted)}
 </style>
 </head>
 <body>
+
 <div class="wrap">
   <nav class="top">
     <a class="logo" href="index.html"><span class="moon"></span>ToS Night Shift</a>
@@ -95,7 +99,7 @@ footer a{color:var(--muted)}
       <a href="index.html">Caught</a>
       <a href="watched.html">Watching</a>
       <a href="feed.xml">RSS</a>
-      
+      <a href="https://github.com/monanyx/tos-night-shift">GitHub</a>
     </div>
   </nav>
   
@@ -119,7 +123,7 @@ footer a{color:var(--muted)}
 
   <footer>
     <span>Open source. Automatic. Not legal advice — just receipts.</span>
-    <span>45 policies watched</span>
+    <span>45 policies watched · <a href="https://github.com/monanyx/tos-night-shift">Add one</a></span>
   </footer>
 </div>
 

@@ -22,13 +22,15 @@
   --del:rgba(255,77,109,.16); --ins:rgba(56,217,150,.16);
   --display:"Bricolage Grotesque",system-ui,sans-serif; --body:"Instrument Sans",system-ui,sans-serif;
   --mono:"JetBrains Mono",ui-monospace,monospace;
+  color-scheme:dark;
 }
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 var(--body);
   background-image:radial-gradient(1200px 500px at 85% -10%,rgba(198,255,46,.07),transparent 60%);}
 a{color:inherit}
-.wrap{max-width:920px;margin:0 auto;padding:0 16px}
+.wrap{max-width:920px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.demo-bar{background:var(--acid);color:#0b0d04;font:600 13px/1.4 var(--body);text-align:center;padding-block:8px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 nav.top{display:flex;align-items:center;justify-content:space-between;padding:20px 0;gap:12px;flex-wrap:wrap}
 .logo{font:800 18px/1 var(--display);letter-spacing:-.02em;text-decoration:none;display:flex;gap:8px;align-items:center}
 .logo .moon{width:22px;height:22px;border-radius:50%;background:var(--acid);box-shadow:inset -7px -2px 0 0 var(--bg)}
@@ -78,6 +80,7 @@ h1.page{font-size:clamp(36px,6vw,60px);font-weight:800;margin:36px 0 12px}
 </style>
 </head>
 <body>
+
 <div class="wrap">
   <nav class="top">
     <a class="logo" href="index.html"><span class="moon"></span>ToS Night Shift</a>
@@ -85,12 +88,12 @@ h1.page{font-size:clamp(36px,6vw,60px);font-weight:800;margin:36px 0 12px}
       <a href="index.html">Caught</a>
       <a href="watched.html">Watching</a>
       <a href="feed.xml">RSS</a>
-      
+      <a href="https://github.com/monanyx/tos-night-shift">GitHub</a>
     </div>
   </nav>
   
 <h1 class="page">Who we're watching</h1>
-<p class="lead">45 documents from 24 companies, checked every night. Missing an app you use?</p>
+<p class="lead">45 documents from 24 companies, checked every night. Missing an app you use? <a href="https://github.com/monanyx/tos-night-shift">Add it on GitHub</a> — it's one line.</p>
 
 <div class="svc">
   <h3>Google</h3>
@@ -620,7 +623,7 @@ h1.page{font-size:clamp(36px,6vw,60px);font-weight:800;margin:36px 0 12px}
 
   <footer>
     <span>Open source. Automatic. Not legal advice — just receipts.</span>
-    <span>45 policies watched</span>
+    <span>45 policies watched · <a href="https://github.com/monanyx/tos-night-shift">Add one</a></span>
   </footer>
 </div>
 

@@ -9,8 +9,8 @@
 
 site:
   title: ToS Night Shift
-  url: ""      # your public site, e.g. https://YOUR-USERNAME.github.io/tos-night-shift
-  repo: ""     # your GitHub repo, e.g. https://github.com/YOUR-USERNAME/tos-night-shift
+  url: "https://monanyx.github.io/tos-night-shift"
+  repo: "https://github.com/monanyx/tos-night-shift"
   branch: main
 
 services:
