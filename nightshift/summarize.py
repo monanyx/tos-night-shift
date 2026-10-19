@@ -73,7 +73,8 @@ def _summarize_with_claude(service_name: str, doc_label: str, url: str, hunks: l
         f"{'NOTE: the diff was truncated, it is a big rewrite.' if truncated else ''}\n\n"
         f"DIFF:\n{diff_text}"
     )
-    client = anthropic.Anthropic()
+    workspace = os.environ.get("ANTHROPIC_WORKSPACE_ID")
+    client = anthropic.Anthropic(default_headers={"anthropic-workspace-id": workspace} if workspace else None)
     msg = client.messages.create(
         model=os.environ.get("NIGHTSHIFT_MODEL") or DEFAULT_MODEL,
         max_tokens=900,

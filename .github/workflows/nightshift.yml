@@ -38,6 +38,7 @@ jobs:
       - name: Read every policy
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
           NIGHTSHIFT_MODEL: ${{ vars.NIGHTSHIFT_MODEL }}
         run: python -m nightshift run
 

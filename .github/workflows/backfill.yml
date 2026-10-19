@@ -23,6 +23,10 @@ on:
         description: "AI summaries this run (rest use the keyword radar)"
         required: false
         default: "60"
+      redo:
+        description: "Replay policies that were already done"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -54,14 +58,17 @@ jobs:
       - name: Replay the archive
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
           NIGHTSHIFT_MODEL: ${{ vars.NIGHTSHIFT_MODEL }}
           ONLY: ${{ inputs.only }}
           SINCE: ${{ inputs.since }}
           MAX_CAPTURES: ${{ inputs.max_captures }}
           MAX_AI: ${{ inputs.max_ai }}
+          REDO: ${{ inputs.redo }}
         run: |
           set -- --since "$SINCE" --max-captures "$MAX_CAPTURES" --max-ai "$MAX_AI" --time-budget 320
           if [ -n "$ONLY" ]; then set -- "$@" --only "$ONLY"; fi
+          if [ "$REDO" = "true" ]; then set -- "$@" --redo; fi
           python -m nightshift backfill "$@"
 
       - name: Save what we found

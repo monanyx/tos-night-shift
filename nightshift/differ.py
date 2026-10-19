@@ -70,8 +70,16 @@ def looks_broken(old_text: str, new_text: str) -> str | None:
 
 
 def stats(hunks: list[Hunk]) -> dict:
-    added = sum(len(" ".join(h.new).split()) for h in hunks)
-    removed = sum(len(" ".join(h.old).split()) for h in hunks)
+    """Words actually added/removed — a reworded sentence counts its edits, not the whole paragraph."""
+    added = removed = 0
+    for h in hunks:
+        a, b = " ".join(h.old).split(), " ".join(h.new).split()
+        sm = difflib.SequenceMatcher(a=a, b=b, autojunk=False)
+        for tag, i1, i2, j1, j2 in sm.get_opcodes():
+            if tag in ("delete", "replace"):
+                removed += i2 - i1
+            if tag in ("insert", "replace"):
+                added += j2 - j1
     return {"hunks": len(hunks), "added_words": added, "removed_words": removed}
 
 

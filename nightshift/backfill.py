@@ -20,7 +20,7 @@ from . import store
 from .config import Paths, load_services
 from .differ import diff, is_date_only, looks_broken, stats
 from .extract import extract_text
-from .fetch import HEADERS, FetchError, fetch
+from .fetch import HEADERS, FetchError, decode, fetch
 from .summarize import summarize
 
 CDX_API = "https://web.archive.org/cdx/search/cdx"
@@ -36,7 +36,7 @@ def ts_to_iso(ts: str) -> str:
     return datetime.strptime(ts[:14].ljust(14, "0"), "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc).isoformat()
 
 
-def _get(url: str, params: dict | None = None, tries: int = 4, timeout: int = 60) -> requests.Response:
+def _get(url: str, params: dict | None = None, tries: int = 4, timeout: int = 45) -> requests.Response:
     """The archive is slow and rate-limits hard, so back off generously."""
     last: Exception | None = None
     for attempt in range(tries):
@@ -50,7 +50,7 @@ def _get(url: str, params: dict | None = None, tries: int = 4, timeout: int = 60
         except (requests.RequestException, FetchError) as exc:
             last = exc
             if attempt < tries - 1:
-                time.sleep(10 * (attempt + 1) ** 2)  # 10s, 40s, 90s
+                time.sleep(60 * (attempt + 1))  # the archive cools off after a minute or two: 60s, 120s, 180s
     raise FetchError(f"archive unreachable: {last}")
 
 
@@ -79,7 +79,7 @@ def archived_html(ts: str, url: str, render: bool = False) -> str:
         # if_ = archived page without the Wayback toolbar, with links rewritten so scripts still load
         return fetch(f"https://web.archive.org/web/{ts}if_/{url}", render=True, timeout=90)
     # id_ = the original HTML exactly as the site served it
-    return _get(f"https://web.archive.org/web/{ts}id_/{url}").text
+    return decode(_get(f"https://web.archive.org/web/{ts}id_/{url}"))
 
 
 def thin(captures: list[dict], max_n: int, min_gap_days: int = 7) -> list[dict]:
@@ -112,7 +112,7 @@ def backfill(
     since: str = "2023",
     max_captures: int = 30,
     max_ai: int = 40,
-    pause: float = 4.0,
+    pause: float = 8.0,
     redo: bool = False,
     time_budget_min: float = 0,
     list_fn: Callable[..., list[dict]] = list_captures,
@@ -141,7 +141,11 @@ def backfill(
                 return total
 
             src_url = doc.archive_url or doc.url
-            print(f"· {svc.name} — {doc.label}")
+            print(f"· {svc.name} — {doc.label}", flush=True)
+            if redo:
+                for old in paths.changes.glob(f"*-{svc.id}-{doc.type}*.json"):
+                    if json.loads(old.read_text(encoding="utf-8")).get("source") == "wayback":
+                        old.unlink()
             try:
                 caps = thin(list_fn(src_url, since=since), max_captures)
             except FetchError as exc:

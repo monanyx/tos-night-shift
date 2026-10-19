@@ -99,3 +99,21 @@ def test_ai_receipt_must_be_real():
     assert good["sideeye"] == 5 and good["tags"] == ["ai-training"]
     faked = _validate({"headline": "X sells kidneys", "summary": "Lies.", "receipt": "we harvest kidneys", "sideeye": 5, "tags": []}, hunks)
     assert faked["receipt"] == "We may use your photos to train our AI models."
+
+
+def test_utf8_page_without_charset_is_not_mangled():
+    import requests
+    from nightshift.fetch import decode
+    r = requests.models.Response()
+    r._content = "Discord’s “content” rules".encode("utf-8")
+    r.headers["Content-Type"] = "text/html"
+    r.encoding = "ISO-8859-1"
+    assert decode(r) == "Discord’s “content” rules"
+
+
+def test_stats_count_real_edits_only():
+    from nightshift.differ import Hunk, stats
+    old = "We collect your name and email address to run the service for you every day."
+    new = "We collect your name, email address and location to run the service for you every day."
+    s = stats([Hunk("changed", [old], [new])])
+    assert s["added_words"] <= 4 and s["removed_words"] <= 2

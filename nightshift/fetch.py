@@ -25,6 +25,17 @@ class FetchError(Exception):
     pass
 
 
+def decode(resp: requests.Response) -> str:
+    """Pages without a declared charset get mis-read as Latin-1 by requests (â instead of ’). Prefer UTF-8."""
+    declared = "charset=" in resp.headers.get("Content-Type", "").lower()
+    if declared and resp.encoding and resp.encoding.lower() not in ("iso-8859-1", "latin-1"):
+        return resp.text
+    try:
+        return resp.content.decode("utf-8")
+    except UnicodeDecodeError:
+        return resp.content.decode(resp.apparent_encoding or "cp1252", errors="replace")
+
+
 def fetch(url: str, render: bool = False, timeout: int = 30, retries: int = 2) -> str:
     parsed = urlparse(url)
     if parsed.scheme == "file":
@@ -41,8 +52,7 @@ def fetch(url: str, render: bool = False, timeout: int = 30, retries: int = 2) -
             resp = requests.get(url, headers=HEADERS, timeout=timeout, allow_redirects=True)
             if resp.status_code >= 400:
                 raise FetchError(f"HTTP {resp.status_code}")
-            resp.encoding = resp.encoding or resp.apparent_encoding
-            return resp.text
+            return decode(resp)
         except (requests.RequestException, FetchError) as exc:
             last_error = exc
             if attempt < retries:
