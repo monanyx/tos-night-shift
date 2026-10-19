@@ -11,6 +11,7 @@ from .differ import Hunk, stats, unified_for_prompt
 
 DEFAULT_MODEL = "claude-sonnet-5-5"
 ALLOWED_TAGS = sorted(radar.RADAR) + ["cosmetic", "other"]
+_AI_OFF_REASON: str | None = None  # set once the API says no (no credit, bad key) so we stop asking
 
 SYSTEM_PROMPT = f"""You are the writer for ToS Night Shift, a public watchdog that catches companies quietly changing their Terms of Service and Privacy Policies.
 
@@ -52,12 +53,19 @@ def summarize(service_name: str, doc_label: str, url: str, hunks: list[Hunk], da
             "summary_source": "date-only",
         }
 
-    if use_ai and os.environ.get("ANTHROPIC_API_KEY"):
+    global _AI_OFF_REASON
+    if use_ai and os.environ.get("ANTHROPIC_API_KEY") and not _AI_OFF_REASON:
         try:
             ai = _summarize_with_claude(service_name, doc_label, url, hunks, found)
             return {**base, **ai, "summary_source": "ai"}
         except Exception as exc:  # never let a flaky API kill the night shift
-            print(f"  ! AI summary failed, using keyword radar instead: {exc}")
+            msg = str(exc)
+            if any(k in msg for k in ("credit balance", "invalid x-api-key", "authentication_error", "workspace")):
+                _AI_OFF_REASON = msg[:160]
+                print(f"  ! AI summaries off for this run ({_AI_OFF_REASON}). Using the keyword radar — "
+                      "run the 'AI summaries' workflow later to upgrade them.")
+            else:
+                print(f"  ! AI summary failed, using keyword radar instead: {msg[:200]}")
 
     return {**base, **_summarize_with_radar(service_name, doc_label, hunks, found), "summary_source": "radar"}
 
