@@ -3,6 +3,7 @@ Usage:
   python -m nightshift run              check every policy, record changes, rebuild the site
   python -m nightshift run --only google
   python -m nightshift build            rebuild the site from saved data
+  python -m nightshift demo             build a demo site from three fictional apps
   python -m nightshift check URL        preview what text we'd extract from a page
 """
 
@@ -29,6 +30,9 @@ def main() -> None:
 
     sub.add_parser("build", help="rebuild the website")
 
+    p_demo = sub.add_parser("demo", help="build a demo site from fictional apps")
+    p_demo.add_argument("--out", type=Path, default=Path("demo-site"))
+
     p_check = sub.add_parser("check", help="show extracted text for a URL")
     p_check.add_argument("url")
     p_check.add_argument("--selector")
@@ -43,6 +47,9 @@ def main() -> None:
             build(args.root, services)
     elif args.cmd == "build":
         build(args.root, services)
+    elif args.cmd == "demo":
+        from .demo import build_demo
+        print(f"demo site → {build_demo(args.out)}/index.html")
     elif args.cmd == "check":
         text = extract_text(fetch(args.url, render=args.render), selector=args.selector, url=args.url)
         print(text[:3000])

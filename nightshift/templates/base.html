@@ -22,13 +22,15 @@
   --del:rgba(255,77,109,.16); --ins:rgba(56,217,150,.16);
   --display:"Bricolage Grotesque",system-ui,sans-serif; --body:"Instrument Sans",system-ui,sans-serif;
   --mono:"JetBrains Mono",ui-monospace,monospace;
+  color-scheme:dark;
 }
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 var(--body);
   background-image:radial-gradient(1200px 500px at 85% -10%,rgba(198,255,46,.07),transparent 60%);}
 a{color:inherit}
-.wrap{max-width:920px;margin:0 auto;padding:0 16px}
+.wrap{max-width:920px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.demo-bar{background:var(--acid);color:#0b0d04;font:600 13px/1.4 var(--body);text-align:center;padding-block:8px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 nav.top{display:flex;align-items:center;justify-content:space-between;padding:20px 0;gap:12px;flex-wrap:wrap}
 .logo{font:800 18px/1 var(--display);letter-spacing:-.02em;text-decoration:none;display:flex;gap:8px;align-items:center}
 .logo .moon{width:22px;height:22px;border-radius:50%;background:var(--acid);box-shadow:inset -7px -2px 0 0 var(--bg)}
@@ -63,6 +65,7 @@ footer a{color:var(--muted)}
 </style>
 </head>
 <body>
+{% if site.demo %}<div class="demo-bar">Demo with three made-up apps. The real site watches real policies every night.</div>{% endif %}
 <div class="wrap">
   <nav class="top">
     <a class="logo" href="{{ root }}index.html"><span class="moon"></span>{{ site.title }}</a>

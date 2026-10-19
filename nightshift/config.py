@@ -69,6 +69,7 @@ def load_site(path: Path) -> dict:
         "url": str(site.get("url", "")).rstrip("/"),
         "repo": str(site.get("repo", "")).rstrip("/"),
         "branch": site.get("branch", "main"),
+        "demo": bool(site.get("demo", False)),
     }
 
 

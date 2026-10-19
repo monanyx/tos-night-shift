@@ -13,7 +13,7 @@ RADAR: dict[str, tuple[str, list[str]]] = {
         r"\bgenerative\b", r"\blarge language model", r"\bAI (features|models|systems|services)\b",
     ]),
     "data-sharing": ("Data sharing", [
-        r"\bsell\b.{0,30}\b(data|information)\b", r"\bshare\b.{0,40}\b(partners|affiliates|third[- ]part(y|ies)|advertisers)\b",
+        r"\bsell\b.{0,30}\b(data|information)\b", r"\bshare\b.{0,80}\b(partners|affiliates|third[- ]part(y|ies)|advertisers|insurers?)\b",
         r"\bdata brokers?\b", r"\bdisclose\b.{0,30}\bthird[- ]part",
     ]),
     "arbitration": ("Arbitration / no lawsuits", [

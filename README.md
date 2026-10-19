@@ -56,6 +56,7 @@ python -m nightshift run                   # check everything + rebuild the site
 python -m nightshift check https://discord.com/terms   # preview the extracted text of any page
 python -m nightshift build                 # rebuild docs/ from saved data
 python -m pytest -q                        # tests (uses a fictional app, no network)
+python -m nightshift demo                  # demo site with 3 fictional apps → demo-site/docs/index.html
 ```
 
 Open `docs/index.html` in your browser to see the site.
