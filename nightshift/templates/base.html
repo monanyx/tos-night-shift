@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ site.title }}{% endblock %}</title>
+<meta name="description" content="{% block description %}They change the rules while you sleep. We don't sleep. Every night we read the Terms of Service and Privacy Policies of the apps you use and show you what changed.{% endblock %}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ self.title() }}">
+<meta property="og:description" content="{{ self.description() }}">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#09090d">
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ root }}feed.xml">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👀</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,800&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#09090d; --panel:#111118; --panel-2:#16161f; --line:#24242f; --text:#ececf2; --muted:#8a8a99;
+  --acid:#c6ff2e; --red:#ff4d6d; --green:#38d996; --amber:#ffb020;
+  --del:rgba(255,77,109,.16); --ins:rgba(56,217,150,.16);
+  --display:"Bricolage Grotesque",system-ui,sans-serif; --body:"Instrument Sans",system-ui,sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,monospace;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 var(--body);
+  background-image:radial-gradient(1200px 500px at 85% -10%,rgba(198,255,46,.07),transparent 60%);}
+a{color:inherit}
+.wrap{max-width:920px;margin:0 auto;padding:0 16px}
+nav.top{display:flex;align-items:center;justify-content:space-between;padding:20px 0;gap:12px;flex-wrap:wrap}
+.logo{font:800 18px/1 var(--display);letter-spacing:-.02em;text-decoration:none;display:flex;gap:8px;align-items:center}
+.logo .moon{width:22px;height:22px;border-radius:50%;background:var(--acid);box-shadow:inset -7px -2px 0 0 var(--bg)}
+nav.top .links{display:flex;gap:18px;font-size:14px;color:var(--muted)}
+nav.top .links a{text-decoration:none}
+nav.top .links a:hover{color:var(--text)}
+h1,h2,h3{font-family:var(--display);letter-spacing:-.025em;line-height:1.05;margin:0}
+.muted{color:var(--muted)}
+.mono{font-family:var(--mono)}
+.meter{display:inline-flex;align-items:center;gap:8px;font:500 12px/1 var(--mono);text-transform:uppercase;letter-spacing:.06em;
+  padding:6px 10px;border:1px solid var(--line);border-radius:999px;background:var(--panel-2);white-space:nowrap}
+.meter .dots{display:inline-flex;gap:3px}
+.meter .dots i{width:8px;height:8px;border-radius:50%;background:#2c2c38}
+.meter[data-score="2"] .dots i.on{background:var(--amber)}
+.meter[data-score="3"] .dots i.on{background:#ff8a3d}
+.meter[data-score="4"] .dots i.on,.meter[data-score="5"] .dots i.on{background:var(--red)}
+.meter[data-score="0"] .dots i.on,.meter[data-score="1"] .dots i.on{background:var(--muted)}
+.meter[data-score="5"]{border-color:rgba(255,77,109,.5);box-shadow:0 0 18px rgba(255,77,109,.25)}
+.tag{display:inline-block;font:500 12px/1 var(--mono);padding:5px 8px;border-radius:6px;background:var(--panel-2);border:1px solid var(--line);color:var(--muted)}
+.receipt{margin:14px 0 0;padding:12px 14px;border-left:3px solid var(--acid);background:rgba(198,255,46,.05);
+  font:14px/1.55 var(--mono);color:#dfe8c8;border-radius:0 8px 8px 0;overflow-wrap:anywhere}
+.receipt.old{border-left-color:var(--red);background:var(--del);color:#f3c9d1}
+.receipt .label{display:block;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+footer{margin:72px 0 40px;padding-top:24px;border-top:1px solid var(--line);font-size:14px;color:var(--muted);display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between}
+footer a{color:var(--muted)}
+.btn{display:inline-flex;align-items:center;gap:6px;font:600 14px/1 var(--body);padding:10px 14px;border-radius:10px;
+  border:1px solid var(--line);background:var(--panel);color:var(--text);text-decoration:none;cursor:pointer}
+.btn:hover{border-color:#3a3a48}
+.btn.primary{background:var(--acid);color:#0b0d04;border-color:var(--acid)}
+@media (max-width:600px){ nav.top .links{gap:14px} }
+{% block style %}{% endblock %}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <nav class="top">
+    <a class="logo" href="{{ root }}index.html"><span class="moon"></span>{{ site.title }}</a>
+    <div class="links">
+      <a href="{{ root }}index.html">Caught</a>
+      <a href="{{ root }}watched.html">Watching</a>
+      <a href="{{ root }}feed.xml">RSS</a>
+      {% if site.repo %}<a href="{{ site.repo }}">GitHub</a>{% endif %}
+    </div>
+  </nav>
+  {% block content %}{% endblock %}
+  <footer>
+    <span>Open source. Automatic. Not legal advice — just receipts.</span>
+    <span>{% if last_run %}Last shift: {{ last_run | nice_date }} · {% endif %}{{ n_docs }} polic{{ 'y' if n_docs == 1 else 'ies' }} watched{% if site.repo %} · <a href="{{ site.repo }}">Add one</a>{% endif %}</span>
+  </footer>
+</div>
+{% block script %}{% endblock %}
+</body>
+</html>

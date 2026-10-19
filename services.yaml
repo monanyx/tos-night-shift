@@ -1,0 +1,156 @@
+# Who the night shift watches.
+#
+# Add an app:  copy a block, give it a unique lowercase id, paste the policy URLs.
+#   type:      terms | privacy | cookies | ai | community | eula  (or any slug)
+#   render:    true  -> page needs a real browser (content loads with JavaScript)
+#   selector:  CSS selector for the policy text, only if auto-detection grabs junk
+#
+# Test a URL before adding it:  python -m nightshift check <url>
+
+site:
+  title: ToS Night Shift
+  url: ""      # your public site, e.g. https://YOUR-USERNAME.github.io/tos-night-shift
+  repo: ""     # your GitHub repo, e.g. https://github.com/YOUR-USERNAME/tos-night-shift
+  branch: main
+
+services:
+  - id: google
+    name: Google
+    documents:
+      - { type: terms, url: "https://policies.google.com/terms?hl=en" }
+      - { type: privacy, url: "https://policies.google.com/privacy?hl=en" }
+
+  - id: youtube
+    name: YouTube
+    documents:
+      - { type: terms, url: "https://www.youtube.com/static?template=terms&hl=en" }
+
+  - id: instagram
+    name: Instagram
+    documents:
+      - { type: terms, url: "https://help.instagram.com/581066165581870", render: true }
+      - { type: privacy, url: "https://privacycenter.instagram.com/policy", render: true }
+
+  - id: facebook
+    name: Facebook
+    documents:
+      - { type: terms, url: "https://www.facebook.com/terms.php", render: true }
+      - { type: privacy, url: "https://www.facebook.com/privacy/policy/", render: true }
+
+  - id: whatsapp
+    name: WhatsApp
+    documents:
+      - { type: terms, url: "https://www.whatsapp.com/legal/terms-of-service-eea" }
+      - { type: privacy, url: "https://www.whatsapp.com/legal/privacy-policy-eea" }
+
+  - id: tiktok
+    name: TikTok
+    documents:
+      - { type: terms, url: "https://www.tiktok.com/legal/page/eea/terms-of-service/en", render: true }
+      - { type: privacy, url: "https://www.tiktok.com/legal/page/eea/privacy-policy/en", render: true }
+
+  - id: x
+    name: X (Twitter)
+    documents:
+      - { type: terms, url: "https://x.com/en/tos", render: true }
+      - { type: privacy, url: "https://x.com/en/privacy", render: true }
+
+  - id: snapchat
+    name: Snapchat
+    documents:
+      - { type: terms, url: "https://snap.com/en-US/terms" }
+      - { type: privacy, url: "https://values.snap.com/privacy/privacy-policy" }
+
+  - id: reddit
+    name: Reddit
+    documents:
+      - { type: terms, url: "https://redditinc.com/policies/user-agreement" }
+      - { type: privacy, url: "https://www.reddit.com/policies/privacy-policy" }
+
+  - id: linkedin
+    name: LinkedIn
+    documents:
+      - { type: terms, url: "https://www.linkedin.com/legal/user-agreement" }
+      - { type: privacy, url: "https://www.linkedin.com/legal/privacy-policy" }
+
+  - id: discord
+    name: Discord
+    documents:
+      - { type: terms, url: "https://discord.com/terms" }
+      - { type: privacy, url: "https://discord.com/privacy" }
+
+  - id: pinterest
+    name: Pinterest
+    documents:
+      - { type: terms, url: "https://policy.pinterest.com/en/terms-of-service" }
+      - { type: privacy, url: "https://policy.pinterest.com/en/privacy-policy" }
+
+  - id: spotify
+    name: Spotify
+    documents:
+      - { type: terms, url: "https://www.spotify.com/us/legal/end-user-agreement/" }
+      - { type: privacy, url: "https://www.spotify.com/us/legal/privacy-policy/" }
+
+  - id: netflix
+    name: Netflix
+    documents:
+      - { type: terms, url: "https://help.netflix.com/legal/termsofuse" }
+      - { type: privacy, url: "https://help.netflix.com/legal/privacy" }
+
+  - id: amazon
+    name: Amazon
+    documents:
+      - { type: terms, url: "https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM" }
+      - { type: privacy, url: "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ" }
+
+  - id: microsoft
+    name: Microsoft
+    documents:
+      - { type: terms, url: "https://www.microsoft.com/en-us/servicesagreement" }
+      - { type: privacy, url: "https://privacy.microsoft.com/en-us/privacystatement" }
+
+  - id: apple
+    name: Apple
+    documents:
+      - { type: privacy, url: "https://www.apple.com/legal/privacy/en-ww/" }
+
+  - id: zoom
+    name: Zoom
+    documents:
+      - { type: terms, url: "https://www.zoom.com/en/trust/terms/" }
+      - { type: privacy, url: "https://www.zoom.com/en/trust/privacy/privacy-statement/" }
+
+  - id: tinder
+    name: Tinder
+    documents:
+      - { type: terms, url: "https://policies.tinder.com/terms/intl/en" }
+      - { type: privacy, url: "https://policies.tinder.com/privacy/intl/en" }
+
+  - id: duolingo
+    name: Duolingo
+    documents:
+      - { type: terms, url: "https://www.duolingo.com/terms" }
+      - { type: privacy, url: "https://www.duolingo.com/privacy" }
+
+  - id: temu
+    name: Temu
+    documents:
+      - { type: terms, url: "https://www.temu.com/terms-of-use.html", render: true }
+      - { type: privacy, url: "https://www.temu.com/privacy-and-cookie-policy.html", render: true }
+
+  - id: uber
+    name: Uber
+    documents:
+      - { type: terms, url: "https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en", render: true }
+
+  - id: openai
+    name: OpenAI (ChatGPT)
+    documents:
+      - { type: terms, url: "https://openai.com/policies/terms-of-use/" }
+      - { type: privacy, url: "https://openai.com/policies/privacy-policy/" }
+
+  - id: anthropic
+    name: Anthropic (Claude)
+    documents:
+      - { type: terms, url: "https://www.anthropic.com/legal/consumer-terms" }
+      - { type: privacy, url: "https://www.anthropic.com/legal/privacy" }

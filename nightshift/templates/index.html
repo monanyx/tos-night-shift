@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+{% block style %}
+.hero{padding:48px 0 36px}
+.hero h1{font-size:clamp(40px,8vw,84px);font-weight:800}
+.hero h1 em{font-style:normal;color:var(--acid)}
+.hero p{max-width:560px;font-size:18px;color:#c4c4d0;margin:20px 0 0}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:14px;overflow:hidden;margin:32px 0 40px}
+.stats div{background:var(--panel);padding:16px 18px}
+.stats b{display:block;font:800 32px/1 var(--display)}
+.stats span{font-size:13px;color:var(--muted)}
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:20px;align-items:center}
+.chip{font:500 13px/1 var(--mono);padding:8px 11px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--muted);cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--text);color:var(--bg);border-color:var(--text)}
+.chip.hot[aria-pressed="true"]{background:var(--red);border-color:var(--red);color:#fff}
+.card{display:block;background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:20px;margin-bottom:14px;transition:border-color .15s,transform .15s}
+.card:hover{border-color:#3a3a48}
+.card .top{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;font-size:13px;color:var(--muted)}
+.card .who b{color:var(--text);font-weight:600}
+.card h2{font-size:clamp(22px,3.6vw,28px);margin:12px 0 8px}
+.card h2 a{text-decoration:none}
+.card h2 a:hover{text-decoration:underline;text-decoration-color:var(--acid);text-underline-offset:4px}
+.card p{margin:0;color:#c4c4d0}
+.card .tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:14px}
+.empty{border:1px dashed var(--line);border-radius:16px;padding:40px 24px;text-align:center}
+.empty h2{font-size:28px;margin-bottom:8px}
+@media (max-width:600px){.stats b{font-size:24px}.stats div{padding:12px}}
+{% endblock %}
+{% block content %}
+<section class="hero">
+  <h1>They changed the rules while you were <em>asleep.</em></h1>
+  <p>Every night we read the Terms of Service and Privacy Policies of {{ n_services }} app{{ '' if n_services == 1 else 's' }} you actually use. When a single word moves, you get the plain-English version and the receipts.</p>
+</section>
+
+<div class="stats">
+  <div><b>{{ n_docs }}</b><span>polic{{ 'y' if n_docs == 1 else 'ies' }} watched</span></div>
+  <div><b>{{ n_changes }}</b><span>change{{ '' if n_changes == 1 else 's' }} caught</span></div>
+  <div><b>{{ spicy }}</b><span>worth a side-eye (3+)</span></div>
+</div>
+
+{% if changes %}
+<div class="filters" role="toolbar" aria-label="Filter changes">
+  <button class="chip" data-filter="all" aria-pressed="true">All</button>
+  <button class="chip hot" data-filter="hot" aria-pressed="false">Spicy only</button>
+  {% for tag, count in tags %}<button class="chip" data-filter="{{ tag }}" aria-pressed="false">{{ tag | tag_label }} · {{ count }}</button>{% endfor %}
+</div>
+
+<div id="feed">
+{% for c in changes %}
+<article class="card" data-tags="{{ c.tags | join(' ') }}" data-score="{{ c.sideeye }}">
+  <div class="top">
+    <span class="who"><b>{{ c.service_name }}</b> · {{ c.doc_label }} · {{ c.detected_at | nice_date }}</span>
+    {% with score = c.sideeye %}{% include "_meter.html" %}{% endwith %}
+  </div>
+  <h2><a href="{{ c.page }}">{{ c.headline }}</a></h2>
+  <p>{{ c.summary }}</p>
+  {% if c.receipt %}<blockquote class="receipt {{ 'old' if c.receipt_side == 'old' else '' }}"><span class="label">{{ 'They removed' if c.receipt_side == 'old' else 'New wording' }}</span>“{{ c.receipt }}”</blockquote>{% endif %}
+  <div class="tags">{% for t in c.tags %}<span class="tag">{{ t | tag_label }}</span>{% endfor %}</div>
+</article>
+{% endfor %}
+</div>
+{% else %}
+<div class="empty">
+  <h2>The night shift just clocked in.</h2>
+  <p class="muted">We've saved today's copy of {{ n_docs }} policies. The moment anyone edits a word, it shows up here.</p>
+</div>
+{% endif %}
+{% endblock %}
+{% block script %}
+<script>
+(() => {
+  const chips = document.querySelectorAll('.chip');
+  const cards = document.querySelectorAll('#feed .card');
+  chips.forEach(chip => chip.addEventListener('click', () => {
+    chips.forEach(c => c.setAttribute('aria-pressed', 'false'));
+    chip.setAttribute('aria-pressed', 'true');
+    const f = chip.dataset.filter;
+    cards.forEach(card => {
+      const show = f === 'all' || (f === 'hot' ? +card.dataset.score >= 3 : card.dataset.tags.split(' ').includes(f));
+      card.style.display = show ? '' : 'none';
+    });
+  }));
+})();
+</script>
+{% endblock %}

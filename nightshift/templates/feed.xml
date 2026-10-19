@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>{{ site.title }}</title>
+  <link>{{ site.url or site.repo }}</link>
+  <description>Terms of Service and Privacy Policy changes, caught overnight.</description>
+  <language>en</language>
+  {% for c in changes %}
+  <item>
+    <title>[{{ c.sideeye }}/5] {{ c.headline }}</title>
+    {% if c.abs_url %}<link>{{ c.abs_url }}</link>{% endif %}
+    <guid isPermaLink="false">{{ c.id }}</guid>
+    <pubDate>{{ c.rfc822 }}</pubDate>
+    <description>{{ c.summary }}{% if c.receipt %} — “{{ c.receipt }}”{% endif %}</description>
+  </item>
+  {% endfor %}
+</channel>
+</rss>

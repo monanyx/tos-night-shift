@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block title %}Who we're watching · {{ site.title }}{% endblock %}
+{% block style %}
+h1.page{font-size:clamp(36px,6vw,60px);font-weight:800;margin:36px 0 12px}
+.lead{color:#c4c4d0;max-width:600px;margin:0 0 32px}
+.svc{border:1px solid var(--line);border-radius:14px;background:var(--panel);margin-bottom:12px;overflow:hidden}
+.svc h3{font-size:20px;padding:14px 16px;border-bottom:1px solid var(--line)}
+.doc{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 16px;border-top:1px solid var(--line);font-size:14px;flex-wrap:wrap}
+.doc:first-of-type{border-top:0}
+.doc a{text-decoration:none}
+.doc a:hover{text-decoration:underline}
+.st{font:500 12px/1 var(--mono);padding:5px 8px;border-radius:6px;border:1px solid var(--line);white-space:nowrap}
+.st.ok,.st.baseline{color:var(--green);border-color:rgba(56,217,150,.35)}
+.st.changed{color:var(--acid);border-color:rgba(198,255,46,.4)}
+.st.error,.st.suspicious{color:var(--amber);border-color:rgba(255,176,32,.4)}
+.st.pending{color:var(--muted)}
+.err{flex-basis:100%;color:var(--muted);font:12px/1.4 var(--mono)}
+{% endblock %}
+{% block content %}
+<h1 class="page">Who we're watching</h1>
+<p class="lead">{{ n_docs }} documents from {{ n_services }} companies, checked every night. Missing an app you use?{% if site.repo %} <a href="{{ site.repo }}">Add it on GitHub</a> — it's one line.{% endif %}</p>
+{% for s in watched %}
+<div class="svc">
+  <h3>{{ s.name }}</h3>
+  {% for d in s.docs %}
+  <div class="doc">
+    <a href="{{ d.url }}" target="_blank" rel="noopener">{{ d.label }} ↗</a>
+    <span>
+      {% if d.last_changed %}<span class="muted">changed {{ d.last_changed | nice_date }} · </span>{% endif %}
+      <span class="st {{ d.status }}">{{ {'ok':'watching','baseline':'watching','changed':'just changed','error':"can't reach",'suspicious':'blocked us','pending':'not checked yet'}.get(d.status, d.status) }}</span>
+    </span>
+    {% if d.error and d.status in ('error','suspicious') %}<span class="err">{{ d.error }}</span>{% endif %}
+  </div>
+  {% endfor %}
+</div>
+{% endfor %}
+{% endblock %}

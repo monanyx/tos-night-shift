@@ -1,0 +1,628 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Who we're watching · ToS Night Shift</title>
+<meta name="description" content="They change the rules while you sleep. We don't sleep. Every night we read the Terms of Service and Privacy Policies of the apps you use and show you what changed.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Who we're watching · ToS Night Shift">
+<meta property="og:description" content="They change the rules while you sleep. We don't sleep. Every night we read the Terms of Service and Privacy Policies of the apps you use and show you what changed.">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#09090d">
+<link rel="alternate" type="application/rss+xml" title="ToS Night Shift" href="feed.xml">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👀</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,800&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#09090d; --panel:#111118; --panel-2:#16161f; --line:#24242f; --text:#ececf2; --muted:#8a8a99;
+  --acid:#c6ff2e; --red:#ff4d6d; --green:#38d996; --amber:#ffb020;
+  --del:rgba(255,77,109,.16); --ins:rgba(56,217,150,.16);
+  --display:"Bricolage Grotesque",system-ui,sans-serif; --body:"Instrument Sans",system-ui,sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,monospace;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 var(--body);
+  background-image:radial-gradient(1200px 500px at 85% -10%,rgba(198,255,46,.07),transparent 60%);}
+a{color:inherit}
+.wrap{max-width:920px;margin:0 auto;padding:0 16px}
+nav.top{display:flex;align-items:center;justify-content:space-between;padding:20px 0;gap:12px;flex-wrap:wrap}
+.logo{font:800 18px/1 var(--display);letter-spacing:-.02em;text-decoration:none;display:flex;gap:8px;align-items:center}
+.logo .moon{width:22px;height:22px;border-radius:50%;background:var(--acid);box-shadow:inset -7px -2px 0 0 var(--bg)}
+nav.top .links{display:flex;gap:18px;font-size:14px;color:var(--muted)}
+nav.top .links a{text-decoration:none}
+nav.top .links a:hover{color:var(--text)}
+h1,h2,h3{font-family:var(--display);letter-spacing:-.025em;line-height:1.05;margin:0}
+.muted{color:var(--muted)}
+.mono{font-family:var(--mono)}
+.meter{display:inline-flex;align-items:center;gap:8px;font:500 12px/1 var(--mono);text-transform:uppercase;letter-spacing:.06em;
+  padding:6px 10px;border:1px solid var(--line);border-radius:999px;background:var(--panel-2);white-space:nowrap}
+.meter .dots{display:inline-flex;gap:3px}
+.meter .dots i{width:8px;height:8px;border-radius:50%;background:#2c2c38}
+.meter[data-score="2"] .dots i.on{background:var(--amber)}
+.meter[data-score="3"] .dots i.on{background:#ff8a3d}
+.meter[data-score="4"] .dots i.on,.meter[data-score="5"] .dots i.on{background:var(--red)}
+.meter[data-score="0"] .dots i.on,.meter[data-score="1"] .dots i.on{background:var(--muted)}
+.meter[data-score="5"]{border-color:rgba(255,77,109,.5);box-shadow:0 0 18px rgba(255,77,109,.25)}
+.tag{display:inline-block;font:500 12px/1 var(--mono);padding:5px 8px;border-radius:6px;background:var(--panel-2);border:1px solid var(--line);color:var(--muted)}
+.receipt{margin:14px 0 0;padding:12px 14px;border-left:3px solid var(--acid);background:rgba(198,255,46,.05);
+  font:14px/1.55 var(--mono);color:#dfe8c8;border-radius:0 8px 8px 0;overflow-wrap:anywhere}
+.receipt.old{border-left-color:var(--red);background:var(--del);color:#f3c9d1}
+.receipt .label{display:block;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+footer{margin:72px 0 40px;padding-top:24px;border-top:1px solid var(--line);font-size:14px;color:var(--muted);display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between}
+footer a{color:var(--muted)}
+.btn{display:inline-flex;align-items:center;gap:6px;font:600 14px/1 var(--body);padding:10px 14px;border-radius:10px;
+  border:1px solid var(--line);background:var(--panel);color:var(--text);text-decoration:none;cursor:pointer}
+.btn:hover{border-color:#3a3a48}
+.btn.primary{background:var(--acid);color:#0b0d04;border-color:var(--acid)}
+@media (max-width:600px){ nav.top .links{gap:14px} }
+
+h1.page{font-size:clamp(36px,6vw,60px);font-weight:800;margin:36px 0 12px}
+.lead{color:#c4c4d0;max-width:600px;margin:0 0 32px}
+.svc{border:1px solid var(--line);border-radius:14px;background:var(--panel);margin-bottom:12px;overflow:hidden}
+.svc h3{font-size:20px;padding:14px 16px;border-bottom:1px solid var(--line)}
+.doc{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 16px;border-top:1px solid var(--line);font-size:14px;flex-wrap:wrap}
+.doc:first-of-type{border-top:0}
+.doc a{text-decoration:none}
+.doc a:hover{text-decoration:underline}
+.st{font:500 12px/1 var(--mono);padding:5px 8px;border-radius:6px;border:1px solid var(--line);white-space:nowrap}
+.st.ok,.st.baseline{color:var(--green);border-color:rgba(56,217,150,.35)}
+.st.changed{color:var(--acid);border-color:rgba(198,255,46,.4)}
+.st.error,.st.suspicious{color:var(--amber);border-color:rgba(255,176,32,.4)}
+.st.pending{color:var(--muted)}
+.err{flex-basis:100%;color:var(--muted);font:12px/1.4 var(--mono)}
+
+</style>
+</head>
+<body>
+<div class="wrap">
+  <nav class="top">
+    <a class="logo" href="index.html"><span class="moon"></span>ToS Night Shift</a>
+    <div class="links">
+      <a href="index.html">Caught</a>
+      <a href="watched.html">Watching</a>
+      <a href="feed.xml">RSS</a>
+      
+    </div>
+  </nav>
+  
+<h1 class="page">Who we're watching</h1>
+<p class="lead">45 documents from 24 companies, checked every night. Missing an app you use?</p>
+
+<div class="svc">
+  <h3>Google</h3>
+  
+  <div class="doc">
+    <a href="https://policies.google.com/terms?hl=en" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://policies.google.com/privacy?hl=en" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>YouTube</h3>
+  
+  <div class="doc">
+    <a href="https://www.youtube.com/static?template=terms&amp;hl=en" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>Instagram</h3>
+  
+  <div class="doc">
+    <a href="https://help.instagram.com/581066165581870" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://privacycenter.instagram.com/policy" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>Facebook</h3>
+  
+  <div class="doc">
+    <a href="https://www.facebook.com/terms.php" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://www.facebook.com/privacy/policy/" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>WhatsApp</h3>
+  
+  <div class="doc">
+    <a href="https://www.whatsapp.com/legal/terms-of-service-eea" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://www.whatsapp.com/legal/privacy-policy-eea" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>TikTok</h3>
+  
+  <div class="doc">
+    <a href="https://www.tiktok.com/legal/page/eea/terms-of-service/en" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://www.tiktok.com/legal/page/eea/privacy-policy/en" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>X (Twitter)</h3>
+  
+  <div class="doc">
+    <a href="https://x.com/en/tos" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://x.com/en/privacy" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>Snapchat</h3>
+  
+  <div class="doc">
+    <a href="https://snap.com/en-US/terms" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://values.snap.com/privacy/privacy-policy" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>Reddit</h3>
+  
+  <div class="doc">
+    <a href="https://redditinc.com/policies/user-agreement" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://www.reddit.com/policies/privacy-policy" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>LinkedIn</h3>
+  
+  <div class="doc">
+    <a href="https://www.linkedin.com/legal/user-agreement" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://www.linkedin.com/legal/privacy-policy" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>Discord</h3>
+  
+  <div class="doc">
+    <a href="https://discord.com/terms" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://discord.com/privacy" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>Pinterest</h3>
+  
+  <div class="doc">
+    <a href="https://policy.pinterest.com/en/terms-of-service" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://policy.pinterest.com/en/privacy-policy" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>Spotify</h3>
+  
+  <div class="doc">
+    <a href="https://www.spotify.com/us/legal/end-user-agreement/" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://www.spotify.com/us/legal/privacy-policy/" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>Netflix</h3>
+  
+  <div class="doc">
+    <a href="https://help.netflix.com/legal/termsofuse" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://help.netflix.com/legal/privacy" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>Amazon</h3>
+  
+  <div class="doc">
+    <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>Microsoft</h3>
+  
+  <div class="doc">
+    <a href="https://www.microsoft.com/en-us/servicesagreement" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://privacy.microsoft.com/en-us/privacystatement" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>Apple</h3>
+  
+  <div class="doc">
+    <a href="https://www.apple.com/legal/privacy/en-ww/" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>Zoom</h3>
+  
+  <div class="doc">
+    <a href="https://www.zoom.com/en/trust/terms/" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://www.zoom.com/en/trust/privacy/privacy-statement/" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>Tinder</h3>
+  
+  <div class="doc">
+    <a href="https://policies.tinder.com/terms/intl/en" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://policies.tinder.com/privacy/intl/en" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>Duolingo</h3>
+  
+  <div class="doc">
+    <a href="https://www.duolingo.com/terms" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://www.duolingo.com/privacy" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>Temu</h3>
+  
+  <div class="doc">
+    <a href="https://www.temu.com/terms-of-use.html" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://www.temu.com/privacy-and-cookie-policy.html" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>Uber</h3>
+  
+  <div class="doc">
+    <a href="https://www.uber.com/legal/en/document/?name=general-terms-of-use&amp;country=united-states&amp;lang=en" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>OpenAI (ChatGPT)</h3>
+  
+  <div class="doc">
+    <a href="https://openai.com/policies/terms-of-use/" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://openai.com/policies/privacy-policy/" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+<div class="svc">
+  <h3>Anthropic (Claude)</h3>
+  
+  <div class="doc">
+    <a href="https://www.anthropic.com/legal/consumer-terms" target="_blank" rel="noopener">Terms of Service ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+  <div class="doc">
+    <a href="https://www.anthropic.com/legal/privacy" target="_blank" rel="noopener">Privacy Policy ↗</a>
+    <span>
+      
+      <span class="st pending">not checked yet</span>
+    </span>
+    
+  </div>
+  
+</div>
+
+
+  <footer>
+    <span>Open source. Automatic. Not legal advice — just receipts.</span>
+    <span>45 policies watched</span>
+  </footer>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+{% block title %}{{ c.headline }} · {{ site.title }}{% endblock %}
+{% block description %}{{ c.summary }}{% endblock %}
+{% block style %}
+.back{display:inline-block;margin:24px 0 28px;color:var(--muted);text-decoration:none;font-size:14px}
+.back:hover{color:var(--text)}
+.meta{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;color:var(--muted);font-size:14px}
+.meta b{color:var(--text);font-weight:600}
+h1.headline{font-size:clamp(32px,6vw,56px);font-weight:800;margin:18px 0 18px}
+.summary{font-size:19px;color:#d0d0da;max-width:720px;margin:0}
+.big-receipt{font-size:16px;margin-top:24px}
+.actions{display:flex;flex-wrap:wrap;gap:10px;margin:28px 0 8px}
+h2.section{font-size:26px;margin:56px 0 6px}
+.hint{color:var(--muted);font-size:14px;margin:0 0 18px}
+.block{border:1px solid var(--line);border-radius:12px;overflow:hidden;margin-bottom:14px;background:var(--panel)}
+.block .kind{font:500 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:10px 14px;border-bottom:1px solid var(--line);color:var(--muted);background:var(--panel-2)}
+.row{padding:12px 14px;font:14px/1.6 var(--mono);overflow-wrap:anywhere;border-top:1px solid var(--line)}
+.row:first-of-type{border-top:0}
+.row .line{display:block;padding:2px 0 2px 22px;position:relative}
+.row .line::before{position:absolute;left:0;top:2px;font-weight:700}
+.row .old{color:#c9a3ad}
+.row .old::before{content:"−";color:var(--red)}
+.row .new{color:#d8efe3}
+.row .new::before{content:"+";color:var(--green)}
+.row .solo-old{background:var(--del);border-radius:6px;padding-right:6px}
+.row .solo-new{background:var(--ins);border-radius:6px;padding-right:6px}
+del{background:var(--del);color:#ff9fb1;text-decoration:line-through;text-decoration-color:rgba(255,77,109,.7);border-radius:3px;padding:0 2px}
+ins{background:var(--ins);color:#8ff0c4;text-decoration:none;border-radius:3px;padding:0 2px}
+.statline{font:13px/1 var(--mono);color:var(--muted);margin-top:14px}
+.source-note{font-size:13px;color:var(--muted);margin-top:10px}
+{% endblock %}
+{% block content %}
+<a class="back" href="{{ root }}index.html">← All changes</a>
+<div class="meta">
+  <span><b>{{ c.service_name }}</b> · {{ c.doc_label }} · caught {{ c.detected_at | nice_date }}</span>
+  {% with score = c.sideeye %}{% include "_meter.html" %}{% endwith %}
+</div>
+<h1 class="headline">{{ c.headline }}</h1>
+<p class="summary">{{ c.summary }}</p>
+{% if c.receipt %}<blockquote class="receipt big-receipt {{ 'old' if c.receipt_side == 'old' else '' }}"><span class="label">{{ 'They removed' if c.receipt_side == 'old' else 'New wording' }}</span>“{{ c.receipt }}”</blockquote>{% endif %}
+<p class="statline">+{{ c.stats.added_words }} words · −{{ c.stats.removed_words }} words · {{ c.stats.hunks }} section{{ '' if c.stats.hunks == 1 else 's' }} touched</p>
+<p class="source-note">{% if c.summary_source == 'ai' %}Summary written by AI from the diff below. The diff is the source of truth.{% elif c.summary_source == 'radar' %}Automatic keyword summary. The diff below is the source of truth.{% else %}Only a date line changed.{% endif %}</p>
+
+<div class="actions">
+  <a class="btn primary" href="https://twitter.com/intent/tweet?text={{ ('👀 ' ~ c.headline) | urlencode }}{% if c.abs_url %}&url={{ c.abs_url | urlencode }}{% endif %}" target="_blank" rel="noopener">Post the side-eye</a>
+  <button class="btn" id="copy">Copy link</button>
+  <a class="btn" href="{{ c.url }}" target="_blank" rel="noopener">Read the policy</a>
+  {% if c.history_url %}<a class="btn" href="{{ c.history_url }}" target="_blank" rel="noopener">Full history</a>{% endif %}
+</div>
+
+<h2 class="section">The receipts</h2>
+<p class="hint">Exactly what changed between our last copy and this one. Red is gone, green is new.</p>
+{% for b in c.receipts %}
+<div class="block">
+  <div class="kind">{{ {'added':'Added','removed':'Removed','changed':'Rewritten'}[b.kind] }}</div>
+  {% for r in b.rows %}
+  <div class="row">
+    {% if r.old is not none %}<span class="line old {{ 'solo-old' if r.new is none else '' }}">{{ r.old | safe }}</span>{% endif %}
+    {% if r.new is not none %}<span class="line new {{ 'solo-new' if r.old is none else '' }}">{{ r.new | safe }}</span>{% endif %}
+  </div>
+  {% endfor %}
+</div>
+{% endfor %}
+{% endblock %}
+{% block script %}
+<script>
+document.getElementById('copy').addEventListener('click', async e => {
+  try { await navigator.clipboard.writeText(location.href); e.target.textContent = 'Copied'; }
+  catch { e.target.textContent = 'Copy failed'; }
+});
+</script>
+{% endblock %}
