@@ -149,7 +149,7 @@ def backfill(
                 progress[key] = {"done": False, "error": str(exc)}
                 _save(prog_file, progress)
                 continue
-            print(f"  {len(caps)} archived copies to replay")
+            print(f"  {len(caps)} archived copies to replay", flush=True)
 
             prev_text = prev_ts = None
             found = 0
@@ -164,6 +164,7 @@ def backfill(
                     continue
                 sleep(pause)
                 total["captures"] += 1
+                print(f"  · {ts[:8]} ok ({len(text):,} chars)", flush=True)
 
                 if prev_text is None:
                     if not looks_broken("", text):

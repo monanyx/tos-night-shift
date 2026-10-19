@@ -8,6 +8,9 @@ on:
 permissions:
   contents: write
 
+env:
+  PYTHONUNBUFFERED: "1"   # show progress in the log live
+
 concurrency:
   group: nightshift
   cancel-in-progress: false
