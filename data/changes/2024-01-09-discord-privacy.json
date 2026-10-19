@@ -1,0 +1,55 @@
+{
+  "id": "2024-01-09-discord-privacy",
+  "service": "discord",
+  "service_name": "Discord",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://discord.com/privacy",
+  "detected_at": "2024-01-09T08:35:27+00:00",
+  "source": "wayback",
+  "window_start": "2023-09-11T09:09:27+00:00",
+  "archive_before": "https://web.archive.org/web/20230911090927/https://discord.com/privacy",
+  "archive_after": "https://web.archive.org/web/20240109083527/https://discord.com/privacy",
+  "flags": [],
+  "stats": {
+    "hunks": 2,
+    "added_words": 47,
+    "removed_words": 57
+  },
+  "headline": "Discord edited its Privacy Policy",
+  "summary": "47 words added and 57 removed across 2 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "3.1 Information you provide to us",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Information you provide to us",
+        "Information we collect automatically",
+        "Information we receive from other sources"
+      ],
+      "new": [
+        "3.1 Information you provide to us",
+        "3.2 Information we collect automatically",
+        "3.3 Information we receive from other sources"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We also adhere to the EU-U.S. and Swiss-U.S. Privacy Shield Program and comply with its framework and principles. Although the EU-U.S. Privacy Shield Program is no longer a valid basis for certain international data transfers, we continue to comply with the Privacy Shield framework and principles with respect to personal data received from the EU in addition to all other applicable laws.",
+        "If you have questions or complaints regarding our compliance with the Privacy Shield principles, please reach out to us at privacy@discord.com. If we do not resolve your complaint, you may submit your complaint free of charge to JAMS. Under certain conditions specified by the Privacy Shield principles, you may also be able to invoke binding arbitration to resolve your complaint. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain circumstances, we may be liable for the transfer of personal data from the EU, Switzerland, or the UK to a third party outside those countries.",
+        "For more information about the Privacy Shield principles and to view our certification, please visit the U.S. Department of Commerce’s Privacy Shield site."
+      ],
+      "new": [
+        "Discord and its U.S. entities/subsidiaries (Backgammon Merger Sub II, LLC, Brazos Games, LLC, Discord International, Inc, Flames Sub LLC, and Sentropy Technologies Inc.) also comply with the EU-U.S. and Swiss-U.S. Data Privacy Frameworks, as well as the UK Extension to the EU-U.S. Data Privacy Framework. If you have questions or complaints regarding our compliance with the Data Privacy Framework principles, please reach out to us at privacy@discord.com. If we do not resolve your complaint, you may submit your complaint free of charge to JAMS. Under certain conditions specified by the Data Privacy Framework principles, you may also be able to invoke binding arbitration to resolve your complaint. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain circumstances, we may be liable for the transfer of personal data from the EU, Switzerland, or the UK to a third party outside those countries.",
+        "For more information about the Data Privacy Framework principles and to view our certification, please visit the U.S. Department of Commerce’s Data Privacy Framework site."
+      ]
+    }
+  ]
+}
