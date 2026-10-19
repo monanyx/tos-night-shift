@@ -1,0 +1,409 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Discord rewrote its Privacy Policy — new wording on AI training · ToS Night Shift</title>
+<meta name="description" content="2865 words added and 2525 removed across 19 sections. New wording touches: AI training. Read the receipts below — this summary is automatic, not AI.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Discord rewrote its Privacy Policy — new wording on AI training · ToS Night Shift">
+<meta property="og:description" content="2865 words added and 2525 removed across 19 sections. New wording touches: AI training. Read the receipts below — this summary is automatic, not AI.">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#09090d">
+<link rel="alternate" type="application/rss+xml" title="ToS Night Shift" href="../feed.xml">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👀</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,800&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#09090d; --panel:#111118; --panel-2:#16161f; --line:#24242f; --text:#ececf2; --muted:#8a8a99;
+  --acid:#c6ff2e; --red:#ff4d6d; --green:#38d996; --amber:#ffb020;
+  --del:rgba(255,77,109,.16); --ins:rgba(56,217,150,.16);
+  --display:"Bricolage Grotesque",system-ui,sans-serif; --body:"Instrument Sans",system-ui,sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,monospace;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 var(--body);
+  background-image:radial-gradient(1200px 500px at 85% -10%,rgba(198,255,46,.07),transparent 60%);}
+a{color:inherit}
+.wrap{max-width:920px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.demo-bar{background:var(--acid);color:#0b0d04;font:600 13px/1.4 var(--body);text-align:center;padding-block:8px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+nav.top{display:flex;align-items:center;justify-content:space-between;padding:20px 0;gap:12px;flex-wrap:wrap}
+.logo{font:800 18px/1 var(--display);letter-spacing:-.02em;text-decoration:none;display:flex;gap:8px;align-items:center}
+.logo .moon{width:22px;height:22px;border-radius:50%;background:var(--acid);box-shadow:inset -7px -2px 0 0 var(--bg)}
+nav.top .links{display:flex;gap:18px;font-size:14px;color:var(--muted)}
+nav.top .links a{text-decoration:none}
+nav.top .links a:hover{color:var(--text)}
+h1,h2,h3{font-family:var(--display);letter-spacing:-.025em;line-height:1.05;margin:0}
+.muted{color:var(--muted)}
+.mono{font-family:var(--mono)}
+.meter{display:inline-flex;align-items:center;gap:8px;font:500 12px/1 var(--mono);text-transform:uppercase;letter-spacing:.06em;
+  padding:6px 10px;border:1px solid var(--line);border-radius:999px;background:var(--panel-2);white-space:nowrap}
+.meter .dots{display:inline-flex;gap:3px}
+.meter .dots i{width:8px;height:8px;border-radius:50%;background:#2c2c38}
+.meter[data-score="2"] .dots i.on{background:var(--amber)}
+.meter[data-score="3"] .dots i.on{background:#ff8a3d}
+.meter[data-score="4"] .dots i.on,.meter[data-score="5"] .dots i.on{background:var(--red)}
+.meter[data-score="0"] .dots i.on,.meter[data-score="1"] .dots i.on{background:var(--muted)}
+.meter[data-score="5"]{border-color:rgba(255,77,109,.5);box-shadow:0 0 18px rgba(255,77,109,.25)}
+.tag{display:inline-block;font:500 12px/1 var(--mono);padding:5px 8px;border-radius:6px;background:var(--panel-2);border:1px solid var(--line);color:var(--muted)}
+.receipt{margin:14px 0 0;padding:12px 14px;border-left:3px solid var(--acid);background:rgba(198,255,46,.05);
+  font:14px/1.55 var(--mono);color:#dfe8c8;border-radius:0 8px 8px 0;overflow-wrap:anywhere}
+.receipt.old{border-left-color:var(--red);background:var(--del);color:#f3c9d1}
+.receipt .label{display:block;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+footer{margin:72px 0 40px;padding-top:24px;border-top:1px solid var(--line);font-size:14px;color:var(--muted);display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between}
+footer a{color:var(--muted)}
+.btn{display:inline-flex;align-items:center;gap:6px;font:600 14px/1 var(--body);padding:10px 14px;border-radius:10px;
+  border:1px solid var(--line);background:var(--panel);color:var(--text);text-decoration:none;cursor:pointer}
+.btn:hover{border-color:#3a3a48}
+.btn.primary{background:var(--acid);color:#0b0d04;border-color:var(--acid)}
+@media (max-width:600px){ nav.top .links{gap:14px} }
+
+.back{display:inline-block;margin:24px 0 28px;color:var(--muted);text-decoration:none;font-size:14px}
+.back:hover{color:var(--text)}
+.meta{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;color:var(--muted);font-size:14px}
+.meta b{color:var(--text);font-weight:600}
+h1.headline{font-size:clamp(32px,6vw,56px);font-weight:800;margin:18px 0 18px}
+.summary{font-size:19px;color:#d0d0da;max-width:720px;margin:0}
+.big-receipt{font-size:16px;margin-top:24px}
+.actions{display:flex;flex-wrap:wrap;gap:10px;margin:28px 0 8px}
+h2.section{font-size:26px;margin:56px 0 6px}
+.hint{color:var(--muted);font-size:14px;margin:0 0 18px}
+.block{border:1px solid var(--line);border-radius:12px;overflow:hidden;margin-bottom:14px;background:var(--panel)}
+.block .kind{font:500 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:10px 14px;border-bottom:1px solid var(--line);color:var(--muted);background:var(--panel-2)}
+.row{padding:12px 14px;font:14px/1.6 var(--mono);overflow-wrap:anywhere;border-top:1px solid var(--line)}
+.row:first-of-type{border-top:0}
+.row .line{display:block;padding:2px 0 2px 22px;position:relative}
+.row .line::before{position:absolute;left:0;top:2px;font-weight:700}
+.row .old{color:#c9a3ad}
+.row .old::before{content:"−";color:var(--red)}
+.row .new{color:#d8efe3}
+.row .new::before{content:"+";color:var(--green)}
+.row .solo-old{background:var(--del);border-radius:6px;padding-right:6px}
+.row .solo-new{background:var(--ins);border-radius:6px;padding-right:6px}
+del{background:var(--del);color:#ff9fb1;text-decoration:line-through;text-decoration-color:rgba(255,77,109,.7);border-radius:3px;padding:0 2px}
+ins{background:var(--ins);color:#8ff0c4;text-decoration:none;border-radius:3px;padding:0 2px}
+.statline{font:13px/1 var(--mono);color:var(--muted);margin-top:14px}
+.source-note{font-size:13px;color:var(--muted);margin-top:10px}
+
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <nav class="top">
+    <a class="logo" href="../index.html"><span class="moon"></span>ToS Night Shift</a>
+    <div class="links">
+      <a href="../index.html">Caught</a>
+      <a href="../watched.html">Watching</a>
+      <a href="../feed.xml">RSS</a>
+      <a href="https://github.com/monanyx/tos-night-shift">GitHub</a>
+    </div>
+  </nav>
+  
+<a class="back" href="../index.html">← All changes</a>
+<div class="meta">
+  <span><b>Discord</b> · Privacy Policy · changed between Jun 4, 2025 and Oct 9, 2025, found in the Internet Archive</span>
+  <span class="meter" data-score="3" title="Side-eye 3 out of 5">side-eye <span class="dots"><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i></span> 3/5</span>
+</div>
+<h1 class="headline">Discord rewrote its Privacy Policy — new wording on AI training</h1>
+<p class="summary">2865 words added and 2525 removed across 19 sections. New wording touches: AI training. Read the receipts below — this summary is automatic, not AI.</p>
+<blockquote class="receipt big-receipt "><span class="label">New wording</span>“This processing can include use of automated technologies such as machine learning systems that help us power and improve our services.”</blockquote>
+<p class="statline">+2865 words · −2525 words · 19 sections touched</p>
+<p class="source-note">Automatic keyword summary. The diff below is the source of truth.</p>
+
+<div class="actions">
+  <a class="btn primary" href="https://twitter.com/intent/tweet?text=%F0%9F%91%80%20Discord%20rewrote%20its%20Privacy%20Policy%20%E2%80%94%20new%20wording%20on%20AI%20training&url=https%3A//monanyx.github.io/tos-night-shift/c/2025-10-09-discord-privacy.html" target="_blank" rel="noopener">Post the side-eye</a>
+  <button class="btn" id="copy">Copy link</button>
+  <a class="btn" href="https://discord.com/privacy" target="_blank" rel="noopener">Read the policy</a>
+  <a class="btn" href="https://web.archive.org/web/20250604125851/https://discord.com/privacy" target="_blank" rel="noopener">Archived before</a><a class="btn" href="https://web.archive.org/web/20251009013535/https://discord.com/privacy" target="_blank" rel="noopener">Archived after</a>
+  <a class="btn" href="https://github.com/monanyx/tos-night-shift/commits/main/snapshots/discord/privacy.md" target="_blank" rel="noopener">Full history</a>
+</div>
+
+<h2 class="section">The receipts</h2>
+<p class="hint">Exactly what changed between the two archived copies. Red is gone, green is new.</p>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>Discord is the best place to talk, hang out and have fun with friends online</del></span>
+    <span class="line new "><ins>A little bit about Discord</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">This Privacy Policy explains how we collect, use, store, protect, and share your personal information through our services. If you reside in the European Economic Area <del>(âEEAâ) or United Kingdom,</del> Discord Netherlands BV is the âdata controllerâ of your personal information collected through the services (as defined in our Terms of Service). For everyone else, Discord Inc. is the data controller. Itâs important that you read this entire policy, but hereâs a summary to get you started:</span>
+    <span class="line new ">This Privacy Policy explains how we collect, use, store, protect, and share your personal information through our services. If you reside in the European Economic Area <ins>(âEEAâ),</ins> Discord Netherlands BV is the âdata controllerâ of your personal information collected through the services (as defined in our Terms of Service). For everyone else, Discord Inc. is the data controller. Itâs important that you read this entire policy, but hereâs a summary to get you started:</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">- **We care a lot about privacy**. We are committed to <del>creating spaces where people can talk, hang out</del> and <del>have fun with friends online.</del> Respecting user privacy is a key part of that mission.</span>
+    <span class="line new ">- **We care a lot about privacy**. We are committed to <ins>enabling you to build meaningful connections around the joy of playing games through voice, video</ins> and <ins>text features.</ins> Respecting user privacy is a key part of that mission.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">- **We donât sell your personal <del>information**.</del> Our business is based on <del>subscriptions and paid products, not from</del> selling your personal information to third parties.</span>
+    <span class="line new ">- **We donât sell your personal <ins>information**.Â</ins> Our business is <ins>funded through subscriptions, paid products, and sponsored content, not</ins> based on selling your personal information to third parties.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">- **We care deeply about safety**. Our dedicated Trust and Safety team works hard to help keep our <del>community</del> safe. We also use certain information to help us identify violations of our Community <del>Guidelines and</del> prevent harmful content <del>from being distributed through</del> the services.Â</span>
+    <span class="line new ">- **We care deeply about safety**. Our dedicated Trust and Safety team works hard to help keep our <ins>users</ins> safe. We also use certain information to help us identify violations of our <ins>terms and policies (such as our</ins> Community <ins>Guidelines) in order to</ins> prevent harmful content <ins>or conduct on</ins> the services.Â</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>We created</del> Discord to <del>be</del> the <del>best place to talk, hang out</del> and <del>have fun with friends online.</del> Whether youâre part of a club, gaming group, or just a handful of friends that want to spend time together, Discord makes it easy to connect with friends.</span>
+    <span class="line new ">Discord <ins>enables you</ins> to <ins>build meaningful connections around</ins> the <ins>joy of playing games through voice, video,</ins> and <ins>text features.</ins> Whether youâre part of a club, gaming group, or just a handful of friends that want to spend time together, Discord makes it easy to connect with friends.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">We may also use content posted in larger spaces to help us develop, <del>improve</del> and power our services, including features that help you catch up on conversations and safety features that identify harmful content on the services and support the enforcement of our Terms of Service and Community Guidelines. These things are important to us, and we believe they will make Discord even better for our users. We will always try to let you know the type of space you are in (although we donât control where invite links are shared or the permissions for that server). You can limit the extent to which your content is used for these purposes as described in the âHow to control your privacyâ section below. You can learn more about our approach to safety and content moderation, including how we use your information for these purposes, in our Safety Center. You should take all of this into account when you are using our services, and choose the spaces, features, and settings that are most appropriate for your content.</span>
+    <span class="line new ">We may also use content posted in larger spaces to help us develop, <ins>improve,</ins> and power our services, including features that help you catch up on conversations and safety features that identify harmful content on the services and support the enforcement of our Terms of Service and Community Guidelines. These things are important to us, and we believe they will make Discord even better for our users. We will always try to let you know the type of space you are in (although we donât control where invite links are shared or the permissions for that server). You can limit the extent to which your content is used for these purposes as described in the âHow to control your privacyâ section below. You can learn more about our approach to safety and content moderation, including how we use your information for these purposes, in our Safety Center. You should take all of this into account when you are using our services, and choose the spaces, features, and settings that are most appropriate for your content.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">We make money <del>from paid subscriptions and the sale of digital (and sometimes physical) goods, not</del> from selling your personal information to third <del>parties.</del></span>
+    <span class="line new ">We <ins>donât</ins> make money from selling your personal information to third <ins>parties. Our business is funded through subscriptions, paid products, and sponsored content (like Quests and other sponsored formats).</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">- **Content you create**. This includes any content that you upload to the service. For example, you may write messages or posts (including drafts), send voice messages, create custom emojis, or post other content that you create with features that we develop. You may also upload and share files through the services. This also includes your profile information and the information you provide when you create <del>servers.Â</del> We generally do not store the contents of video or voice calls or channels. If we were to change that in the future (for example, to facilitate content moderation), we would disclose that to you in advance. We also donât store streaming content when you share your screen, but we do retain the thumbnail cover image for the stream for a short period of time. We may build features that help users engage with voice and video content, like create or send short recordings.</span>
+    <span class="line new ">- **Content you create**. This includes any content that you upload to the service. For example, you may write messages or posts (including drafts), send voice messages, create custom emojis, or post other content that you create with features that we develop. You may also upload and share files through the services. This also includes your profile information and the information you provide when you create <ins>servers.</ins> We generally do not store the contents of video or voice calls or channels. If we were to change that in the future (for example, to facilitate content moderation), we would disclose that to you in advance. We also donât store streaming content when you share your screen, but we do retain the thumbnail cover image for the stream for a short period of time. We may build features that help users engage with voice and video content, like create or send short recordings.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">- **Information from actions you take**. We collect information about your use of Discord and your activities on the services. This includes information such as the friends you add, the users, bots, and apps you engage with, <del>the games you play on your device,</del> the servers or other communities you join and participate in, your roles in servers, content moderation decisions you make, information about purchases or sales you make on or through Discord including what you purchased or sold, and other related actions. You can control the extent to which we collect, use, and display this information as described in the âHow to control your privacyâ section below.</span>
+    <span class="line new ">- **Information from actions you take**. We collect information about your use of Discord and your activities on the services. This includes information such as the friends you add, the users, bots, and apps you engage with, the servers or other communities you join and participate in, your roles in servers, content moderation decisions you make, information about purchases or sales you make on or through Discord including what you purchased or sold, and other related actions. <ins>We may also collect limited information from your device while Discord is running (such as the game you are playing).</ins> You can control the extent to which we collect, use, and display this information as described in the âHow to control your privacyâ section below.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">- **Information from optional features**. Certain features, like contact syncing, may require that you provide additional information (or grant us access to such information) to make them work. This also includes <del>third-party integrations</del> you choose to enable <del>and the data you</del> authorize <del>those</del> third-party services to share with us. For example, when you link a music streaming account, we may collect information about that account such as the song you are listening to in order to display that information on your profile or as your status (if you have chosen to do so).</span>
+    <span class="line new ">- **Information from optional features**. Certain features, like contact syncing, may require that you provide additional information (or grant us access to such information) to make them work. This also includes <ins>if</ins> you choose to <ins>interact with sponsored content,</ins> enable <ins>integrations, or</ins> authorize third-party services to share <ins>data</ins> with us. For example, when you link a music streaming <ins>or game</ins> account, we may collect information about that account such as the song you are listening to <ins>or the game you are playing</ins> in order to display that information on your profile or as your status (if you have chosen to do so).</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old solo-old">We may receive information about you from other sources, including from other users and third parties, and combine that information with the other information we have about you. For example, if you interact with our social media account on another platform, we may receive certain information about you like your username on that platform.</span>
+    
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>Under</del> certain <del>data protection laws</del> like <del>GDPR, companies must have a âlegal basisââa valid reasonâto process personal information. Discord relies</del> on <del>different legal bases to process your</del> information <del>for the purposes described in this Privacy Policy. We use the Information We CollectâAccount information, Content you create, Payment information, Information from actions you take, Information used to enable optional features, Other information you provide directly to us, Information</del> about your <del>device, Information</del> about <del>your use of the apps or websites, other information that we collect automatically,</del> and <del>Information we receive from other sourcesâfor the following reasons and according to these legal bases. For each reason, we describe why we process your</del> information and how <del>we process your information to achieve each purpose.</del></span>
+    <span class="line new "><ins>We may receive information about you from other sources, including from other users and third parties, and combine that information with the other information we have about you. For example, if you interact with our social media account on another platform, we may receive</ins> certain <ins>information about you</ins> like <ins>your username</ins> on <ins>that platform. Similarly, when we advertise on other services, we may receive</ins> information about your <ins>engagement with those ads. We may also receive information</ins> about <ins>you from advertisers</ins> and <ins>third-party data providers, such as demographic</ins> information and how <ins>you engage with other products and services outside of Discord.</ins></span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Under certain data protection laws like GDPR, companies must have a âlegal basisââa valid reasonâto process personal information. Discord relies on different legal bases to process your information for the purposes described in this Privacy Policy. We use the Information We CollectâAccount information, Content you create, Payment information, Information from actions you take, Information used to enable optional features, Other information you provide directly to us, Information about your device, Information about your use of the apps or websites, other information that we collect automatically, and Information we receive from other sourcesâfor the following reasons and according to these legal bases (where applicable). For each reason, we describe how we process your information to achieve each purpose. This processing can include use of automated technologies such as machine learning systems that help us power and improve our services. In certain jurisdictions, we rely on consent (implied or express) to collect, use and disclose personal information, subject to limited exceptions. As a result, the legal bases below may not apply to you. Please see Information About Local Privacy Laws page located here.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">- **To provide you with the services**. We use your information to provide you with the Discord services. For example, when you start a video call, we process your images and audio to make that work. We similarly collect and store the messages you send and display them as you direct. We also use the information you provide to us to create and manage your account and to facilitate purchases. When you enable optional features (like connecting your Discord account to other platforms), we use information <del>from those services</del> to power the feature (like displaying what song you are listening to on another service within the Discord app).</span>
+    <span class="line new ">- **To provide you with the services**. We use your information to provide you with the Discord services. For example, when you start a video call, we process your images and audio to make that work. We similarly collect and store the messages you send and display them as you direct. We also use the information you provide to us to create and manage your account and to facilitate purchases. When you enable optional features (like connecting your Discord account to other platforms), we use information to power the feature (like displaying what song you are listening to <ins>or game you are playing</ins> on another service within the Discord app).</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">- **To personalize the product**. We use your information to personalize our services. This <del>information is used to customize</del> your experience on Discord <del>such as what you see on our discovery surfaces (so</del> that you see <del>relevant</del> communities, activities, applications, or <del>content first) or features that highlight activity on Discord that may interest you. This information also helps us surface Discord features and</del> promotions from <del>us and our partners</del> that may be of interest to you. As discussed in the âHow to control your privacyâ section below, you can choose to what extent we will use your personal information to personalize your Discord experience.</span>
+    <span class="line new ">- **To personalize the product**. We use your information to personalize our services. This <ins>can include customizing</ins> your experience on Discord <ins>so</ins> that you see communities, activities, applications, <ins>features</ins> or promotions from <ins>us, or other content</ins> that may be of interest to you. As discussed in the âHow to control your privacyâ section below, you can choose to what extent we will use your personal information to personalize your Discord experience.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">- **To deliver relevant sponsored content**. We use your information to help us surface sponsored content (like Quests and other sponsored formats) that may be of interest to you. As discussed in the âHow to control your privacyâ section below, you can choose to what extent we will use your personal information to personalize your Discord experience.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">âWe may also collect and use personal information with your consent, such as to send you marketing communications where legally required. You can revoke your consent at any time (mostly through our services directly), though note that you might not be able to use any service or feature that requires collection or use of that personal information.</span>
+    <span class="line new ">âWe may also collect and use personal information with your consent, such as to send you marketing communications <ins>and personalize sponsored content</ins> where legally required. You can revoke your consent at any time (mostly through our services directly), though note that you might not be able to use any service or feature that requires collection or use of that personal information.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">- **When you tell us to**. When you add your content to the services, you are telling us to make that content available to certain people or communities. Who can access that information is determined by who can access a particular space. For servers, those permissions are set by server owners or admins. They control whether a server requires an invite link or is open and accessible to anyone. And these permissions, like the size of the server, may change over time. Similarly, if you link your Discord account with a third-party service (like a music-streaming service or gaming platform), embed content, interact with <del>third party</del> content posted on Discord, or participate in a server that has third-party features like bots enabled, we may provide certain information to that service or to other Discord users to operate that <del>service</del> or feature. Additionally, if you purchase goods or services from other users on Discord, we may disclose certain information to these users in order to facilitate the delivery of the goods or services purchased or help them understand and improve their business. We may also disclose your information as you otherwise instruct us or provide us your consent to do so.</span>
+    <span class="line new ">- **When you tell us to**. When you add your content to the services, you are telling us to make that content available to certain people or communities. Who can access that information is determined by who can access a particular space. For servers, those permissions are set by server owners or admins. They control whether a server requires an invite link or is open and accessible to anyone. And these permissions, like the size of the server, may change over time. Similarly, if you link your Discord account with a third-party service (like a music-streaming service or gaming platform), embed content, interact with <ins>third-party</ins> content posted on Discord, <ins>interact with users on other services who have linked their account,</ins> or participate in a server that has third-party features like bots enabled, we may provide certain information to that service or to other Discord users to operate that <ins>content, service,</ins> or feature. Additionally, if you purchase goods or services from other users on Discord, we may disclose certain information to these users in order to facilitate the delivery of the goods or services purchased or help them understand and improve their business. We may also disclose your information as you otherwise instruct us or provide us your consent to do so.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">- **With our vendors**. We may provide information to vendors we hire to carry out specific work for us. This includes payment processors like Stripe and PayPal that process transactions on our behalf and cloud providers like Google that host our data and our services. We may also provide limited information to advertising platforms to help us reach people that we think will like our products and to measure the performance of our ads shown on those platforms. We do this to help bring more users to Discord and make our business successful, and provide only the information required to facilitate these services. This may include information like the fact that you installed our app or registered to use <del>Discord.</del></span>
+    <span class="line new ">- **With our vendors**. We may provide information to vendors we hire to carry out specific work for us. This includes payment processors like Stripe and PayPal that process transactions on our behalf and cloud providers like Google that host our data and our services. We may also provide limited information to advertising platforms to help us reach people that we think will like our products and to measure the performance of our ads shown on those platforms. We do this to help bring more users to Discord and make our business successful, and provide only the information required to facilitate these services. This may include information like the fact that you installed our app or registered to use <ins>Discord. We may also provide information to analytics and measurement partners to measure the effectiveness of sponsored content if you engage with it (for example, by starting a Quest or clicking on other sponsored content).</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">- **To comply with the law**. We may disclose information in response to a request for information if we believe disclosure is required by law, including meeting national security or law enforcement requirements. Where allowed and feasible, we <del>will</del> attempt to provide you with prior notice before disclosing your information in response to such a request. Our Transparency Report has additional information about how we respond to requests from governments and law enforcement entities.</span>
+    <span class="line new ">- **To comply with the law**. We may disclose information in response to a request for information if we believe disclosure is required by law, including meeting national security or law enforcement requirements. Where allowed and feasible, we <ins>may</ins> attempt to provide you with prior notice before disclosing your information in response to such a request. Our Transparency Report has additional information about how we respond to requests from governments and law enforcement entities.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">- <del>**In an emergency**.</del> We may disclose information if we believe in good faith that it&#x27;s necessary to prevent serious harm to a person.</span>
+    <span class="line new ">- <ins>**To prevent serious harm.**</ins> We may disclose information if we believe in good faith that it&#x27;s necessary to prevent <ins>death or other</ins> serious harm to a person.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">We <del>believe</del> that <del>users should be able to tailor their Discord experience to their preferences, including privacy. And while local laws may require different things, we believe that our users should have at least the same basic ability to shape their experience no matter where they</del> are in the <del>world. Hereâs how you can control how we process your information, how to delete or correct certain information, and how to request access to your information. Users in certain places may have specific rights under their local laws.</del> You can <del>learn more about these in</del> the <del>relevant sections below.</del></span>
+    <span class="line new ">We <ins>take a number of steps to help protect your information. All information sent within our services is encrypted both in transit and at rest. For example, we use Transport Layer Security (âTLSâ) to encrypt text and images in transit. We also enforce technical and administrative access controls to limit which of our employees and contractors have access to nonpublic personal information. Voice and video communications on Discord are designed to be end-to-end encrypted. You can verify</ins> that <ins>your calls</ins> are <ins>encrypted</ins> in the <ins>service. Learn more about Discordâs end-to-end encryption.</ins> You can <ins>help maintain</ins> the <ins>security of your account by configuring two-factor authentication.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">We <del>take a number of steps</del> to <del>help protect</del> your information. <del>All information sent within our services is encrypted both</del> in <del>transit and at rest. For example, we use Transport Layer Security (âTLSâ) to encrypt text and images in transit. We also enforce technical and administrative access controls to limit which of our employees and contractors</del> have <del>access to nonpublic personal information.</del> You can <del>help maintain</del> the <del>security of your account by configuring two-factor authentication.</del></span>
+    <span class="line new ">We <ins>believe that users should be able</ins> to <ins>tailor their Discord experience to their preferences, including privacy. And while local laws may require different things, we believe that our users should have at least the same basic ability to shape their experience no matter where they are in the world. Hereâs how you can control how we process your information, how to delete or correct certain information, and how to request access to</ins> your information. <ins>Users</ins> in <ins>certain places may</ins> have <ins>specific rights under their local laws.</ins> You can <ins>learn more about these in</ins> the <ins>Information About Local Privacy Laws page.</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">You can choose what spaces to participate in and what information you add to our services. You can choose what messages to send or post, who to engage with (e.g., one or more particular users or a potentially unlimited group of users), what information to include in your profile, whether to connect any third party services to your Discord account, and more. For example, if you share content in certain spaces, such as servers listed in Server Discovery or with public invite links, your content may be accessed by <del>anyone.Â</del></span>
+    <span class="line new ">You can choose what spaces to participate in and what information you add to our services. You can choose what messages to send or post, who to engage with (e.g., one or more particular users or a potentially unlimited group of users), what information to include in your profile, whether to connect any third party services to your Discord account, and more. For example, if you share content in certain spaces, such as servers listed in Server Discovery or with public invite links, your content may be accessed by <ins>anyone.</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">- **Limit our ability to use your data to improve our services**. We offer certain settings that allow you to limit the information we collect to help us understand how users use our services, what features or products they may want, or to otherwise help us improve our business. If you turn off these settings, we will stop collecting and using <del>certain event</del> and <del>log information</del> as described in these settings.</span>
+    <span class="line new ">- **Limit our ability to use your data to improve our services**. We offer certain settings that allow you to limit the information we collect to help us understand how users use our services, what features or products they may want, or to otherwise help us improve our business. If you turn off these settings, we will stop collecting and using <ins>new information about how you use and/or navigate Discord in order to understand</ins> and <ins>improve our services</ins> as described in these settings.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">- **Limit our ability to personalize Discord for you**. We offer certain settings that control whether and how we may personalize Discord for you, such as offering you relevant recommendations for in-app content and <del>features.</del> If these settings are disabled, we will <del>stop collecting and using certain event and log</del> information as described in these settings.</span>
+    <span class="line new ">- **Limit our ability to personalize Discord for you**. We offer certain settings that control whether and how we may personalize Discord for you, such as offering you relevant recommendations for in-app content and <ins>features or delivering relevant sponsored content.</ins> If these settings are disabled, we will <ins>no longer use</ins> information <ins>specific to your account to power features that personalize Discord for you</ins> as described in these settings.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">You can learn more about these and other privacy-related settings in our Help <del>Center.</del> The default and availability of some of these settings may be different depending on factors like your age or location.</span>
+    <span class="line new ">You can learn more about these and other privacy-related settings in our Help <ins>Center or in the User Settings menu within Discord.</ins> The default and availability of some of these settings may be different depending on factors like your age or location.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">If you want to see what information we have collected about you, you can request a copy of your data in the Privacy <del>&amp; Safety</del> section of your User Settings. You should receive your data packet within 30 days. Data is delivered in common digital <del>formats</del> including <del>CSV, JSON,</del> and any other file format you used when uploading attachments to the services. You can learn more about how to access your information in our Help Center.</span>
+    <span class="line new ">If you want to see what information we have collected about you, you can request a copy of your data in the <ins>Data &amp;</ins> Privacy section of your User Settings. You should receive your data packet within 30 days. Data is delivered in common digital <ins>formats,</ins> including <ins>JSON</ins> and any other file format you used when uploading attachments to the services. You can learn more about how to access your information in our Help Center.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">Discord and its U.S. entities/subsidiaries (Backgammon Merger Sub II, LLC, Brazos Games, LLC, Discord International, Inc, Flames Sub LLC, and Sentropy Technologies Inc.) also comply with the EU-U.S. and Swiss-U.S. Data Privacy Frameworks, as well as the UK Extension to the EU-U.S. Data Privacy Framework. If you have questions or complaints regarding our compliance with the Data Privacy Framework principles, please reach out to us at privacy@discord.com. If we do not resolve your complaint, you may submit your complaint <del>free</del> of <del>charge to JAMS.</del> Under certain conditions specified by the Data Privacy Framework principles, you may also be able to invoke binding arbitration to resolve your complaint. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain circumstances, we may be liable for the transfer of personal data from the EU, Switzerland, or the UK to a third party outside those <del>countries. If there is any conflict between the terms in our privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.</del></span>
+    <span class="line new ">Discord and its U.S. entities/subsidiaries (Backgammon Merger Sub II, LLC, Brazos Games, LLC, Discord International, Inc, Flames Sub LLC, and Sentropy Technologies Inc.) also comply with the EU-U.S. and Swiss-U.S. Data Privacy Frameworks, as well as the UK Extension to the EU-U.S. Data Privacy Framework. If you have questions or complaints regarding our compliance with the Data Privacy Framework principles, please reach out to us at privacy@discord.com. If we do not resolve your complaint, you may submit your complaint <ins>in accordance with the section titled âSettling Disputes Between You and Discordâ in our Terms</ins> of <ins>Service.</ins> Under certain conditions specified by the Data Privacy Framework principles, you may also be able to invoke binding arbitration to resolve your complaint. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain circumstances, we may be liable for the transfer of personal data from the EU, Switzerland, or the UK to a third party outside those <ins>countries.</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>We allow third party developers</del> to <del>build certain features or other services and offer them within</del> the <del>Discord services. For example, server administrators can add âbotsâ created by third party developers that provide features like content moderation and interactive games. Similarly,</del> you may have <del>access</del> to <del>games</del> or <del>activities built by third parties within the services.</del></span>
+    <span class="line new "><ins>In order</ins> to <ins>learn about</ins> the <ins>specific rights</ins> you may have <ins>regarding the international transfer of your personal data, please consult the relevant standard contract clauses or adequacy decisions or reach out</ins> to <ins>us at privacy@discord.com. The rights listed under &#x27;Exercise your rights&#x27; will always apply, regardless of whether your data is transferred</ins> or <ins>not.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>These</del> third-party <del>services need to follow all policies that apply to them (including often our Developer Terms of Service and Developer Policy). As part of these policies, we require</del> developers to have <del>a privacy policy that makes clear what they do with your information. Please review these privacy policies, as they describe what bots and apps may do with your information. We also require that certain popular bots apply for</del> access to <del>certain data. But because these services are operated</del> by third <del>parties, we donât control them or what information they collect. Itâs up to you whether to participate in a server that uses bots, and whether to engage with third-party services in general.</del></span>
+    <span class="line new "><ins>We allow</ins> third-party developers to <ins>build certain features or other services and offer them within the Discord services, or to incorporate certain Discord-powered features or functions into their services. For example, server administrators can add âbotsâ created by third-party developers that provide features like content moderation and interactive games. Similarly, you may</ins> have access to <ins>your Discord friends list or messaging capabilities in third-party games, or games or Activities built</ins> by third <ins>parties offered within the Discord services.</ins></span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">These third-party services need to follow all policies that apply to them (including often our Developer Terms of Service and Developer Policy). As part of these policies, we require developers to have a privacy policy that makes clear what they do with your information. Please review these privacy policies, as they describe what the third-party services may do with your information. We also require that certain popular apps apply for access to certain data. But because these services are operated by third parties, we donât control them or what information they collect. Itâs up to you whether to participate in a server or other space that uses apps, and whether to engage with third-party services in general.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">You can also reach us by mail if you want. If you reside in the <del>EEA or United Kingdom,</del> you can contact us at:Â</span>
+    <span class="line new ">You can also reach us by mail if you want. If you reside in the <ins>EEA,</ins> you can contact us at:Â</span>
+  </div>
+  
+</div>
+
+
+  <footer>
+    <span>Open source. Automatic. Not legal advice — just receipts.</span>
+    <span>45 policies watched · <a href="https://github.com/monanyx/tos-night-shift">Add one</a></span>
+  </footer>
+</div>
+
+<script>
+document.getElementById('copy').addEventListener('click', async e => {
+  try { await navigator.clipboard.writeText(location.href); e.target.textContent = 'Copied'; }
+  catch { e.target.textContent = 'Copy failed'; }
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,341 @@
+{
+  "id": "2025-06-04-discord-privacy",
+  "service": "discord",
+  "service_name": "Discord",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://discord.com/privacy",
+  "detected_at": "2025-06-04T12:58:51+00:00",
+  "source": "wayback",
+  "window_start": "2023-09-11T09:09:27+00:00",
+  "archive_before": "https://web.archive.org/web/20230911090927/https://discord.com/privacy",
+  "archive_after": "https://web.archive.org/web/20250604125851/https://discord.com/privacy",
+  "flags": [],
+  "stats": {
+    "hunks": 29,
+    "added_words": 2493,
+    "removed_words": 3376
+  },
+  "headline": "Discord edited its Privacy Policy",
+  "summary": "2493 words added and 3376 removed across 29 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Discord is the best place to talk, hang out and have fun with friends online",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "removed",
+      "old": [
+        "â"
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Discord is your place to find community"
+      ],
+      "new": [
+        "Discord is the best place to talk, hang out and have fun with friends online"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Information for Users in the EEA, United Kingdom, Switzerland, and Brazil",
+        "Information for Users in Certain U.S. States"
+      ],
+      "new": [
+        "Information about local privacy laws"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **We care a lot about privacy**. We are committed to creating spaces where people can come together and find a place to belong. Respecting user privacy is a key part of that mission."
+      ],
+      "new": [
+        "- **We care a lot about privacy**. We are committed to creating spaces where people can talk, hang out and have fun with friends online. Respecting user privacy is a key part of that mission."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **We care deeply about safety**. Our dedicated Trust & Safety team works hard to help keep our community safe. We also use certain information to help us identify violations of our Community Guidelines and prevent harmful content from being distributed through the services.Â"
+      ],
+      "new": [
+        "- **We care deeply about safety**. Our dedicated Trust and Safety team works hard to help keep our community safe. We also use certain information to help us identify violations of our Community Guidelines and prevent harmful content from being distributed through the services.Â"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We created Discord to be a platform that brings people together over shared experiences and gives everyone a place to belong. Whether youâre part of a club, gaming group, or just a handful of friends that want to spend time together, Discord makes it easy to express yourself and find community."
+      ],
+      "new": [
+        "We created Discord to be the best place to talk, hang out and have fun with friends online. Whether youâre part of a club, gaming group, or just a handful of friends that want to spend time together, Discord makes it easy to connect with friends."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We may also use content posted in larger spaces, to help us improve and power features like Highlights Notifications, identify harmful content on the services, and enforce our Terms of Service and Community Guidelines. These things are important to us, and we believe they will make Discord even better for our users. We will always try to let you know the type of space you are in (although we donât control where invite links are shared or the permissions for that server). You can limit the extent to which your content is used for these purposes as described in the âHow to control your privacyâ section below. You should take all of this into account when you are using our services, and choose the spaces, features, and settings that are most appropriate for your content."
+      ],
+      "new": [
+        "We may also use content posted in larger spaces to help us develop, improve and power our services, including features that help you catch up on conversations and safety features that identify harmful content on the services and support the enforcement of our Terms of Service and Community Guidelines. These things are important to us, and we believe they will make Discord even better for our users. We will always try to let you know the type of space you are in (although we donât control where invite links are shared or the permissions for that server). You can limit the extent to which your content is used for these purposes as described in the âHow to control your privacyâ section below. You can learn more about our approach to safety and content moderation, including how we use your information for these purposes, in our Safety Center. You should take all of this into account when you are using our services, and choose the spaces, features, and settings that are most appropriate for your content."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Account information**. When you create a Discord account, you can come up with a username and password, and provide a way of contacting you (such as an email address and/or phone number). Youâll also need to provide your birthday. In some cases, you may be required to verify your account or provide additional information (like a verified phone number) to your account. You may also have the option to add your name or nicknames.",
+        "- **Content you create**. This includes any content that you upload to the service. For example, you may write messages or posts (including drafts), send voice messages, create custom emojis, create short recordings of GoLive activity, or upload and share files through the services. This also includes your profile information and the information you provide when you create servers. We generally do not store the contents of video or voice calls or channels. If we were to change that in the future (for example, to facilitate content moderation), we would disclose that to you in advance. We also donât store streaming content when you share your screen, but we do retain the thumbnail cover image for the stream for a short period of time. We may build features that help users engage with voice and video content, like create or send short recordings.",
+        "- **Payment information**. If you buy any paid services through Discord, you may need to submit a valid payment method and associated billing information, including your full name and billing address. Our payment processors, like Stripe and PayPal, receive and process your payment information. Depending on the processor, we may also receive and store certain billing information, including the last four digits of the credit card number associated with the transaction. If you sell something through Discord, you may be required to provide additional information to our payment processors, such as bank account information to facilitate payments and copies of government issued identification required to identify users in accordance with regulatory obligations. If we decide to process our own payments in the future, we would receive and process this information ourselves.",
+        "- **Information from actions you take**. We collect information about your use of Discord and your activities on the services. This includes the friends you add, the users, bots, and apps you engage with, the games you play on your device, the servers or other communities you join and participate in, your roles in servers, content moderation decisions you make, information about purchases or sales you make on or through Discord including what you purchased or sold, and other related actions. You can control whether we collect, use, and display this information as described in the âHow to control your privacyâ section below.",
+        "- **Information used to enable optional features**. Certain features, like contact syncing, may require that you provide additional information (or grant us access to such information) to make them work. This also includes third-party integrations you choose to enable and the data you authorize those third-party services to share with us. For example, when you link a music streaming account, we may collect information about that account such as the song you are listening to in order to display that information on your profile or as your status (if you have chosen to do so).",
+        "- **Other information you provide directly to us**. You may have the option to submit additional information as you use Discord. For example, you may choose to participate in our verified server program, which requires that you provide additional information about yourself or your company. Or, you may participate in surveys where you can provide feedback on the services, or submit information to our Discord Support teams."
+      ],
+      "new": [
+        "- **Account information**. When you create a Discord account, you can come up with a username and password, and provide a way of contacting you (such as an email address and/or phone number). Youâll also need to provide your birthday. In some cases, we may require additional information to verify your age. You may be required to verify your account or provide additional information (like a verified phone number) to your account. You may also have the option to add your name or choose a display name.",
+        "- **Content you create**. This includes any content that you upload to the service. For example, you may write messages or posts (including drafts), send voice messages, create custom emojis, or post other content that you create with features that we develop. You may also upload and share files through the services. This also includes your profile information and the information you provide when you create servers.Â We generally do not store the contents of video or voice calls or channels. If we were to change that in the future (for example, to facilitate content moderation), we would disclose that to you in advance. We also donât store streaming content when you share your screen, but we do retain the thumbnail cover image for the stream for a short period of time. We may build features that help users engage with voice and video content, like create or send short recordings.",
+        "- **Payment information**. If you buy any paid services through Discord, you may need to submit a valid payment method and associated billing information, including your full name and billing address. Our payment processors, like Stripe and PayPal, receive and process your payment information. Depending on the processor, we may also receive and store certain billing information, including the last four digits of the credit card number associated with the transaction. If you sell something through Discord, you may be required to provide additional information to Discord or to our payment processors, such as bank account information to facilitate payments, tax identification information, and copies of government issued identification required to identify users in accordance with regulatory obligations. If we decide to process our own payments in the future, we would receive and process this information ourselves.",
+        "- **Information from actions you take**. We collect information about your use of Discord and your activities on the services. This includes information such as the friends you add, the users, bots, and apps you engage with, the games you play on your device, the servers or other communities you join and participate in, your roles in servers, content moderation decisions you make, information about purchases or sales you make on or through Discord including what you purchased or sold, and other related actions. You can control the extent to which we collect, use, and display this information as described in the âHow to control your privacyâ section below.",
+        "- **Information from optional features**. Certain features, like contact syncing, may require that you provide additional information (or grant us access to such information) to make them work. This also includes third-party integrations you choose to enable and the data you authorize those third-party services to share with us. For example, when you link a music streaming account, we may collect information about that account such as the song you are listening to in order to display that information on your profile or as your status (if you have chosen to do so).",
+        "- **Other information you provide directly to us**. You may have the option to submit additional information as you use Discord. For example, you may participate in surveys where you can provide feedback on the services, or submit information to our Discord Support teams."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Information about your use of the apps or websites**. For example, we collect log and event information related to how and when you use our services (such as the pages, servers, and channels you visit, the activities you engage in, or the embedded content you interact with)."
+      ],
+      "new": [
+        "- **Information about your use of the apps or websites**. For example, we collect log and event information related to how and when you use our services (such as the pages, servers, and channels you visit, the activities you engage in, the features you use, and the surfaces or embedded content you interact with)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We may receive information from cookies (small text files placed on your computer or device) and similar technologies. First-party cookies are placed by us (and our third-party service providers) and allow you to use the services and to help us analyze and improve your experience and the services. You can control cookies as described in the âHow to control your privacyâ section below. The services use the following types of cookies:",
+        "- **Strictly Necessary Cookies**: These are required for services to function and to meet our legal obligations. If you try to use tools to disable these cookies, parts of the services may not work properly.",
+        "- **Functional Cookies**: These help us provide enhanced functionality on the services like remembering language preferences. Disabling these could affect some service functionality.",
+        "- **Performance Cookies**: These allow us or our third-party analytics providers to learn how you and others use and engage with the services so we can understand and improve them."
+      ],
+      "new": [
+        "We may receive information from cookies (small text files placed on your computer or device) and similar technologies. You can find out more about Discordâs cookie usage and how you can manage your cookie permissions in our Cookie Policy."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We use your information for the following purposes:",
+        "â*To fulfill our contract with you*"
+      ],
+      "new": [
+        "Under certain data protection laws like GDPR, companies must have a âlegal basisââa valid reasonâto process personal information. Discord relies on different legal bases to process your information for the purposes described in this Privacy Policy. We use the Information We CollectâAccount information, Content you create, Payment information, Information from actions you take, Information used to enable optional features, Other information you provide directly to us, Information about your device, Information about your use of the apps or websites, other information that we collect automatically, and Information we receive from other sourcesâfor the following reasons and according to these legal bases. For each reason, we describe why we process your information and how we process your information to achieve each purpose.",
+        "â**To fulfill our contract with you**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **To meet our commitments to the Discord community**. We work hard to try to make Discord a safe, positive, and inclusive place. To do so, we use your information to monitor for and take action against users and content that violate our Terms of Service, Community Guidelines, and other policies. This includes responding to user reports, generating transcriptions of content as part of our investigation, detecting fraud and malware, and proactively scanning attachments and other content for illegal or harmful content. We also use certain information, which may include content reported to us, content that violates the Terms, and certain other content widely available on the service (such as public posts, usernames, avatars, banners, user profiles, server names, server icons, and server banners), to create systems and models that can be automated to more swiftly detect, categorize, and take action against prohibited content or conduct."
+      ],
+      "new": [
+        "- **To meet our commitments to the Discord community**. We work hard to try to make Discord a safe, positive, and inclusive place. To do so, we use your information to monitor for and take action against users and content that violate our Terms of Service, Community Guidelines, and other policies. This includes responding to user reports, generating transcriptions of content as part of our investigation, detecting fraud and malware, and proactively scanning attachments and other content for illegal or harmful activity. We also use certain information, which may include content reported to us, content that violates our Terms of Service, and certain other content widely available on the service (such as public posts, usernames, avatars, banners, user profiles, server names, server icons, and server banners), to create systems and models that can be automated to more swiftly detect, categorize, and take action against prohibited content or conduct."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*For our legitimate business interests*",
+        "- **To protect our services**. We use information to keep our services secure, to prevent misuse, and to enforce our Terms of Service and other policies against users who violate them."
+      ],
+      "new": [
+        "**For our legitimate business interests**",
+        "- **To protect our services**. We use your information to keep our services secure, to prevent misuse, and to enforce our Terms of Service and other policies against users who violate them."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **To personalize the product**. We use your information to personalize our services. This information powers our discovery surfaces (so that you see relevant communities or content first), Highlights Notifications, and similar features, and it helps us surface Discord features and promotions from us and our partners that may be of interest to you. As discussed in the âHow to control your privacyâ section below, you can choose to what extent we will use your personal information to personalize your Discord experience.",
+        "- **To improve our services**. We use your information to help us understand how users interact with our services, what features or products users may want, or to otherwise understand and improve our services. This includes information about how you use our services and how servers are structured. We may also use certain content that is widely available to better understand, for example, what topics servers cover and what content is most interesting within those servers. Â Similarly, you can limit to what extent we use your personal information for these purposes."
+      ],
+      "new": [
+        "- **To personalize the product**. We use your information to personalize our services. This information is used to customize your experience on Discord such as what you see on our discovery surfaces (so that you see relevant communities, activities, applications, or content first) or features that highlight activity on Discord that may interest you. This information also helps us surface Discord features and promotions from us and our partners that may be of interest to you. As discussed in the âHow to control your privacyâ section below, you can choose to what extent we will use your personal information to personalize your Discord experience.",
+        "- **To improve our services**. We use your information to help us understand how users interact with our services, what features or products users may want, to develop features that make Discord safer and better to use, or to otherwise understand and improve our services. This includes information about how you use our services and how servers are structured. We may also use certain content that is widely available to better understand, for example, what topics servers cover and what content is most interesting within those servers. Similarly, you can limit to what extent we use your personal information for these purposes."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **To contact you**. We may use your information to let you know about new products or features we think youâll like. You may opt-out of receiving such marketing communications. Where local law requires, we will obtain your consent before sending such communications.",
+        "*To comply with our legal obligations*"
+      ],
+      "new": [
+        "- **To contact you**. We may use your information to let you know about new products or features we think youâll like, to ask you for feedback about our services, or to tell you about experiments that might interest you. You may opt-out of receiving such marketing communications. Where local law requires, we will obtain your consent before sending such communications.",
+        "**To comply with our legal obligations**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "â*With your consent*"
+      ],
+      "new": [
+        "â**With your consent**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "â*To protect someoneâs vital interests*"
+      ],
+      "new": [
+        "â**To protect someoneâs vital interests**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **When you tell us to**. When you add your content to the services, you are telling us to make that content available to certain people or communities. Who can access that information is determined by who can access a particular space. For servers, those permissions are set by server owners or admins. They control whether a server requires an invite link or is open and accessible to anyone. And these permissions, like the size of the server, may change over time. Similarly, if you link your Discord account with a third-party service (like a music-streaming service or gaming platform), embed content, or participate in a server that has third-party features like bots enabled, we may provide certain information to that service or to other Discord users to operate that service or feature. Additionally, if you purchase goods or services from other users on Discord, we may disclose certain information to these users in order to facilitate the delivery of the goods or services purchased or help them understand and improve their business. We may also disclose your information as you otherwise instruct us or provide us your consent to do so."
+      ],
+      "new": [
+        "- **When you tell us to**. When you add your content to the services, you are telling us to make that content available to certain people or communities. Who can access that information is determined by who can access a particular space. For servers, those permissions are set by server owners or admins. They control whether a server requires an invite link or is open and accessible to anyone. And these permissions, like the size of the server, may change over time. Similarly, if you link your Discord account with a third-party service (like a music-streaming service or gaming platform), embed content, interact with third party content posted on Discord, or participate in a server that has third-party features like bots enabled, we may provide certain information to that service or to other Discord users to operate that service or feature. Additionally, if you purchase goods or services from other users on Discord, we may disclose certain information to these users in order to facilitate the delivery of the goods or services purchased or help them understand and improve their business. We may also disclose your information as you otherwise instruct us or provide us your consent to do so."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **To enforce our policies and rights**. We may disclose information if needed to enforce our Terms of Service, Community Guidelines, or other policies, or to protect the rights, property, and safety of ourselves and others."
+      ],
+      "new": [
+        "- **To enforce our policies and rights**. We may disclose information if needed to enforce our Terms of Service, Community Guidelines, any of our other policies, or to protect the rights, property, and safety of ourselves and others."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Sale, Acquisition, or Transfer of Assets**. We may disclose information if Discord is evaluating and/or engaging in a merger, acquisition, reorganization, bankruptcy, or sale, transfer, or change in ownership of Discord or any of its assets.",
+        "- **Aggregated or de-identified information**. We may disclose information that has been aggregated or anonymized such that it cannot reasonably be used to identify you. For example, we may share aggregated user statistics in order to describe our business to partners or the public."
+      ],
+      "new": [
+        "- **Sale, Acquisition, or Transfer of Assets**. We may disclose information if Discord is evaluating and/or engaging in a merger, acquisition, reorganization, bankruptcy, or sale, transfer, or change in ownership of Discord or any of its assets.**â**",
+        "- **Aggregated or de-identified information**. We may disclose information that has been aggregated or anonymized such that it cannot reasonably be used to identify you. For example, we may share aggregated user statistics in order to describe our business, features, or promotions to partners or the public."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You can choose what communities to participate in and what information you add to our services. You can choose what messages to send or post, who to engage with (e.g., one or more particular users or a potentially unlimited group of users), what information to include in your profile, whether to connect any third party services to your Discord account, and more. For example, if you share content in certain spaces, such as servers listed in Server Discovery or with public invite links, your content may be accessed by anyone.Â"
+      ],
+      "new": [
+        "You can choose what spaces to participate in and what information you add to our services. You can choose what messages to send or post, who to engage with (e.g., one or more particular users or a potentially unlimited group of users), what information to include in your profile, whether to connect any third party services to your Discord account, and more. For example, if you share content in certain spaces, such as servers listed in Server Discovery or with public invite links, your content may be accessed by anyone.Â"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You can also access other privacy-specific settings in your User Settings. For example, you can decide which types of direct messages are scanned for explicit content, who can add you as a friend, and more. This is also where you can limit certain types of processing of your information:"
+      ],
+      "new": [
+        "You can also access other privacy-related settings in your User Settings. For example, you can decide whether to filter potentially explicit content, who can add you as a friend, and more. This is also where you can limit certain types of processing of your information:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You can learn more about these settings in our Help Center."
+      ],
+      "new": [
+        "You can learn more about these and other privacy-related settings in our Help Center. The default and availability of some of these settings may be different depending on factors like your age or location."
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "To control how information is collected and used from cookies on the services, you can take one or more of the following steps.",
+        "- You can disable and manage some cookies through your browser settings. You will need to manage your settings for each browser you use. You can find instructions for how to manage Cookies in popular browsers such as Internet Explorer, Firefox, Chrome, Safari (iOS), Safari (Mac), and Opera.",
+        "- To disable analytics cookies, you can use the browser controls discussed above or, for certain providers, you can use their individual opt-out mechanisms, such as Google Analytics Opt-Out.",
+        "- Your mobile device may also include browser settings to manage the use of cookies. Your device may also have settings to control the collection and use of information in your apps.",
+        "- Third party groups also enable you to limit how cookies are used for advertising purposes by participating third parties. You can learn more at Network Advertising Initiative, the Digital Advertising Alliance, and for users in the EU, the European Interactive Digital Advertising Alliance.",
+        "- Depending on where you are accessing our services, you may be able to adjust your cookie preferences at any time through a cookies banner or by selecting âCookie Settingsâ from the footer or menu on our website.",
+        "If you disable or remove cookies, some parts of the services may not function properly. Information may be collected to remember your opt-out preferences.",
+        "Questions or concerns about your privacy? You can email us at privacy@discord.com."
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We also adhere to the EU-U.S. and Swiss-U.S. Privacy Shield Program and comply with its framework and principles. Although the EU-U.S. Privacy Shield Program is no longer a valid basis for certain international data transfers, we continue to comply with the Privacy Shield framework and principles with respect to personal data received from the EU in addition to all other applicable laws.",
+        "If you have questions or complaints regarding our compliance with the Privacy Shield principles, please reach out to us at privacy@discord.com. If we do not resolve your complaint, you may submit your complaint free of charge to JAMS. Under certain conditions specified by the Privacy Shield principles, you may also be able to invoke binding arbitration to resolve your complaint. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain circumstances, we may be liable for the transfer of personal data from the EU, Switzerland, or the UK to a third party outside those countries.",
+        "For more information about the Privacy Shield principles and to view our certification, please visit the U.S. Department of Commerceâs Privacy Shield site."
+      ],
+      "new": [
+        "Discord and its U.S. entities/subsidiaries (Backgammon Merger Sub II, LLC, Brazos Games, LLC, Discord International, Inc, Flames Sub LLC, and Sentropy Technologies Inc.) also comply with the EU-U.S. and Swiss-U.S. Data Privacy Frameworks, as well as the UK Extension to the EU-U.S. Data Privacy Framework. If you have questions or complaints regarding our compliance with the Data Privacy Framework principles, please reach out to us at privacy@discord.com. If we do not resolve your complaint, you may submit your complaint free of charge to JAMS. Under certain conditions specified by the Data Privacy Framework principles, you may also be able to invoke binding arbitration to resolve your complaint. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain circumstances, we may be liable for the transfer of personal data from the EU, Switzerland, or the UK to a third party outside those countries. If there is any conflict between the terms in our privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.",
+        "For more information about the Data Privacy Framework principles and to view our certification, please visit the U.S. Department of Commerceâs Data Privacy Framework site."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Certain local laws, such as the European Unionâs General Data Protection Regulation (GDPR) and Brazilâs Lei Geral de ProteÃ§Ã£o de Dados (LGPD), require services to provide information about the information they collect, how they use it, and the lawful basis for processing it. Weâve described most of that already in the earlier portions of this Policy.",
+        "**âExercising your rights:** As described in the âHow to control your privacyâ section above, all our users have control over their information and can directly edit or delete information from their account and limit what data we process. If you are located in certain regions, including the European Union, you may have additional rights that you can exercise through the Discord app directly or by contacting us:"
+      ],
+      "new": [
+        "Certain local laws, such as the European Unionâs General Data Protection Regulation (GDPR), Brazilâs Lei Geral de ProteÃ§Ã£o de Dados (LGPD), and Californiaâs Consumer Privacy Act (CCPA), require services to provide information about the information they collect, how they use it, and the lawful basis for processing it. Weâve described most of that already in the earlier portions of this Policy, but you can find state and region specific information and disclosures here.",
+        "**âExercising your rights:** As described in the âHow to control your privacyâ section above, all our users have control over their information and can directly edit or delete information from their account and limit what data we process. If you are located in certain regions, including the European Union, you may have additional rights such as those listed below, and as outlined in the state and region specific information and disclosures that you can exercise through the Discord app directly or by contacting us:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Right to rectify your personal data if they are incorrect"
+      ],
+      "new": [
+        "- Right to rectify your personal data if it is incorrect"
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "Exercising your rights: As described in the âHow to control your privacyâ section above, all our users have control over their information and can directly edit or delete information from their account and limit what data we process. If you are a resident of California, Colorado, Connecticut, Utah, or Virginia, you may have additional rights that you (or, in certain states, an authorized agent acting on your behalf) can exercise through the Discord app directly (as described above) or by contacting us, including the right to:",
+        "- More information about the categories and specific pieces of personal information we have collected and disclosed for a business purpose in the last 12 months",
+        "- Access and/or receive a copy of certain personal information we hold about you",
+        "- Correct certain of your personal information",
+        "- Delete certain personal information we hold you",
+        "- Receive information about the financial incentives that we offer to you, if any",
+        "- Opt out of the processing of your personal information for purposes of profiling in furtherance of decisions that produce legal or similarly significant effects, if applicableÂ",
+        "You also have the right to not be discriminated against for exercising your rights. You may also have the right to opt out of âsalesâ of your information and âsharing/processing of your information for targeted advertising.âÂ We do not sell the personal data of our users or share personal data for targeted advertising purposes.",
+        "Certain information may be exempt from the requests above under applicable law. For example, we need to retain certain information in order to provide our services to you. We also need to take reasonable steps to verify your identity before responding to a request.Â If you are an authorized agent submitting a request on a userâs behalf (where permitted), we may require proof of your written authorization before processing the request.Â Depending on applicable law, you may have the right to appeal our decision to deny your request.Â Â",
+        "If you have any questions about these rights, wish to exercise them, or request an appeal, please reach out to us at privacy@discord.com.Â",
+        "In addition to the rights described above, consumers residing in California are afforded the right to certain additional information with respect to their personal information under the California Consumer Privacy Act or (âCCPAâ). If you are a California resident, this section applies to you.",
+        "**âOur collection and use of personal information:** We collect the following categories of personal information: identifiers (such as your username, the email address you used to sign up, and your phone number if youâve chosen to provide it); commercial information (a record of what youâve bought from Discord, if anything); financial data (payment information and your history of purchases from Discord); internet or other network information (how you interact with the application); location information (because your IP address may indicate your general location); inference data about you (for example, what content you may be interested in); and other information that identifies or can be reasonably associated with you. For more information about what we collect and the sources of such collection, please see the âThe information we collectâ section above. To the extent we collect or use sensitive personal information as defined by law (such as the CCPA), we do so in accordance with applicable legal requirements, and we do not use or disclose it other than for purposes for which there is not a right to limit under the CCPA.Â",
+        "We collect personal information for the business and commercial purposes described in âHow we use your informationâ above.",
+        "**âDisclosure of personal information:** We may share your personal information with third parties as described in the âHow we disclose your informationâ section above. We disclose the categories of personal information mentioned above for business or commercial purposes.",
+        "â**No sale or âshareâ of personal information**: The CCPA sets forth certain obligations for businesses that sell or âshareâ personal information. We do not sell or share the personal information of our users as defined in the CCPA. We do disclose certain information as outlined in the âHow we disclose your informationâ section above and you can make choices with respect to your information as outlined in this policy.",
+        "We retain personal information as described in the âData retentionâ section above and in our data retention policy.Â",
+        "â**Requests received**: please see this page for information on the number of data requests we have received.",
+        "Californiaâs âShine the Lightâ law gives residents of California the right under certain circumstances to request information from us regarding the manner in which we share certain categories of personal information (as defined in the Shine the Light law) with third parties, as defined under applicable law, for their direct marketing purposes. We do not share your personal information with third-parties for their own direct marketing purposes."
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Schiphol Boulevard 195 1118BGÂ",
+        "Schiphol, Amsterdam, the Netherlands"
+      ],
+      "new": [
+        "Schiphol Boulevard 195",
+        "1118 BG Schiphol,",
+        "Netherlands"
+      ]
+    }
+  ]
+}

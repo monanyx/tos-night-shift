@@ -1,0 +1,177 @@
+{
+  "id": "2026-06-17-discord-privacy",
+  "service": "discord",
+  "service_name": "Discord",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://discord.com/privacy",
+  "detected_at": "2026-06-17T14:47:45+00:00",
+  "source": "wayback",
+  "window_start": "2026-02-11T00:18:01+00:00",
+  "archive_before": "https://web.archive.org/web/20260211001801/https://discord.com/privacy",
+  "archive_after": "https://web.archive.org/web/20260617144745/https://discord.com/privacy",
+  "flags": [],
+  "stats": {
+    "hunks": 18,
+    "added_words": 105,
+    "removed_words": 70
+  },
+  "headline": "Discord edited its Privacy Policy",
+  "summary": "105 words added and 70 removed across 18 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "# Discord Privacy Policy",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Welcome!",
+        "A little bit about Discord",
+        "The information we collect",
+        "Information you provide to us",
+        "Information we collect automatically",
+        "Information we receive from other sources",
+        "How we use your information",
+        "How we disclose your information",
+        "Data retention",
+        "How we protect your information",
+        "How to control your privacy",
+        "International data transfers",
+        "Services offered by third parties",
+        "Data Protection Officer",
+        "Information about local privacy laws",
+        "Changes to this Privacy Policy",
+        "Contact us"
+      ],
+      "new": [
+        "# Discord Privacy Policy",
+        "#### Effective: September 29, 2025",
+        "#### Last Updated: August 29, 2025",
+        "## Welcome!"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## A little bit about Discord"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## The information we collect"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "#### **Information you provide to us**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "#### **Information we collect automatically**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "#### **Information we receive from other sources**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## How we use your information"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## How we disclose your information"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## Data retention"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## How we protect your information"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## How to control your privacy"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## International data transfers"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## Services offered by third parties"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## Data Protection Officer"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## Information about local privacy laws"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## Changes to this Privacy Policy"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## Contact us"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "ATTN: Privacy Policy"
+      ]
+    }
+  ]
+}

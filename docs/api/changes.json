@@ -1,1 +1,378 @@
-[]
+[
+  {
+    "id": "2026-06-17-discord-privacy",
+    "service": "discord",
+    "service_name": "Discord",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://discord.com/privacy",
+    "detected_at": "2026-06-17T14:47:45+00:00",
+    "source": "wayback",
+    "window_start": "2026-02-11T00:18:01+00:00",
+    "archive_before": "https://web.archive.org/web/20260211001801/https://discord.com/privacy",
+    "archive_after": "https://web.archive.org/web/20260617144745/https://discord.com/privacy",
+    "flags": [],
+    "stats": {
+      "hunks": 18,
+      "added_words": 105,
+      "removed_words": 70
+    },
+    "headline": "Discord edited its Privacy Policy",
+    "summary": "105 words added and 70 removed across 18 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "# Discord Privacy Policy",
+    "receipt_side": "new",
+    "sideeye": 0,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/discord/privacy.md",
+    "page": "c/2026-06-17-discord-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-06-17-discord-privacy.html"
+  },
+  {
+    "id": "2026-06-15-discord-terms",
+    "service": "discord",
+    "service_name": "Discord",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://discord.com/terms",
+    "detected_at": "2026-06-15T08:40:23+00:00",
+    "source": "wayback",
+    "window_start": "2025-10-12T04:06:11+00:00",
+    "archive_before": "https://web.archive.org/web/20251012040611/https://discord.com/terms",
+    "archive_after": "https://web.archive.org/web/20260615084023/https://discord.com/terms",
+    "flags": [
+      {
+        "tag": "arbitration",
+        "label": "Arbitration / no lawsuits",
+        "hits": 1
+      }
+    ],
+    "stats": {
+      "hunks": 36,
+      "added_words": 7348,
+      "removed_words": 7313
+    },
+    "headline": "Discord rewrote its Terms of Service — new wording on your right to sue",
+    "summary": "7348 words added and 7313 removed across 36 sections. New wording touches: Arbitration / no lawsuits. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "**IMPORTANT NOTE: The section titled “Settling Disputes Between You and Discord” contains an arbitration clause and class-action waiver that applies to all U.S.",
+    "receipt_side": "new",
+    "sideeye": 3,
+    "tags": [
+      "arbitration"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/discord/terms.md",
+    "page": "c/2026-06-15-discord-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-06-15-discord-terms.html"
+  },
+  {
+    "id": "2026-02-11-discord-privacy",
+    "service": "discord",
+    "service_name": "Discord",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://discord.com/privacy",
+    "detected_at": "2026-02-11T00:18:01+00:00",
+    "source": "wayback",
+    "window_start": "2025-10-09T01:35:35+00:00",
+    "archive_before": "https://web.archive.org/web/20251009013535/https://discord.com/privacy",
+    "archive_after": "https://web.archive.org/web/20260211001801/https://discord.com/privacy",
+    "flags": [],
+    "stats": {
+      "hunks": 21,
+      "added_words": 2533,
+      "removed_words": 2447
+    },
+    "headline": "Discord edited its Privacy Policy",
+    "summary": "2533 words added and 2447 removed across 21 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "This Privacy Policy explains how we collect, use, store, protect, and share your personal information through our services.",
+    "receipt_side": "new",
+    "sideeye": 1,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/discord/privacy.md",
+    "page": "c/2026-02-11-discord-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-02-11-discord-privacy.html"
+  },
+  {
+    "id": "2025-10-12-discord-terms",
+    "service": "discord",
+    "service_name": "Discord",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://discord.com/terms",
+    "detected_at": "2025-10-12T04:06:11+00:00",
+    "source": "wayback",
+    "window_start": "2025-06-07T22:03:02+00:00",
+    "archive_before": "https://web.archive.org/web/20250607220302/https://discord.com/terms",
+    "archive_after": "https://web.archive.org/web/20251012040611/https://discord.com/terms",
+    "flags": [
+      {
+        "tag": "content-license",
+        "label": "Rights to your content",
+        "hits": 2
+      },
+      {
+        "tag": "minors",
+        "label": "Kids & teens",
+        "hits": 2
+      },
+      {
+        "tag": "data-sharing",
+        "label": "Data sharing",
+        "hits": 1
+      },
+      {
+        "tag": "arbitration",
+        "label": "Arbitration / no lawsuits",
+        "hits": 1
+      }
+    ],
+    "stats": {
+      "hunks": 19,
+      "added_words": 7993,
+      "removed_words": 5711
+    },
+    "headline": "Discord rewrote its Terms of Service — new wording on rights to your content, kids and teens and more",
+    "summary": "7993 words added and 5711 removed across 19 sections. New wording touches: Rights to your content, Kids & teens, Data sharing, Arbitration / no lawsuits. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "â**IMPORTANT NOTE: The section titled âSettling Disputes Between You and Discordâ contains an arbitration clause and class-action waiver that applies to all U.S.",
+    "receipt_side": "new",
+    "sideeye": 5,
+    "tags": [
+      "content-license",
+      "minors",
+      "data-sharing",
+      "arbitration"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/discord/terms.md",
+    "page": "c/2025-10-12-discord-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2025-10-12-discord-terms.html"
+  },
+  {
+    "id": "2025-10-09-discord-privacy",
+    "service": "discord",
+    "service_name": "Discord",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://discord.com/privacy",
+    "detected_at": "2025-10-09T01:35:35+00:00",
+    "source": "wayback",
+    "window_start": "2025-06-04T12:58:51+00:00",
+    "archive_before": "https://web.archive.org/web/20250604125851/https://discord.com/privacy",
+    "archive_after": "https://web.archive.org/web/20251009013535/https://discord.com/privacy",
+    "flags": [
+      {
+        "tag": "ai-training",
+        "label": "AI training",
+        "hits": 1
+      }
+    ],
+    "stats": {
+      "hunks": 19,
+      "added_words": 2865,
+      "removed_words": 2525
+    },
+    "headline": "Discord rewrote its Privacy Policy — new wording on AI training",
+    "summary": "2865 words added and 2525 removed across 19 sections. New wording touches: AI training. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "This processing can include use of automated technologies such as machine learning systems that help us power and improve our services.",
+    "receipt_side": "new",
+    "sideeye": 3,
+    "tags": [
+      "ai-training"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/discord/privacy.md",
+    "page": "c/2025-10-09-discord-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2025-10-09-discord-privacy.html"
+  },
+  {
+    "id": "2025-06-04-discord-privacy",
+    "service": "discord",
+    "service_name": "Discord",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://discord.com/privacy",
+    "detected_at": "2025-06-04T12:58:51+00:00",
+    "source": "wayback",
+    "window_start": "2023-09-11T09:09:27+00:00",
+    "archive_before": "https://web.archive.org/web/20230911090927/https://discord.com/privacy",
+    "archive_after": "https://web.archive.org/web/20250604125851/https://discord.com/privacy",
+    "flags": [],
+    "stats": {
+      "hunks": 29,
+      "added_words": 2493,
+      "removed_words": 3376
+    },
+    "headline": "Discord edited its Privacy Policy",
+    "summary": "2493 words added and 3376 removed across 29 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "Discord is the best place to talk, hang out and have fun with friends online",
+    "receipt_side": "new",
+    "sideeye": 1,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/discord/privacy.md",
+    "page": "c/2025-06-04-discord-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2025-06-04-discord-privacy.html"
+  },
+  {
+    "id": "2024-09-26-discord-terms",
+    "service": "discord",
+    "service_name": "Discord",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://discord.com/terms",
+    "detected_at": "2024-09-26T00:35:09+00:00",
+    "source": "wayback",
+    "window_start": "2024-01-17T05:52:51+00:00",
+    "archive_before": "https://web.archive.org/web/20240117055251/https://discord.com/terms",
+    "archive_after": "https://web.archive.org/web/20240926003509/https://discord.com/terms",
+    "flags": [],
+    "stats": {
+      "hunks": 23,
+      "added_words": 3630,
+      "removed_words": 3293
+    },
+    "headline": "Discord edited its Terms of Service",
+    "summary": "3630 words added and 3293 removed across 23 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "Discordâs content",
+    "receipt_side": "new",
+    "sideeye": 1,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/discord/terms.md",
+    "page": "c/2024-09-26-discord-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2024-09-26-discord-terms.html"
+  },
+  {
+    "id": "2023-09-11-discord-privacy",
+    "service": "discord",
+    "service_name": "Discord",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://discord.com/privacy",
+    "detected_at": "2023-09-11T09:09:27+00:00",
+    "source": "wayback",
+    "window_start": "2023-01-01T16:50:34+00:00",
+    "archive_before": "https://web.archive.org/web/20230101165034/https://discord.com/privacy",
+    "archive_after": "https://web.archive.org/web/20230911090927/https://discord.com/privacy",
+    "flags": [
+      {
+        "tag": "data-sharing",
+        "label": "Data sharing",
+        "hits": 5
+      },
+      {
+        "tag": "account-termination",
+        "label": "Kicking you out",
+        "hits": 2
+      },
+      {
+        "tag": "tracking",
+        "label": "Tracking",
+        "hits": 1
+      },
+      {
+        "tag": "retention",
+        "label": "How long they keep it",
+        "hits": 1
+      }
+    ],
+    "stats": {
+      "hunks": 26,
+      "added_words": 4316,
+      "removed_words": 3393
+    },
+    "headline": "Discord rewrote its Privacy Policy — new wording on sharing your data, banning accounts and more",
+    "summary": "4316 words added and 3393 removed across 26 sections. New wording touches: Data sharing, Kicking you out, Tracking, How long they keep it. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "- **We donât sell your personal information**.",
+    "receipt_side": "new",
+    "sideeye": 5,
+    "tags": [
+      "data-sharing",
+      "account-termination",
+      "tracking",
+      "retention"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/discord/privacy.md",
+    "page": "c/2023-09-11-discord-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2023-09-11-discord-privacy.html"
+  },
+  {
+    "id": "2023-09-09-discord-terms",
+    "service": "discord",
+    "service_name": "Discord",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://discord.com/terms",
+    "detected_at": "2023-09-09T11:31:10+00:00",
+    "source": "wayback",
+    "window_start": "2023-05-10T12:24:15+00:00",
+    "archive_before": "https://web.archive.org/web/20230510122415/https://discord.com/terms",
+    "archive_after": "https://web.archive.org/web/20230909113110/https://discord.com/terms",
+    "flags": [],
+    "stats": {
+      "hunks": 2,
+      "added_words": 394,
+      "removed_words": 399
+    },
+    "headline": "Discord edited its Terms of Service",
+    "summary": "394 words added and 399 removed across 2 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "If the amount in controversy does not exceed $10,000, and you do not seek injunctive or declaratory relief, then the arbitration will be conducted solely on the basis of documents you and Discord submit to the arbitrator, unless the arbitrator …",
+    "receipt_side": "new",
+    "sideeye": 1,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/discord/terms.md",
+    "page": "c/2023-09-09-discord-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2023-09-09-discord-terms.html"
+  },
+  {
+    "id": "2023-05-10-discord-terms",
+    "service": "discord",
+    "service_name": "Discord",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://discord.com/terms",
+    "detected_at": "2023-05-10T12:24:15+00:00",
+    "source": "wayback",
+    "window_start": "2023-01-01T16:50:32+00:00",
+    "archive_before": "https://web.archive.org/web/20230101165032/https://discord.com/terms",
+    "archive_after": "https://web.archive.org/web/20230510122415/https://discord.com/terms",
+    "flags": [
+      {
+        "tag": "arbitration",
+        "label": "Arbitration / no lawsuits",
+        "hits": 1
+      }
+    ],
+    "stats": {
+      "hunks": 23,
+      "added_words": 5473,
+      "removed_words": 3545
+    },
+    "headline": "Discord rewrote its Terms of Service — new wording on your right to sue",
+    "summary": "5473 words added and 3545 removed across 23 sections. New wording touches: Arbitration / no lawsuits. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "â**IMPORTANT NOTE: The section titled âSettling Disputes Between You and Discordâ contains an arbitration clause and class-action waiver that applies to all U.S.-based Discord users.",
+    "receipt_side": "new",
+    "sideeye": 3,
+    "tags": [
+      "arbitration"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/discord/terms.md",
+    "page": "c/2023-05-10-discord-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2023-05-10-discord-terms.html"
+  }
+]
