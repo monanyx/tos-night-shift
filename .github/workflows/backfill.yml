@@ -1,0 +1,76 @@
+name: Wayback backfill
+
+# Run this once by hand before launch: Actions → Wayback backfill → Run workflow.
+# It replays old copies of every policy from the Internet Archive.
+# If it runs out of time it saves its progress — just run it again to continue.
+
+on:
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Only this service id (leave empty for all)"
+        required: false
+        default: ""
+      since:
+        description: "Earliest year"
+        required: false
+        default: "2023"
+      max_captures:
+        description: "Archived copies per policy"
+        required: false
+        default: "30"
+      max_ai:
+        description: "AI summaries this run (rest use the keyword radar)"
+        required: false
+        default: "60"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nightshift
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Replay the archive
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NIGHTSHIFT_MODEL: ${{ vars.NIGHTSHIFT_MODEL }}
+          ONLY: ${{ inputs.only }}
+          SINCE: ${{ inputs.since }}
+          MAX_CAPTURES: ${{ inputs.max_captures }}
+          MAX_AI: ${{ inputs.max_ai }}
+        run: |
+          set -- --since "$SINCE" --max-captures "$MAX_CAPTURES" --max-ai "$MAX_AI" --time-budget 320
+          if [ -n "$ONLY" ]; then set -- "$@" --only "$ONLY"; fi
+          python -m nightshift backfill "$@"
+
+      - name: Save what we found
+        if: always()
+        run: |
+          git config user.name  "night-shift-bot"
+          git config user.email "night-shift-bot@users.noreply.github.com"
+          git add snapshots data docs
+          if git diff --cached --quiet; then
+            echo "Nothing new from the archive."
+          else
+            git commit -m "wayback backfill $(date -u +%Y-%m-%d)"
+            git pull --rebase
+            git push
+          fi

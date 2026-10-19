@@ -32,7 +32,7 @@ ins{background:var(--ins);color:#8ff0c4;text-decoration:none;border-radius:3px;p
 {% block content %}
 <a class="back" href="{{ root }}index.html">← All changes</a>
 <div class="meta">
-  <span><b>{{ c.service_name }}</b> · {{ c.doc_label }} · caught {{ c.detected_at | nice_date }}</span>
+  <span><b>{{ c.service_name }}</b> · {{ c.doc_label }} · {% if c.source == 'wayback' %}changed between {{ c.window_start | nice_date }} and {{ c.detected_at | nice_date }}, found in the Internet Archive{% else %}caught {{ c.detected_at | nice_date }}{% endif %}</span>
   {% with score = c.sideeye %}{% include "_meter.html" %}{% endwith %}
 </div>
 <h1 class="headline">{{ c.headline }}</h1>
@@ -45,11 +45,12 @@ ins{background:var(--ins);color:#8ff0c4;text-decoration:none;border-radius:3px;p
   <a class="btn primary" href="https://twitter.com/intent/tweet?text={{ ('👀 ' ~ c.headline) | urlencode }}{% if c.abs_url %}&url={{ c.abs_url | urlencode }}{% endif %}" target="_blank" rel="noopener">Post the side-eye</a>
   <button class="btn" id="copy">Copy link</button>
   <a class="btn" href="{{ c.url }}" target="_blank" rel="noopener">Read the policy</a>
+  {% if c.archive_before %}<a class="btn" href="{{ c.archive_before }}" target="_blank" rel="noopener">Archived before</a><a class="btn" href="{{ c.archive_after }}" target="_blank" rel="noopener">Archived after</a>{% endif %}
   {% if c.history_url %}<a class="btn" href="{{ c.history_url }}" target="_blank" rel="noopener">Full history</a>{% endif %}
 </div>
 
 <h2 class="section">The receipts</h2>
-<p class="hint">Exactly what changed between our last copy and this one. Red is gone, green is new.</p>
+<p class="hint">Exactly what changed between {% if c.source == 'wayback' %}the two archived copies{% else %}our last copy and this one{% endif %}. Red is gone, green is new.</p>
 {% for b in c.receipts %}
 <div class="block">
   <div class="kind">{{ {'added':'Added','removed':'Removed','changed':'Rewritten'}[b.kind] }}</div>

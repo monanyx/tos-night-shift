@@ -26,6 +26,7 @@ class Document:
     url: str
     render: bool = False          # needs a headless browser (JS-heavy page)
     selector: str | None = None   # CSS selector for the policy body, if auto-extract fails
+    archive_url: str | None = None  # address the Internet Archive knows this page by, if different
 
     @property
     def label(self) -> str:
@@ -99,6 +100,7 @@ def load_services(path: Path) -> list[Service]:
                     url=str(d["url"]).strip(),
                     render=bool(d.get("render", False)),
                     selector=d.get("selector"),
+                    archive_url=d.get("archive_url"),
                 )
             )
         services.append(Service(id=sid, name=str(entry.get("name", sid)), documents=docs))

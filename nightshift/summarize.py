@@ -34,7 +34,8 @@ Reply with ONLY a JSON object, no code fence:
   "tags": [<zero or more of: {", ".join(ALLOWED_TAGS)}>]}}"""
 
 
-def summarize(service_name: str, doc_label: str, url: str, hunks: list[Hunk], date_only: bool = False) -> dict:
+def summarize(service_name: str, doc_label: str, url: str, hunks: list[Hunk], date_only: bool = False,
+              use_ai: bool = True) -> dict:
     found = radar.scan(hunks)
     base = {"flags": found, "stats": stats(hunks)}
 
@@ -51,7 +52,7 @@ def summarize(service_name: str, doc_label: str, url: str, hunks: list[Hunk], da
             "summary_source": "date-only",
         }
 
-    if os.environ.get("ANTHROPIC_API_KEY"):
+    if use_ai and os.environ.get("ANTHROPIC_API_KEY"):
         try:
             ai = _summarize_with_claude(service_name, doc_label, url, hunks, found)
             return {**base, **ai, "summary_source": "ai"}

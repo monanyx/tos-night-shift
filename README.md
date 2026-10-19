@@ -41,9 +41,28 @@ every night (GitHub Actions)
 2. **Add your AI key (optional but recommended).** Repo → *Settings → Secrets and variables → Actions → New repository secret* → name `ANTHROPIC_API_KEY`. Without it you still get keyword-radar summaries.
 3. **Turn on Pages.** *Settings → Pages* → Source: *Deploy from a branch* → Branch `main`, folder `/docs`.
 4. **Fill in `site:`** at the top of `services.yaml` with your Pages URL and repo URL. This makes share links and "full history" buttons work.
-5. **Start the first shift.** *Actions → Night shift → Run workflow.* The first run saves a baseline copy of every policy. From the next night on, every change shows up on your site.
+5. **Load the history (recommended).** *Actions → Wayback backfill → Run workflow.* See below.
+6. **Start the first shift.** *Actions → Night shift → Run workflow.* The first run saves a baseline copy of every policy. From the next night on, every change shows up on your site.
 
 Check the **Watching** page after the first run. Any policy marked *can't reach* or *blocked us* needs a fix in `services.yaml` (usually `render: true` or a `selector`).
+
+## Launch with history: the Wayback backfill
+
+A watchdog that starts empty is boring. Before launch, replay years of old policy versions from the Internet Archive:
+
+**Actions → Wayback backfill → Run workflow.**
+
+For every policy it lists the archived copies (from 2023 on by default), keeps about one per week and up to 30 per policy, downloads them oldest to newest, and runs each pair through the same diff, score and summary as the nightly run. Every change it finds:
+
+- is dated to when it actually happened ("between Mar 3 and Apr 9, 2025")
+- links to both archived copies, so anyone can check the before and after themselves
+- shows up on the site with a *from the archive* tag
+
+It saves progress after every policy. If GitHub's time limit stops it, run it again and it continues where it left off. A full run over all 45 policies takes about 3 hours, because the archive is slow and we stay polite.
+
+If the archive knows a page under a different address, add `archive_url:` to that document in `services.yaml`.
+
+Locally: `python -m nightshift backfill --only discord --since 2024`
 
 ## Run it on your own computer
 

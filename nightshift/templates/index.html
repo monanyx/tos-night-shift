@@ -21,6 +21,7 @@
 .card h2 a:hover{text-decoration:underline;text-decoration-color:var(--acid);text-underline-offset:4px}
 .card p{margin:0;color:#c4c4d0}
 .card .tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:14px}
+.arch{font:500 11px/1 var(--mono);text-transform:uppercase;letter-spacing:.06em;color:var(--acid);border:1px solid rgba(198,255,46,.35);border-radius:4px;padding:3px 5px;margin-left:4px;white-space:nowrap}
 .empty{border:1px dashed var(--line);border-radius:16px;padding:40px 24px;text-align:center}
 .empty h2{font-size:28px;margin-bottom:8px}
 @media (max-width:600px){.stats b{font-size:24px}.stats div{padding:12px}}
@@ -48,7 +49,7 @@
 {% for c in changes %}
 <article class="card" data-tags="{{ c.tags | join(' ') }}" data-score="{{ c.sideeye }}">
   <div class="top">
-    <span class="who"><b>{{ c.service_name }}</b> · {{ c.doc_label }} · {{ c.detected_at | nice_date }}</span>
+    <span class="who"><b>{{ c.service_name }}</b> · {{ c.doc_label }} · {% if c.source == 'wayback' %}between {{ c.window_start | nice_date }} and {{ c.detected_at | nice_date }} <span class="arch">from the archive</span>{% else %}{{ c.detected_at | nice_date }}{% endif %}</span>
     {% with score = c.sideeye %}{% include "_meter.html" %}{% endwith %}
   </div>
   <h2><a href="{{ c.page }}">{{ c.headline }}</a></h2>
