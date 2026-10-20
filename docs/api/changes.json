@@ -1,5 +1,209 @@
 [
   {
+    "id": "2026-10-20-youtube-terms",
+    "service": "youtube",
+    "service_name": "YouTube",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://www.youtube.com/static?template=terms&hl=en",
+    "detected_at": "2026-10-20T07:37:12+00:00",
+    "flags": [
+      {
+        "tag": "content-license",
+        "label": "Rights to your content",
+        "hits": 4
+      }
+    ],
+    "stats": {
+      "hunks": 18,
+      "added_words": 1051,
+      "removed_words": 1979
+    },
+    "headline": "YouTube rewrote its Terms of Service — new wording on rights to your content",
+    "summary": "1051 words added and 1979 removed across 18 sections. New wording touches: Rights to your content. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "By providing Content to the Service, you grant to YouTube a worldwide, non-exclusive, royalty-free, sublicensable and transferable license to use that Content (including to reproduce, distribute, prepare derivative works, display and perform it) in connection with the Service and YouTube’s …",
+    "receipt_side": "new",
+    "sideeye": 3,
+    "tags": [
+      "content-license"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/youtube/terms.md",
+    "page": "c/2026-10-20-youtube-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-10-20-youtube-terms.html"
+  },
+  {
+    "id": "2026-10-20-snapchat-terms",
+    "service": "snapchat",
+    "service_name": "Snapchat",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://snap.com/en-US/terms",
+    "detected_at": "2026-10-20T07:37:12+00:00",
+    "flags": [
+      {
+        "tag": "ai-training",
+        "label": "AI training",
+        "hits": 3
+      },
+      {
+        "tag": "arbitration",
+        "label": "Arbitration / no lawsuits",
+        "hits": 1
+      },
+      {
+        "tag": "content-license",
+        "label": "Rights to your content",
+        "hits": 1
+      },
+      {
+        "tag": "payments",
+        "label": "Money",
+        "hits": 1
+      }
+    ],
+    "stats": {
+      "hunks": 58,
+      "added_words": 4447,
+      "removed_words": 1193
+    },
+    "headline": "Snapchat rewrote its Terms of Service — new wording on AI training, your right to sue and more",
+    "summary": "4447 words added and 1193 removed across 58 sections. New wording touches: AI training, Arbitration / no lawsuits, Rights to your content, Money. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "All inputs and anything you generate using the AI features or ask the AI features to generate must comply with the <u>Snap Terms of Service</u>.",
+    "receipt_side": "new",
+    "sideeye": 5,
+    "tags": [
+      "ai-training",
+      "arbitration",
+      "content-license",
+      "payments"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/snapchat/terms.md",
+    "page": "c/2026-10-20-snapchat-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-10-20-snapchat-terms.html"
+  },
+  {
+    "id": "2026-10-20-netflix-privacy",
+    "service": "netflix",
+    "service_name": "Netflix",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://help.netflix.com/legal/privacy",
+    "detected_at": "2026-10-20T07:37:12+00:00",
+    "flags": [
+      {
+        "tag": "tracking",
+        "label": "Tracking",
+        "hits": 6
+      },
+      {
+        "tag": "data-sharing",
+        "label": "Data sharing",
+        "hits": 4
+      },
+      {
+        "tag": "location",
+        "label": "Location",
+        "hits": 3
+      },
+      {
+        "tag": "minors",
+        "label": "Kids & teens",
+        "hits": 3
+      },
+      {
+        "tag": "retention",
+        "label": "How long they keep it",
+        "hits": 2
+      },
+      {
+        "tag": "payments",
+        "label": "Money",
+        "hits": 2
+      }
+    ],
+    "stats": {
+      "hunks": 1,
+      "added_words": 10499,
+      "removed_words": 1702
+    },
+    "headline": "Netflix rewrote its Privacy Policy — new wording on tracking, sharing your data and more",
+    "summary": "10499 words added and 1702 removed across 1 section. New wording touches: Tracking, Data sharing, Location, Kids & teens, How long they keep it, Money. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "- Advertising information: We collect information about the advertisements on the Netflix service that you view or interact with, device information (such as resettable device identifiers), IP addresses, inferences we make about you or your household based on data we …",
+    "receipt_side": "new",
+    "sideeye": 5,
+    "tags": [
+      "tracking",
+      "data-sharing",
+      "location",
+      "minors",
+      "retention",
+      "payments"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/netflix/privacy.md",
+    "page": "c/2026-10-20-netflix-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-10-20-netflix-privacy.html"
+  },
+  {
+    "id": "2026-10-20-microsoft-privacy",
+    "service": "microsoft",
+    "service_name": "Microsoft",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://privacy.microsoft.com/en-us/privacystatement",
+    "detected_at": "2026-10-20T07:37:12+00:00",
+    "flags": [
+      {
+        "tag": "data-sharing",
+        "label": "Data sharing",
+        "hits": 5
+      },
+      {
+        "tag": "ai-training",
+        "label": "AI training",
+        "hits": 2
+      },
+      {
+        "tag": "location",
+        "label": "Location",
+        "hits": 2
+      },
+      {
+        "tag": "tracking",
+        "label": "Tracking",
+        "hits": 1
+      },
+      {
+        "tag": "minors",
+        "label": "Kids & teens",
+        "hits": 1
+      }
+    ],
+    "stats": {
+      "hunks": 61,
+      "added_words": 13883,
+      "removed_words": 27980
+    },
+    "headline": "Microsoft rewrote its Privacy Policy — new wording on sharing your data, AI training and more",
+    "summary": "13883 words added and 27980 removed across 61 sections. New wording touches: Data sharing, AI training, Location, Tracking, Kids & teens. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "###### Cookies",
+    "receipt_side": "new",
+    "sideeye": 5,
+    "tags": [
+      "data-sharing",
+      "ai-training",
+      "location",
+      "tracking",
+      "minors"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/microsoft/privacy.md",
+    "page": "c/2026-10-20-microsoft-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-10-20-microsoft-privacy.html"
+  },
+  {
     "id": "2026-10-19-openai-privacy",
     "service": "openai",
     "service_name": "OpenAI (ChatGPT)",
