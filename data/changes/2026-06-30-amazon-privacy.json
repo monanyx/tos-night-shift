@@ -1,0 +1,96 @@
+{
+  "id": "2026-06-30-amazon-privacy",
+  "service": "amazon",
+  "service_name": "Amazon",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+  "detected_at": "2026-06-30T19:23:29+00:00",
+  "source": "wayback",
+  "window_start": "2026-05-19T23:27:51+00:00",
+  "archive_before": "https://web.archive.org/web/20260519232751/https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+  "archive_after": "https://web.archive.org/web/20260630192329/https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+  "flags": [
+    {
+      "tag": "ai-training",
+      "label": "AI training",
+      "hits": 4
+    }
+  ],
+  "stats": {
+    "hunks": 6,
+    "added_words": 133,
+    "removed_words": 26
+  },
+  "headline": "Amazon rewrote its Privacy Policy — new wording on AI training",
+  "summary": "133 words added and 26 removed across 6 sections. New wording touches: AI training. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "doing, we use machine learning and artificial intelligence to support and enhance",
+  "receipt_side": "new",
+  "sideeye": 2,
+  "tags": [
+    "ai-training"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "**Last updated: December 31, 2025.** View the prior version of this Privacy Notice."
+      ],
+      "new": [
+        "**Last updated: June 30, 2026.** View the prior version of this Privacy Notice."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Information from Other Sources:** We might receive information about you from other sources, such as updated delivery",
+        "and address information from our carriers, which we use to correct our records and",
+        "deliver your next purchase more easily."
+      ],
+      "new": [
+        "- **Information from Other Sources:** We might receive information about you from other sources. For example, our carriers",
+        "may provide us with updated delivery and address information, which we use to keep",
+        "our records current and make delivery of your future purchases easier."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "errors, and improve the usability and effectiveness of the Amazon Services."
+      ],
+      "new": [
+        "errors, and improve the usability and effectiveness of the Amazon Services. In so",
+        "doing, we use machine learning and artificial intelligence to support and enhance",
+        "the customer experience across our products and services. This includes using data",
+        "to develop or deploy our generative AI models and services. See our Generative AI Development Disclosure for more information."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "via different channels (for example, by phone, email, chat)."
+      ],
+      "new": [
+        "via different channels (for example, by phone, email or chat)."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- use Login with Amazon or otherwise link your Amazon account to a third-party business;"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- search results and links, including paid listings (such as Sponsored Links);"
+      ],
+      "new": [
+        "- information about how you interact with ads served by Amazon on third-party websites and apps (learn more in our Interest-Based Ads notice);",
+        "- content we receive from third parties to provide, develop, and improve Amazon Services, such as advertising-related information and identifiers (as described in more detail in our Interest-Based Ads notice);"
+      ]
+    }
+  ]
+}

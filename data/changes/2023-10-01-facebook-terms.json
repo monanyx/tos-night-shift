@@ -1,0 +1,45 @@
+{
+  "id": "2023-10-01-facebook-terms",
+  "service": "facebook",
+  "service_name": "Facebook",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.facebook.com/terms.php",
+  "detected_at": "2023-10-01T02:27:11+00:00",
+  "source": "wayback",
+  "window_start": "2023-04-02T00:53:50+00:00",
+  "archive_before": "https://web.archive.org/web/20230402005350/https://www.facebook.com/terms.php",
+  "archive_after": "https://web.archive.org/web/20231001022711/https://www.facebook.com/terms.php",
+  "flags": [
+    {
+      "tag": "tracking",
+      "label": "Tracking",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 1,
+    "added_words": 41,
+    "removed_words": 27
+  },
+  "headline": "Facebook rewrote its Terms of Service — new wording on tracking",
+  "summary": "41 words added and 27 removed across 1 section. New wording touches: Tracking. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Instead of paying to use Facebook and the other products and services we offer, by using the Meta Products covered by these Terms, you agree that we can show you personalized ads and other commercial and sponsored content that businesses …",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "tracking"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Instead of paying to use Facebook and the other products and services we offer, by using the Facebook Products covered by these Terms, you agree that we can show you ads that businesses and organizations pay us to promote on and off the Facebook Company Products. We use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you. Protecting people's privacy is central to how we've designed our ad system. This means that we can show you relevant and useful ads without telling advertisers who you are. We don't sell your personal data. We allow advertisers to tell us things like their business goal, and the kind of audience they want to see their ads (for example, people between the age of 18-35 who like cycling). We then show their ad to people who might be interested. We also provide advertisers with reports about the performance of their ads to help them understand how people are interacting with their content on and off Facebook. For example, we provide general demographic and interest information to advertisers (for example, that an ad was seen by a woman between the ages of 25 and 34 who lives in Madrid and likes software engineering) to help them better understand their audience. We don’t share information that directly identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are) unless you give us specific permission. Learn more about how Facebook ads work here. We collect and use your personal data in order to provide the services described above to you. You can learn about how we collect and use your data in our Data Policy. You have controls over the types of ads and advertisers you see, and the types of information we use to determine which ads we show you. Learn more."
+      ],
+      "new": [
+        "Instead of paying to use Facebook and the other products and services we offer, by using the Meta Products covered by these Terms, you agree that we can show you personalized ads and other commercial and sponsored content that businesses and organizations pay us to promote on and off Meta Company Products. We use your personal data, such as information about your activity and interests, to show you personalized ads and sponsored content that may be more relevant to you. Protecting people's privacy is central to how we've designed our personalized ads system. This means that we can show you relevant and useful ads without telling advertisers who you are. We don't sell your personal data. We allow advertisers to tell us things like their business goal, and the kind of audience they want to see their ads (for example, people between the age of 18-35 who like cycling). We then show their ad to people who we think might be interested. We also provide advertisers with reports about the performance of their ads to help them understand how people are interacting with their content on and off Meta Products. For example, we provide general demographic and interest information to advertisers to help them better understand their audience, like the fact that women between the ages of 25 and 34 who live in Madrid and like software engineering have seen an ad. We don’t share information that directly identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are) unless you give us specific permission. Learn more about how Meta ads work here. We collect and use your personal data in order to provide the services described above to you. You can learn about how we collect and use your data in our Privacy Policy. You have controls over the types of ads and advertisers you see, and the types of information we use to determine which ads we show you. Learn more."
+      ]
+    }
+  ]
+}

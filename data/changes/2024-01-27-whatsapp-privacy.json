@@ -1,0 +1,132 @@
+{
+  "id": "2024-01-27-whatsapp-privacy",
+  "service": "whatsapp",
+  "service_name": "WhatsApp",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.whatsapp.com/legal/privacy-policy-eea",
+  "detected_at": "2024-01-27T18:27:33+00:00",
+  "source": "wayback",
+  "window_start": "2023-09-28T07:13:15+00:00",
+  "archive_before": "https://web.archive.org/web/20230928071315/https://www.whatsapp.com/legal/privacy-policy-eea",
+  "archive_after": "https://web.archive.org/web/20240127182733/https://www.whatsapp.com/legal/privacy-policy-eea",
+  "flags": [],
+  "stats": {
+    "hunks": 11,
+    "added_words": 143,
+    "removed_words": 69
+  },
+  "headline": "WhatsApp edited its Privacy Policy",
+  "summary": "143 words added and 69 removed across 11 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Effective Date: December 4, 2023 (archived versions)",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Effective Date: July 17, 2023 (archived versions)"
+      ],
+      "new": [
+        "Effective Date: December 4, 2023 (archived versions)"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We've updated our Privacy Policy to clarify how, under the GDPR, we rely on legitimate interests as our legal basis to use your information:",
+        "- to improve WhatsApp, such as to understand how users interact with features and to develop new features; and",
+        "- to protect our users, such as using user reports to identify and respond to abusive behaviour."
+      ],
+      "new": [
+        "We’ve updated our Privacy Policy to explain how we process your information when you create an avatar using a photo so that your avatar more closely resembles you.",
+        "This feature is optional."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "This Privacy Policy applies to all of our Services unless specified otherwise."
+      ],
+      "new": [
+        "This Privacy Policy applies to all of our Services unless specified otherwise. Some products or features that we offer have supplemental privacy policies which supplement this WhatsApp Privacy Policy: Channels Supplemental Privacy Policy."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- You may also provide content that is not encrypted which means that we can see it. This includes your profile picture, your \"about\" information and names and descriptions of your communities and groups."
+      ],
+      "new": [
+        "- You may also provide content that is not encrypted which means that we can see it. This includes your profile picture, your \"about\" information and names and descriptions of your communities and groups. When you choose to use certain avatars features, such as using a photo to enable us to suggest an avatar that more closely resembles you, we process the photo and parts of your face or body features in the photo frame. The information we use for this process is not used to identify you."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "When you sign up or log-in to our Service, we verify your phone number by sending you a code via SMS or calling you. You can also add a PIN to enable two-step verification and an email address that can be used to reset that PIN. Depending on the circumstances, we ask you for information to prove that you are the true owner of your WhatsApp account."
+      ],
+      "new": [
+        "When you sign up or log-in to our Service, we verify your WhatsApp account, for example, by sending you a code via SMS or calling you. You can also add a PIN to enable two-step verification and an email address that can be used to reset that PIN. Depending on the circumstances, we ask you for information to prove that you are the true owner of your WhatsApp account."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We collect information about your usage of our Services. This includes collecting information about your activity (including how you use our Services), how you interact with others using our Services (including when you search for and interact with a business), and the time, frequency, and duration of your activities. This also includes information about the features you use like our messaging (and integrated applications), calling, Status, communities, groups or business features; whether you are online; timestamps related to your use such as when you last used our Services (your \"last seen\") and the times you send and receive calls and messages; and when you last updated your \"about\" information."
+      ],
+      "new": [
+        "We collect information about your usage of our Services. This includes collecting information about your activity (including how you use our Services), how you interact with others using our Services (including when you search for and interact with a business), and the time, frequency, and duration of your activities. This also includes information about the features you use like our messaging (and integrated applications), calling, Status, avatars, communities, groups or business features; whether you are online; timestamps related to your use such as when you last used our Services (your \"last seen\") and the times you send and receive calls and messages; and when you last updated your \"about\" information."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We collect information about your in-app settings, privacy settings and records about when you accepted terms. Only you are in control of your privacy settings which can be used to change who can see your \"last seen\", profile photo, \"about\" information, Status updates, read receipts or add you to groups. We also collect information about whether you have enabled push notifications and whether you wish to send disappearing messages."
+      ],
+      "new": [
+        "We collect information about your in-app settings, privacy settings and records about when you accepted terms. Only you are in control of your privacy settings which can be used to change, for example, who can see your \"last seen\", profile photo, \"about\" information, Status updates, read receipts or add you to groups. We also collect information about whether you have enabled push notifications and whether you wish to send disappearing messages."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| **Assists you in creating and managing your WhatsApp account by:** collecting and verifying your phone number by sending you a verification code via SMS or by calling you. checking the operating system and other features of your device to set up WhatsApp correctly on your device, and running security checks to make sure you don’t already have an account or a phone number that is banned from WhatsApp. recording your User Choices, including the terms you accepted, your privacy settings and the users you’ve blocked. facilitating you adding additional information such as the avatar you create or Account Information such as a profile picture, “about” information which is displayed to people who have your phone number, in line with your privacy settings. changing the phone number associated with your WhatsApp account when you update it. in order to maintain security, limit data retention and protect your privacy, checking for activity every 30 days and deleting your account where your phone has not been online for 120 days (in general). Learn more in our Help Center here. deleting your account, at your request (see how to delete your account on your iPhone and on your Android device) or in accordance with our Terms. We may take steps to ban your account if there is a breach of our Terms, for example a breach of our \"Acceptable Use of Our Services\" terms. enabling you to re-register your account when it has been deactivated or locked. | |"
+      ],
+      "new": [
+        "| **Assists you in creating and managing your WhatsApp account by:** verifying your WhatsApp account by, for example, sending you a verification code via SMS or by calling you. checking the operating system and other features of your device to set up WhatsApp correctly on your device, and running security checks to make sure you don’t already have an account or a phone number that is banned from WhatsApp. recording your User Choices, including the terms you accepted, your privacy settings and the users you’ve blocked. facilitating you adding additional information such as an avatar or Account Information such as a profile picture, “about” information which is displayed to people who have your phone number, in line with your privacy settings. changing the phone number associated with your WhatsApp account when you update it. in order to maintain security, limit data retention and protect your privacy, checking for activity every 30 days and deleting your account where your phone has not been online for 120 days (in general). Learn more in our Help Center here. deleting your account, at your request (see how to delete your account on your iPhone and on your Android device) or in accordance with our Terms. We may take steps to ban your account if there is a breach of our Terms, for example a breach of our \"Acceptable Use of Our Services\" terms. enabling you to re-register your account when it has been deactivated or locked. | **To assist you in creating and managing your WhatsApp account:** |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| **For collecting information through the device-based settings which you have enabled, for example:** sharing your device’s Precise Location Information if you choose to use our location-related features. You can share your current location with, or send your live location to your contacts or view a nearby place on your map. When your live location is being shared, the live location control in your privacy settings shows which chats your live location is being shared in. Precise Location Information which you share in your chats is end-to-end encrypted which means that it cannot be seen by WhatsApp. accessing your camera and / or photo gallery if you choose to share photos or media with your WhatsApp contacts. Photos and media that you share in your personal chats are end-to-end encrypted. | |"
+      ],
+      "new": [
+        "| **For collecting information through the device-based settings which you have enabled, for example:** sharing your device’s Precise Location Information if you choose to use our location-related features. You can share your current location with, or send your live location to your contacts or view a nearby place on your map. When your live location is being shared, the live location control in your privacy settings shows which chats your live location is being shared in. Precise Location Information which you share in your chats is end-to-end encrypted which means that it cannot be seen by WhatsApp. accessing your camera and / or photo gallery if you choose to share photos or media with your WhatsApp contacts or use optional features like avatars. Photos and media that you share in your personal chats are end-to-end encrypted. | |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You can access or port your information using our in-app Request Account Info feature (available under **Settings** > **Account**). You can access tools to rectify, update, and delete your information directly in-app as described in the Retention of Your Information section."
+      ],
+      "new": [
+        "You can access or port your information using our in-app Request Account Info feature (available by tapping your profile photo to go to your settings > **Account**). You can access tools to rectify, update, and delete your information directly in-app as described in the Retention of Your Information section."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Settings**. You can change your Settings to manage certain information available to other users. You can manage your contacts, groups, and broadcast lists, or use our \"block\" feature to manage who you communicate with on our Services."
+      ],
+      "new": [
+        "- **Settings**. You can change your settings to manage certain information available to other users. You can manage your contacts, groups, and broadcast lists, or use our \"block\" feature to manage who you communicate with on our Services."
+      ]
+    }
+  ]
+}

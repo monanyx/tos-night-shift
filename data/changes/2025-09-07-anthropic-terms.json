@@ -1,0 +1,184 @@
+{
+  "id": "2025-09-07-anthropic-terms",
+  "service": "anthropic",
+  "service_name": "Anthropic (Claude)",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.anthropic.com/legal/consumer-terms",
+  "detected_at": "2025-09-07T10:33:37+00:00",
+  "source": "wayback",
+  "window_start": "2025-07-08T09:00:57+00:00",
+  "archive_before": "https://web.archive.org/web/20250708090057/https://www.anthropic.com/legal/consumer-terms",
+  "archive_after": "https://web.archive.org/web/20250907103337/https://www.anthropic.com/legal/consumer-terms",
+  "flags": [
+    {
+      "tag": "ai-training",
+      "label": "AI training",
+      "hits": 1
+    },
+    {
+      "tag": "retention",
+      "label": "How long they keep it",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 15,
+    "added_words": 463,
+    "removed_words": 79
+  },
+  "headline": "Anthropic (Claude) rewrote its Terms of Service — new wording on AI training and how long they keep your data",
+  "summary": "463 words added and 79 removed across 15 sections. New wording touches: AI training, How long they keep it. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "**Our use of Materials.** We may use Materials to provide, maintain, and improve the Services and to develop other products and services, including training our models, unless you opt out of training through your account settings.",
+  "receipt_side": "new",
+  "sideeye": 4,
+  "tags": [
+    "ai-training",
+    "retention"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Note: This policy is effective on September 28, 2025 or the date you acknowledge these updated Terms within our Services (if earlier)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 1. Who we are."
+      ],
+      "new": [
+        "## 1. Who we are."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 2. Account creation and access."
+      ],
+      "new": [
+        "## 2. Account creation and access."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 3. Use of our Services."
+      ],
+      "new": [
+        "## 3. Use of our Services."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "9. To rely upon the Services, the Materials, or the Actions to buy or sell securities or to provide or receive advice about securities, commodities, derivatives, or other financial products or services, as Anthropic is not a broker-dealer or a registered investment adviser under the securities laws of the United States or any other jurisdiction."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 4. Inputs, Outputs, Actions, and Materials."
+      ],
+      "new": [
+        "## 4. Inputs, Outputs, Actions, and Materials."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Our use of Materials.** We may use Materials to provide, maintain, and improve the Services and to develop other products and services. We will not train our models on any Materials that are not publicly available, except in two circumstances:",
+        "1. If you provide Feedback to us (through the Services or otherwise) regarding any Materials, we may use that Feedback in accordance with Section 5 (Feedback).",
+        "2. If your Materials are flagged for trust and safety review, we may use or analyze those Materials to improve our ability to detect and enforce Acceptable Use Policy violations, including training models for use by our trust and safety team, consistent with Anthropic’s safety mission.",
+        "### 5. Feedback"
+      ],
+      "new": [
+        "**Our use of Materials.** We may use Materials to provide, maintain, and improve the Services and to develop other products and services, including training our models, unless you opt out of training through your account settings. Even if you opt out, we will use Materials for model training when: (1) you provide Feedback to us regarding any Materials, or (2) your Materials are flagged for safety review to improve our ability to detect harmful content, enforce our policies, or advance our safety research.",
+        "## 5. Feedback"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 6. Subscriptions, fees and payment."
+      ],
+      "new": [
+        "## 6. Subscriptions, fees and payment."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "4. **Subscription fees.** You will pay the fees, either to us or to the App Distributor, for the Initial Term and each subsequent Renewal Term up front, at the start of that Initial Term or Renewal Term, as applicable. We have the right to make changes to the fees applicable to your Subscription from time to time, although we will not make any change to the fees applicable to your Subscription during the current Initial Term or Renewal Term, as applicable. If these changes result in an increase in the fees payable by you, we will inform you at least 30 days in advance of the change. You agree to the increase in fees payable by you unless you cancel the Subscription, as described in the paragraph (Subscription cancellation) immediately above, before the Renewal Term to which the increase in fees will apply.",
+        "### 7. Third-party services and links"
+      ],
+      "new": [
+        "4. **Additional cancellation rights.** If you are a resident of Brazil, Mexico, South Korea, or Taiwan, you have a legal right to change your mind and cancel the Subscription within 7 days of entering into the Subscription without giving a reason.",
+        "1. To exercise the right to cancel in the 7-day cancellation period, you must inform us of your decision to cancel the Subscription by making a clear statement to us of such decision before the cancellation period has expired. The easiest way to do this is by cancelling your subscription in the customer portal, or you may contact us at support@anthropic.com. You may also use the model cancellation form in Appendix 1 of these Terms, but it is not obligatory. For further details on how to cancel, please see support.anthropic.com. We will acknowledge your cancellation, e.g., through our online customer portal or console.",
+        "2. If you cancel the Subscription under Section 6(4)(a), we will reimburse you all payments received from you for the cancelled Subscription. We will make the reimbursement without undue delay, and not later than 14 days after the day on which we are informed about your decision to cancel the Subscription. We will make the reimbursement using the same means of payment as you used for the initial transaction; you will not incur any fees as a result of the reimbursement.",
+        "3. If you would like to use the Services during the 7-day cancellation period, you may do so. If you have used the Services during the 7-day cancellation period, and wish to cancel the Subscription, you can still do so by following the process in Section (4)(a) above, but we may retain an amount which is in proportion to what has been provided until you have communicated us your withdrawal from these Terms, in comparison with the full coverage of the Subscription.",
+        "4. The 7-day cancellation period will not reset if you change subscription tiers or cancel and then resubscribe, as you have already had an opportunity to test the Services.",
+        "5. **Subscription fees.** You will pay the fees, either to us or to the App Distributor, for the Initial Term and each subsequent Renewal Term up front, at the start of that Initial Term or Renewal Term, as applicable. We have the right to make changes to the fees applicable to your Subscription from time to time, although we will not make any change to the fees applicable to your Subscription during the current Initial Term or Renewal Term, as applicable. If these changes result in an increase in the fees payable by you, we will inform you at least 30 days in advance of the change. You agree to the increase in fees payable by you unless you cancel the Subscription, as described in the paragraph (Subscription cancellation) immediately above, before the Renewal Term to which the increase in fees will apply.",
+        "## 7. Third-party services and links"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 8. Content Moderation"
+      ],
+      "new": [
+        "## 8. Content Moderation"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 9. Software"
+      ],
+      "new": [
+        "## 9. Software"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 10. Ownership of the Services"
+      ],
+      "new": [
+        "## 10. Ownership of the Services"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 11. Disclaimer of warranties, limitations of liability, and indemnity"
+      ],
+      "new": [
+        "## 11. Disclaimer of warranties, limitations of liability, and indemnity"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 12. General terms"
+      ],
+      "new": [
+        "## 12. General terms"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 13. In case of disputes"
+      ],
+      "new": [
+        "## 13. In case of disputes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,982 @@
+{
+  "id": "2026-07-21-reddit-terms",
+  "service": "reddit",
+  "service_name": "Reddit",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://redditinc.com/policies/user-agreement",
+  "detected_at": "2026-07-21T22:07:28+00:00",
+  "source": "wayback",
+  "window_start": "2026-04-20T14:31:44+00:00",
+  "archive_before": "https://web.archive.org/web/20260420143144/https://redditinc.com/policies/user-agreement",
+  "archive_after": "https://web.archive.org/web/20260721220728/https://redditinc.com/policies/user-agreement",
+  "flags": [
+    {
+      "tag": "tracking",
+      "label": "Tracking",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 79,
+    "added_words": 1396,
+    "removed_words": 268
+  },
+  "headline": "Reddit rewrote its Terms of Service — new wording on tracking",
+  "summary": "1396 words added and 268 removed across 79 sections. New wording touches: Tracking. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Cookie Notice",
+  "receipt_side": "new",
+  "sideeye": 2,
+  "tags": [
+    "tracking"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "July 1, 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "01.07.2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Richtlinie für verantwortungsvollen Aufbau"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "1 julio 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Política de creadores responsables"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "1 julio 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Política de creadores responsables"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "1er juillet 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Politique des créateurs responsables"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "1° luglio 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Politica per creatori responsabili"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "1 juli 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Beleid inzake verantwoord ontwikkelen"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "1o de julho de 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Política de Criador Responsável"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "1 de julho de 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Política de Construtor Responsável"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "1 juli 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Policy för ansvarsfulla byggare"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "1 জুলাই, 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "দায়িত্বশীল নির্মাতা নীতি"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "1 जुलाई, 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "ज़िम्मेदार बिल्डर पॉलिसी"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Hulyo 1, 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Patakaran ng Responsible Builder"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "1 กรกฎาคม 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "นโยบายผู้สร้างที่มีความรับผิดชอบ"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "1 lipca 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Zasady odpowiedzialnego twórcy rozwiązań"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "1 iulie 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Politica pentru dezvoltatori responsabili"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Ngày 01 tháng 7 năm 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Chính sách xây dựng có trách nhiệm"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "1 Julai 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Dasar Pembina Bertanggungjawab"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "2026. július 1"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Felelős fejlesztői szabályzat"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "1 Ιουλίου 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Πολιτική υπεύθυνων υποστηρικτών"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "1. heinäkuuta 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Vastuullisen kehittäjän käytäntö"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "1. juli 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Retningslinjer for ansvarlige byggere"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "1 июля 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Политика ответственного создателя"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "1 Temmuz 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Sorumlu Geliştirici Politikası"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "2026 年 7 月 1 日"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "负责任建设者政策"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "2026 年 7 月 1 日"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "負責任開發人員政策",
+        "All",
+        "1. července 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Zásady odpovědné tvorby",
+        "All",
+        "1. juli 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Politik for ansvarlig app-bygger",
+        "All",
+        "2026 年 7 月 1 日"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "責任あるビルダーポリシー",
+        "All",
+        "2026년 7월 1일"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "책임 있는 빌더 정책",
+        "All",
+        "1. jul 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Responsible Builder Policy"
+      ],
+      "new": [
+        "Smernice za odgovorne neimare",
+        "All",
+        "1 липня 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Privacy Policy"
+      ],
+      "new": [
+        "Політика конфіденційності Reddit"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Політика відповідального розробника",
+        "All",
+        "1 юли 2026",
+        "31 март 2026",
+        "28 юни 2025",
+        "24 септември 2024",
+        "Предварителни условия за ползване",
+        "Условия за автори",
+        "Условия за разработчици",
+        "Условия за API за данни",
+        "Условия за вграждане в Reddit",
+        "Responsible Disclosure and Bug Bounty Program Terms",
+        "Политика за използване на търговска марка",
+        "Политика за поверителност на Reddit",
+        "Public Content Policy",
+        "Cookie Notice",
+        "Правила на Reddit",
+        "Кодекс за поведение на модератора",
+        "Information for EU users",
+        "Information for UK users",
+        "Information for AU users",
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing",
+        "Brand Guidelines",
+        "Press & Broadcast Guidelines",
+        "Условия за доходи",
+        "24 септември 2024",
+        "Transparency",
+        "Guidelines for Law Enforcement",
+        "Reddit's Anti-Slavery and Human Trafficking Statement",
+        "Developer Data Protection Addendum",
+        "Impressum",
+        "Политика за отговорни строители",
+        "All",
+        "1. srpnja 2026",
+        "31. ožujka 2026",
+        "28. lipnja 2025",
+        "24. rujna 2024",
+        "Uvjeti za probne značajke",
+        "Uvjeti za kreatore",
+        "Uvjeti za developere",
+        "Uvjeti za podatkovni API",
+        "Uvjeti za ugrađene elemente Reddita",
+        "Responsible Disclosure and Bug Bounty Program Terms",
+        "Pravila upotrebe zaštitnog znaka",
+        "Pravila zaštite privatnosti na Redditu",
+        "Public Content Policy",
+        "Cookie Notice",
+        "Pravila Reddita",
+        "Kodeks ponašanja moderatora",
+        "Information for EU users",
+        "Information for UK users",
+        "Information for AU users",
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing",
+        "Brand Guidelines",
+        "Press & Broadcast Guidelines",
+        "Uvjeti za zaradu",
+        "24. rujna 2024",
+        "Transparency",
+        "Guidelines for Law Enforcement",
+        "Reddit's Anti-Slavery and Human Trafficking Statement",
+        "Developer Data Protection Addendum",
+        "Impressum",
+        "Pravila odgovornog graditelja",
+        "All",
+        "1. júla 2026",
+        "31. marca 2026",
+        "28. júna 2025",
+        "24. rujna 2024",
+        "Podmienky používania náhľadu",
+        "Podmienky pre tvorcov",
+        "Podmienky pre vývojárov",
+        "Podmienky pre údaje API",
+        "Podmienky ukážok Reddit",
+        "Responsible Disclosure and Bug Bounty Program Terms",
+        "Zásady používania ochranných známok",
+        "Zásady ochrany osobných údajov Redditu",
+        "Public Content Policy",
+        "Cookie Notice",
+        "Pravidlá Redditu",
+        "Kódex správania moderátora",
+        "Information for EU users",
+        "Information for UK users",
+        "Information for AU users",
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing",
+        "Brand Guidelines",
+        "Press & Broadcast Guidelines",
+        "Podmienky zarábania",
+        "24. septembra 2024",
+        "Transparency",
+        "Guidelines for Law Enforcement",
+        "Reddit's Anti-Slavery and Human Trafficking Statement",
+        "Developer Data Protection Addendum",
+        "Impressum",
+        "Zásady zodpovednej tvorby",
+        "All",
+        "1 يوليو 2026",
+        "31 مارس 2026",
+        "28 يونيو 2025",
+        "24 سبتمبر 2024",
+        "شروط الاستخدام للمعاينات",
+        "شروط المنشئ",
+        "شروط المطوّر",
+        "شروط واجهة برمجة تطبيقات البيانات",
+        "شروط تضمينات Reddit",
+        "Responsible Disclosure and Bug Bounty Program Terms",
+        "سياسة استخدام العلامات التجارية",
+        "سياسة خصوصية Reddit",
+        "Public Content Policy",
+        "Cookie Notice",
+        "قواعد Reddit",
+        "مدونة قواعد سلوك المشرفين",
+        "Information for EU users",
+        "Information for UK users",
+        "Information for AU users",
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing",
+        "Brand Guidelines",
+        "Press & Broadcast Guidelines",
+        "شروط الربح",
+        "24 سبتمبر 2024",
+        "Transparency",
+        "Guidelines for Law Enforcement",
+        "Reddit's Anti-Slavery and Human Trafficking Statement",
+        "Developer Data Protection Addendum",
+        "Impressum",
+        "Responsible Builder Policy",
+        "All",
+        "1 Juli 2026",
+        "31 Maret 2026",
+        "28 Juni 2025",
+        "24 September 2024",
+        "Pratinjau Syarat Penggunaan",
+        "Persyaratan Kreator",
+        "Syarat Pengembang",
+        "Syarat API Data",
+        "Syarat Semat Reddit",
+        "Responsible Disclosure and Bug Bounty Program Terms",
+        "Kebijakan Penggunaan Merek Dagang",
+        "Reddit Privacy Policy",
+        "Public Content Policy",
+        "Cookie Notice",
+        "Aturan Reddit",
+        "Kode Etik Moderator",
+        "Information for EU users",
+        "Information for UK users",
+        "Information for AU users",
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing",
+        "Brand Guidelines",
+        "Press & Broadcast Guidelines",
+        "24 September 2024",
+        "Transparency",
+        "Guidelines for Law Enforcement",
+        "Reddit's Anti-Slavery and Human Trafficking Statement",
+        "Developer Data Protection Addendum",
+        "Impressum",
+        "Responsible Builder Policy",
+        "All",
+        "۱ ژوئیه ۲۰۲۶",
+        "۲۴ سپتامبر ۲۰۲۴",
+        "شرایط پیشنمایش استفاده",
+        "Creator Terms",
+        "شرایط توسعهدهندگان",
+        "شرایط API داده",
+        "شرایط جاسازی محتوای Reddit",
+        "Responsible Disclosure and Bug Bounty Program Terms",
+        "خطمشی استفاده از علامت تجاری",
+        "Reddit Privacy Policy",
+        "Public Content Policy",
+        "Cookie Notice",
+        "Reddit Rules",
+        "منشور اخلاقی ناظر",
+        "Information for EU users",
+        "Information for UK users",
+        "Information for AU users",
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing",
+        "Brand Guidelines",
+        "Press & Broadcast Guidelines",
+        "۲۴ سپتامبر ۲۰۲۴",
+        "Transparency",
+        "Guidelines for Law Enforcement",
+        "Reddit's Anti-Slavery and Human Trafficking Statement",
+        "Developer Data Protection Addendum",
+        "Impressum",
+        "Responsible Builder Policy",
+        "All",
+        "1 ביולי 2026",
+        "24 בספטמבר 2024",
+        "תנאי השימוש של התצוגה המקדימה",
+        "Creator Terms",
+        "התנאים למפתחים",
+        "תנאי ה-API של נתונים",
+        "תנאי Reddit Embeds",
+        "Responsible Disclosure and Bug Bounty Program Terms",
+        "מדיניות השימוש בסימנים מסחריים",
+        "Reddit Privacy Policy",
+        "Public Content Policy",
+        "Cookie Notice",
+        "Reddit Rules",
+        "קוד ההתנהלות למודרטורים",
+        "Information for EU users",
+        "Information for UK users",
+        "Information for AU users",
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing",
+        "Brand Guidelines",
+        "Press & Broadcast Guidelines",
+        "24 בספטמבר 2024",
+        "Transparency",
+        "Guidelines for Law Enforcement",
+        "Reddit's Anti-Slavery and Human Trafficking Statement",
+        "Developer Data Protection Addendum",
+        "Impressum",
+        "Responsible Builder Policy",
+        "All",
+        "یکم جولائی 2026",
+        "24 ستمبر 2024",
+        "پری ویوز کے استعمال کی شرائط",
+        "Creator Terms",
+        "ڈویلپر کی شرائط",
+        "ڈیٹا API کی شرائط",
+        "Reddit ایمبیڈز کی شرائط",
+        "Responsible Disclosure and Bug Bounty Program Terms",
+        "ٹریڈ مارک کے استعمال کی پالیسی",
+        "Reddit Privacy Policy",
+        "Public Content Policy",
+        "Cookie Notice",
+        "Reddit Rules",
+        "ماڈریٹر ضابطۂ اخلاق",
+        "Information for EU users",
+        "Information for UK users",
+        "Information for AU users",
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing",
+        "Brand Guidelines",
+        "Press & Broadcast Guidelines",
+        "24 ستمبر 2024",
+        "Transparency",
+        "Guidelines for Law Enforcement",
+        "Reddit's Anti-Slavery and Human Trafficking Statement",
+        "Developer Data Protection Addendum",
+        "Impressum",
+        "Responsible Builder Policy"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Bahasa Indonesia"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Farsi"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Hrvatski – Hrvatska"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Slovenčina - Slovensko"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Български – България"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "עברית",
+        "اردو",
+        "العربية"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Bahasa Indonesia"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Farsi"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Hrvatski – Hrvatska"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Slovenčina - Slovensko"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Български – България"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "עברית",
+        "اردو",
+        "العربية"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Effective March 31, 2026. Last Revised March 31, 2026"
+      ],
+      "new": [
+        "Effective July 1, 2026. Last Revised May 26, 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our sole discretion, are material, we may also notify you by sending an email to the address associated with your Account or by otherwise providing you with notice through our Services. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective."
+      ],
+      "new": [
+        "We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our sole discretion, are material, we may also notify you by sending an email to the address associated with your Account (if you have chosen to provide a verified email address) or by otherwise providing you with notice through our Services. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective."
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "Headings are used in these Terms for reference only and will not be considered when interpreting them. For purposes of these Terms: (a) the words “include,” “includes,” and “including” will be deemed to be followed by the words “without limitation;” (b) the words “such as,” “for example,” “e.g.,” and any derivatives of those words will mean by way of example and the items that follow these words will not be deemed an exhaustive list; and (c) the word “or” is used in the inclusive sense of “and/or” and the terms “or,” “any,” and “either” are not exclusive. No ambiguity will be construed against any party based on a claim that the party drafted the language. These Terms are a legally-binding agreement between you and Reddit, Inc. If you have any questions about these Terms, please contact us . Reddit, Inc. 303 2nd Street, Suite 500S San Francisco, CA 94107 United States"
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Hello, redditors and people of the Internet! This Reddit User Agreement (“ Terms ”) applies to your access to and use of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the “ Services ”) provided by Reddit Netherlands B.V. (“ Reddit ,” “ we ,” “ us ,” or “ our ”)."
+      ],
+      "new": [
+        "Hello, redditors and people of the Internet! This Reddit User Agreement (“ Terms ”) applies to your access to and use of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the “ Services ”). If you live in the UK, you are contracting with Reddit, Inc., 548 Market Street, #16093, San Francisco, CA 94104 USA. If you live in the EEA or Switzerland, you are contracting with Reddit Netherlands B.V., Looiersgracht 43, 1016 VR Amsterdam, Netherlands. All references to \"Reddit\", \"we\", \"us\", or \"our\" shall refer to the applicable entity based on your residence."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We do not guarantee that the Services will always be available or uninterrupted. We are always improving our Services. This means we may add or remove features, products, or functionalities; we will try to notify you beforehand, but that won’t always be possible. We reserve the right to modify, suspend, or discontinue the Services (in whole or in part) at any time, with or without notice to you. Any future release, update, or other addition to functionality of the Services will be subject to these Terms, which may be updated from time to time. You agree that we will not be liable to you or to any third party for any modification, suspension, or discontinuation of the Services or any part thereof. We personalize your experience on the Services based on a variety of factors, including your activity on the Services, communities you are subscribed to, and preferences you’ve identified in your settings. Based on these and other factors, we may make recommendations to make your experience on Reddit more relevant. For more information about your content recommendations, as well as a description of how you can control certain personalization options, please see our Help Center ."
+      ],
+      "new": [
+        "We do not guarantee that the Services will always be available or uninterrupted. We are always improving our Services. This means we may add or remove features, products, or functionalities; we will try to notify you beforehand, but that won’t always be possible. We reserve the right to modify, suspend, or discontinue the Services (in whole or in part) at any time, with or without notice to you. Any future release, update, or other addition to functionality of the Services will be subject to these Terms, which may be updated from time to time. You agree that we will not be liable to you or to any third party for any modification, suspension, or discontinuation of the Services or any part thereof. Nothing in this paragraph affects any statutory rights you may have under applicable law. We personalize your experience on the Services based on a variety of factors, including your activity on the Services, communities you are subscribed to, and preferences you’ve identified in your settings. Based on these and other factors, we may make recommendations to make your experience on Reddit more relevant. For more information about your content recommendations, as well as a description of how you can control certain personalization options, please see our Help Center ."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Reddit respects the intellectual property of others and requires that users of our Services do the same. We have a policy that includes the removal of any infringing material from the Services and for the termination, in appropriate circumstances, of users of our Services who are repeat infringers. If you believe that anything on our Services infringes a copyright or a trademark that you own or control, you may notify Reddit’s Designated Agent by filling out our Copyright Report Form or Trademark Report Form , or by contacting: Copyright Agent Reddit, Inc. 303 2nd Street, Suite 500S San Francisco, CA 94107 copyright@reddit.com See 17 U.S.C. § 512(c)(3) for the requirements of a proper notification. Also, please note that if you knowingly misrepresent that any activity or material on our Services is infringing, you may be liable to Reddit for certain costs and damages. If we remove Your Content in response to a copyright or trademark notice, we will notify you. If you believe Your Content was wrongly removed due to a mistake or misidentification in a copyright notice, you can send a counter notification via our Copyright Counter Notice Form or to our Copyright Agent (contact information provided above). Please see 17 U.S.C. § 512(g)(3) for the requirements of a proper counter notification."
+      ],
+      "new": [
+        "Reddit respects the intellectual property of others and requires that users of our Services do the same. We have a policy that includes the removal of any infringing material from the Services and for the termination, in appropriate circumstances, of users of our Services who are repeat infringers. If you believe that anything on our Services infringes a copyright or a trademark that you own or control, you may notify Reddit’s Designated Agent by filling out our Copyright Report Form or Trademark Report Form , or by contacting: Copyright Agent Reddit, Inc. 548 Market Street, #16093 San Francisco, CA 94104 copyright@reddit.com See 17 U.S.C. § 512(c)(3) for the requirements of a proper notification. Also, please note that if you knowingly misrepresent that any activity or material on our Services is infringing, you may be liable to Reddit for certain costs and damages. If we remove Your Content in response to a copyright or trademark notice, we will notify you. If you believe Your Content was wrongly removed due to a mistake or misidentification in a copyright notice, you can send a counter notification via our Copyright Counter Notice Form or to our Copyright Agent (contact information provided above). Please see 17 U.S.C. § 512(g)(3) for the requirements of a proper counter notification."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Except to the extent prohibited by law, you agree to defend, indemnify, and hold Reddit, its affiliates, and their respective directors, officers, employees, affiliates, agents, contractors, third-party service providers, and licensors (the “ Reddit Entities ”) harmless from and against any claim or demand made by any third party, and any related liability, damage, loss, and expense (including costs and attorneys’ fees) due to, arising out of, or in connection with: (a) your use of the Services; (b) your violation of these Terms; (c) your violation of applicable laws or regulations; or (d) Your Content. We reserve the right to control the defense of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims."
+      ],
+      "new": [
+        "Except to the extent prohibited or considered unfair by law, you agree to defend, indemnify, and hold Reddit, its affiliates, and their respective directors, officers, employees, affiliates, agents, contractors, third-party service providers, and licensors (the “ Reddit Entities ”) harmless from and against any claim or demand made by any third party, and any related liability, damage, loss, and expense (including costs and attorneys’ fees) due to, arising out of, or in connection with: (a) your use of the Services; (b) your violation of these Terms; (c) your violation of applicable laws or regulations; or (d) Your Content. We reserve the right to control the defense of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our reasonable discretion, are material, we will notify you by sending an email to the address associated with your Account or by otherwise providing you with notice through our Services at least 30 days before the date they become effective. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective."
+      ],
+      "new": [
+        "We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our reasonable discretion, are material, we will notify you by sending an email to the address associated with your Account (if you have chosen to provide a verified email address) or by otherwise providing you with notice through our Services at least 30 days before the date they become effective. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Reddit Netherlands B.V. Euro Business Center Keizersgracht 62, 1015CS Amsterdam Netherlands"
+      ],
+      "new": [
+        "Reddit Netherlands B.V. Looiersgracht 43, 1016 VR Amsterdam Netherlands",
+        "KVK Number: 83433880",
+        "Dutch VAT registration number: NL862872662B01",
+        "Reddit, Inc.",
+        "548 Market Street, #16093,",
+        "San Francisco, CA 94104",
+        "USA",
+        "UK VAT Registration number: 431 7546 01"
+      ]
+    }
+  ]
+}

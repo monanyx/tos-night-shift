@@ -1,0 +1,244 @@
+{
+  "id": "2025-04-23-amazon-terms",
+  "service": "amazon",
+  "service_name": "Amazon",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM",
+  "detected_at": "2025-04-23T23:38:34+00:00",
+  "source": "wayback",
+  "window_start": "2024-12-23T23:24:06+00:00",
+  "archive_before": "https://web.archive.org/web/20241223232406/https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM",
+  "archive_after": "https://web.archive.org/web/20250423233834/https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM",
+  "flags": [],
+  "stats": {
+    "hunks": 27,
+    "added_words": 0,
+    "removed_words": 301
+  },
+  "headline": "Amazon edited its Terms of Service",
+  "summary": "0 words added and 301 removed across 27 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "- A physical or electronic signature of the person authorized to act on behalf of the owner of the copyright interest;",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "removed",
+      "old": [
+        "Skip to main content",
+        "# Conditions of Use"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## Please read these conditions carefully."
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## PRIVACY"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## ELECTRONIC COMMUNICATIONS"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## COPYRIGHT"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## TRADEMARKS"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## LICENSE AND ACCESS"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## YOUR ACCOUNT"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## REVIEWS, COMMENTS, COMMUNICATIONS, AND OTHER CONTENT",
+        "You may post reviews, comments, photos, videos, and other content; send e-cards and other communications; and submit suggestions, ideas, comments, questions, or other information, so long as the content is not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights (including publicity rights), or otherwise injurious to third parties or objectionable, and does not consist of or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings, or any form of \"spam\" or unsolicited commercial electronic messages. You may not use a false e-mail address, impersonate any person or entity, or otherwise mislead as to the origin of a card or other content. Amazon reserves the right (but not the obligation) to remove or edit such content, but does not regularly review posted content."
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## INTELLECTUAL PROPERTY COMPLAINTS"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## RISK OF LOSS"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## RETURNS, REFUNDS AND TITLE"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## PRODUCT DESCRIPTIONS"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## PRICING",
+        "\"List Price\" means the suggested retail price of a product as provided by a manufacturer, supplier, or seller. We regularly check List Prices against prices recently found on Amazon and other retailers. Certain products may have a \"Was Price\" displayed, which is determined using recent price history of the product on Amazon."
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## APP PERMISSIONS"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## SANCTIONS AND EXPORT POLICY"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## OTHER BUSINESSES"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## DISPUTES"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## APPLICABLE LAW"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## SITE POLICIES, MODIFICATION, AND SEVERABILITY"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## OUR ADDRESS"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## ADDITIONAL AMAZON SOFTWARE TERMS"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## HOW TO SERVE A SUBPOENA OR OTHER LEGAL PROCESS"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## NOTICE AND PROCEDURE FOR MAKING CLAIMS OF INTELLECTUAL PROPERTY INFRINGEMENT"
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "-",
+        "A physical or electronic signature of the person authorized to act on behalf of the owner of the copyright interest;",
+        "-",
+        "A description of the copyrighted work that you claim has been infringed upon;",
+        "-",
+        "A description of where the material that you claim is infringing is located on the site;",
+        "-",
+        "Your address, telephone number, and e-mail address;",
+        "-",
+        "A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and",
+        "-",
+        "A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf."
+      ],
+      "new": [
+        "- A physical or electronic signature of the person authorized to act on behalf of the owner of the copyright interest;",
+        "- A description of the copyrighted work that you claim has been infringed upon;",
+        "- A description of where the material that you claim is infringing is located on the site;",
+        "- Your address, telephone number, and e-mail address;",
+        "- A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and",
+        "- A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Please select what best describes the information:",
+        "Thanks! While we're unable to respond directly to your feedback,",
+        "we'll use this information to improve our online Help."
+      ],
+      "new": [
+        "Thanks! While we're unable to respond directly to your feedback, we'll use this information to improve our online Help."
+      ]
+    }
+  ]
+}

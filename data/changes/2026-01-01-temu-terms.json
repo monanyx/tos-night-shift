@@ -1,0 +1,240 @@
+{
+  "id": "2026-01-01-temu-terms",
+  "service": "temu",
+  "service_name": "Temu",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.temu.com/terms-of-use.html",
+  "detected_at": "2026-01-01T12:43:26+00:00",
+  "source": "wayback",
+  "window_start": "2025-10-28T23:45:38+00:00",
+  "archive_before": "https://web.archive.org/web/20251028234538/https://www.temu.com/terms-of-use.html",
+  "archive_after": "https://web.archive.org/web/20260101124326/https://www.temu.com/terms-of-use.html",
+  "flags": [],
+  "stats": {
+    "hunks": 23,
+    "added_words": 26,
+    "removed_words": 114
+  },
+  "headline": "Temu edited its Terms of Service",
+  "summary": "26 words added and 114 removed across 23 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "# Temu | U.S.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "# Temu | Terms of Use",
+        "Last Updated: July 25, 2025"
+      ],
+      "new": [
+        "# Temu | U.S. | Terms of Use"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 1. Overview"
+      ],
+      "new": [
+        "1\\. Overview"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 2. User Requirements and Registration"
+      ],
+      "new": [
+        "2\\. User Requirements and Registration"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 3. Rules and Restrictions"
+      ],
+      "new": [
+        "3\\. Rules and Restrictions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 4. Privacy"
+      ],
+      "new": [
+        "4\\. Privacy"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 5. Communications"
+      ],
+      "new": [
+        "5\\. Communications"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 6. User Submissions"
+      ],
+      "new": [
+        "6\\. User Submissions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 7. Ownership"
+      ],
+      "new": [
+        "7\\. Ownership"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 8. Responsibilities; Third Party Risks"
+      ],
+      "new": [
+        "8\\. Responsibilities; Third Party Risks"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 9. Release"
+      ],
+      "new": [
+        "9\\. Release"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 10. Purchases"
+      ],
+      "new": [
+        "10\\. Purchases"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "The title to purchased products and risk of loss pass to you from the respective seller(s) upon delivery of the product to the domestic carrier inside the United States. Unless otherwise expressly indicated on the Services, products identified as local warehouse products will be sold by third-party merchandise partners, and products not identified as such will be procured by us from third-party merchandise partners."
+      ],
+      "new": [
+        "The title to purchased products and risk of loss pass to you from the respective seller(s) upon delivery of the product to the domestic carrier inside the United States. Unless otherwise expressly indicated on the Services, products identified as local warehouse products will be sold by third-party merchandise partners, and products not identified as such will be sourced from third-party merchandise partners by us."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**10.5** For products procured by us from third-party merchandise partners, we are required to deliver such products in conformity with the mutually intended transaction or intended purchase and in accordance with commercial reasonable expectations, being liable to you for any lack of conformity which exists at the time of delivery. You acknowledge that the products are in conformity with the transaction or intended purchase if they: (i) comply with the description provided on Temu and possess the qualities presented on Temu; (ii) are fit for the purposes for which goods of such kind are normally used; and (iii) are of the quality and performance which are normal in goods of the same type and which can reasonably be expected."
+      ],
+      "new": [
+        "**10.5** You acknowledge that the products are in conformity with the transaction or intended purchase if they: (i) comply with the description provided on Temu and possess the qualities presented on Temu; (ii) are fit for the purposes for which goods of such kind are normally used; and (iii) are of the quality and performance which are normal in goods of the same type and which can reasonably be expected."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 11. Refunds, Exchanges and Related"
+      ],
+      "new": [
+        "11\\. Refunds, Exchanges and Related"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 12. Rewards"
+      ],
+      "new": [
+        "12\\. Rewards"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 13. Ending Our Relationship"
+      ],
+      "new": [
+        "13\\. Ending Our Relationship"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 14. WARRANTY DISCLAIMER",
+        "**14.1** TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW AND EXCEPT AND ONLY TO THE EXTENT AS EXPRESSLY STATED IN SECTION 10.5 OF THESE TERMS, WE EXPRESSLY DISCLAIM ALL REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, RELATING TO THE SERVICES, ANY CONTENT OR ANY PRODUCT OFFERED OR PURCHASED ON OR THROUGH THE SERVICES, INCLUDING WITHOUT LIMITATION ANY WARRANTIES OF PRODUCTS’ CONDITION, QUALITY, DURABILITY, PERFORMANCE, ACCURACY, RELIABILITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, OR ANY WARRANTIES OF THE CONTENT’S ACCURACY, CORRECTNESS, COMPLETENESS, OR LEGALITY. ALL SUCH WARRANTIES, REPRESENTATIONS, CONDITIONS, AND UNDERTAKINGS ARE HEREBY EXPRESSLY EXCLUDED. NO COMMUNICATION OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM OR THROUGH THE SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED HEREIN. IN ADDITION, WE MAKE NO REPRESENTATIONS OR WARRANTIES REGARDING SUGGESTIONS OR RECOMMENDATIONS OF PRODUCTS OFFERED OR PURCHASED ON OR THROUGH THE SERVICES. THIS SECTION 14 DOES NOT AFFECT IN ANY WAY OUR RETURN AND REFUND POLICY FOR PRODUCTS PURCHASED ON THE SERVICES."
+      ],
+      "new": [
+        "14\\. WARRANTY DISCLAIMER",
+        "**14.1** TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, WE EXPRESSLY DISCLAIM ALL REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, RELATING TO THE SERVICES, ANY CONTENT OR ANY PRODUCT OFFERED OR PURCHASED ON OR THROUGH THE SERVICES, INCLUDING WITHOUT LIMITATION ANY WARRANTIES OF PRODUCTS’ CONDITION, QUALITY, DURABILITY, PERFORMANCE, ACCURACY, RELIABILITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, OR ANY WARRANTIES OF THE CONTENT’S ACCURACY, CORRECTNESS, COMPLETENESS, OR LEGALITY. ALL SUCH WARRANTIES, REPRESENTATIONS, CONDITIONS, AND UNDERTAKINGS ARE HEREBY EXPRESSLY EXCLUDED. NO COMMUNICATION OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM OR THROUGH THE SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED HEREIN. IN ADDITION, WE MAKE NO REPRESENTATIONS OR WARRANTIES REGARDING SUGGESTIONS OR RECOMMENDATIONS OF PRODUCTS OFFERED OR PURCHASED ON OR THROUGH THE SERVICES. THIS SECTION 14 DOES NOT AFFECT IN ANY WAY OUR RETURN AND REFUND POLICY FOR PRODUCTS PURCHASED ON THE SERVICES."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 15. LIMITATION OF LIABILITY"
+      ],
+      "new": [
+        "15\\. LIMITATION OF LIABILITY"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 16. Indemnity"
+      ],
+      "new": [
+        "16\\. Indemnity"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 17. App Stores"
+      ],
+      "new": [
+        "17\\. App Stores"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 18. General"
+      ],
+      "new": [
+        "18\\. General"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 19. ARBITRATION AGREEMENT"
+      ],
+      "new": [
+        "19\\. ARBITRATION AGREEMENT"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## Contact Us"
+      ],
+      "new": [
+        "Contact Us"
+      ]
+    }
+  ]
+}

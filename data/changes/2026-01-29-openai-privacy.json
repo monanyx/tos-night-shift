@@ -1,0 +1,144 @@
+{
+  "id": "2026-01-29-openai-privacy",
+  "service": "openai",
+  "service_name": "OpenAI (ChatGPT)",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://openai.com/policies/privacy-policy/",
+  "detected_at": "2026-01-29T07:47:28+00:00",
+  "source": "wayback",
+  "window_start": "2025-10-30T12:22:31+00:00",
+  "archive_before": "https://web.archive.org/web/20251030122231/https://openai.com/policies/privacy-policy/",
+  "archive_after": "https://web.archive.org/web/20260129074728/https://openai.com/policies/privacy-policy/",
+  "flags": [],
+  "stats": {
+    "hunks": 12,
+    "added_words": 19,
+    "removed_words": 72
+  },
+  "headline": "OpenAI (ChatGPT) edited its Privacy Policy",
+  "summary": "19 words added and 72 removed across 12 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "For individuals in the European Economic Area, United Kingdom, and Switzerland, you can read this version of our Privacy Policy.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "removed",
+      "old": [
+        "OpenAI"
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "For individuals in the European Economic Area, United Kingdom, and Switzerland, you can read this version of our Privacy Policy",
+        "We at OpenAI OpCo, LLC (together with our affiliates, “OpenAI”, “we”, “our” or “us”) respect your privacy and are strongly committed to keeping secure any information we obtain from you or about you. This Privacy Policy describes our practices with respect to Personal Data that we collect from or about you when you use our website, applications, and services (collectively, “Services”).",
+        "This Privacy Policy does not apply to content that we process on behalf of customers of our business offerings, such as our API. Our use of that data is governed by our customer agreements covering access to and use of those offerings.",
+        "For information about how we collect and use training information to develop our language models that power ChatGPT and other Services, and your choices with respect to that information, please see <u>this help center article</u>(opens in a new window).",
+        "## 1. Personal Data we collect"
+      ],
+      "new": [
+        "For individuals in the European Economic Area, United Kingdom, and Switzerland, you can read this version of our Privacy Policy.",
+        "We at OpenAI OpCo, LLC (together with our affiliates, “OpenAI”, “we”, “our” or “us”) respect your privacy and are strongly committed to keeping secure any information we obtain from you or about you. This Privacy Policy describes our practices with respect to Personal Data that we collect from or about you when you use our website, applications, and services (collectively, “Services”). This Privacy Policy does not apply to content that we process on behalf of customers of our business offerings, such as our API. Our use of that data is governed by our customer agreements covering access to and use of those offerings.For information about how we collect and use training information to develop our language models that power ChatGPT and other Services, and your choices with respect to that information, please see this help center article(opens in a new window)."
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## 2. How we use Personal Data"
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "As noted above, we may use Content you provide us to improve our Services, for example to train the models that power ChatGPT. Read <u>our instructions</u>(opens in a new window) on how you can opt out of our use of your Content to train our models.",
+        "## 3. Disclosure of Personal Data"
+      ],
+      "new": [
+        "As noted above, we may use Content you provide us to improve our Services, for example to train the models that power ChatGPT. Read our instructions(opens in a new window) on how you can opt out of our use of your Content to train our models."
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## 4. Retention"
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "In some cases, the length of time we retain data depends on your settings. For example, ChatGPT temporary chats will not appear in your history and will be kept up to 30 days for safety purposes. You can find more information on data controls <u>here</u>(opens in a new window).",
+        "## 5. Your rights"
+      ],
+      "new": [
+        "In some cases, the length of time we retain data depends on your settings. For example, ChatGPT temporary chats will not appear in your history and will be kept up to 30 days for safety purposes. You can find more information on data controls here(opens in a new window)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You can exercise some of these rights through your OpenAI account. If you are unable to exercise your rights through your account, please submit your request through <u>privacy.openai.com</u>(opens in a new window) or to <u>dsar@openai.com</u>. You can contact our data protection officer at privacy@openai.com.",
+        "A note about accuracy: Services like ChatGPT generate responses by reading a user’s request and, in response, predicting the words most likely to appear next. In some cases, the words most likely to appear next may not be the most factually accurate. For this reason, you should not rely on the factual accuracy of output from our models. If you notice that ChatGPT output contains factually inaccurate information about you and you would like to request a correction or removal of the information, you can submit these requests through <u>privacy.openai.com</u>(opens in a new window) or to <u>dsar@openai.com</u>, and we will consider your request based on applicable law and the technical capabilities of our models.",
+        "For information on how to exercise your rights with respect to data we have collected from the internet to train our models, please see <u>this help center article</u>(opens in a new window).",
+        "OpenAI processes your Personal Data for the purposes described in this Privacy Policy on servers located in various jurisdictions, including processing and storing your Personal Data in our facilities and servers in the United States. While data protection law varies by country, we apply the protections described in this policy to your Personal Data regardless of where it is processed, and only transfer that data pursuant to legally valid transfer mechanisms.",
+        "## 6. Children"
+      ],
+      "new": [
+        "You can exercise some of these rights through your OpenAI account. If you are unable to exercise your rights through your account, please submit your request through privacy.openai.com(opens in a new window) or to dsar@openai.com. You can contact our data protection officer at privacy@openai.com.",
+        "A note about accuracy: Services like ChatGPT generate responses by reading a user’s request and, in response, predicting the words most likely to appear next. In some cases, the words most likely to appear next may not be the most factually accurate. For this reason, you should not rely on the factual accuracy of output from our models. If you notice that ChatGPT output contains factually inaccurate information about you and you would like to request a correction or removal of the information, you can submit these requests through privacy.openai.com(opens in a new window) or to dsar@openai.com, and we will consider your request based on applicable law and the technical capabilities of our models.",
+        "For information on how to exercise your rights with respect to data we have collected from the internet to train our models, please see this help center article(opens in a new window).",
+        "OpenAI processes your Personal Data for the purposes described in this Privacy Policy on servers located in various jurisdictions, including processing and storing your Personal Data in our facilities and servers in the United States. While data protection law varies by country, we apply the protections described in this policy to your Personal Data regardless of where it is processed, and only transfer that data pursuant to legally valid transfer mechanisms"
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## 7. Security"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## 8. Additional U.S. state disclosures"
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Exercising Your Rights.** You can exercise privacy rights described in this section by submitting a request through <u>privacy.openai.com</u>(opens in a new window) or to <u>dsar@openai.com</u>. Review our California privacy rights reporting."
+      ],
+      "new": [
+        "**Exercising Your Rights.** You can exercise privacy rights described in this section by submitting a request through privacy.openai.com(opens in a new window) or to dsar@openai.com. Review our California privacy rights reporting."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Appeals.** Depending on where you live, you may have the right to appeal a decision we make relating to requests to exercise your rights. To appeal a decision, please send your request to <u>dsar@openai.com</u>.",
+        "## 9. Changes to the privacy policy"
+      ],
+      "new": [
+        "**Appeals.** Depending on where you live, you may have the right to appeal a decision we make relating to requests to exercise your rights. To appeal a decision, please send your request to dsar@openai.com."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 10. How to contact us",
+        "Please <u>contact support</u>(opens in a new window) if you have any questions or concerns not already addressed in this Privacy Policy."
+      ],
+      "new": [
+        "Please contact support(opens in a new window) if you have any questions or concerns not already addressed in this Privacy Policy."
+      ]
+    }
+  ]
+}

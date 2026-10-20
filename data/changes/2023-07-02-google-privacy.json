@@ -1,0 +1,127 @@
+{
+  "id": "2023-07-02-google-privacy",
+  "service": "google",
+  "service_name": "Google",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://policies.google.com/privacy?hl=en",
+  "detected_at": "2023-07-02T00:30:24+00:00",
+  "source": "wayback",
+  "window_start": "2023-04-02T00:16:55+00:00",
+  "archive_before": "https://web.archive.org/web/20230402001655/https://policies.google.com/privacy?hl=en",
+  "archive_after": "https://web.archive.org/web/20230702003024/https://policies.google.com/privacy?hl=en",
+  "flags": [
+    {
+      "tag": "ai-training",
+      "label": "AI training",
+      "hits": 2
+    }
+  ],
+  "stats": {
+    "hunks": 9,
+    "added_words": 150,
+    "removed_words": 66
+  },
+  "headline": "Google rewrote its Privacy Policy — new wording on AI training",
+  "summary": "150 words added and 66 removed across 9 sections. New wording touches: AI training. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "For example, we use publicly available information to help train Google’s AI models and build products and features like Google Translate, Bard, and Cloud AI capabilities.",
+  "receipt_side": "new",
+  "sideeye": 2,
+  "tags": [
+    "ai-training"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Depending on your settings, we may also show you personalized ads based on your interests. For example, if you search for “mountain bikes,” you may see an ad for sports equipment when you’re browsing a site that shows ads served by Google. You can control what information we use to show you ads by visiting your ad settings in My Ad Center."
+      ],
+      "new": [
+        "Depending on your settings, we may also show you personalized ads based on your interests. For example, if you search for “mountain bikes,” you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in My Ad Center."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Some U.S. state privacy laws like the California Consumer Privacy Act (CCPA) and Virginia Consumer Data Protection Act (VCDPA) require specific disclosures for state residents."
+      ],
+      "new": [
+        "Some U.S. state privacy laws require specific disclosures."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- We explain how Google uses information in Why Google collects data.",
+        "- We explain when Google may disclose information in Sharing your information. Google does not sell your personal information. Google also does not “share” your personal information as that term is defined in the CCPA."
+      ],
+      "new": [
+        "- We explain the purposes for which Google collects and uses information in Why Google collects data.",
+        "- We explain when Google may disclose information in Sharing your information. Google does not sell your personal information. Google also does not “share” your personal information as that term is defined in the California Consumer Privacy Act (CCPA)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "State laws like the CCPA and VCDPA also provide the right to request information about how Google collects, uses, and discloses your information. And they give you the right to access and correct your information, and to request that Google delete that information. The VCDPA also provides the right to opt out of certain forms of profiling and targeted advertising. Finally, the CCPA and VCDPA provide the right to not be discriminated against for exercising these privacy rights."
+      ],
+      "new": [
+        "U.S. state privacy laws also provide the right to request information about how Google collects, uses, and discloses your information. And they give you the right to access your information, sometimes in a portable format; correct your information; and to request that Google delete that information. Many of these laws also provide the right to opt out of certain forms of profiling and targeted advertising. They also provide the right to not be discriminated against for exercising these privacy rights. Finally, the CCPA treats certain kinds of information, like health data, as sensitive; when users provide this information, Google only uses it for purposes permitted by the CCPA, like to provide services that are requested and expected by our users."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "When you use these tools, we’ll validate your request by verifying that you’re signed in to your Google Account. If you have questions or requests related to your rights under the CCPA or VCDPA, you (or your authorized agent) can also contact Google. And if you disagree with the decision on your request, you can ask Google to reconsider it by responding to the team’s email.",
+        "You can find more information on Google’s handling of CCPA requests.",
+        "The CCPA also requires a description of data practices using specific categories. This table uses these categories to organize the information in this Privacy Policy."
+      ],
+      "new": [
+        "When you use these tools, we’ll validate your request by verifying that you’re signed in to your Google Account. If you have questions or requests related to your rights under U.S. state privacy laws, you (or your authorized agent) can also contact Google. And if you disagree with the decision on your request, you can ask Google to reconsider it by responding to our email.",
+        "We also provide more information on Google’s handling of CCPA requests.",
+        "Some U.S. state privacy laws also require a description of data practices using specific categories. This table uses these categories to organize the information in this Privacy Policy."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Research and development**: Google uses information to improve our services and to develop new products, features and technologies that benefit our users and the public. For example, we use publicly available information to help train Google’s language models and build features like Google Translate."
+      ],
+      "new": [
+        "**Research and development**: Google uses information to improve our services and to develop new products, features and technologies that benefit our users and the public. For example, we use publicly available information to help train Google’s AI models and build products and features like Google Translate, Bard, and Cloud AI capabilities."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Service providers**, trusted businesses or persons that process information on Google’s behalf, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures."
+      ],
+      "new": [
+        "**Service providers**, trusted businesses, or persons that process information on Google’s behalf, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "For example, we may collect information that’s publicly available online or from other public sources to help train Google’s language models and build features like Google Translate. Or, if your business’s information appears on a website, we may index and display it on Google services."
+      ],
+      "new": [
+        "For example, we may collect information that’s publicly available online or from other public sources to help train Google’s AI models and build products and features like Google Translate, Bard, and Cloud AI capabilities. Or, if your business’s information appears on a website, we may index and display it on Google services."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "### U.S. state privacy laws",
+        "These laws include:",
+        "- California Consumer Privacy Act (CCPA);",
+        "- Virginia Consumer Data Protection Act (VCDPA);",
+        "- Colorado Privacy Act (CPA);",
+        "- Connecticut Act Concerning Personal Data Privacy and Online Monitoring (CTDPA); and",
+        "- Utah Consumer Privacy Act (UCPA)"
+      ]
+    }
+  ]
+}

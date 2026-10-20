@@ -1,0 +1,216 @@
+{
+  "id": "2023-09-01-temu-privacy",
+  "service": "temu",
+  "service_name": "Temu",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.temu.com/privacy-and-cookie-policy.html",
+  "detected_at": "2023-09-01T12:34:23+00:00",
+  "source": "wayback",
+  "window_start": "2023-03-09T17:20:53+00:00",
+  "archive_before": "https://web.archive.org/web/20230309172053/https://www.temu.com/privacy-and-cookie-policy.html",
+  "archive_after": "https://web.archive.org/web/20230901123423/https://www.temu.com/privacy-and-cookie-policy.html",
+  "flags": [
+    {
+      "tag": "location",
+      "label": "Location",
+      "hits": 2
+    }
+  ],
+  "stats": {
+    "hunks": 14,
+    "added_words": 379,
+    "removed_words": 674
+  },
+  "headline": "Temu rewrote its Privacy Policy — new wording on your location",
+  "summary": "379 words added and 674 removed across 14 sections. New wording touches: Location. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Metadata also includes information that users can add or can have added to their content, such as keywords, geographical or location information, and other similar data.",
+  "receipt_side": "new",
+  "sideeye": 2,
+  "tags": [
+    "location"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- 1",
+        "- 8",
+        "- 2",
+        "- 5",
+        "- 33",
+        "- 22",
+        "- 00",
+        "- 99",
+        "- 1",
+        "- 8",
+        "- 2",
+        "- 5",
+        "- 33",
+        "- 22",
+        "- 00",
+        "- 99",
+        "- Free returnsWithin 90 daysFree returns Within 90 days",
+        "- Price adjustmentWithin 30 daysPrice adjustment Within 30 days",
+        "- Free returnsWithin 90 daysFree returns Within 90 days"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Last updated: February 13, 2023"
+      ],
+      "new": [
+        "Last updated: July 27, 2023",
+        "For information about interest-based advertising and your choices, click"
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "Personal information we collect",
+        "How we use your personal information",
+        "How we share your personal information",
+        "Your choices",
+        "Retention",
+        "Other sites and services",
+        "Security",
+        "International data transfer",
+        "Children",
+        "Changes to this Privacy & Cookie Policy",
+        "How to contact us"
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- User-generated content, such as profile pictures, photos, images, videos, comments, questions, messages, and other content or information that you generate, transmit, or otherwise make available on the Service, as well as associated metadata. Metadata includes information on how, when, where and by whom a piece of content was collected and how that content has been formatted or edited. Metadata also includes information that users can add or can have added to their content, such as keywords, geographical or location information, and other similar data."
+      ],
+      "new": [
+        "- User-generated content, such as profile pictures, photos, images, videos, audio recordings, comments, questions, messages, and other content or information that you generate, transmit, or otherwise make available on the Service, as well as associated metadata. Metadata includes information on how, when, where and by whom a piece of content was collected and how that content has been formatted or edited. Metadata also includes information that users can add or can have added to their content, such as keywords, geographical or location information, and other similar data."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Device data, such as your computer’s or mobile device’s operating system type and version, manufacturer and model, browser type, screen resolution, RAM and disk size, CPU usage, device type (e.g., phone, tablet), IP address, unique identifiers (including identifiers used for advertising purposes), language settings, mobile device carrier, radio/network information (e.g., Wi-Fi, LTE, 3G), and general location information such as city, state or geographic area."
+      ],
+      "new": [
+        "- Device data, such as your computer’s or mobile device’s operating system type and version, manufacturer and model, browser type, screen resolution, RAM and disk size, CPU usage, device type (e.g., phone, tablet), IP address, unique identifiers (including identifiers used for advertising purposes), language settings, mobile device carrier, radio/network information (e.g., Wi-Fi, LTE, 3G), and general location information such as city, state or geographic area. We also collect service-related, diagnostic, and performance information, including crash reports and performance logs."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Location data when you authorize the Temu mobile app to access your device’s location."
+      ],
+      "new": [
+        "- Location data, including your general location data (e.g. IP address) and, with your permission, the precise location data of your mobile device. Please note that for most mobile devices, you can manage or disable the use of precise location services for all applications in the settings menu of your mobile device."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Data about others. We may offer features that help users invite their friends or contacts to use the Service, and we may collect contact details about these invitees so we can deliver their invitations."
+      ],
+      "new": [
+        "Data about others. We may offer features that help you invite your friends or contacts to use the Service and, with your permission, we may collect information from your contacts list to help you make invitation."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Research and development. We may use your personal information for research and development purposes, including to analyze and improve the Service and our business. As part of these activities, we may create aggregated, de-identified or other anonymous data from personal information we collect. We make personal information into anonymous data by removing information that makes the data personally identifiable to you. We may use this anonymous data and share it with third parties for our lawful business purposes, including to analyze and improve the Service and promote our business.Marketing and advertising. We, our service providers and our third-party advertising partners may collect and use your personal information for marketing and advertising purposes:",
+        "- Direct marketing. We may send you direct marketing communications and abandoned cart reminder (enabled by using cookies we collected as described above). You may opt-out of our marketing communications or abandoned cart reminder described in the Opt-out of marketing section below. We will not share your records of consent, opt-in and opt-out to our marketing mobile texts with any third parties other than text messaging service providers and aggregators.",
+        "- Interest-based advertising. Our third-party advertising partners may use cookies and similar technologies to collect information about your interaction (including the data described in the automatic data collection section above) with the Service, our communications and other online services over time, and use that information to serve online ads that they think will interest you. This is called interest-based advertising. We may also share information about our users with these companies to facilitate interest-based advertising to those or similar users on other online platforms. You can learn more about your choices for limiting interest-based advertising in the Your choices section below.",
+        "Compliance and protection. We may use your personal information to:"
+      ],
+      "new": [
+        "Research and development. We may use your personal information for research and development purposes, including to analyze and improve the Service and our business. As part of these activities, we may create aggregated, de-identified or other anonymous data from personal information we collect. We make personal information into anonymous data by removing information that makes the data personally identifiable to you. We may use this anonymous data and share it with third parties for our lawful business purposes, including to analyze and improve the Service and promote our business.Marketing. We and our service providers may collect and use your personal information for marketing purposes. We may send you direct marketing communications and abandoned cart reminders (enabled by using cookies we collected as described above). You may opt-out of our marketing communications or abandoned cart reminder described in the",
+        "- Browser settings. Blocking third-party cookies in your browser settings.",
+        "- Privacy browsers/plug-ins. By using privacy browsers or ad-blocking browser plug-ins that let you block tracking technologies.",
+        "- Platform settings. Google and Facebook offer opt-out features that let you opt-out of use of your information for interest-based advertising:",
+        "- Ad industry tools. Opting out of interest-based ads from companies participating in the following industry opt-out programs:",
+        "- Network Advertising Initiative: https://web.archive.org/web/20230901123423/https://thenai.org/opt-out/",
+        "- Digital Advertising Alliance: optout.aboutads.info",
+        "- AppChoices mobile app, available at https://web.archive.org/web/20230901123423/https://www.youradchoices.com/appchoices, which will allow you to opt-out of interest-based ads in mobile apps served by participating members of the Digital Advertising Alliance.",
+        "- Mobile settings. Using your mobile device settings to limit use of the advertising ID associated with your mobile device for interest-based advertising purposes.",
+        "- For iOS 14.5 or Higher: Go to your Settings > Select Privacy > Select Tracking > Disable the \"Allow Apps to Request to Track\" setting.",
+        "- For Android devices with OS 2.2 or higher and Google Play Services version 4.0 or higher: Open your Google Settings app > Ads > Enable \"Opt out of interest-based advertising.\""
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "With your consent. In some cases, we may specifically ask for your consent to collect, use or share your personal information, such as when required by law.Cookies and similar technologies. In addition to the other uses included in this section, we may use the Cookies and similar technologies described above for the following purposes:"
+      ],
+      "new": [
+        "With your consent. In some cases, we may specifically ask for your consent to collect, use or share your personal information, such as when required by law.Cookies and similar technologies. In addition to the other uses included in this section, we may use the"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Functionality. To help our third-party advertising partners collect information about how you use the Service and other online services over time, which they use to show you ads on other online services they believe will interest you and measure how the ads perform."
+      ],
+      "new": [
+        "- Functionality. To enhance the performance and functionality of our services.",
+        "- Advertising. To help our third-party advertising partners collect information about how you use the Service and other online services over time, which they use to show you ads on other online services they believe will interest you and measure how the ads perform. Please note that we do not allow our third-party advertising partners to collect your personal information for advertising purposes from the Temu mobile application for iOS devices."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Cookies and similar technologies. Most browsers let you remove or reject cookies. To do this, follow the instructions in your browser settings. Many browsers accept cookies by default until you change your settings. Please note that if you set your browser to disable cookies, the Service may not work properly. For more information about cookies, including how to see what cookies have been set on your browser and how to manage and delete them, visit www.allaboutcookies.org. You can also configure your device to prevent images from loading to prevent web beacons from functioning.Advertising choices. You can limit use of your information for interest-based advertising by:",
+        "- Browser settings. Blocking third-party cookies in your browser settings.",
+        "- Privacy browsers/plug-ins. By using privacy browsers or ad-blocking browser plug-ins that let you block tracking technologies.",
+        "- Platform settings. Google and Facebook offer opt-out features that let you opt-out of use of your information for interest-based advertising:",
+        "- Ad industry tools. Opting out of interest-based ads from companies participating in the following industry opt-out programs:",
+        "- Network Advertising Initiative: https://web.archive.org/web/20230309172053/https://thenai.org/opt-out/",
+        "- Digital Advertising Alliance: optout.aboutads.info.",
+        "- AppChoices mobile app, available at https://web.archive.org/web/20230309172053/https://www.youradchoices.com/appchoices, which will allow you to opt-out of interest-based ads in mobile apps served by participating members of the Digital Advertising Alliance.",
+        "- Mobile settings. Using your mobile device settings to limit use of the advertising ID associated with your mobile device for interest-based advertising purposes.",
+        "- For iOS 14.5 or Higher: Go to your Settings > Select Privacy > Select Tracking > Disable the \"Allow Apps to Request to Track\" setting.",
+        "- For Android devices with OS 2.2 or higher and Google Play Services version 4.0 or higher: Open your Google Settings app > Ads > Enable \"Opt out of interest-based advertising.\"",
+        "You will need to apply these opt-out settings on each device from which you wish to opt-out.",
+        "We cannot offer any assurances as to whether the companies we work with participate in the opt-out programs described above.",
+        "Do Not Track. Some Internet browsers may be configured to send “Do Not Track” signals to the online services that you visit. We currently do not respond to “Do Not Track” or similar signals. To find out more about “Do Not Track,” please visit https://web.archive.org/web/20230309172053/http://www.allaboutdnt.com.Declining to provide information. We need to collect personal information to provide certain services. If you do not provide the information we identify as required or mandatory, we may not be able to provide those services.Linked third-party platforms. If you choose to connect to the Service through your social media account or other third-party platform, you may be able to use your settings in your account with that platform to limit the information we receive from it. If you revoke our ability to access information from a third-party platform, that choice will not apply to information that we have already received from that third party.Delete your content or close your account. You can choose to delete certain content through your account. You could delete your account in the “settings” section of the app."
+      ],
+      "new": [
+        "Cookies and similar technologies. Most browsers let you remove or reject cookies. To do this, follow the instructions in your browser settings. Many browsers accept cookies by default until you change your settings. Please note that if you set your browser to disable cookies, the Service may not work properly. For more information about cookies, including how to see what cookies have been set on your browser and how to manage and delete them, visit www.allaboutcookies.org. You can also configure your device to prevent images from loading to prevent web beacons from functioning.Advertising choices. Please refer to the"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- You may request details on the specific personal information, including sensitive information, we’ve collected about you, including how long we keep it or the factors we use to decide when to delete it. We provide this information in this policy, but you can also get this information by contacting us. In addition, you can request a copy of your personal information through contacting our online customer service or email us at privacy@temu.com. We may require some additional information to authenticate your identity and ownership of your account."
+      ],
+      "new": [
+        "- You may request details on the specific personal information, including sensitive information, we’ve collected about you, including how long we keep it or the factors we use to decide when to delete it. We provide this information in this policy, but you can also get this information by contacting us. In addition, you can request a copy of your personal information through contacting our online customer service or email our Data Protection Officer at privacy@temu.com. We may require some additional information to authenticate your identity and ownership of your account."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "The Service is not intended for use by anyone under 13 years of age. If you are a parent or guardian of a child from whom you believe we have collected personal information in a manner prohibited by law, please contact us. If we learn that we have collected personal information through the Service from a child without the consent of the child’s parent or guardian as required by law, we will comply with applicable legal requirements to delete the information."
+      ],
+      "new": [
+        "The Service is not intended for use by anyone under 13 years of age. If you are a parent or guardian of a child from whom you believe we have collected personal information in a manner prohibited by law, please"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Email: privacy@temu.com",
+        "- Mail: Whaleco Inc., Suite 355, 31 St. James Avenue, Boston, Massachusetts 02116, USA"
+      ],
+      "new": [
+        "- Email to our Data Protection Officer at privacy@temu.com",
+        "- Mail to Whaleco Inc., Suite 355, 31 St. James Avenue, Boston, Massachusetts 02116, USA"
+      ]
+    }
+  ]
+}

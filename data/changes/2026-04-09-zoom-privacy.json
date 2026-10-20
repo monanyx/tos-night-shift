@@ -1,0 +1,159 @@
+{
+  "id": "2026-04-09-zoom-privacy",
+  "service": "zoom",
+  "service_name": "Zoom",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.zoom.com/en/trust/privacy/privacy-statement/",
+  "detected_at": "2026-04-09T02:38:49+00:00",
+  "source": "wayback",
+  "window_start": "2026-03-05T22:49:02+00:00",
+  "archive_before": "https://web.archive.org/web/20260305224902/https://www.zoom.com/en/trust/privacy/privacy-statement/",
+  "archive_after": "https://web.archive.org/web/20260409023849/https://www.zoom.com/en/trust/privacy/privacy-statement/",
+  "flags": [],
+  "stats": {
+    "hunks": 17,
+    "added_words": 2,
+    "removed_words": 104
+  },
+  "headline": "Zoom edited its Privacy Policy",
+  "summary": "2 words added and 104 removed across 17 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "- **Account Owner:** An account owner is the organization or individual that signs up for a Zoom account.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "removed",
+      "old": [
+        "# Zoom Privacy Statement"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## What Personal Data Do We Receive?"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## How Do We Use Personal Data?"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## How Do We Share Personal Data?"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## Who Can See, Share, and Process My Personal Data When I Join Meetings and Use Other Zoom Products and Services?"
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Account Owner:** An account owner is the organization or individual that signs up for a Zoom account. Typically, an account owner designates one or more people (called an “administrator”) to manage their account and can grant privileges to users on the account. Depending on their license with Zoom, the account owner can authorize additional users on their account, and the account owner can create and/or access the profile information for all users on their account. The account owner and their users can invite others (including guests not on their account and unlicensed participants) to meetings or webinars hosted on their account. Zoom gives account owners controls and features that they can use to determine whether certain types of content, such as recordings or Zoom Team Chat messages, can be created or sent, and what third-party apps can be used, for meetings and webinars hosted on their account. Depending on their settings, account owners and the users they designate can access personal data for participants who join meetings and webinars on their account or send messages to users on their account. Account owners may also be able to determine what information Zoom and others can access and use. Specifically, account owners may have access to:"
+      ],
+      "new": [
+        "- **Account Owner:** An account owner is the organization or individual that signs up for a Zoom account. Typically, an account owner designates one or more people (called an “administrator”) to manage their account and can grant privileges to users on the account. Depending on their license with Zoom, the account owner can authorize additional users on their account, and the account owner can create and/or access the profile information for all users on their account. The account owner and their users can invite others (including guests not on their account and unlicensed participants) to meetings or webinars hosted on their account. Zoom gives account owners controls and features that they can use to determine whether certain types of content, such as recordings or Zoom Chat messages, can be created or sent, and what third-party apps can be used, for meetings and webinars hosted on their account. Depending on their settings, account owners and the users they designate can access personal data for participants who join meetings and webinars on their account or send messages to users on their account. Account owners may also be able to determine what information Zoom and others can access and use. Specifically, account owners may have access to:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Zoom Team Chat and Out-of-Meeting Collaborations:** If enabled on their account, account owners and those they authorize can see information about who sent and received Zoom Team Chat messages, including synced in-meeting messages (e.g., from a dedicated meeting group chat that is synced with Zoom Team Chat), to users on their account, along with information about the message (for example, date and time, and number of members or participants). Depending on their settings, account owners also can see sender and receiver information, and other messaging data, along with the content of messages sent to and from users on their account (including from in-meeting chat where dedicated meeting group chats are enabled), unless the account owner has enabled Advanced Chat Encryption. Depending on their settings, account owners and those they authorize may also see the content shared through collaborative features, including whiteboards, files, and images shared in Zoom Team Chat."
+      ],
+      "new": [
+        "- **Zoom Chat and Out-of-Meeting Collaborations:** If enabled on their account, account owners and those they authorize can see information about who sent and received Zoom Chat messages, including synced in-meeting messages (e.g., from a dedicated meeting group chat that is synced with Zoom Chat), to users on their account, along with information about the message (for example, date and time, and number of members or participants). Depending on their settings, account owners also can see sender and receiver information, and other messaging data, along with the content of messages sent to and from users on their account (including from in-meeting chat where dedicated meeting group chats are enabled), unless the account owner has enabled Advanced Chat Encryption. Depending on their settings, account owners and those they authorize may also see the content shared through collaborative features, including whiteboards, files, and images shared in Zoom Chat."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Messages sent in dedicated meeting group chats in Team Chat"
+      ],
+      "new": [
+        "- Messages sent in dedicated meeting group chats in Zoom Chat"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Meeting Hosts, Participants, and Invitees:** Meeting hosts, participants, and invitees may be able to see your email, display name, profile picture, and presence status, including in Zoom meetings and in Zoom’s native calendar service. Meeting hosts, participants, and invitees may also see, record, save, and share meeting content, audio transcripts, messages sent to Everyone, messages sent to meeting group chats (where enabled, and whether sent in Team Chat or in-meeting), or messages sent to them directly, and files, whiteboards or other information shared with them (including during a meeting, or through a dedicated meeting group chat). Meeting hosts may also share meeting assets to Zoom Team Chat, depending on their account owner’s settings. Meeting hosts may also be able to see responses to Q&A and polls generated during the meeting.",
+        "- **Zoom Email, Calendar and Zoom Team Chat Recipients:** Recipients of Zoom Emails and Zoom Calendar invites can see, save, and share your email and calendar content with others, including by sharing emails to Zoom Team Chat. If a recipient shares encrypted content with others, for example, by sharing an encrypted Zoom Email to Zoom Team Chat, or forwarding an encrypted Zoom Email to a third-party recipient without a Zoom Email account, the shared or forwarded content will not be end-to-end encrypted by Zoom. Recipients of Zoom Team Chats can see your messages, reactions, emojis, and related content, including content from Zoom Emails, Zoom Calendar, and emails from third-party services integrated in the Zoom client, that you or a third-party choose to share to Zoom Team Chat, and in-meeting messages that participants send that are synced with Zoom Team Chat through dedicated meeting group chats. Depending on the account owner’s settings, Zoom Team Chat recipients may record, save, or share your messages."
+      ],
+      "new": [
+        "- **Meeting Hosts, Participants, and Invitees:** Meeting hosts, participants, and invitees may be able to see your email, display name, profile picture, and presence status, including in Zoom meetings and in Zoom’s native calendar service. Meeting hosts, participants, and invitees may also see, record, save, and share meeting content, audio transcripts, messages sent to Everyone, messages sent to meeting group chats (where enabled, and whether sent in Zoom Chat or in-meeting), or messages sent to them directly, and files, whiteboards or other information shared with them (including during a meeting, or through a dedicated meeting group chat). Meeting hosts may also share meeting assets to Zoom Chat, depending on their account owner’s settings. Meeting hosts may also be able to see responses to Q&A and polls generated during the meeting.",
+        "- **Zoom Email, Calendar and Zoom Chat Recipients:** Recipients of Zoom Emails and Zoom Calendar invites can see, save, and share your email and calendar content with others, including by sharing emails to Zoom Chat. If a recipient shares encrypted content with others, for example, by sharing an encrypted Zoom Email to Zoom Chat, or forwarding an encrypted Zoom Email to a third-party recipient without a Zoom Email account, the shared or forwarded content will not be end-to-end encrypted by Zoom. Recipients of Zoom Chats can see your messages, reactions, emojis, and related content, including content from Zoom Emails, Zoom Calendar, and emails from third-party services integrated in the Zoom client, that you or a third-party choose to share to Zoom Chat, and in-meeting messages that participants send that are synced with Zoom Chat through dedicated meeting group chats. Depending on the account owner’s settings, Zoom Chat recipients may record, save, or share your messages."
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## Privacy Rights and Choices"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## Children"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## How to Contact Us"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## Retention"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## European Data Protection Specific Information"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## California & Other U.S. States Notice at Collection"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## California & Other U.S. State Privacy Rights"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## Changes to This Privacy Statement"
+      ],
+      "new": []
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "id": "2025-12-30-uber-terms",
+  "service": "uber",
+  "service_name": "Uber",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en",
+  "detected_at": "2025-12-30T23:48:48+00:00",
+  "source": "wayback",
+  "window_start": "2025-10-22T08:36:23+00:00",
+  "archive_before": "https://web.archive.org/web/20251022083623/https://www.uber.com/legal/en/document/?country=united-states&lang=en&name=general-terms-of-use",
+  "archive_after": "https://web.archive.org/web/20251230234848/https://www.uber.com/legal/en/document/?country=united-states&lang=en&name=general-terms-of-use",
+  "flags": [],
+  "stats": {
+    "hunks": 12,
+    "added_words": 35,
+    "removed_words": 40
+  },
+  "headline": "Uber edited its Terms of Service",
+  "summary": "35 words added and 40 removed across 12 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "# **U.S.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "# U.S. Terms of Use",
+        "1\\. <u>Contractual Relationship; Termination; and Modification</u>",
+        "3\\. <u>The Services</u>",
+        "4\\. <u>Third-Party Services (including Autonomous Vehicles) and Content</u>",
+        "6\\. <u>User Conduct and Requirements; Communications; and User Content</u>",
+        "7. <u>Payment</u>",
+        "8<u>. Disclaimers; Limitation of Liability; and Indemnity</u>"
+      ],
+      "new": [
+        "# **U.S. Terms of Use**",
+        "1\\. Contractual Relationship; Termination; and Modification",
+        "3\\. The Services",
+        "4\\. Third-Party Services (including Autonomous Vehicles) and Content",
+        "6\\. User Conduct and Requirements; Communications; and User Content",
+        "7\\. Payment",
+        "8\\. Disclaimers; Limitation of Liability; and Indemnity"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "PLEASE READ THESE TERMS OF SERVICE CAREFULLY AS THEY CONTAIN PROVISIONS THAT GOVERN HOW YOU CAN BRING CLAIMS BETWEEN YOU AND UBER, INCLUDING THE <u>ARBITRATION AGREEMENT</u> IN SECTION 2 BELOW. THE ARBITRATION AGREEMENT REQUIRES YOU TO RESOLVE ALL DISPUTES WITH UBER ON AN INDIVIDUAL BASIS AND, WITH LIMITED EXCEPTIONS, THROUGH FINAL AND BINDING ARBITRATION. THESE TERMS OF SERVICE OUTLINE HOW SUCH CLAIMS ARE RESOLVED, INCLUDING, WITHOUT LIMITATION, ANY CLAIMS THAT AROSE OR WERE ASSERTED BEFORE THE EFFECTIVE DATE OF THESE TERMS OF SERVICE. BY AGREEING TO THESE TERMS OF SERVICE, YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD ALL OF THEM AND HAVE TAKEN TIME TO CONSIDER THE CONSEQUENCES OF THIS IMPORTANT DECISION."
+      ],
+      "new": [
+        "PLEASE READ THESE TERMS OF SERVICE CAREFULLY AS THEY CONTAIN PROVISIONS THAT GOVERN HOW YOU CAN BRING CLAIMS BETWEEN YOU AND UBER, INCLUDING THE ARBITRATION AGREEMENT IN SECTION 2 BELOW. THE ARBITRATION AGREEMENT REQUIRES YOU TO RESOLVE ALL DISPUTES WITH UBER ON AN INDIVIDUAL BASIS AND, WITH LIMITED EXCEPTIONS, THROUGH FINAL AND BINDING ARBITRATION. THESE TERMS OF SERVICE OUTLINE HOW SUCH CLAIMS ARE RESOLVED, INCLUDING, WITHOUT LIMITATION, ANY CLAIMS THAT AROSE OR WERE ASSERTED BEFORE THE EFFECTIVE DATE OF THESE TERMS OF SERVICE. BY AGREEING TO THESE TERMS OF SERVICE, YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD ALL OF THEM AND HAVE TAKEN TIME TO CONSIDER THE CONSEQUENCES OF THIS IMPORTANT DECISION."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 1. Contractual Relationship; Termination; and Modification"
+      ],
+      "new": [
+        "### **1. Contractual Relationship; Termination; and Modification**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 2. Arbitration Agreement"
+      ],
+      "new": [
+        "### **2. Arbitration Agreement**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 3. The Services"
+      ],
+      "new": [
+        "### **3. The Services**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 4. Third-Party Services (including Autonomous Vehicles) and Content"
+      ],
+      "new": [
+        "### **4. Third-Party Services (including Autonomous Vehicles) and Content**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Third-Party Services made available to you through the Uber App may be provided by an autonomous vehicle. An autonomous vehicle is a vehicle that is capable of operating at, or is equipped with an automated driving system that will enable the vehicle to operate at SAE Levels 3, 4 or 5 of driving automation as defined in the J3016 April 2021 SAE International specification (“Autonomous Vehicle” or “AV”). Autonomous Vehicles are operated by Third-Party Providers that operate a fleet of one or more AVs and may employ or contract with individuals to manage, monitor, or operate its AVs while such vehicles are in motion (such Third-Party Providers, \"Autonomous Vehicle Fleet Providers\"). Your access to Third-Party Services provided by AV may be subject to Autonomous Vehicle Fleet Providers' terms including Waymo’s Terms of Service, which are incorporated herein by reference."
+      ],
+      "new": [
+        "Third-Party Services made available to you through the Uber App may be provided by an autonomous vehicle. An autonomous vehicle is a vehicle that is capable of operating at, or is equipped with an automated driving system that will enable the vehicle to operate at SAE Levels 3, 4 or 5 of driving automation as defined in the J3016 April 2021 SAE International specification (“Autonomous Vehicle” or “AV”). Autonomous Vehicles are operated by Third-Party Providers that operate a fleet of one or more AVs and may employ or contract with individuals to manage, monitor, or operate its AVs while such vehicles are in motion (such Third-Party Providers, \"Autonomous Vehicle Fleet Providers\"). Your access to Third-Party Services provided by AV may be subject to Autonomous Vehicle Fleet Providers' <u>terms</u>, which are incorporated herein by reference."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 5. Accessing the Services"
+      ],
+      "new": [
+        "### **5. Accessing the Services**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 6. User Conduct and Requirements; Communications; and User Content"
+      ],
+      "new": [
+        "### **6. User Conduct and Requirements; Communications; and User Content**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 7. Payment"
+      ],
+      "new": [
+        "### **7. Payment**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 8. Disclaimers; Limitation of Liability; and Indemnity"
+      ],
+      "new": [
+        "### **8. Disclaimers; Limitation of Liability; and Indemnity**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 9. Other Provisions"
+      ],
+      "new": [
+        "### **9. Other Provisions**"
+      ]
+    }
+  ]
+}

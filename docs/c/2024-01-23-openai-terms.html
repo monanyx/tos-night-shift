@@ -1,0 +1,639 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OpenAI (ChatGPT) rewrote its Terms of Service — new wording on your right to sue, fees and billing and more · ToS Night Shift</title>
+<meta name="description" content="2070 words added and 2605 removed across 4 sections. New wording touches: Arbitration / no lawsuits, Money, AI training, How long they keep it, Kicking you out. Read the receipts below — this summary is automatic, not AI.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="OpenAI (ChatGPT) rewrote its Terms of Service — new wording on your right to sue, fees and billing and more · ToS Night Shift">
+<meta property="og:description" content="2070 words added and 2605 removed across 4 sections. New wording touches: Arbitration / no lawsuits, Money, AI training, How long they keep it, Kicking you out. Read the receipts below — this summary is automatic, not AI.">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#09090d">
+<link rel="alternate" type="application/rss+xml" title="ToS Night Shift" href="../feed.xml">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👀</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,800&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#09090d; --panel:#111118; --panel-2:#16161f; --line:#24242f; --text:#ececf2; --muted:#8a8a99;
+  --acid:#c6ff2e; --red:#ff4d6d; --green:#38d996; --amber:#ffb020;
+  --del:rgba(255,77,109,.16); --ins:rgba(56,217,150,.16);
+  --display:"Bricolage Grotesque",system-ui,sans-serif; --body:"Instrument Sans",system-ui,sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,monospace;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 var(--body);
+  background-image:radial-gradient(1200px 500px at 85% -10%,rgba(198,255,46,.07),transparent 60%);}
+a{color:inherit}
+.wrap{max-width:920px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.demo-bar{background:var(--acid);color:#0b0d04;font:600 13px/1.4 var(--body);text-align:center;padding-block:8px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+nav.top{display:flex;align-items:center;justify-content:space-between;padding:20px 0;gap:12px;flex-wrap:wrap}
+.logo{font:800 18px/1 var(--display);letter-spacing:-.02em;text-decoration:none;display:flex;gap:8px;align-items:center}
+.logo .moon{width:22px;height:22px;border-radius:50%;background:var(--acid);box-shadow:inset -7px -2px 0 0 var(--bg)}
+nav.top .links{display:flex;gap:18px;font-size:14px;color:var(--muted)}
+nav.top .links a{text-decoration:none}
+nav.top .links a:hover{color:var(--text)}
+h1,h2,h3{font-family:var(--display);letter-spacing:-.025em;line-height:1.05;margin:0}
+.muted{color:var(--muted)}
+.mono{font-family:var(--mono)}
+.meter{display:inline-flex;align-items:center;gap:8px;font:500 12px/1 var(--mono);text-transform:uppercase;letter-spacing:.06em;
+  padding:6px 10px;border:1px solid var(--line);border-radius:999px;background:var(--panel-2);white-space:nowrap}
+.meter .dots{display:inline-flex;gap:3px}
+.meter .dots i{width:8px;height:8px;border-radius:50%;background:#2c2c38}
+.meter[data-score="2"] .dots i.on{background:var(--amber)}
+.meter[data-score="3"] .dots i.on{background:#ff8a3d}
+.meter[data-score="4"] .dots i.on,.meter[data-score="5"] .dots i.on{background:var(--red)}
+.meter[data-score="0"] .dots i.on,.meter[data-score="1"] .dots i.on{background:var(--muted)}
+.meter[data-score="5"]{border-color:rgba(255,77,109,.5);box-shadow:0 0 18px rgba(255,77,109,.25)}
+.tag{display:inline-block;font:500 12px/1 var(--mono);padding:5px 8px;border-radius:6px;background:var(--panel-2);border:1px solid var(--line);color:var(--muted)}
+.receipt{margin:14px 0 0;padding:12px 14px;border-left:3px solid var(--acid);background:rgba(198,255,46,.05);
+  font:14px/1.55 var(--mono);color:#dfe8c8;border-radius:0 8px 8px 0;overflow-wrap:anywhere}
+.receipt.old{border-left-color:var(--red);background:var(--del);color:#f3c9d1}
+.receipt .label{display:block;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+footer{margin:72px 0 40px;padding-top:24px;border-top:1px solid var(--line);font-size:14px;color:var(--muted);display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between}
+footer a{color:var(--muted)}
+.btn{display:inline-flex;align-items:center;gap:6px;font:600 14px/1 var(--body);padding:10px 14px;border-radius:10px;
+  border:1px solid var(--line);background:var(--panel);color:var(--text);text-decoration:none;cursor:pointer}
+.btn:hover{border-color:#3a3a48}
+.btn.primary{background:var(--acid);color:#0b0d04;border-color:var(--acid)}
+@media (max-width:600px){ nav.top .links{gap:14px} }
+
+.back{display:inline-block;margin:24px 0 28px;color:var(--muted);text-decoration:none;font-size:14px}
+.back:hover{color:var(--text)}
+.meta{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;color:var(--muted);font-size:14px}
+.meta b{color:var(--text);font-weight:600}
+h1.headline{font-size:clamp(32px,6vw,56px);font-weight:800;margin:18px 0 18px}
+.summary{font-size:19px;color:#d0d0da;max-width:720px;margin:0}
+.big-receipt{font-size:16px;margin-top:24px}
+.actions{display:flex;flex-wrap:wrap;gap:10px;margin:28px 0 8px}
+h2.section{font-size:26px;margin:56px 0 6px}
+.hint{color:var(--muted);font-size:14px;margin:0 0 18px}
+.block{border:1px solid var(--line);border-radius:12px;overflow:hidden;margin-bottom:14px;background:var(--panel)}
+.block .kind{font:500 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:10px 14px;border-bottom:1px solid var(--line);color:var(--muted);background:var(--panel-2)}
+.row{padding:12px 14px;font:14px/1.6 var(--mono);overflow-wrap:anywhere;border-top:1px solid var(--line)}
+.row:first-of-type{border-top:0}
+.row .line{display:block;padding:2px 0 2px 22px;position:relative}
+.row .line::before{position:absolute;left:0;top:2px;font-weight:700}
+.row .old{color:#c9a3ad}
+.row .old::before{content:"−";color:var(--red)}
+.row .new{color:#d8efe3}
+.row .new::before{content:"+";color:var(--green)}
+.row .solo-old{background:var(--del);border-radius:6px;padding-right:6px}
+.row .solo-new{background:var(--ins);border-radius:6px;padding-right:6px}
+del{background:var(--del);color:#ff9fb1;text-decoration:line-through;text-decoration-color:rgba(255,77,109,.7);border-radius:3px;padding:0 2px}
+ins{background:var(--ins);color:#8ff0c4;text-decoration:none;border-radius:3px;padding:0 2px}
+.statline{font:13px/1 var(--mono);color:var(--muted);margin-top:14px}
+.source-note{font-size:13px;color:var(--muted);margin-top:10px}
+
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <nav class="top">
+    <a class="logo" href="../index.html"><span class="moon"></span>ToS Night Shift</a>
+    <div class="links">
+      <a href="../index.html">Caught</a>
+      <a href="../watched.html">Watching</a>
+      <a href="../feed.xml">RSS</a>
+      <a href="https://github.com/monanyx/tos-night-shift">GitHub</a>
+    </div>
+  </nav>
+  
+<a class="back" href="../index.html">← All changes</a>
+<div class="meta">
+  <span><b>OpenAI (ChatGPT)</b> · Terms of Service · changed between Nov 1, 2023 and Jan 23, 2024, found in the Internet Archive</span>
+  <span class="meter" data-score="5" title="Side-eye 5 out of 5">side-eye <span class="dots"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span> 5/5</span>
+</div>
+<h1 class="headline">OpenAI (ChatGPT) rewrote its Terms of Service — new wording on your right to sue, fees and billing and more</h1>
+<p class="summary">2070 words added and 2605 removed across 4 sections. New wording touches: Arbitration / no lawsuits, Money, AI training, How long they keep it, Kicking you out. Read the receipts below — this summary is automatic, not AI.</p>
+<blockquote class="receipt big-receipt "><span class="label">New wording</span>“These Terms form an agreement between you and OpenAI, L.L.C., a Delaware company, and they include our Service Terms and important provisions for resolving disputes through arbitration.”</blockquote>
+<p class="statline">+2070 words · −2605 words · 4 sections touched</p>
+<p class="source-note">Automatic keyword summary. The diff below is the source of truth.</p>
+
+<div class="actions">
+  <a class="btn primary" href="https://twitter.com/intent/tweet?text=%F0%9F%91%80%20OpenAI%20%28ChatGPT%29%20rewrote%20its%20Terms%20of%20Service%20%E2%80%94%20new%20wording%20on%20your%20right%20to%20sue%2C%20fees%20and%20billing%20and%20more&url=https%3A//monanyx.github.io/tos-night-shift/c/2024-01-23-openai-terms.html" target="_blank" rel="noopener">Post the side-eye</a>
+  <button class="btn" id="copy">Copy link</button>
+  <a class="btn" href="https://openai.com/policies/terms-of-use/" target="_blank" rel="noopener">Read the policy</a>
+  <a class="btn" href="https://web.archive.org/web/20231101084415/https://openai.com/policies/terms-of-use" target="_blank" rel="noopener">Archived before</a><a class="btn" href="https://web.archive.org/web/20240123081554/https://openai.com/policies/terms-of-use" target="_blank" rel="noopener">Archived after</a>
+  <a class="btn" href="https://github.com/monanyx/tos-night-shift/commits/main/snapshots/openai/terms.md" target="_blank" rel="noopener">Full history</a>
+</div>
+
+<h2 class="section">The receipts</h2>
+<p class="hint">Exactly what changed between the two archived copies. Red is gone, green is new.</p>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">**Effective: January 31, 2024** (previous version)</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">These Terms of Use apply <del>when you</del> use <del>the</del> services <del>of OpenAI, L.L.C. or our affiliates, including our application programming interface, software, tools, developer services, data, documentation,</del> and websites <del>(“Services”). The</del> Terms include our Service <del>Terms, Sharing &amp; Publication Policy, Usage Policies,</del> and <del>other documentation, guidelines, or policies we may provide in writing.</del> By using our Services, you agree to these <del>Terms. Our Privacy Policy explains how we collect and use personal information.</del></span>
+    <span class="line new ">These Terms of Use apply <ins>to your</ins> use <ins>of ChatGPT, DALL·E, and OpenAI’s other</ins> services <ins>for individuals, along with any associated software applications</ins> and websites <ins>(all together, “Services”). These</ins> Terms <ins>form an agreement between you and OpenAI, L.L.C., a Delaware company, and they</ins> include our Service <ins>Terms</ins> and <ins>important provisions for resolving disputes through arbitration.</ins> By using our Services, you agree to these <ins>Terms.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(b) **Use</del> of <del>Brands**. You may not use OpenAI’s or any of its affiliates’ names, logos, or trademarks, without our prior written consent.</del></span>
+    <span class="line new "><ins>If you reside in the European Economic Area, Switzerland, or the UK, your use</ins> of <ins>the Services is governed by these terms.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(d) **Third Party Services**. Any third party software, services, or</del> other <del>products you use in connection with the Services are subject to their own terms,</del> and <del>we are not responsible for third party products.</del></span>
+    <span class="line new "><ins>Our Business Terms govern use of ChatGPT Enterprise, our APIs, and our</ins> other <ins>services for businesses</ins> and <ins>developers.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(b) **Feedback**. We appreciate feedback, comments, ideas, proposals</del> and <del>suggestions for improvements. If you provide any</del> of these <del>things, we may use</del> it <del>without restriction or compensation to you.</del></span>
+    <span class="line new "><ins>Our Privacy Policy explains how we collect</ins> and <ins>use personal information. Although it does not form part</ins> of these <ins>Terms,</ins> it <ins>is an important document that you should read.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">## <del>9. General Terms</del></span>
+    <span class="line new ">## <ins>Who we are</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(d) **Copyright Complaints**. If you believe</del> that <del>your intellectual property rights have been infringed,</del> please <del>send notice to the address below or fill out this form. We may delete or disable content alleged to be infringing and may terminate accounts of repeat infringers.</del></span>
+    <span class="line new "><ins>OpenAI is an AI research and deployment company. Our mission is to ensure</ins> that <ins>artificial general intelligence benefits all of humanity. For more information about OpenAI,</ins> please <ins>visit https://openai.com/about.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">## <del>1.</del> Registration and Access</span>
+    <span class="line new ">## Registration and Access</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(e) **Free Tier**.</del> You <del>may not create more than one account</del> to <del>benefit from credits provided in the free tier of</del> the Services. If <del>we believe</del> you are <del>not using the free tier in good faith, we may charge</del> you <del>standard fees</del> or <del>stop providing access</del> to the Services.</span>
+    <span class="line new "><ins>**Minimum Age.**</ins> You <ins>must be at least 13 years old or the minimum age required in your country</ins> to <ins>consent to use</ins> the Services. If you are <ins>under 18</ins> you <ins>must have your parent</ins> or <ins>legal guardian’s permission</ins> to <ins>use</ins> the Services.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">You must <del>be at least 13 years old</del> to use <del>the</del> Services. If you <del>are under 18 you must have your parent</del> or <del>legal guardian’s permission to use the Services. If you</del> use the Services on behalf of another person or entity, you must have the authority to accept <del>the</del> Terms on their <del>behalf. You must provide accurate and complete information to register for an account. You may not make your access credentials or account available to others outside your organization, and you are responsible for all activities that occur using your credentials.</del></span>
+    <span class="line new "><ins>**Registration**.</ins> You must <ins>provide accurate and complete information to register for an account</ins> to use <ins>our</ins> Services. <ins>You may not share your account credentials or make your account available to anyone else and are responsible for all activities that occur under your account.</ins> If you <ins>create an account</ins> or use the Services on behalf of another person or entity, you must have the authority to accept <ins>these</ins> Terms on their <ins>behalf.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">## <del>2. Usage Requirements</del></span>
+    <span class="line new ">## <ins>Using Our Services</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(a) **Use of Services**.</del> You <del>may access, and we grant you a non-exclusive right</del> to <del>use, the Services in accordance</del> with these <del>Terms. You will</del> comply with <del>these Terms and</del> all applicable laws <del>when using the Services. We</del> and <del>our affiliates own all rights, title, and interest in and</del> to <del>the Services.</del></span>
+    <span class="line new "><ins>**What</ins> You <ins>Can Do**. Subject</ins> to <ins>your compliance</ins> with these <ins>Terms, you may access and use our Services. In using our Services, you must</ins> comply with all applicable laws <ins>as well as our Sharing &amp; Publication Policy, Usage Policies,</ins> and <ins>any other documentation, guidelines, or policies we make available</ins> to <ins>you.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(c) **U.S. Federal Agency Entities**. The</del> Services <del>were developed solely at private expense and are commercial computer software and related documentation within the meaning of the applicable U.S. Federal Acquisition Regulation and agency supplements thereto.</del></span>
+    <span class="line new "><ins>**What You Cannot Do**. You may not use our</ins> Services <ins>for any illegal, harmful, or abusive activity. For example, you may not:</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>## 7. Indemnification; Disclaimer of Warranties; Limitations on Liability</del></span>
+    <span class="line new "><ins>- Use our Services in a way that infringes, misappropriates or violates anyone’s rights.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>## 5. Confidentiality, Security and Data Protection</del></span>
+    <span class="line new "><ins>- Modify, copy, lease, sell or distribute any of our Services.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(b) **Security**. You must implement reasonable and appropriate measures designed</del> to <del>help secure your access</del> to <del>and use</del> of the <del>Services. If you discover any vulnerabilities or breaches related to your use of the Services, you must promptly contact OpenAI and provide details of the vulnerability or breach.</del></span>
+    <span class="line new "><ins>- Attempt</ins> to <ins>or assist anyone</ins> to <ins>reverse engineer, decompile or discover the source code or underlying components</ins> of <ins>our Services, including our models, algorithms, or systems (except to</ins> the <ins>extent this restriction is prohibited by applicable law).</ins></span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">- Automatically or programmatically extract data or Output (defined below).</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">- Represent that Output was human-generated when it was not.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(e). **Exceptions**. This arbitration section does not require arbitration of the following claims: (i) individual claims brought in small claims court; and (ii) injunctive</del> or <del>other equitable relief to stop unauthorized use</del> or <del>abuse of the Services</del> or <del>intellectual property infringement.</del></span>
+    <span class="line new "><ins>- Interfere with</ins> or <ins>disrupt our Services, including circumvent any rate limits</ins> or <ins>restrictions</ins> or <ins>bypass any protective measures or safety mitigations we put on our Services.</ins></span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">- Use Output to develop models that compete with OpenAI.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(b) **Effect on Termination**. Upon termination,</del> you <del>will stop</del> using the <del>Services and you will promptly return or, if instructed</del> by <del>us, destroy any Confidential Information. The sections of these Terms which by their nature should survive termination or expiration should survive, including but not limited</del> to <del>Sections 3 and 5-9.</del></span>
+    <span class="line new "><ins>**Software.** Our Services may allow</ins> you <ins>to download software, such as mobile applications, which may update automatically to ensure you’re</ins> using the <ins>latest version. Our software may include open source software that is governed</ins> by <ins>its own licenses that we’ve made available</ins> to <ins>you.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(f) **NO CLASS ACTIONS**. Disputes must</del> be <del>brought on an individual basis only,</del> and <del>may not</del> be <del>brought as a plaintiff</del> or <del>class member in any purported class, consolidated, or representative proceeding. Class arbitrations, class actions, private attorney general actions, and consolidation with other arbitrations are not allowed. If for any reason a dispute proceeds in court rather than through arbitration, each party knowingly and irrevocably waives any right</del> to <del>trial by jury in any action, proceeding, or counterclaim. This does not prevent either party from participating in a class-wide settlement of claims.</del></span>
+    <span class="line new "><ins>**Corporate Domains.** If you create an account using an email address owned by an organization (for example, your employer), that account may</ins> be <ins>added to the organization&#x27;s business account with us, in which case we will provide notice to you so that you can help facilitate the transfer of your account (unless your organization has already provided notice to you that it may monitor</ins> and <ins>control your account). Once your account is transferred, the organization’s administrator will</ins> be <ins>able to control your account, including being able to access Content (defined below) and restrict</ins> or <ins>remove your access</ins> to <ins>the account.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(a) **Indemnity**. You will defend, indemnify,</del> and <del>hold harmless us,</del> our <del>affiliates,</del> and <del>our personnel, from</del> and <del>against any claims, losses, and expenses (including attorneys’ fees) arising from or relating to your use of the Services, including your Content, products or services you develop or offer in connection with the Services, and your breach of these Terms or violation of applicable law.</del></span>
+    <span class="line new "><ins>**Third Party Services.** Our services may include third party software, products, or services, (“Third Party Services”)</ins> and <ins>some parts of</ins> our <ins>Services, like our browse feature, may include output from those services (“Third Party Output”). Third Party Services</ins> and <ins>Third Party Output are subject to their own terms,</ins> and <ins>we are not responsible for them.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(a) **Relationship of the Parties**. These Terms do not create a partnership, joint venture or agency relationship between you and OpenAI or any of OpenAI’s affiliates. OpenAI</del> and you <del>are independent contractors and neither party will have the power</del> to <del>bind the other or to incur obligations on the other’s behalf without the other party’s prior written consent.</del></span>
+    <span class="line new "><ins>**Feedback.** We appreciate your feedback,</ins> and you <ins>agree that we may use it without restriction or compensation</ins> to <ins>you.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">## <del>3.</del> Content</span>
+    <span class="line new ">## Content</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(d) **Disputes and Late Payments**. If you want to dispute any Fees or Taxes, please contact ar@openai.com within thirty (30) days of the date of the disputed invoice. Undisputed amounts past due</del> may <del>be subject to a finance charge of 1.5% of the unpaid balance per month. If any amount of your Fees are past due, we may suspend your access</del> to the Services <del>after we</del> provide <del>you written notice of late payment.</del></span>
+    <span class="line new "><ins>**Your Content.** You</ins> may <ins>provide input</ins> to the Services <ins>(“Input”), and receive output from the Services based on the Input (“Output”). Input and Output are collectively “Content.” You are responsible for Content, including ensuring that it does not violate any applicable law or these Terms. You represent and warrant that you have all rights, licenses, and permissions needed to</ins> provide <ins>Input to our Services.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">(a) <del>**MANDATORY ARBITRATION**. You</del> and <del>OpenAI agree</del> to <del>resolve any past or present claims relating</del> to <del>these Terms or our Services through final and binding arbitration, except that you have the right to opt out of these arbitration terms, and future changes to these arbitration terms, by filling out this form within 30 days of agreeing to these arbitration terms or the relevant changes.</del></span>
+    <span class="line new "><ins>**Ownership of Content.** As between you and OpenAI, and to the extent permitted by applicable law, you</ins> (a) <ins>retain your ownership rights in Input</ins> and <ins>(b) own the Output. We hereby assign</ins> to <ins>you all our right, title, and interest, if any, in and</ins> to <ins>Output.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(c) **Price Changes**. We may change our prices by posting notice to your account and/or to our website. Price increases will be effective 14 days after they are posted, except for increases made for legal reasons or increases made to Beta Services (as defined in our Service Terms), which will be effective immediately. Any price changes will apply</del> to the <del>Fees charged</del> to <del>your account immediately after the effective date of the changes.</del></span>
+    <span class="line new "><ins>**Similarity of Content.** Due</ins> to the <ins>nature of our Services and artificial intelligence generally, output may not be unique and other users may receive similar output from our Services. Our assignment above does not extend</ins> to <ins>other users’ output or any Third Party Output.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(c) **Arbitration Forum**. Either party</del> may <del>commence binding arbitration through ADR</del> Services, <del>an alternative dispute resolution provider. The parties will pay equal shares of the arbitration fees. If the arbitrator finds that you cannot afford to pay the arbitration fees</del> and <del>cannot obtain a waiver, OpenAI will pay them for you. OpenAI will not seek its attorneys’ fees</del> and <del>costs in arbitration unless the arbitrator determines that your claim is frivolous.</del></span>
+    <span class="line new "><ins>**Our Use of Content.** We</ins> may <ins>use Content to provide, maintain, develop, and improve our</ins> Services, <ins>comply with applicable law, enforce our terms</ins> and <ins>policies,</ins> and <ins>keep our Services safe.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(b) **Similarity</del> of <del>Content**. Due</del> to <del>the nature of machine learning, Output may not be unique across users and the Services may generate the same or similar output for OpenAI or a third party. For example, you may provide input to a model such as “What color is the sky?” and receive output such as “The sky is blue.” Other users may also ask similar questions and receive the same response. Responses that are requested by and generated for other users are not considered</del> your <del>Content.</del></span>
+    <span class="line new "><ins>**Opt Out.** If you do not want us to use your Content to train our models, you can opt out by following the instructions in this Help Center article. Please note that in some cases this may limit the ability</ins> of <ins>our Services</ins> to <ins>better address</ins> your <ins>specific use case.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(d) **Accuracy**.</del> Artificial intelligence and machine learning are rapidly evolving fields of study. We are constantly working to improve our Services to make them more accurate, reliable, <del>safe</del> and beneficial. Given the probabilistic nature of machine learning, use of our Services <del>may</del> in some <del>situations</del> result in <del>incorrect</del> Output that does not accurately reflect real people, places, or <del>facts. You should evaluate the accuracy of any Output as appropriate for your use case, including by using human review of the Output.</del></span>
+    <span class="line new "><ins>**Accuracy.**</ins> Artificial intelligence and machine learning are rapidly evolving fields of study. We are constantly working to improve our Services to make them more accurate, reliable, <ins>safe,</ins> and beneficial. Given the probabilistic nature of machine learning, use of our Services <ins>may,</ins> in some <ins>situations,</ins> result in Output that does not accurately reflect real people, places, or <ins>facts.</ins></span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">When you use our Services you understand and agree:</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(c) **Processing</del> of <del>Personal Data**. If you use the Services to process personal data, you must provide legally adequate privacy notices and obtain necessary consents</del> for <del>the processing of such data, and you represent to us that you are processing such data in accordance with applicable law. If you will be using the OpenAI API for the processing of “personal data” as defined in the GDPR or “Personal Information” as defined in CCPA, please fill out this form to request to execute our Data Processing Addendum.</del></span>
+    <span class="line new "><ins>- Output may not always be accurate. You should not rely on Output from our Services as a sole source</ins> of <ins>truth or factual information, or as a substitute</ins> for <ins>professional advice.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(h) **Severability**. If any part of this Section 8 is found to be illegal</del> or <del>unenforceable, the remainder will remain in effect, except that if a finding of partial illegality or unenforceability would allow Mass Filing or class or representative arbitration, this Section 8 will be unenforceable in its entirety. Nothing in this section will be deemed to waive or otherwise limit the right to seek public injunctive relief or any other non-waivable right, pending a ruling on the substance of such claim</del> from the <del>arbitrator.</del></span>
+    <span class="line new "><ins>- You must evaluate Output for accuracy and appropriateness for your use case, including using human review as appropriate, before using</ins> or <ins>sharing Output</ins> from the <ins>Services.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(b) **Taxes**. Unless otherwise stated, Fees do</del> not <del>include federal, state, local, and foreign taxes, duties, and</del> other <del>similar assessments (“Taxes”). You are responsible for all Taxes associated with your purchase, excluding Taxes based on our net income, and we may invoice you for such Taxes. You agree to timely pay such Taxes and provide us with documentation showing the payment, or additional evidence that we may reasonably require. OpenAI uses the name and address in your account registration as the place of supply for tax purposes, so you must keep this information accurate and up-to-date.</del></span>
+    <span class="line new "><ins>- You must</ins> not <ins>use any Output relating to a person for any purpose that could have a legal or material impact on that person, such as making credit, educational, employment, housing, insurance, legal, medical, or</ins> other <ins>important decisions about them.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(c) **Use of Content to Improve Services**. We do</del> not <del>use Content that you provide to</del> or <del>receive from our API (“API Content”) to develop</del> or <del>improve our Services. We may use Content from Services other than our API (“Non-API Content”) to help develop and improve our Services. You can read more here about how Non-API Content may be used to improve model performance. If you do not want your Non-API Content used to improve Services, you can opt out by filling out this form. Please note that in some cases this may limit the ability of our Services to better address your specific use case.</del></span>
+    <span class="line new "><ins>- Our Services may provide incomplete, incorrect, or offensive Output that does</ins> not <ins>represent OpenAI’s views. If Output references any third party products</ins> or <ins>services, it doesn’t mean the third party endorses</ins> or <ins>is affiliated with OpenAI.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">## <del>8. Dispute Resolution</del></span>
+    <span class="line new ">## <ins>Our IP Rights</ins></span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">We and our affiliates own all rights, title, and interest in and to the Services. You may only use our name and logo in accordance with our Brand Guidelines.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">## <del>4. Fees and Payments</del></span>
+    <span class="line new ">## <ins>Paid Accounts</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(b) **Informal Dispute Resolution**. We would like to understand and try to address your concerns prior to formal legal action. Before filing a claim against OpenAI, you agree to try to resolve the dispute informally by sending us notice at dispute-resolution@openai.com of your name, a description of the dispute, and the relief you seek. If we are unable to resolve a dispute within 60 days, you may bring a formal proceeding. Any statute of limitations will be tolled during the 60-day resolution process.</del> If you <del>reside in the EU, the European Commission provides</del> for <del>an online dispute resolution platform, which you can</del> access <del>at https://ec.europa.eu/consumers/odr.</del></span>
+    <span class="line new "><ins>**Billing.**</ins> If you <ins>purchase any Services, you will provide complete and accurate billing information, including a valid payment method. For paid subscriptions, we will automatically charge your payment method on each agreed-upon periodic renewal until you cancel. You’re responsible</ins> for <ins>all applicable taxes, and we’ll charge tax when required. If your payment cannot be completed, we may downgrade your account or suspend your</ins> access <ins>to our Services until payment is received.</ins></span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">**Service Credits.** You can pay for some Services in advance by purchasing service credits. All service credits are subject to our Service Credit Terms.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">**Cancellation.** You can cancel your paid subscription at any time. Payments are non-refundable, except where required by law. These Terms do not override any mandatory local laws regarding your cancellation rights.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(d) **Arbitration Procedures**. The arbitration</del> will <del>be conducted by telephone, based</del> on <del>written submissions, video conference, or in person in San Francisco, California or at another mutually agreed location. The arbitration will be conducted by a sole arbitrator by ADR Services under its then-prevailing rules. All issues are for the arbitrator to decide, except a California court has the authority to determine (i) the scope, enforceability, and arbitrability of this Section 8, including the mass filing procedures below, and (ii) whether</del> you <del>have complied with the pre-arbitration requirements in this section. The amount of any settlement offer will</del> not <del>be disclosed</del> to the <del>arbitrator by either party until after the arbitrator determines the final award, if any.</del></span>
+    <span class="line new "><ins>**Changes.** We may change our prices from time to time. If we increase our subscription prices, we</ins> will <ins>give you at least 30 days’ notice and any price increase will take effect</ins> on <ins>your next renewal so that</ins> you <ins>can cancel if you do</ins> not <ins>agree</ins> to the <ins>price increase.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">## <del>6. Term</del> and <del>Termination</del></span>
+    <span class="line new ">## <ins>Termination</ins> and <ins>Suspension</ins></span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">**Termination.** You are free to stop using our Services at any time. We reserve the right to suspend or terminate your access to our Services or delete your account if we determine:</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">- You breached these Terms or our Usage Policies.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">- We must do so to comply with the law.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">- Your use of our Services could cause risk or harm to OpenAI, our users, or anyone else.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">We also may terminate your account if it has been inactive for over a year and you do not have a paid account. If we do, we will provide you with advance notice.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">**Appeals.** If you believe we have suspended or terminated your account in error, you can file an appeal with us by contacting our Support team.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">## Discontinuation of Services</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">We may decide to discontinue our Services, but if we do, we will give you advance notice and a refund for any prepaid, unused Services.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">## Disclaimer of Warranties</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(b) **Disclaimer**. THE</del> SERVICES ARE PROVIDED “AS IS.” EXCEPT TO THE EXTENT PROHIBITED BY LAW, WE AND OUR AFFILIATES AND LICENSORS MAKE NO WARRANTIES (EXPRESS, IMPLIED, STATUTORY OR OTHERWISE) WITH RESPECT TO THE SERVICES, AND DISCLAIM ALL WARRANTIES <del>INCLUDING</del> BUT NOT LIMITED <del>TO</del> WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SATISFACTORY QUALITY, NON-INFRINGEMENT, AND QUIET ENJOYMENT, AND ANY WARRANTIES ARISING OUT OF ANY COURSE OF DEALING OR TRADE USAGE. WE DO NOT WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED, ACCURATE OR ERROR FREE, OR THAT ANY CONTENT WILL BE SECURE OR NOT LOST OR ALTERED.</span>
+    <span class="line new "><ins>OUR</ins> SERVICES ARE PROVIDED “AS IS.” EXCEPT TO THE EXTENT PROHIBITED BY LAW, WE AND OUR AFFILIATES AND LICENSORS MAKE NO WARRANTIES (EXPRESS, IMPLIED, STATUTORY OR OTHERWISE) WITH RESPECT TO THE SERVICES, AND DISCLAIM ALL WARRANTIES <ins>INCLUDING,</ins> BUT NOT LIMITED <ins>TO,</ins> WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SATISFACTORY QUALITY, NON-INFRINGEMENT, AND QUIET ENJOYMENT, AND ANY WARRANTIES ARISING OUT OF ANY COURSE OF DEALING OR TRADE USAGE. WE DO NOT WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED, ACCURATE OR ERROR FREE, OR THAT ANY CONTENT WILL BE SECURE OR NOT LOST OR ALTERED.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">YOU AGREE <del>TO THE FOLLOWING MANDATORY ARBITRATION</del> AND <del>CLASS ACTION WAIVER PROVISIONS:</del></span>
+    <span class="line new ">YOU <ins>ACCEPT AND</ins> AGREE <ins>THAT ANY USE OF OUTPUTS FROM OUR SERVICE IS AT YOUR SOLE RISK</ins> AND <ins>YOU WILL NOT RELY ON OUTPUT AS A SOLE SOURCE OF TRUTH OR FACTUAL INFORMATION, OR AS A SUBSTITUTE FOR PROFESSIONAL ADVICE.</ins></span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">## Limitation of Liability</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(c) **Limitations of Liability**.</del> NEITHER WE NOR ANY OF OUR AFFILIATES OR LICENSORS WILL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, <del>CONSEQUENTIAL</del> OR EXEMPLARY DAMAGES, INCLUDING DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, OR DATA OR OTHER LOSSES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR AGGREGATE LIABILITY UNDER THESE TERMS <del>SHALL</del> NOT EXCEED THE GREATER OF THE AMOUNT YOU PAID FOR THE SERVICE THAT GAVE RISE TO THE CLAIM DURING THE 12 MONTHS BEFORE THE LIABILITY AROSE OR ONE HUNDRED DOLLARS ($100). THE LIMITATIONS IN THIS SECTION APPLY ONLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.</span>
+    <span class="line new ">NEITHER WE NOR ANY OF OUR AFFILIATES OR LICENSORS WILL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, <ins>CONSEQUENTIAL,</ins> OR EXEMPLARY DAMAGES, INCLUDING DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, OR DATA OR OTHER LOSSES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR AGGREGATE LIABILITY UNDER THESE TERMS <ins>WILL</ins> NOT EXCEED THE GREATER OF THE AMOUNT YOU PAID FOR THE SERVICE THAT GAVE RISE TO THE CLAIM DURING THE 12 MONTHS BEFORE THE LIABILITY AROSE OR ONE HUNDRED DOLLARS ($100). THE LIMITATIONS IN THIS SECTION APPLY ONLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(a) **Your Content**. You</del> may <del>provide input</del> to the <del>Services (“Input”), and receive output generated and returned by the Services based on the Input (“Output”). Input and Output are collectively “Content.” As between the parties and to the</del> extent <del>permitted by applicable law, you own all Input. Subject to</del> your <del>compliance with these Terms, OpenAI hereby assigns to you all its right, title and interest in and to Output. This means you can use Content for any purpose, including commercial purposes such as sale or publication, if you comply with these Terms. OpenAI may use Content to provide and maintain the Services, comply with applicable law, and enforce our policies. You are responsible for Content, including for ensuring that it does not violate any applicable law or these Terms.</del></span>
+    <span class="line new "><ins>Some countries and states do not allow the disclaimer of certain warranties or the limitation of certain damages, so some or all of the terms above</ins> may <ins>not apply to you, and you may have additional rights. In that case, these Terms only limit our responsibilities</ins> to the <ins>maximum</ins> extent <ins>permissible in</ins> your <ins>country of residence.</ins></span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">OPENAI’S AFFILIATES, SUPPLIERS, LICENSORS, AND DISTRIBUTORS ARE INTENDED THIRD PARTY BENEFICIARIES OF THIS SECTION.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">## Indemnity</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(a) **Termination; Suspension**. These Terms take effect when</del> you <del>first use</del> the <del>Services</del> and <del>remain in effect until terminated. You may terminate these Terms at</del> any <del>time for any reason by discontinuing the</del> use of the Services and <del>Content. We may terminate these Terms for any reason by providing you at least 30 days’ advance notice. We may terminate these Terms immediately upon notice to you if you materially breach Sections 2 (Usage Requirements), 5 (Confidentiality, Security and Data Protection), 8 (Dispute Resolution) or 9 (General Terms), if there are changes in relationships with third party technology providers outside of our control, or to comply with law or government requests. We may suspend your access to the Services if you do not comply with these Terms, if your use poses a security risk to us</del> or any <del>third party, or if we suspect that your use is fraudulent or could subject us or any third party to liability.</del></span>
+    <span class="line new "><ins>If</ins> you <ins>are a business or organization, to</ins> the <ins>extent permitted by law, you will indemnify</ins> and <ins>hold harmless us, our affiliates, and our personnel, from and against</ins> any <ins>costs, losses, liabilities, and expenses (including attorneys’ fees) from third party claims arising out of or relating to your</ins> use of the Services and <ins>Content</ins> or any <ins>violation of these Terms.</ins></span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">## Dispute Resolution</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">**YOU AND OPENAI AGREE TO THE FOLLOWING MANDATORY ARBITRATION AND CLASS ACTION WAIVER PROVISIONS:**</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(a) **Fees</del> and <del>Billing**. You will pay all fees charged</del> to <del>your account (“Fees”) according</del> to the <del>prices and terms on the applicable pricing page, or as otherwise agreed between us in writing. We have the right to correct pricing errors or mistakes</del> even if <del>we have already issued</del> an <del>invoice or received payment. You</del> will <del>provide complete and accurate billing information including a valid and authorized payment method. We will charge your payment method on an agreed-upon periodic basis, but may reasonably change the date on which the charge is posted. You authorize OpenAI and its affiliates, and our third-party payment processor(s), to charge your payment method for the Fees. If your payment cannot be completed, we will provide you written notice and may suspend access to the Services until payment is received. Fees are payable in U.S. dollars and are due upon invoice issuance. Payments are nonrefundable except as provided in this Agreement.</del></span>
+    <span class="line new "><ins>**MANDATORY ARBITRATION.** You</ins> and <ins>OpenAI agree</ins> to <ins>resolve any claims arising out of or relating</ins> to <ins>these Terms or our Services, regardless of when</ins> the <ins>claim arose,</ins> even if <ins>it was before these Terms existed (a “Dispute”), through final and binding arbitration. You may opt out of arbitration within 30 days of account creation or of any updates to these arbitration terms within 30 days after the update has taken effect by filling out this form. If you opt out of</ins> an <ins>update, the last set of agreed upon arbitration terms</ins> will <ins>apply.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(c) **Restrictions**.</del> You <del>may not (i) use the Services in a way that infringes, misappropriates or violates any person’s rights; (ii) reverse assemble, reverse compile, decompile, translate or otherwise attempt</del> to <del>discover the source code or underlying components of models, algorithms, and systems of the Services (except</del> to the <del>extent such restrictions</del> are <del>contrary</del> to <del>applicable law); (iii) use output from</del> the <del>Services</del> to <del>develop models that compete with OpenAI; (iv) except as permitted through the API, use any automated or programmatic method</del> to <del>extract data or output from the Services, including scraping, web harvesting, or web data extraction; (v) represent that output from the Services was human-generated when it is not or otherwise violate our Usage Policies; (vi) buy, sell, or transfer API keys without our prior consent; or (vii), send us any personal information</del> of <del>children under 13 or the applicable age of digital consent. You</del> will <del>comply with any rate limits and other requirements in our documentation. You may use Services only in geographies currently supported by OpenAI.</del></span>
+    <span class="line new "><ins>**Informal Dispute Resolution.** We would like to understand and try to address your concerns prior to formal legal action. Before either of us files a claim against the other, we both agree to try to resolve the Dispute informally.</ins> You <ins>agree</ins> to <ins>do so by sending us notice through this form. We will do so by sending you notice</ins> to the <ins>email address associated with your account. If we</ins> are <ins>unable</ins> to <ins>resolve a Dispute within 60 days, either of us has</ins> the <ins>right</ins> to <ins>initiate arbitration. We also both agree</ins> to <ins>attend an individual settlement conference if either party requests one during this time. Any statute</ins> of <ins>limitations</ins> will <ins>be tolled during this informal resolution process.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(g) **Mass Filings**. If, at any time, 30 or more similar demands for arbitration are asserted against OpenAI or related parties by the same or coordinated counsel or entities (“Mass Filing”), ADR Services will randomly assign sequential numbers to each of the Mass Filings. Claims numbered 1-10 will be the “Initial Test Cases” and will proceed to arbitration first. The arbitrators will render a final award for the Initial Test Cases within 120 days of the initial pre-hearing conference, unless the claims are resolved in advance or the parties agree to extend the deadline. The parties will then have 90 days (the “Mediation Period”) to resolve the remaining cases in mediation based on the awards from the Initial Test Cases.</del> If <del>the parties</del> are unable to resolve the <del>outstanding claims during this time,</del> the <del>parties may choose to opt out</del> of <del>the</del> arbitration <del>process</del> and <del>proceed in court by providing written notice to the other party within 60 days after the Mediation Period. Otherwise, the remaining cases will be arbitrated in their assigned order. Any statute of limitations will be tolled from the time the Initial Test Cases are chosen until your case is chosen as described above.</del></span>
+    <span class="line new "><ins>**Arbitration Forum.**</ins> If <ins>we</ins> are unable to resolve the <ins>Dispute, either of us may commence arbitration with National Arbitration and Mediation (“NAM”) under its Comprehensive Dispute Resolution Rules and Procedures and/or Supplemental Rules for Mass Arbitration Filings, as applicable (available here). OpenAI will not seek attorneys’ fees and costs in arbitration unless</ins> the <ins>arbitrator determines that your claim is frivolous. The activities described in these Terms involve interstate commerce and the Federal Arbitration Act will govern the interpretation and enforcement</ins> of <ins>these</ins> arbitration <ins>terms</ins> and <ins>any arbitration.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(a) **Confidentiality**. You may</del> be <del>given access to Confidential Information of OpenAI, its affiliates and other third parties. You may use Confidential Information only as needed to use</del> the <del>Services as permitted under these Terms. You may not disclose Confidential Information to any third party, and you</del> will <del>protect Confidential Information</del> in the <del>same manner that</del> you <del>protect your own confidential information</del> of <del>a similar nature, using at least reasonable care. Confidential Information means nonpublic information that OpenAI</del> or <del>its affiliates</del> or <del>third parties designate</del> as <del>confidential or should reasonably</del> be <del>considered confidential under the circumstances, including software, specifications, and other nonpublic business information. Confidential Information does not include information that: (i) is or becomes generally available</del> to the <del>public through no fault</del> of <del>yours; (ii) you already possess without</del> any <del>confidentiality obligations when you received it under these Terms; (iii) is rightfully disclosed to you by a third party without any confidentiality obligations; or (iv) you independently developed without using Confidential Information. You may disclose Confidential Information when required by law or the valid order of a court or other governmental authority if you give reasonable prior written notice to OpenAI and use reasonable efforts to limit the scope of disclosure, including assisting us with challenging the disclosure requirement, in each case where possible.</del></span>
+    <span class="line new "><ins>**Arbitration Procedures.** The arbitration will</ins> be <ins>conducted by videoconference if possible, but if</ins> the <ins>arbitrator determines a hearing should be conducted in person, the location</ins> will <ins>be mutually agreed upon,</ins> in the <ins>county where</ins> you <ins>reside, or as determined by the arbitrator, unless the batch arbitration process applies. The arbitration will be conducted by a sole arbitrator. The arbitrator will be either a retired judge or an attorney licensed to practice law in the state</ins> of <ins>California. The arbitrator will have exclusive authority to resolve any Dispute, except the state</ins> or <ins>federal courts of San Francisco, California have the authority to determine any Dispute about enforceability, validity of the class action waiver,</ins> or <ins>requests for public injunctive relief,</ins> as <ins>set out below. Any settlement offer amounts will not</ins> be <ins>disclosed</ins> to the <ins>arbitrator by either party until after the arbitrator determines the final award, if any. The arbitrator has the authority to grant motions dispositive</ins> of <ins>all or part of</ins> any <ins>Dispute.</ins></span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">**Exceptions.** This section does not require informal dispute resolution or arbitration of the following claims: (i) individual claims brought in small claims court; and (ii) injunctive or other equitable relief to stop unauthorized use or abuse of the Services or intellectual property infringement or misappropriation.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">**CLASS AND JURY TRIAL WAIVERS.** You and OpenAI agree that Disputes must be brought on an individual basis only, and may not be brought as a plaintiff or class member in any purported class, consolidated, or representative proceeding. Class arbitrations, class actions, and representative actions are prohibited. Only individual relief is available. The parties agree to sever and litigate in court any request for public injunctive relief after completing arbitration for the underlying claim and all other claims. This does not prevent either party from participating in a class-wide settlement. You and OpenAI knowingly and irrevocably waive any right to trial by jury in any action, proceeding, or counterclaim.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">**Batch Arbitration.** If 25 or more claimants represented by the same or similar counsel file demands for arbitration raising substantially similar Disputes within 90 days of each other, then you and OpenAI agree that NAM will administer them in batches of up to 50 claimants each (“Batch”), unless there are less than 50 claimants in total or after batching, which will comprise a single Batch. NAM will administer each Batch as a single consolidated arbitration with one arbitrator, one set of arbitration fees, and one hearing held by videoconference or in a location decided by the arbitrator for each Batch. If any part of this section is found to be invalid or unenforceable as to a particular claimant or Batch, it will be severed and arbitrated in individual proceedings.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">**Severability.** If any part of these arbitration terms is found to be illegal or unenforceable, the remainder will remain in effect, except that if a finding of partial illegality or unenforceability would allow class arbitration, class action, or representative action, this entire dispute resolution section will be unenforceable in its entirety.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">## Copyright Complaints</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">If you believe that your intellectual property rights have been infringed, please send notice to the address below or fill out this form. We may delete or disable content that we believe violates these Terms or is alleged to be infringing and will terminate accounts of repeat infringers where appropriate.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">3180 18th <del>St</del></span>
+    <span class="line new ">3180 18th <ins>St.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">San Francisco, <del>CA</del> 94110</span>
+    <span class="line new ">San Francisco, <ins>California</ins> 94110</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old solo-old">(i) **Export Controls**. The Services may not be used in or for the benefit of, exported, or re-exported (a) into any U.S. embargoed countries (collectively, the “Embargoed Countries”) or (b) to anyone on the U.S. Treasury Department’s list of Specially Designated Nationals, any other restricted party lists (existing now or in the future) identified by the Office of Foreign Asset Control, or the U.S. Department of Commerce Denied Persons List or Entity List, or any other restricted party lists (collectively, “Restricted Party Lists”). You represent and warrant that you are not located in any Embargoed Countries and not on any such restricted party lists. You must comply with all applicable laws related to Embargoed Countries or Restricted Party Lists, including any requirements or obligations to know your end users directly.</span>
+    
+  </div>
+  
+  <div class="row">
+    <span class="line old ">- A physical or electronic signature of the person authorized to act on behalf of the owner of the copyright <del>interest;</del></span>
+    <span class="line new ">- A physical or electronic signature of the person authorized to act on behalf of the owner of the copyright <ins>interest</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">- A description of the copyrighted work that you claim has been infringed <del>upon;</del></span>
+    <span class="line new ">- A description of the copyrighted work that you claim has been infringed <ins>upon</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">- A description of where the material <del>that you claim is infringing</del> is located on <del>the site;</del></span>
+    <span class="line new ">- A description of where the <ins>allegedly infringing</ins> material is located on <ins>our site so we can find it</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">- Your address, telephone number, and e-mail <del>address;</del></span>
+    <span class="line new ">- Your address, telephone number, and e-mail <ins>address</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">- A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the <del>law; and</del></span>
+    <span class="line new ">- A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the <ins>law</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">- A statement by <del>you, made under penalty of perjury,</del> that the above information in your notice is accurate <del>and</del> that you are the copyright owner or authorized to act on the copyright owner’s <del>behalf.</del></span>
+    <span class="line new ">- A statement by <ins>you</ins> that the above information in your notice is accurate <ins>and, under penalty of perjury,</ins> that you are the copyright owner or authorized to act on the copyright owner’s <ins>behalf</ins></span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">## General Terms</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(j) **Equitable Remedies**.</del> You <del>acknowledge that if you violate</del> or <del>breach</del> these <del>Terms, it</del> may <del>cause irreparable harm to OpenAI and its affiliates, and OpenAI shall have the right to seek injunctive relief against you in addition</del> to any <del>other legal remedies.</del></span>
+    <span class="line new "><ins>**Assignment.**</ins> You <ins>may not assign</ins> or <ins>transfer any rights or obligations under</ins> these <ins>Terms and any attempt to do so will be void. We</ins> may <ins>assign our rights or obligations under these Terms</ins> to any <ins>affiliate, subsidiary, or successor in interest of any business associated with our Services.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(k) **Entire Agreement**.</del> These Terms and <del>any policies incorporated in</del> these Terms <del>contain the entire agreement between you and OpenAI regarding the use of</del> the Services <del>and, other than any Service specific terms of use or any applicable enterprise agreements, supersedes any prior or contemporaneous agreements, communications, or understandings between you and OpenAI on that subject.</del></span>
+    <span class="line new "><ins>**Changes to</ins> These Terms <ins>or Our Services.** We are continuously working to develop</ins> and <ins>improve our Services. We may update</ins> these Terms <ins>or our Services accordingly from time to time. For example, we may make changes to these Terms or</ins> the Services <ins>due to:</ins></span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">- Changes to the law or regulatory requirements.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">- Security or safety reasons.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">- Circumstances beyond our reasonable control.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">- Changes we make in the usual course of developing our Services.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">- To adapt to new technologies.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(l) **Jurisdiction, Venue and Choice</del> of <del>Law**. These Terms will be governed by the laws of the State of California, excluding California’s conflicts of law rules or principles. Except as provided in the “Dispute Resolution” section, all claims arising out of or relating</del> to these Terms will be <del>brought exclusively in</del> the <del>federal or state courts of San Francisco County, California, USA.</del></span>
+    <span class="line new "><ins>We will give you at least 30 days advance notice</ins> of <ins>changes</ins> to these Terms <ins>that materially adversely impact you either via email or an in-product notification. All other changes</ins> will be <ins>effective as soon as we post them to our website. If you do not agree to</ins> the <ins>changes, you must stop using our Services.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(h) **Waiver and Severability**. If you do</del> not <del>comply with these Terms, and OpenAI does not take action right away, this does not mean OpenAI is giving up any</del> of our <del>rights.</del> Except as provided in <del>Section 8,</del> if any <del>part</del> of these Terms is determined to be invalid or <del>unenforceable by a court of competent jurisdiction,</del> that <del>term</del> will be enforced to the maximum extent permissible and it will not affect the enforceability of any other terms.</span>
+    <span class="line new "><ins>**Delay in Enforcing These Terms.** Our failure to enforce a provision is</ins> not <ins>a waiver</ins> of our <ins>right to do so later.</ins> Except as provided in <ins>the dispute resolution section above,</ins> if any <ins>portion</ins> of these Terms is determined to be invalid or <ins>unenforceable,</ins> that <ins>portion</ins> will be enforced to the maximum extent permissible and it will not affect the enforceability of any other terms.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(f) **Modifications**. We</del> may <del>amend these Terms from time</del> to <del>time</del> by <del>posting</del> a <del>revised version on the website,</del> or <del>if an update materially adversely affects your rights or obligations under these Terms we will provide notice to you either by emailing the email associated with your account or providing an in-product notification. Those changes will become effective no sooner than 30 days after we notify you. All other changes will be effective immediately. Your continued use of the Services after any change means you agree to such change.</del></span>
+    <span class="line new "><ins>**Trade Controls.** You must comply with all applicable trade laws, including sanctions and export control laws. Our Services</ins> may <ins>not be used in or for the benefit of, or exported or re-exported</ins> to <ins>(a) any U.S. embargoed country or territory or (b) any individual or entity with whom dealings are prohibited or restricted under applicable trade laws. Our Services may not be used for any end use prohibited</ins> by <ins>applicable trade laws, and your Input may not include material or information that requires</ins> a <ins>government license for release</ins> or <ins>export.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(g) **Notices**. All notices will be in writing. We may notify</del> you <del>using</del> the <del>registration information</del> you <del>provided or the email address associated with your use of the Services. Service will be deemed given on the date of receipt if delivered by email or on the date sent via courier if delivered by post. OpenAI accepts service of process at this address: OpenAI, L.L.C., 3180 18th Street, San Francisco, CA 94110, Attn: contract-notices@openai.com.</del></span>
+    <span class="line new "><ins>**Entire Agreement.** These Terms contain the entire agreement between</ins> you <ins>and OpenAI regarding</ins> the <ins>Services and, other than any Service-specific terms, supersedes any prior or contemporaneous agreements between</ins> you <ins>and OpenAI.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>(e) **Assignment and Delegation**. You may not assign or delegate any rights or obligations under these Terms, including in connection with a change of control. Any purported assignment and delegation shall be null and void. We may assign</del> these Terms in <del>connection with a merger, acquisition</del> or <del>sale</del> of <del>all or substantially all of our assets, or to any affiliate or as part of a corporate reorganization.</del></span>
+    <span class="line new "><ins>**Governing Law.** California law will govern</ins> these Terms <ins>except for its conflicts of laws principles. Except as provided</ins> in <ins>the dispute resolution section above, all claims arising out of</ins> or <ins>relating to these Terms will be brought exclusively in the federal or state courts</ins> of <ins>San Francisco, California.</ins></span>
+  </div>
+  
+</div>
+
+
+  <footer>
+    <span>Open source. Automatic. Not legal advice — just receipts.</span>
+    <span>45 policies watched · <a href="https://github.com/monanyx/tos-night-shift">Add one</a></span>
+  </footer>
+</div>
+
+<script>
+document.getElementById('copy').addEventListener('click', async e => {
+  try { await navigator.clipboard.writeText(location.href); e.target.textContent = 'Copied'; }
+  catch { e.target.textContent = 'Copy failed'; }
+});
+</script>
+
+</body>
+</html>

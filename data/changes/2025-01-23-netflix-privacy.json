@@ -1,0 +1,197 @@
+{
+  "id": "2025-01-23-netflix-privacy",
+  "service": "netflix",
+  "service_name": "Netflix",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://help.netflix.com/legal/privacy",
+  "detected_at": "2025-01-23T01:02:06+00:00",
+  "source": "wayback",
+  "window_start": "2024-10-30T22:58:51+00:00",
+  "archive_before": "https://web.archive.org/web/20241030225851/https://help.netflix.com/legal/privacy",
+  "archive_after": "https://web.archive.org/web/20250123010206/https://help.netflix.com/legal/privacy",
+  "flags": [
+    {
+      "tag": "data-sharing",
+      "label": "Data sharing",
+      "hits": 4
+    },
+    {
+      "tag": "tracking",
+      "label": "Tracking",
+      "hits": 3
+    },
+    {
+      "tag": "location",
+      "label": "Location",
+      "hits": 2
+    },
+    {
+      "tag": "minors",
+      "label": "Kids & teens",
+      "hits": 2
+    },
+    {
+      "tag": "retention",
+      "label": "How long they keep it",
+      "hits": 2
+    },
+    {
+      "tag": "payments",
+      "label": "Money",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 6,
+    "added_words": 2698,
+    "removed_words": 550
+  },
+  "headline": "Netflix rewrote its Privacy Policy — new wording on sharing your data, tracking and more",
+  "summary": "2698 words added and 550 removed across 6 sections. New wording touches: Data sharing, Tracking, Location, Kids & teens, How long they keep it, Money. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "- **Behavioral Advertising Choices** If you subscribe to an ad supported subscription plan, we can present you with Advertisements, including behavioral advertisements.",
+  "receipt_side": "new",
+  "sideeye": 5,
+  "tags": [
+    "data-sharing",
+    "tracking",
+    "location",
+    "minors",
+    "retention",
+    "payments"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "To see our California Consumer Privacy Act (CCPA) Privacy Notice, including “Notice at Collection” details, please click on the link, go to netflix.com/privacy#ccpa, or scroll down to the “Supplemental Privacy Disclosures for US Residents” section."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "However, whenever we transfer personal information to other countries, we ensure that the personal information is transferred in accordance with applicable data protection laws and this Privacy Statement. Specifically, we use a variety of contractual, technical, and organizational measures as appropriate for such transfers, including data protection agreements, technical protections, and practices to challenge disproportionate or unlawful government authority requests. You can find out more about our international transfers here: help.netflix.com/legal/uk-eea-disclosure-and-international-transfers."
+      ],
+      "new": [
+        "However, whenever we transfer personal information to other countries, we ensure that the personal information is transferred in accordance with applicable data protection laws and this Privacy Statement. Specifically, we use a variety of contractual, technical, and organizational measures as appropriate for such transfers, including data protection agreements, technical protections, and practices to challenge disproportionate or unlawful government authority requests. You can find out more about how we disclose and transfer your personal information internationally here: help.netflix.com/legal/personal-information-international-transfers."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Behavioral Advertising Choices**",
+        "If you subscribe to an ad supported subscription plan, we can present you with Advertisements, including behavioral advertisements. If you do not want to be presented with behavioral advertisements, you can indicate your choices by changing the “Behavioral Advertising” setting located in the “Privacy and data settings” menu (for the relevant profile) of the “Account” section of our website."
+      ],
+      "new": [
+        "- **Behavioral Advertising Choices** If you subscribe to an ad supported subscription plan, we can present you with Advertisements, including behavioral advertisements. If you do not want to be presented with behavioral advertisements, you can indicate your choices by changing the “Behavioral Advertising” setting located in the “Privacy and data settings” menu (for the relevant profile) of the “Account” section of our website."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **To exercise choice regarding resettable device identifiers** To exercise choice regarding Netflix’s use of resettable device identifiers (for marketing the Netflix service or Netflix content, or as used in connection with an ad supported subscription plan), please configure the appropriate setting on your device (usually found under \"privacy\" or \"ads\" in your device settings). If you choose not to allow this, you may still see marketing messages promoting Netflix (and Advertisements if you subscribe to an ad supported subscription plan) on that device but it will not be selected based on the use of a resettable device identifier. Note that your choice regarding the resettable device identifier is specific to that device."
+      ],
+      "new": [
+        "- **To exercise choice regarding resettable device identifiers**",
+        "To exercise choice regarding Netflix’s use of resettable device identifiers (for marketing the Netflix service or Netflix content, or as used in connection with an ad supported subscription plan), please configure the appropriate setting on your device (usually found under \"privacy\" or \"ads\" in your device settings). If you choose not to allow this, you may still see marketing messages promoting Netflix (and Advertisements if you subscribe to an ad supported subscription plan) on that device but it will not be selected based on the use of a resettable device identifier. Note that your choice regarding the resettable device identifier is specific to that device."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Unfortunately, no measures can be guaranteed to provide 100% security. Accordingly, we cannot guarantee the security of your personal information."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## **Supplemental Privacy Disclosures for EEA/UK Residents**",
+        "### Legal bases",
+        "We rely on the following legal bases for collecting and using the personal information described in this Privacy Statement:",
+        "- **Contractual necessity:** We rely on contractual necessity to collect and use personal information for the following purposes described in this Privacy Statement: to provide our service (when processing members' personal information); to administer and operate our business; to comply with law and enforce our Terms of Use (when we enforce against members who have violated our Terms of Use); and operate our ad supported subscription plan.",
+        "- **Legitimate interests:** We rely on legitimate interests to collect and use personal information for the following purposes described in this Privacy Statement: to provide our service (when processing profile users' personal information, including for the purpose of profile transfers); to research, analyze, and improve our services; to enable Partner integrations and promotions; to send marketing and informational messages (in accordance with your communications preferences and where permitted by law); to operate our ad supported subscription plan; for safety, security, and fraud prevention (except where we have a legal obligation to comply or have your consent, in the circumstances described below); and to comply with law and enforce our Terms of Use (when determining whether and for which Netflix signup offers you are eligible and determining whether a particular device is permitted to use the account consistent with our Terms of Use).",
+        "- **Compliance with a legal obligation:** We rely on compliance with a legal obligation to collect and use personal information for the following purposes described in this Privacy Statement: to comply with law and enforce our Terms of Use (where we are under a legal obligation to comply).",
+        "- **Consent:** We rely on consent to collect and use personal information for the following purposes described in this Privacy Statement: to send marketing messages that individuals have consented to receive (such as email messages to encourage sign up completion, special offers that may be available, or to invite users to participate in consumer insights research such as detailed surveys, and panel and individual interviews). We also rely on consent for safety, security, and fraud prevention, and to comply with law and enforce our Terms of Use (such as where a member requests that we provide information about their account to law enforcement officials to help with an investigation regarding stolen property belonging to the individual).",
+        "### International transfers from the EEA and UK",
+        "Whenever we transfer personal information from the European Economic Area (“**EEA**”) or United Kingdom (“**UK**”), we use appropriate contractual, technical, and organizational measures to protect the personal information transferred (as described above). For transfers from the EEA, these include entering into the European Commission’s Standard Contractual Clauses (available here) with the recipient of the information. For transfers from the UK, these include entering into the UK’s International Data Transfer Agreement or the UK’s International Data Transfer Addendum (available here). You can find out more about how we disclose and transfer your personal information internationally here: help.netflix.com/legal/uk-eea-disclosure-and-international-transfers.",
+        "You have the right to complain to a data protection authority about our collection and use of your personal information. If you are a data subject from the European Economic Area, our main establishment within the European Union is in the Netherlands. If you are a data subject from the UK, our competent supervisory authority is the Information Commissioner's Office. But we encourage you to first contact us with any questions or concerns.",
+        "**Advertising on the Netflix Service - Demographic Information Collection.** If you subscribe to an ad supported subscription plan, we ask you to provide us with demographic information including your date of birth and gender. We use this demographic information to select Advertisements to present to you as set out in this Privacy Statement. If you are from the EEA/UK, you may opt out of this use of demographic information by Netflix to select Advertisements by going to the “Privacy and data settings” → “Demographic Advertising” setting within the “Account” section of our website. If you opt out of Netflix’s use of this demographic information to select Advertisements for you, you will still see Advertisements, but they will not be based on this demographic information."
+      ],
+      "new": [
+        "## **Supplemental Privacy Disclosures for US Residents**",
+        "These disclosures apply to residents of US states that have adopted comprehensive consumer privacy laws that are in effect (collectively “**US State Privacy Laws**”). These disclosures supplement the Privacy Statement.",
+        "### Notice to California Residents",
+        "### Notice at Collection",
+        "At or before the time of collection, the California Consumer Privacy Act (“CCPA”) requires that we provide a notice of our practices, including the categories of personal information collected, the purposes for which such information is collected or used, whether such information is “sold” or “shared”, and the criteria used to determine how long such information is retained. We have provided these details throughout this section of the Privacy Statement.",
+        "### Personal Information We Collect",
+        "We collect or have collected in the preceding twelve months, the following categories of personal information from consumers:",
+        "- Identifiers such as name, email address, password, payment details, postal address, and information about your Netflix account and/or Netflix profiles on your account (such as profile name and icon), and other online identifiers (such as in a Netflix game). We also collect IP addresses, identifiers from the devices you might use to connect (such as resettable device identifiers), cookie identifiers, and characteristics about the networks you use when you connect to our service.",
+        "- Additional categories of information listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)) (“California Customer Records”) such as name, address, phone number, credit card or debit card number, and other payment details.",
+        "- Characteristics of protected classifications under California or federal law (“characteristics of protected classifications”) such as date of birth and gender if you subscribe to an ad supported subscription plan.",
+        "- Commercial information such as your purchase history and other products purchased or considered.",
+        "- Internet or other electronic network activity information (“internet activity information”) such as any information about your interactions with Netflix, our Service Providers, or Partners, including choices you have made when engaging with interactive titles, your Netflix game activity (such as gameplay, game use, in-game text chats, saved game information, leaderboard status and availability status on Netflix games), or search queries on the Netflix service. When you subscribe to an ad supported subscription plan we receive information provided by Advertising Companies (see definition above) such as information about your likely interests they have collected or inferred from your visits to other websites and apps.",
+        "- Geolocation data such as your general location based on your IP address (such as your city, state/province, and postal code).",
+        "- Audio, electronic, visual, thermal, olfactory or similar information (“audio/visual information”) such as voice recording when you contact our customer support team, and images collected in connection with Netflix games that have user-generated content (for example, drawings).",
+        "- Inferences we may make using the categories of personal information above in the context of the Netflix service.",
+        "- Sensitive personal information such as a Netflix username in combination with the password, and payment details such as a credit card number.",
+        "### Sources of personal information",
+        "We explain our sources of information in the section “Where We Collect Information From” above. For ease of reference, we collect the above categories of personal information from the following sources: directly from you; automatically when you use our service; from Partners whose products and service you use; from other sources such as Service Providers, Netflix Marketing Providers, third party sites and forums, and publicly available sources; and Advertising Companies.",
+        "### Uses of Personal Information",
+        "We use and have used in the past twelve months, each of the categories of personal information for one or more of the purposes described in the section “How We Use Your Personal Information”. For ease of reference, we use the personal information to provide our service; to administer and operate our business; to research, analyze and improve our services; to enable partner integrations and promotions; to send marketing and informational messages; to operate our ad supported subscription plan (where applicable); for safety, security and fraud prevention; and to comply with law and enforce our Terms of Use.",
+        "When you play Netflix games that have features such as leaderboards, achievements, local multiplayer, online multiplayer, friend-related features, text chat, Netflix game controller, and user-generated content, we use your personal information as described in the Netflix Games Supplemental Privacy Disclosures.",
+        "### Categories of Personal information disclosed for a business purpose",
+        "We disclose and have disclosed in the past twelve months, the following categories of personal information for business purposes (see the section “Who We Disclose Personal Information To”): identifiers, California Customer Records, characteristics of protected classifications, commercial information, internet activity information, geolocation data, audio/visual information and inferences.",
+        "We disclose these categories of personal information to the following recipients: the Netflix family of companies; Service Providers; Partners; Netflix Marketing Providers; Advertising Companies; and entities engaged in connection with promotional collaborations, corporate transactions (if any), safety, security and fraud prevention, or for purposes of compliance with law and enforcing our Terms of Use.",
+        "### Categories of Personal Information Sold or Shared",
+        "We engage in the sale and sharing and also have sold or shared (as defined under CCPA) the following categories of personal information in the last 12 months:",
+        "Categories of personal information “sold”: Our use of identifiers for Netflix marketing activities may be considered a “sale” under CCPA (see section “Communications and Marketing Preferences” → “Matched Identifier Communications from Netflix”).",
+        "Additionally, we use identifiers for marketing activities (such as behavioral advertisements promoting the Netflix service or Netflix content through use of cookies and resettable identifiers) which can be considered “sharing” under CCPA (see section “Communications and Marketing Preferences” → “Marketing of the Netflix service using cookies and similar technologies”).",
+        "Categories of personal information used for “targeted advertising” (considered “sharing” under CCPA) in the context of our ad supported subscription plan: identifiers and geolocation data (for example, Advertisers may select Advertisements to be displayed to devices in a specific city or state). We allow Advertisers to use these categories of personal information to deliver Advertisements on the Netflix service. Such use may be considered \"sharing\" under CCPA (see section “Advertising Choices (Netflix Ad Supported Subscription Plans)”).",
+        "### Business purpose of selling or sharing personal information",
+        "We engage in the sale and sharing and also have sold or shared (as defined under CCPA) the above categories of personal information for the following business or commercial purposes: to send marketing messages, and operate our ad supported subscription plan.",
+        "### Retention of Personal Information",
+        "We may retain personal information as required or permitted by applicable laws and regulations, including to honor your choices, for our billing or records purposes, and to fulfill the purposes described in this Privacy Statement. Specifically, we retain personal information for as long as necessary to provide our service; to administer and operate our business; to research, analyze, and improve our services; to operate our ad supported subscription plan; for safety, security, and fraud prevention; and to comply with law and enforce our Terms of Use. Our retention of personal information is based on many factors such as your relationship with Netflix (for example, whether you are a Netflix current member); the nature of the personal information; compliance with our legal obligations; and/or defending or resolving actual or anticipated legal claims. We take reasonable measures to destroy or de-identify personal information in a secure manner when it is no longer required. For information about deletion, removal and retention of personal information, please see help.netflix.com/node/100625.",
+        "### Your California Privacy Rights",
+        "California residents have certain rights with respect to your personal information.",
+        "- **Right to Know/Access.** You have the right to request that we disclose: the categories and specific pieces of personal information we have collected about you; the categories of sources from which personal information are collected; our business or commercial purpose for collecting, using, disclosing, selling or sharing personal information; the categories of third parties to whom we disclose, sell, or share personal information; and the categories of personal information we have disclosed, sold, or shared about you for a business or commercial purpose. You also have a right to confirm whether we process your personal information, and to access and receive a copy of the specific personal information we have collected about you.",
+        "- **Right to Correction.** You have a right to request correction of any inaccurate personal information we hold about you.",
+        "- **Right to Deletion**. You have a right to request deletion of your personal information, subject to exceptions under applicable laws.",
+        "You can assert these rights above when we receive a verified request from you. For information on how to exercise your rights, please see the “Your Rights and Controls” section of this Privacy Statement.",
+        "- **California Do Not Sell or Share My Personal Information.** As of the date of this Privacy Statement, we may use certain categories of personal information to offer members an ad supported subscription plan or engage in Netflix marketing activities. Under the CCPA, these activities may be considered “selling” or “sharing.” If you do not want us to sell or share personal information about you, you can learn how to make applicable choices by clicking the “Do Not Sell or Share My Personal Information” link located in the footer of netflix.com or by visiting netflix.com/dnsspi. Using these choices will not opt you out of the use of previously “sold” (as defined by the CCPA) personal information, or stop all behavioral advertising.",
+        "We do not knowingly sell or share (as defined by the CCPA) the personal information of minors under 16 years of age.",
+        "Some web browsers and extensions are compatible with Global Privacy Control (GPC), allowing them to communicate your preference to opt out from specific forms of data processing, including any “sale” or “sharing” of personal information. In California, we honor your choices expressed through the GPC settings if we detect such a signal, as required by applicable law. You can find more information about how we respond to GPC here: netflix.com/dnsspi.",
+        "- **Right to Limit the Use of Sensitive Personal Information.** As described above, we do collect sensitive personal information such as your Netflix username, password, and payment details, which could be considered types of “sensitive personal information.” However, we use these types of sensitive personal information only for the purpose of providing our service; administering and operating our business; and other permitted purposes as described in the Privacy Statement and not for a purpose which would require offering a choice to limit its use under the CCPA.",
+        "- **Authorized Agents.** You have the right to exercise the rights described in this section using an authorized agent acting on your behalf. They can submit a request on your behalf to privacy@netflix.com along with a statement, certifying as may be required, that the agent is authorized to act on your behalf. In order to verify the request, we may ask you to verify your identity and your authorization of the agent to make requests on your behalf. For more information about how to access your information, including our verification process, please see help.netflix.com/node/100624.",
+        "- **Right to Non Discrimination.** You have a right not to be subject to discriminatory treatment for exercising any of your rights described under this section. We will not discriminate against you based on your exercise of any of your rights.",
+        "You can find details regarding the privacy rights requests we handled during the past year here: netflix.com/legal/privacy-metrics.",
+        "### Notice of Financial Incentives",
+        "When you subscribe to Netflix you may choose an ad supported subscription plan. It is possible that some may interpret an ad supported subscription plan to fall within the meaning of a “financial incentive” for the purposes of the CCPA.",
+        "If you choose an ad supported subscription plan, you will receive a discount in the price of your monthly subscription and when you watch shows and movies on Netflix, you will be presented Advertisements which may appear before, during, or after content viewed on Netflix. In certain circumstances some Netflix content and features (such as downloading and viewing Netflix content in other countries) may not be accessible under an ad supported subscription plan.",
+        "If you would like to stop subscribing to an ad supported subscription plan, you can access the “Account” section of our website and select a different plan. The monthly fee associated with your Netflix subscription will likely increase if you do so. We believe the reduction in the monthly fee for participation in an ad supported subscription plan and our use of the categories of personal information described above to present relevant Advertisements to you represents a fair exchange to continue to provide members a high quality service at a lower price to members. When considering the extent of reduction in monthly fee for participating in an ad supported subscription plan, we considered projected ad revenue generated by all members projected to participate in an ad supported subscription plan and the overall revenue required by Netflix to operate and innovate its business, produce the Netflix content to entertain its members, and make a profit.",
+        "### Personal Information Rights under US State Privacy Laws",
+        "This section applies to residents of US States outside of California that have adopted US State Privacy Laws.",
+        "### Sale and Use of Personal Information for Targeted Advertising Purposes",
+        "We may use certain categories of personal information to offer members an ad supported subscription plan or engage in marketing activities as described above in this Privacy Statement. Some of these activities may be considered “selling” or “targeted advertising” under US State Privacy Laws depending on how you interact with us and the choices you make.",
+        "If you do not want us to “sell” or use your personal information for “targeted advertising purposes”, you can learn how to make applicable choices here: netflix.com/dnsspi. Using these choices will not opt you out of the use of previously sold personal information or stop all behavioral advertising.",
+        "In some US states, we may honor your choices expressed through Global Privacy Control (GPC) signals as required by applicable law. You can find more information about how we respond to GPC here: netflix.com/dnsspi.",
+        "### Use of De-Identified Information",
+        "We may de-identify personal information in a secure manner when we determine it is appropriate as part of our business operations. We take reasonable measures to maintain and use the information in a de-identified manner. We do not attempt to re-identify such information, except as permitted under applicable law.",
+        "### Other Personal Information Rights under US State Privacy Laws",
+        "To the extent applicable under US State Privacy Laws, you may have the following rights in connection with your personal information:",
+        "- A right to confirm whether we process your personal information and to access and receive a copy of the personal information we have collected about you.",
+        "- A right to request deletion of your personal information, subject to exceptions under applicable US State Privacy Laws.",
+        "- A right to request correction or update any inaccurate personal information we hold about you.",
+        "- A right to opt-out of “sale” or our use of personal information for “targeted advertising” purposes. You can learn more by clicking the “Do Not Sell or Share My Personal Information” link located in the footer of netflix.com or by visiting netflix.com/dnsspi.",
+        "You can assert these rights when we receive a verified request from you. For information on how to exercise your rights, please see the Your Rights and Controls section of this Privacy Statement.",
+        "### Use of Authorized Agents",
+        "If you are a resident of a US state that gives you a right to use an authorized agent, they can submit a request on your behalf to privacy@netflix.com along with a statement, certifying as may be required, that the agent is authorized to act on your behalf. In order to verify the request, we may ask you to verify your identity and your authorization of the agent to make requests on your behalf. For more information about how to access your information, including our verification process, please see help.netflix.com/node/100624.",
+        "### Appeals",
+        "If you are a resident of a US state that gives you a right to appeal a decision, you may appeal our decision denying your request. Requests to change our policies or practices are not grounds for appeal. You may request an appeal by contacting us at privacyappeals@netflix.com. Please provide the US state that you are writing from, accompanied with documentation regarding the decision you are appealing.",
+        "If you do not own a Netflix account, we may not be able to respond to certain requests, including, for example, the right to access or delete personal information. Because we only collect limited personal information about individuals without an account, we are unable to verify requests from non-account holders to the standard required by the US State Privacy Laws."
+      ]
+    }
+  ]
+}

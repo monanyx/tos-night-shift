@@ -1,0 +1,2584 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Reddit rewrote its Terms of Service — new wording on tracking · ToS Night Shift</title>
+<meta name="description" content="1396 words added and 268 removed across 79 sections. New wording touches: Tracking. Read the receipts below — this summary is automatic, not AI.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Reddit rewrote its Terms of Service — new wording on tracking · ToS Night Shift">
+<meta property="og:description" content="1396 words added and 268 removed across 79 sections. New wording touches: Tracking. Read the receipts below — this summary is automatic, not AI.">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#09090d">
+<link rel="alternate" type="application/rss+xml" title="ToS Night Shift" href="../feed.xml">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👀</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,800&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#09090d; --panel:#111118; --panel-2:#16161f; --line:#24242f; --text:#ececf2; --muted:#8a8a99;
+  --acid:#c6ff2e; --red:#ff4d6d; --green:#38d996; --amber:#ffb020;
+  --del:rgba(255,77,109,.16); --ins:rgba(56,217,150,.16);
+  --display:"Bricolage Grotesque",system-ui,sans-serif; --body:"Instrument Sans",system-ui,sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,monospace;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 var(--body);
+  background-image:radial-gradient(1200px 500px at 85% -10%,rgba(198,255,46,.07),transparent 60%);}
+a{color:inherit}
+.wrap{max-width:920px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.demo-bar{background:var(--acid);color:#0b0d04;font:600 13px/1.4 var(--body);text-align:center;padding-block:8px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+nav.top{display:flex;align-items:center;justify-content:space-between;padding:20px 0;gap:12px;flex-wrap:wrap}
+.logo{font:800 18px/1 var(--display);letter-spacing:-.02em;text-decoration:none;display:flex;gap:8px;align-items:center}
+.logo .moon{width:22px;height:22px;border-radius:50%;background:var(--acid);box-shadow:inset -7px -2px 0 0 var(--bg)}
+nav.top .links{display:flex;gap:18px;font-size:14px;color:var(--muted)}
+nav.top .links a{text-decoration:none}
+nav.top .links a:hover{color:var(--text)}
+h1,h2,h3{font-family:var(--display);letter-spacing:-.025em;line-height:1.05;margin:0}
+.muted{color:var(--muted)}
+.mono{font-family:var(--mono)}
+.meter{display:inline-flex;align-items:center;gap:8px;font:500 12px/1 var(--mono);text-transform:uppercase;letter-spacing:.06em;
+  padding:6px 10px;border:1px solid var(--line);border-radius:999px;background:var(--panel-2);white-space:nowrap}
+.meter .dots{display:inline-flex;gap:3px}
+.meter .dots i{width:8px;height:8px;border-radius:50%;background:#2c2c38}
+.meter[data-score="2"] .dots i.on{background:var(--amber)}
+.meter[data-score="3"] .dots i.on{background:#ff8a3d}
+.meter[data-score="4"] .dots i.on,.meter[data-score="5"] .dots i.on{background:var(--red)}
+.meter[data-score="0"] .dots i.on,.meter[data-score="1"] .dots i.on{background:var(--muted)}
+.meter[data-score="5"]{border-color:rgba(255,77,109,.5);box-shadow:0 0 18px rgba(255,77,109,.25)}
+.tag{display:inline-block;font:500 12px/1 var(--mono);padding:5px 8px;border-radius:6px;background:var(--panel-2);border:1px solid var(--line);color:var(--muted)}
+.receipt{margin:14px 0 0;padding:12px 14px;border-left:3px solid var(--acid);background:rgba(198,255,46,.05);
+  font:14px/1.55 var(--mono);color:#dfe8c8;border-radius:0 8px 8px 0;overflow-wrap:anywhere}
+.receipt.old{border-left-color:var(--red);background:var(--del);color:#f3c9d1}
+.receipt .label{display:block;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+footer{margin:72px 0 40px;padding-top:24px;border-top:1px solid var(--line);font-size:14px;color:var(--muted);display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between}
+footer a{color:var(--muted)}
+.btn{display:inline-flex;align-items:center;gap:6px;font:600 14px/1 var(--body);padding:10px 14px;border-radius:10px;
+  border:1px solid var(--line);background:var(--panel);color:var(--text);text-decoration:none;cursor:pointer}
+.btn:hover{border-color:#3a3a48}
+.btn.primary{background:var(--acid);color:#0b0d04;border-color:var(--acid)}
+@media (max-width:600px){ nav.top .links{gap:14px} }
+
+.back{display:inline-block;margin:24px 0 28px;color:var(--muted);text-decoration:none;font-size:14px}
+.back:hover{color:var(--text)}
+.meta{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;color:var(--muted);font-size:14px}
+.meta b{color:var(--text);font-weight:600}
+h1.headline{font-size:clamp(32px,6vw,56px);font-weight:800;margin:18px 0 18px}
+.summary{font-size:19px;color:#d0d0da;max-width:720px;margin:0}
+.big-receipt{font-size:16px;margin-top:24px}
+.actions{display:flex;flex-wrap:wrap;gap:10px;margin:28px 0 8px}
+h2.section{font-size:26px;margin:56px 0 6px}
+.hint{color:var(--muted);font-size:14px;margin:0 0 18px}
+.block{border:1px solid var(--line);border-radius:12px;overflow:hidden;margin-bottom:14px;background:var(--panel)}
+.block .kind{font:500 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:10px 14px;border-bottom:1px solid var(--line);color:var(--muted);background:var(--panel-2)}
+.row{padding:12px 14px;font:14px/1.6 var(--mono);overflow-wrap:anywhere;border-top:1px solid var(--line)}
+.row:first-of-type{border-top:0}
+.row .line{display:block;padding:2px 0 2px 22px;position:relative}
+.row .line::before{position:absolute;left:0;top:2px;font-weight:700}
+.row .old{color:#c9a3ad}
+.row .old::before{content:"−";color:var(--red)}
+.row .new{color:#d8efe3}
+.row .new::before{content:"+";color:var(--green)}
+.row .solo-old{background:var(--del);border-radius:6px;padding-right:6px}
+.row .solo-new{background:var(--ins);border-radius:6px;padding-right:6px}
+del{background:var(--del);color:#ff9fb1;text-decoration:line-through;text-decoration-color:rgba(255,77,109,.7);border-radius:3px;padding:0 2px}
+ins{background:var(--ins);color:#8ff0c4;text-decoration:none;border-radius:3px;padding:0 2px}
+.statline{font:13px/1 var(--mono);color:var(--muted);margin-top:14px}
+.source-note{font-size:13px;color:var(--muted);margin-top:10px}
+
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <nav class="top">
+    <a class="logo" href="../index.html"><span class="moon"></span>ToS Night Shift</a>
+    <div class="links">
+      <a href="../index.html">Caught</a>
+      <a href="../watched.html">Watching</a>
+      <a href="../feed.xml">RSS</a>
+      <a href="https://github.com/monanyx/tos-night-shift">GitHub</a>
+    </div>
+  </nav>
+  
+<a class="back" href="../index.html">← All changes</a>
+<div class="meta">
+  <span><b>Reddit</b> · Terms of Service · changed between Apr 20, 2026 and Jul 21, 2026, found in the Internet Archive</span>
+  <span class="meter" data-score="2" title="Side-eye 2 out of 5">side-eye <span class="dots"><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i><i class=""></i></span> 2/5</span>
+</div>
+<h1 class="headline">Reddit rewrote its Terms of Service — new wording on tracking</h1>
+<p class="summary">1396 words added and 268 removed across 79 sections. New wording touches: Tracking. Read the receipts below — this summary is automatic, not AI.</p>
+<blockquote class="receipt big-receipt "><span class="label">New wording</span>“Cookie Notice”</blockquote>
+<p class="statline">+1396 words · −268 words · 79 sections touched</p>
+<p class="source-note">Automatic keyword summary. The diff below is the source of truth.</p>
+
+<div class="actions">
+  <a class="btn primary" href="https://twitter.com/intent/tweet?text=%F0%9F%91%80%20Reddit%20rewrote%20its%20Terms%20of%20Service%20%E2%80%94%20new%20wording%20on%20tracking&url=https%3A//monanyx.github.io/tos-night-shift/c/2026-07-21-reddit-terms.html" target="_blank" rel="noopener">Post the side-eye</a>
+  <button class="btn" id="copy">Copy link</button>
+  <a class="btn" href="https://redditinc.com/policies/user-agreement" target="_blank" rel="noopener">Read the policy</a>
+  <a class="btn" href="https://web.archive.org/web/20260420143144/https://redditinc.com/policies/user-agreement" target="_blank" rel="noopener">Archived before</a><a class="btn" href="https://web.archive.org/web/20260721220728/https://redditinc.com/policies/user-agreement" target="_blank" rel="noopener">Archived after</a>
+  <a class="btn" href="https://github.com/monanyx/tos-night-shift/commits/main/snapshots/reddit/terms.md" target="_blank" rel="noopener">Full history</a>
+</div>
+
+<h2 class="section">The receipts</h2>
+<p class="hint">Exactly what changed between the two archived copies. Red is gone, green is new.</p>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">July 1, 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">01.07.2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>Responsible Builder Policy</del></span>
+    <span class="line new "><ins>Richtlinie für verantwortungsvollen Aufbau</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1 julio 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>Responsible Builder Policy</del></span>
+    <span class="line new "><ins>Política de creadores responsables</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1 julio 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>Responsible Builder Policy</del></span>
+    <span class="line new "><ins>Política de creadores responsables</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1er juillet 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>Responsible Builder Policy</del></span>
+    <span class="line new "><ins>Politique des créateurs responsables</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1° luglio 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>Responsible Builder Policy</del></span>
+    <span class="line new "><ins>Politica per creatori responsabili</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1 juli 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>Responsible Builder Policy</del></span>
+    <span class="line new "><ins>Beleid inzake verantwoord ontwikkelen</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1o de julho de 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>Responsible Builder Policy</del></span>
+    <span class="line new "><ins>Política de Criador Responsável</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1 de julho de 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>Responsible Builder Policy</del></span>
+    <span class="line new "><ins>Política de Construtor Responsável</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1 juli 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>Responsible Builder Policy</del></span>
+    <span class="line new "><ins>Policy för ansvarsfulla byggare</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1 জুলাই, 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old solo-old">Responsible Builder Policy</span>
+    
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">দায়িত্বশীল নির্মাতা নীতি</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1 जुलाई, 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old solo-old">Responsible Builder Policy</span>
+    
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">ज़िम्मेदार बिल्डर पॉलिसी</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Hulyo 1, 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">Responsible <del>Builder Policy</del></span>
+    <span class="line new "><ins>Patakaran ng</ins> Responsible <ins>Builder</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1 กรกฎาคม 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old solo-old">Responsible Builder Policy</span>
+    
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">นโยบายผู้สร้างที่มีความรับผิดชอบ</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1 lipca 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>Responsible Builder Policy</del></span>
+    <span class="line new "><ins>Zasady odpowiedzialnego twórcy rozwiązań</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1 iulie 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>Responsible Builder Policy</del></span>
+    <span class="line new "><ins>Politica pentru dezvoltatori responsabili</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Ngày 01 tháng 7 năm 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old solo-old">Responsible Builder Policy</span>
+    
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Chính sách xây dựng có trách nhiệm</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1 Julai 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old solo-old">Responsible Builder Policy</span>
+    
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Dasar Pembina Bertanggungjawab</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">2026. július 1</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>Responsible Builder Policy</del></span>
+    <span class="line new "><ins>Felelős fejlesztői szabályzat</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1 Ιουλίου 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old solo-old">Responsible Builder Policy</span>
+    
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Πολιτική υπεύθυνων υποστηρικτών</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1. heinäkuuta 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old solo-old">Responsible Builder Policy</span>
+    
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Vastuullisen kehittäjän käytäntö</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1. juli 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>Responsible Builder Policy</del></span>
+    <span class="line new "><ins>Retningslinjer for ansvarlige byggere</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1 июля 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old solo-old">Responsible Builder Policy</span>
+    
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Политика ответственного создателя</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1 Temmuz 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>Responsible Builder Policy</del></span>
+    <span class="line new "><ins>Sorumlu Geliştirici Politikası</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">2026 年 7 月 1 日</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old solo-old">Responsible Builder Policy</span>
+    
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">负责任建设者政策</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">2026 年 7 月 1 日</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old solo-old">Responsible Builder Policy</span>
+    
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">負責任開發人員政策</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">All</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1. července 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old solo-old">Responsible Builder Policy</span>
+    
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Zásady odpovědné tvorby</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">All</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1. juli 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>Responsible Builder Policy</del></span>
+    <span class="line new "><ins>Politik for ansvarlig app-bygger</ins></span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">All</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">2026 年 7 月 1 日</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">責任あるビルダーポリシー</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">All</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">2026년 7월 1일</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old solo-old">Responsible Builder Policy</span>
+    
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">책임 있는 빌더 정책</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">All</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1. jul 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>Responsible Builder Policy</del></span>
+    <span class="line new "><ins>Smernice za odgovorne neimare</ins></span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">All</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1 липня 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old solo-old">Privacy Policy</span>
+    
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Політика конфіденційності Reddit</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Політика відповідального розробника</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">All</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1 юли 2026</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">31 март 2026</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">28 юни 2025</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">24 септември 2024</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Предварителни условия за ползване</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Условия за автори</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Условия за разработчици</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Условия за API за данни</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Условия за вграждане в Reddit</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Responsible Disclosure and Bug Bounty Program Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Политика за използване на търговска марка</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Политика за поверителност на Reddit</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Public Content Policy</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Cookie Notice</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Правила на Reddit</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Кодекс за поведение на модератора</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for EU users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for UK users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for AU users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Advertising Platform Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Business Tool Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Advertising Data Processing Agreement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Jurisdiction Specific Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Ads Subprocessors</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Ads API Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Third Party Audience Targeting (Beta) Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Advertising Policies and Billing</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Brand Guidelines</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Press &amp; Broadcast Guidelines</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Условия за доходи</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">24 септември 2024</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Transparency</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Guidelines for Law Enforcement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit&#x27;s Anti-Slavery and Human Trafficking Statement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Developer Data Protection Addendum</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Impressum</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Политика за отговорни строители</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">All</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1. srpnja 2026</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">31. ožujka 2026</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">28. lipnja 2025</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">24. rujna 2024</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Uvjeti za probne značajke</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Uvjeti za kreatore</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Uvjeti za developere</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Uvjeti za podatkovni API</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Uvjeti za ugrađene elemente Reddita</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Responsible Disclosure and Bug Bounty Program Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Pravila upotrebe zaštitnog znaka</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Pravila zaštite privatnosti na Redditu</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Public Content Policy</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Cookie Notice</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Pravila Reddita</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Kodeks ponašanja moderatora</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for EU users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for UK users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for AU users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Advertising Platform Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Business Tool Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Advertising Data Processing Agreement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Jurisdiction Specific Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Ads Subprocessors</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Ads API Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Third Party Audience Targeting (Beta) Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Advertising Policies and Billing</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Brand Guidelines</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Press &amp; Broadcast Guidelines</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Uvjeti za zaradu</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">24. rujna 2024</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Transparency</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Guidelines for Law Enforcement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit&#x27;s Anti-Slavery and Human Trafficking Statement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Developer Data Protection Addendum</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Impressum</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Pravila odgovornog graditelja</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">All</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1. júla 2026</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">31. marca 2026</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">28. júna 2025</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">24. rujna 2024</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Podmienky používania náhľadu</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Podmienky pre tvorcov</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Podmienky pre vývojárov</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Podmienky pre údaje API</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Podmienky ukážok Reddit</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Responsible Disclosure and Bug Bounty Program Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Zásady používania ochranných známok</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Zásady ochrany osobných údajov Redditu</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Public Content Policy</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Cookie Notice</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Pravidlá Redditu</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Kódex správania moderátora</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for EU users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for UK users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for AU users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Advertising Platform Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Business Tool Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Advertising Data Processing Agreement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Jurisdiction Specific Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Ads Subprocessors</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Ads API Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Third Party Audience Targeting (Beta) Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Advertising Policies and Billing</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Brand Guidelines</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Press &amp; Broadcast Guidelines</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Podmienky zarábania</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">24. septembra 2024</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Transparency</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Guidelines for Law Enforcement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit&#x27;s Anti-Slavery and Human Trafficking Statement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Developer Data Protection Addendum</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Impressum</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Zásady zodpovednej tvorby</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">All</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1 يوليو 2026</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">31 مارس 2026</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">28 يونيو 2025</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">24 سبتمبر 2024</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">شروط الاستخدام للمعاينات</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">شروط المنشئ</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">شروط المطوّر</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">شروط واجهة برمجة تطبيقات البيانات</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">شروط تضمينات Reddit</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Responsible Disclosure and Bug Bounty Program Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">سياسة استخدام العلامات التجارية</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">سياسة خصوصية Reddit</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Public Content Policy</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Cookie Notice</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">قواعد Reddit</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">مدونة قواعد سلوك المشرفين</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for EU users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for UK users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for AU users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Advertising Platform Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Business Tool Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Advertising Data Processing Agreement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Jurisdiction Specific Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Ads Subprocessors</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Ads API Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Third Party Audience Targeting (Beta) Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Advertising Policies and Billing</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Brand Guidelines</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Press &amp; Broadcast Guidelines</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">شروط الربح</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">24 سبتمبر 2024</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Transparency</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Guidelines for Law Enforcement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit&#x27;s Anti-Slavery and Human Trafficking Statement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Developer Data Protection Addendum</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Impressum</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Responsible Builder Policy</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">All</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1 Juli 2026</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">31 Maret 2026</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">28 Juni 2025</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">24 September 2024</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Pratinjau Syarat Penggunaan</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Persyaratan Kreator</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Syarat Pengembang</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Syarat API Data</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Syarat Semat Reddit</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Responsible Disclosure and Bug Bounty Program Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Kebijakan Penggunaan Merek Dagang</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Privacy Policy</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Public Content Policy</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Cookie Notice</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Aturan Reddit</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Kode Etik Moderator</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for EU users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for UK users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for AU users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Advertising Platform Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Business Tool Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Advertising Data Processing Agreement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Jurisdiction Specific Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Ads Subprocessors</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Ads API Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Third Party Audience Targeting (Beta) Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Advertising Policies and Billing</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Brand Guidelines</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Press &amp; Broadcast Guidelines</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">24 September 2024</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Transparency</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Guidelines for Law Enforcement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit&#x27;s Anti-Slavery and Human Trafficking Statement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Developer Data Protection Addendum</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Impressum</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Responsible Builder Policy</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">All</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">۱ ژوئیه ۲۰۲۶</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">۲۴ سپتامبر ۲۰۲۴</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">شرایط پیشنمایش استفاده</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Creator Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">شرایط توسعهدهندگان</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">شرایط API داده</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">شرایط جاسازی محتوای Reddit</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Responsible Disclosure and Bug Bounty Program Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">خطمشی استفاده از علامت تجاری</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Privacy Policy</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Public Content Policy</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Cookie Notice</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Rules</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">منشور اخلاقی ناظر</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for EU users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for UK users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for AU users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Advertising Platform Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Business Tool Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Advertising Data Processing Agreement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Jurisdiction Specific Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Ads Subprocessors</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Ads API Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Third Party Audience Targeting (Beta) Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Advertising Policies and Billing</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Brand Guidelines</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Press &amp; Broadcast Guidelines</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">۲۴ سپتامبر ۲۰۲۴</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Transparency</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Guidelines for Law Enforcement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit&#x27;s Anti-Slavery and Human Trafficking Statement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Developer Data Protection Addendum</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Impressum</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Responsible Builder Policy</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">All</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1 ביולי 2026</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">24 בספטמבר 2024</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">תנאי השימוש של התצוגה המקדימה</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Creator Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">התנאים למפתחים</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">תנאי ה-API של נתונים</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">תנאי Reddit Embeds</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Responsible Disclosure and Bug Bounty Program Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">מדיניות השימוש בסימנים מסחריים</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Privacy Policy</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Public Content Policy</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Cookie Notice</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Rules</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">קוד ההתנהלות למודרטורים</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for EU users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for UK users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for AU users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Advertising Platform Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Business Tool Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Advertising Data Processing Agreement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Jurisdiction Specific Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Ads Subprocessors</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Ads API Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Third Party Audience Targeting (Beta) Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Advertising Policies and Billing</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Brand Guidelines</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Press &amp; Broadcast Guidelines</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">24 בספטמבר 2024</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Transparency</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Guidelines for Law Enforcement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit&#x27;s Anti-Slavery and Human Trafficking Statement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Developer Data Protection Addendum</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Impressum</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Responsible Builder Policy</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">All</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">یکم جولائی 2026</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">24 ستمبر 2024</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">پری ویوز کے استعمال کی شرائط</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Creator Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">ڈویلپر کی شرائط</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">ڈیٹا API کی شرائط</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit ایمبیڈز کی شرائط</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Responsible Disclosure and Bug Bounty Program Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">ٹریڈ مارک کے استعمال کی پالیسی</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Privacy Policy</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Public Content Policy</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Cookie Notice</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Rules</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">ماڈریٹر ضابطۂ اخلاق</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for EU users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for UK users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Information for AU users</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Advertising Platform Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Business Tool Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Advertising Data Processing Agreement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Jurisdiction Specific Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit Ads Subprocessors</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Ads API Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Third Party Audience Targeting (Beta) Terms</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Advertising Policies and Billing</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Brand Guidelines</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Press &amp; Broadcast Guidelines</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">24 ستمبر 2024</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Transparency</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Guidelines for Law Enforcement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit&#x27;s Anti-Slavery and Human Trafficking Statement</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Developer Data Protection Addendum</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Impressum</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Responsible Builder Policy</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Bahasa Indonesia</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Farsi</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Hrvatski – Hrvatska</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Slovenčina - Slovensko</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Български – България</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">עברית</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">اردو</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">العربية</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Bahasa Indonesia</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Farsi</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Hrvatski – Hrvatska</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Slovenčina - Slovensko</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Български – България</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">עברית</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">اردو</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">العربية</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">Effective <del>March 31,</del> 2026. Last Revised <del>March 31,</del> 2026</span>
+    <span class="line new ">Effective <ins>July 1,</ins> 2026. Last Revised <ins>May 26,</ins> 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our sole discretion, are material, we may also notify you by sending an email to the address associated with your Account or by otherwise providing you with notice through our Services. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective.</span>
+    <span class="line new ">We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our sole discretion, are material, we may also notify you by sending an email to the address associated with your Account <ins>(if you have chosen to provide a verified email address)</ins> or by otherwise providing you with notice through our Services. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Removed</div>
+  
+  <div class="row">
+    <span class="line old solo-old">Headings are used in these Terms for reference only and will not be considered when interpreting them. For purposes of these Terms: (a) the words “include,” “includes,” and “including” will be deemed to be followed by the words “without limitation;” (b) the words “such as,” “for example,” “e.g.,” and any derivatives of those words will mean by way of example and the items that follow these words will not be deemed an exhaustive list; and (c) the word “or” is used in the inclusive sense of “and/or” and the terms “or,” “any,” and “either” are not exclusive. No ambiguity will be construed against any party based on a claim that the party drafted the language. These Terms are a legally-binding agreement between you and Reddit, Inc. If you have any questions about these Terms, please contact us . Reddit, Inc. 303 2nd Street, Suite 500S San Francisco, CA 94107 United States</span>
+    
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">Hello, redditors and people of the Internet! This Reddit User Agreement (“ Terms ”) applies to your access to and use of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the “ Services <del>”) provided by</del> Reddit Netherlands <del>B.V. (“ Reddit ,” “ we ,” “ us ,”</del> or <del>“ our ”).</del></span>
+    <span class="line new ">Hello, redditors and people of the Internet! This Reddit User Agreement (“ Terms ”) applies to your access to and use of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the “ Services <ins>”). If you live in the UK, you are contracting with Reddit, Inc., 548 Market Street, #16093, San Francisco, CA 94104 USA. If you live in the EEA or Switzerland, you are contracting with</ins> Reddit Netherlands <ins>B.V., Looiersgracht 43, 1016 VR Amsterdam, Netherlands. All references to &quot;Reddit&quot;, &quot;we&quot;, &quot;us&quot;,</ins> or <ins>&quot;our&quot; shall refer to the applicable entity based on your residence.</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">We do not guarantee that the Services will always be available or uninterrupted. We are always improving our Services. This means we may add or remove features, products, or functionalities; we will try to notify you beforehand, but that won’t always be possible. We reserve the right to modify, suspend, or discontinue the Services (in whole or in part) at any time, with or without notice to you. Any future release, update, or other addition to functionality of the Services will be subject to these Terms, which may be updated from time to time. You agree that we will not be liable to you or to any third party for any modification, suspension, or discontinuation of the Services or any part thereof. We personalize your experience on the Services based on a variety of factors, including your activity on the Services, communities you are subscribed to, and preferences you’ve identified in your settings. Based on these and other factors, we may make recommendations to make your experience on Reddit more relevant. For more information about your content recommendations, as well as a description of how you can control certain personalization options, please see our Help Center .</span>
+    <span class="line new ">We do not guarantee that the Services will always be available or uninterrupted. We are always improving our Services. This means we may add or remove features, products, or functionalities; we will try to notify you beforehand, but that won’t always be possible. We reserve the right to modify, suspend, or discontinue the Services (in whole or in part) at any time, with or without notice to you. Any future release, update, or other addition to functionality of the Services will be subject to these Terms, which may be updated from time to time. You agree that we will not be liable to you or to any third party for any modification, suspension, or discontinuation of the Services or any part thereof. <ins>Nothing in this paragraph affects any statutory rights you may have under applicable law.</ins> We personalize your experience on the Services based on a variety of factors, including your activity on the Services, communities you are subscribed to, and preferences you’ve identified in your settings. Based on these and other factors, we may make recommendations to make your experience on Reddit more relevant. For more information about your content recommendations, as well as a description of how you can control certain personalization options, please see our Help Center .</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">Reddit respects the intellectual property of others and requires that users of our Services do the same. We have a policy that includes the removal of any infringing material from the Services and for the termination, in appropriate circumstances, of users of our Services who are repeat infringers. If you believe that anything on our Services infringes a copyright or a trademark that you own or control, you may notify Reddit’s Designated Agent by filling out our Copyright Report Form or Trademark Report Form , or by contacting: Copyright Agent Reddit, Inc. <del>303 2nd</del> Street, <del>Suite 500S</del> San Francisco, CA <del>94107</del> copyright@reddit.com See 17 U.S.C. § 512(c)(3) for the requirements of a proper notification. Also, please note that if you knowingly misrepresent that any activity or material on our Services is infringing, you may be liable to Reddit for certain costs and damages. If we remove Your Content in response to a copyright or trademark notice, we will notify you. If you believe Your Content was wrongly removed due to a mistake or misidentification in a copyright notice, you can send a counter notification via our Copyright Counter Notice Form or to our Copyright Agent (contact information provided above). Please see 17 U.S.C. § 512(g)(3) for the requirements of a proper counter notification.</span>
+    <span class="line new ">Reddit respects the intellectual property of others and requires that users of our Services do the same. We have a policy that includes the removal of any infringing material from the Services and for the termination, in appropriate circumstances, of users of our Services who are repeat infringers. If you believe that anything on our Services infringes a copyright or a trademark that you own or control, you may notify Reddit’s Designated Agent by filling out our Copyright Report Form or Trademark Report Form , or by contacting: Copyright Agent Reddit, Inc. <ins>548 Market</ins> Street, <ins>#16093</ins> San Francisco, CA <ins>94104</ins> copyright@reddit.com See 17 U.S.C. § 512(c)(3) for the requirements of a proper notification. Also, please note that if you knowingly misrepresent that any activity or material on our Services is infringing, you may be liable to Reddit for certain costs and damages. If we remove Your Content in response to a copyright or trademark notice, we will notify you. If you believe Your Content was wrongly removed due to a mistake or misidentification in a copyright notice, you can send a counter notification via our Copyright Counter Notice Form or to our Copyright Agent (contact information provided above). Please see 17 U.S.C. § 512(g)(3) for the requirements of a proper counter notification.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">Except to the extent prohibited by law, you agree to defend, indemnify, and hold Reddit, its affiliates, and their respective directors, officers, employees, affiliates, agents, contractors, third-party service providers, and licensors (the “ Reddit Entities ”) harmless from and against any claim or demand made by any third party, and any related liability, damage, loss, and expense (including costs and attorneys’ fees) due to, arising out of, or in connection with: (a) your use of the Services; (b) your violation of these Terms; (c) your violation of applicable laws or regulations; or (d) Your Content. We reserve the right to control the defense of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims.</span>
+    <span class="line new ">Except to the extent prohibited <ins>or considered unfair</ins> by law, you agree to defend, indemnify, and hold Reddit, its affiliates, and their respective directors, officers, employees, affiliates, agents, contractors, third-party service providers, and licensors (the “ Reddit Entities ”) harmless from and against any claim or demand made by any third party, and any related liability, damage, loss, and expense (including costs and attorneys’ fees) due to, arising out of, or in connection with: (a) your use of the Services; (b) your violation of these Terms; (c) your violation of applicable laws or regulations; or (d) Your Content. We reserve the right to control the defense of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our reasonable discretion, are material, we will notify you by sending an email to the address associated with your Account or by otherwise providing you with notice through our Services at least 30 days before the date they become effective. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective.</span>
+    <span class="line new ">We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our reasonable discretion, are material, we will notify you by sending an email to the address associated with your Account <ins>(if you have chosen to provide a verified email address)</ins> or by otherwise providing you with notice through our Services at least 30 days before the date they become effective. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">Reddit Netherlands B.V. <del>Euro Business Center Keizersgracht 62, 1015CS</del> Amsterdam Netherlands</span>
+    <span class="line new ">Reddit Netherlands B.V. <ins>Looiersgracht 43, 1016 VR</ins> Amsterdam Netherlands</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">KVK Number: 83433880</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Dutch VAT registration number: NL862872662B01</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Reddit, Inc.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">548 Market Street, #16093,</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">San Francisco, CA 94104</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">USA</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">UK VAT Registration number: 431 7546 01</span>
+  </div>
+  
+</div>
+
+
+  <footer>
+    <span>Open source. Automatic. Not legal advice — just receipts.</span>
+    <span>45 policies watched · <a href="https://github.com/monanyx/tos-night-shift">Add one</a></span>
+  </footer>
+</div>
+
+<script>
+document.getElementById('copy').addEventListener('click', async e => {
+  try { await navigator.clipboard.writeText(location.href); e.target.textContent = 'Copied'; }
+  catch { e.target.textContent = 'Copy failed'; }
+});
+</script>
+
+</body>
+</html>

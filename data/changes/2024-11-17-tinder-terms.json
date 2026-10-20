@@ -1,0 +1,61 @@
+{
+  "id": "2024-11-17-tinder-terms",
+  "service": "tinder",
+  "service_name": "Tinder",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://policies.tinder.com/terms/intl/en",
+  "detected_at": "2024-11-17T06:37:09+00:00",
+  "source": "wayback",
+  "window_start": "2024-09-21T02:51:18+00:00",
+  "archive_before": "https://web.archive.org/web/20240921025118/https://policies.tinder.com/terms/intl/en/",
+  "archive_after": "https://web.archive.org/web/20241117063709/https://policies.tinder.com/terms/intl/en/",
+  "flags": [],
+  "stats": {
+    "hunks": 2,
+    "added_words": 8,
+    "removed_words": 8
+  },
+  "headline": "Tinder edited its Terms of Service",
+  "summary": "8 words added and 8 removed across 2 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "9.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "9. Contains any spyware, adware, viruses, corrupt files, worm programs or other malicious code designed to interrupt, damage or limit the functionality of or disrupt any software, hardware, telecommunications, networks, servers or",
+        "other equipment, Trojan horse or any other material designed to damage, interfere with, wrongly intercept or expropriate any data or personal information whether from Tinder or otherwise;",
+        "1. Infringes upon any third party's rights (including, without limitation, intellectual property rights and privacy rights);",
+        "2. Was not written by you, unless expressly authorized by Tinder;",
+        "3. Includes the image or likeness of another person without that person's consent (or in the case of a minor, the minor's parent or guardian);",
+        "4. Includes an image or likeness of a minor who is unaccompanied by the minor's parent or guardian or not fully clothed or otherwise depicts or implies a minor engaged in sexual activity;",
+        "5. Is inconsistent with the intended use of the Services; or",
+        "6. May harm the reputation of Tinder or its affiliates, meaning the uploading or sharing of content on the Tinder platform that is defamatory to Tinder or its affiliates or advocates misuse of the Service or any service provided by Tinder’s affiliates."
+      ],
+      "new": [
+        "9. Contains any spyware, adware, viruses, corrupt files, worm programs or other malicious code designed to interrupt, damage or limit the functionality of or disrupt any software, hardware, telecommunications, networks, servers or other equipment, Trojan horse or any other material designed to damage, interfere with, wrongly intercept or expropriate any data or personal information whether from Tinder or otherwise;",
+        "10. Infringes upon any third party's rights (including, without limitation, intellectual property rights and privacy rights);",
+        "11. Was not written by you, unless expressly authorized by Tinder;",
+        "12. Includes the image or likeness of another person without that person's consent (or in the case of a minor, the minor's parent or guardian);",
+        "13. Includes an image or likeness of a minor who is unaccompanied by the minor's parent or guardian or not fully clothed or otherwise depicts or implies a minor engaged in sexual activity;",
+        "14. Is inconsistent with the intended use of the Services; or",
+        "15. May harm the reputation of Tinder or its affiliates, meaning the uploading or sharing of content on the Tinder platform that is defamatory to Tinder or its affiliates or advocates misuse of the Service or any service provided by Tinder’s affiliates."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**3a. YOUR CONTENT** **You are responsible for Your Content. Don't share anything that you wouldn't want others to see, that would violate this Agreement, or that may expose you or us to legal liability.**"
+      ],
+      "new": [
+        "### 3a.**YOUR CONTENT** **You are responsible for Your Content. Don't share anything that you wouldn't want others to see, that would violate this Agreement, or that may expose you or us to legal liability.**"
+      ]
+    }
+  ]
+}

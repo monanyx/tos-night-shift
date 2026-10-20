@@ -1,0 +1,325 @@
+{
+  "id": "2023-10-02-reddit-terms",
+  "service": "reddit",
+  "service_name": "Reddit",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://redditinc.com/policies/user-agreement",
+  "detected_at": "2023-10-02T01:29:50+00:00",
+  "source": "wayback",
+  "window_start": "2023-07-03T02:00:39+00:00",
+  "archive_before": "https://web.archive.org/web/20230703020039/https://www.redditinc.com/policies/user-agreement",
+  "archive_after": "https://web.archive.org/web/20231002012950/https://www.redditinc.com/policies/user-agreement",
+  "flags": [],
+  "stats": {
+    "hunks": 31,
+    "added_words": 447,
+    "removed_words": 402
+  },
+  "headline": "Reddit edited its Terms of Service",
+  "summary": "447 words added and 402 removed across 31 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "**Reddit User Agreement if you live outside the EEA, United Kingdom, or Switzerland, including if you live in the United States**",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "### Reddit User Agreement if you live outside the EEA, United Kingdom, or Switzerland, including if you live in the United States"
+      ],
+      "new": [
+        "**Reddit User Agreement if you live outside the EEA, United Kingdom, or Switzerland, including if you live in the United States**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "The Services may contain information, text, links, graphics, photos, videos, audio, streams, or other materials (“**Content**”), including Content created with or submitted to the Services by you or through your Account (“**Your Content**”). We take no responsibility for and we do not expressly or implicitly endorse, support, or guarantee the completeness, truthfulness, accuracy, or reliability of any of Your Content."
+      ],
+      "new": [
+        "The Services may contain information, text, links, graphics, photos, videos, audio, streams, software, tools, or other materials (“**Content**”), including Content created with or submitted to the Services by you or through your Account (“**Your Content**”). We take no responsibility for and we do not expressly or implicitly endorse, support, or guarantee the completeness, truthfulness, accuracy, or reliability of any of Your Content."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If you choose to use the Services to conduct a promotion, including a contest or sweepstakes (“**Promotion**”), you alone are responsible for conducting the Promotion in compliance with all applicable laws and regulations, including but not limited to creating official rules, offer terms, eligibility requirements, and compliance with applicable laws, rules, and regulations which govern the Promotion (such as licenses, registrations, bonds, and regulatory approval). Your Promotion must state that the Promotion is not sponsored by, endorsed by, or associated with Reddit, and the rules for your Promotion must require each entrant or participant to release Reddit from any liability related to the Promotion. You acknowledge and agree that we will not assist you in any way with your promotion, and you agree to conduct your Promotion at your own risk."
+      ],
+      "new": [
+        "If you choose to use the Services to conduct a promotion, including a contest or sweepstakes (“**Promotion**”), you alone are responsible for conducting the Promotion in compliance with all applicable laws and regulations, including creating official rules, offer terms, eligibility requirements, and compliance with applicable laws, rules, and regulations which govern the Promotion (such as licenses, registrations, bonds, and regulatory approval). Your Promotion must state that the Promotion is not sponsored by, endorsed by, or associated with Reddit, and the rules for your Promotion must require each entrant or participant to release Reddit from any liability related to the Promotion. You acknowledge and agree that we will not assist you in any way with your Ppromotion, and you agree to conduct your Promotion at your own risk."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "When using or accessing Reddit, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Content Policy, which are incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the Content Policy, you may not do any of the following:"
+      ],
+      "new": [
+        "When using or accessing the Services, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Content Policy, which is incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the Content Policy, you may not do any of the following:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Use the Services to violate applicable law or infringe any person’s or entity's intellectual property rights or any other proprietary rights;"
+      ],
+      "new": [
+        "- Use the Services to violate applicable law or infringe any person’s or entity’'s intellectual property rights or any other proprietary rights;"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "1455 Market Street, Suite 1600",
+        "San Francisco, CA 94103"
+      ],
+      "new": [
+        "303 2nd Street, Suite 500S",
+        "San Francisco, CA 94107"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Also, please note that if you knowingly misrepresent that any activity or material on our Services is infringing, you may be liable to Reddit for certain costs and damages."
+      ],
+      "new": [
+        "See 17 U.S.C. § 512(c)(3) for the requirements of a proper notification. Also, please note that if you knowingly misrepresent that any activity or material on our Services is infringing, you may be liable to Reddit for certain costs and damages."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**10. Paid Services and Payment Information**",
+        "There are no fees for the use of many aspects of the Services. However, some services, including Reddit Premium and Virtual Goods, may be available for purchase (“**Paid Services**”). In addition to these Terms, by purchasing or using Reddit Premium or our Virtual Goods, you further agree to the Reddit Premium and Virtual Goods Agreement.",
+        "Reddit may change the fees or benefits associated with the Paid Services from time to time with reasonable advance notice of material changes; provided, however, that no advance notice will be required for temporary promotions, including temporary reductions in the fees associated with the Paid Services. Notwithstanding the foregoing, any price changes or changes to your subscription plans will apply no earlier than 30 days following notice to you.",
+        "You may submit your debit card, credit card, or other payment information (“**Payment Information**”) via our Services to purchase the Paid Services. We use third-party service providers to process your Payment Information. If you submit your Payment Information, you agree to pay all costs that you incur, and you give us permission to charge you when payment is due for an amount that includes these costs and any applicable taxes and fees. All transactions are final, and we do not refund or credit for partially used billing periods."
+      ],
+      "new": [
+        "**10. Paid Services**",
+        "There are no fees for the use of many aspects of the Services. However, some services, features, and products may be available for purchase (“**Paid Services**”). In addition to these Terms, the Reddit Premium and Virtual Goods Agreement also applies to Paid Services. By purchasing or using Paid Services, you further agree to the Premium and Virtual Goods Agreement and, if applicable, the Previews Terms of Use."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "The Services are owned and operated by Reddit. The visual interfaces, graphics, design, compilation, information, data, computer code, products, services, trademarks, and all other elements of the Services (“**Materials**”) provided by Reddit are protected by intellectual property and other laws. All Materials included in the Services are the property of Reddit or its third-party licensors. You acknowledge and agree that you shall not acquire any ownership rights whatsoever by downloading Materials or by purchasing Reddit Premium or Virtual Goods. Except as expressly authorized by Reddit, and subject to Reddit’s Brand Guidelines, you may not make use of the Materials. Reddit reserves all rights to the Materials not granted expressly in these Terms."
+      ],
+      "new": [
+        "The Services are owned and operated by Reddit. The visual interfaces, graphics, design, compilation, information, data, computer code, products, services, trademarks, and all other elements of the Services (“**Materials**”) provided by Reddit are protected by intellectual property and other laws. All Materials included in the Services are the property of Reddit or its third-party licensors. You acknowledge and agree that you shall not acquire any ownership rights whatsoever by downloading Materials or by purchasing Paid Services. Except as expressly authorized by Reddit, and subject to Reddit’s Brand Guidelines, you may not make use of the Materials. Reddit reserves all rights to the Materials not granted expressly in these Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Except to the extent prohibited by law, you agree to defend, indemnify, and hold Reddit, its affiliates, and their respective, directors, officers, employees, affiliates, agents, contractors, third-party service providers, and licensors (the “Reddit Entities”) harmless from and against any claim or demand made by any third party, and any related liability, damage, loss, and expense (including costs and attorneys’ fees) due to, arising out of, or in connection with: (a) your use of the Services, (b) your violation of these Terms, (c) your violation of applicable laws or regulations, or (d) Your Content. We reserve the right to control the defense of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims."
+      ],
+      "new": [
+        "Except to the extent prohibited by law, you agree to defend, indemnify, and hold Reddit, its affiliates, and their respective, directors, officers, employees, affiliates, agents, contractors, third-party service providers, and licensors (the “**Reddit Entities**”) harmless from and against any claim or demand made by any third party, and any related liability, damage, loss, and expense (including costs and attorneys’ fees) due to, arising out of, or in connection with: (a) your use of the Services; (b) your violation of these Terms; (c) your violation of applicable laws or regulations; or (d) Your Content. We reserve the right to control the defense of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "THE SERVICES ARE PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUT REPRESENTATIONS, WARRANTIES, OR CONDITIONS OF ANY KIND, WHETHER EXPRESS, IMPLIED, LEGAL, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE REDDIT ENTITIES DO NOT WARRANT THAT THE SERVICES ARE ACCURATE, COMPLETE, RELIABLE, CURRENT, OR ERROR FREE. REDDIT DOES NOT CONTROL, ENDORSE, OR TAKE RESPONSIBILITY FOR ANY CONTENT AVAILABLE ON OR LINKED TO THE SERVICES OR THE ACTIONS OF ANY THIRD PARTY OR USER, INCLUDING MODERATORS. WHILE REDDIT ATTEMPTS TO MAKE YOUR ACCESS TO AND USE OF OUR SERVICES SAFE, WE DO NOT REPRESENT OR WARRANT THAT OUR SERVICES OR SERVERS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS."
+      ],
+      "new": [
+        "THE SERVICES ARE PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUT REPRESENTATIONS, WARRANTIES, OR CONDITIONS OF ANY KIND, WHETHER EXPRESS, IMPLIED, LEGAL, OR STATUTORY, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE REDDIT ENTITIES DO NOT WARRANT THAT THE SERVICES ARE ACCURATE, COMPLETE, RELIABLE, CURRENT, OR ERROR FREE. REDDIT DOES NOT CONTROL, ENDORSE, OR TAKE RESPONSIBILITY FOR ANY CONTENT AVAILABLE ON OR LINKED TO THE SERVICES OR THE ACTIONS OF ANY THIRD PARTY OR USER, INCLUDING MODERATORS. WHILE REDDIT ATTEMPTS TO MAKE YOUR ACCESS TO AND USE OF OUR SERVICES SAFE, WE DO NOT REPRESENT OR WARRANT THAT OUR SERVICES OR SERVERS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- If you use Reddit Premium or Virtual Goods, you must also agree to the Reddit Premium and Virtual Goods Agreement."
+      ],
+      "new": [
+        "- If you use any Paid Services, you must also agree to the Reddit Premium and Virtual Goods Agreement.",
+        "- If you use any preview features, you must also agree to the Reddit Previews Terms of Use."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- If you participate in any Reddit program that is subject to Additional Terms (including our Contributor Program), you must also agree to those Additional Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "These Terms are a legally-binding agreement between you and Reddit, Inc. If you have any questions about these terms, please contact us."
+      ],
+      "new": [
+        "Headings are used in these Terms for reference only and will not be considered when interpreting them. For purposes of these Terms: (a) the words “include,” “includes,” and “including” will be deemed to be followed by the words “without limitation;” (b) the words “such as,” “for example,” “e.g.,” and any derivatives of those words will mean by way of example and the items that follow these words will not be deemed an exhaustive list; and (c) the word “or” is used in the inclusive sense of “and/or” and the terms “or,” “any,” and “either” are not exclusive. No ambiguity will be construed against any party based on a claim that the party drafted the language.",
+        "These Terms are a legally-binding agreement between you and Reddit, Inc. If you have any questions about these Terms, please contact us."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "1455 Market Street, Suite 1600",
+        "San Francisco, CA 94103"
+      ],
+      "new": [
+        "303 2nd Street, Suite 500S",
+        "San Francisco, CA 94107"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### Reddit User Agreement if you live in the EEA, United Kingdom, or Switzerland"
+      ],
+      "new": [
+        "**Reddit User Agreement if you live in the EEA, United Kingdom, or Switzerland**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "The Services may contain information, text, links, graphics, photos, videos, audio, streams, or other materials (“**Content**”), including Content created with or submitted to the Services by you or through your Account (“**Your Content**”). We take no responsibility for and we do not expressly or implicitly endorse, support, or guarantee the completeness, truthfulness, accuracy, or reliability of any of Your Content."
+      ],
+      "new": [
+        "The Services may contain information, text, links, graphics, photos, videos, audio, streams, software, tools, or other materials (“**Content**”), including Content created with or submitted to the Services by you or through your Account (“**Your Content**”). We take no responsibility for and we do not expressly or implicitly endorse, support, or guarantee the completeness, truthfulness, accuracy, or reliability of any of Your Content."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Although we reserve the right to review, screen, edit, or monitor Your Content, we do not necessarily review all of it at the time it’s submitted to the Services. However, we may, in our sole discretion, delete or remove Your Content at any time and for any reason, including for violating these Terms, violating our Content Policy, or if you otherwise create or are likely to create liability for us."
+      ],
+      "new": [
+        "Although we reserve the right to review, screen, edit, or monitor Your Content, we do not necessarily review all of it at the time it is submitted to the Services. However, we may, in our sole discretion, delete or remove Your Content at any time and for any reason, including for violating these Terms, violating our Content Policy, or if you otherwise create or are likely to create liability for us."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If you choose to use the Services to conduct a promotion, including a contest or sweepstakes (“**Promotion**”), you alone are responsible for conducting the Promotion in compliance with all applicable laws and regulations, including but not limited to creating official rules, offer terms, eligibility requirements, and compliance with applicable laws, rules, and regulations which govern the Promotion (such as licenses, registrations, bonds, and regulatory approval). Your Promotion must state that the Promotion is not sponsored by, endorsed by, or associated with Reddit, and the rules for your Promotion must require each entrant or participant to release Reddit from any liability related to the Promotion. You acknowledge and agree that we will not assist you in any way with your promotion, and you agree to conduct your Promotion at your own risk."
+      ],
+      "new": [
+        "If you choose to use the Services to conduct a promotion, including a contest or sweepstakes (“**Promotion**”), you alone are responsible for conducting the Promotion in compliance with all applicable laws and regulations, including creating official rules, offer terms, eligibility requirements, and compliance with applicable laws, rules, and regulations which govern the Promotion (such as licenses, registrations, bonds, and regulatory approval). Your Promotion must state that the Promotion is not sponsored by, endorsed by, or associated with Reddit, and the rules for your Promotion must require each entrant or participant to release Reddit from any liability related to the Promotion. You acknowledge and agree that we will not assist you in any way with your Promotion, and you agree to conduct your Promotion at your own risk."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "When using or accessing Reddit, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Content Policy, which are incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the Content Policy, you may not do any of the following:"
+      ],
+      "new": [
+        "When using or accessing Reddit, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Content Policy, which is incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the Content Policy, you may not do any of the following:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Use the Services to violate applicable law or infringe any person’s or entity's intellectual property rights or any other proprietary rights;"
+      ],
+      "new": [
+        "- Use the Services to violate applicable law or infringe any person’s or entity’'s intellectual property rights or any other proprietary rights;"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Reddit respects the intellectual property of others and requires that users of our Services do the same. We have a policy that includes the removal of any infringing material from the Services and for the termination, in appropriate circumstances, of users of our Services who are repeat infringers. If you believe that anything on our Services infringes a copyright or a trademark that you own or control, you may notify Reddit’s Designated Agent by filling out our Copyright Report Form or Trademark Report Form, or by contacting:"
+      ],
+      "new": [
+        "Reddit respects the intellectual property of others and requires that users of our Services do the same. We have a policy that includes the removal of any infringing material from the Services and for the termination, in appropriate circumstances, of users of our Services who are repeat infringers. If you believe that anything on our Services infringes a copyright or a trademark that you own or control, you may notify Reddit’s Designated Agent by filling out our our Copyright Report Form or Trademark Report Form, or by contacting:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "1455 Market Street, Suite 1600",
+        "San Francisco, CA 94103"
+      ],
+      "new": [
+        "303 2nd Street, Suite 500S",
+        "San Francisco, CA 94107"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Also, please note that if you knowingly misrepresent that any activity or material on our Services is infringing, you may be liable to Reddit for certain costs and damages."
+      ],
+      "new": [
+        "See 17 U.S.C. § 512(c)(3) for the requirements of a proper notification. Also, please note that if you knowingly misrepresent that any activity or material on our Services is infringing, you may be liable to Reddit for certain costs and damages."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**10. Paid Services and Payment Information**",
+        "There are no fees for the use of many aspects of the Services. However, some services, including Reddit Premium, and Virtual Goods, may be available for purchase (“**Paid Services**”). In addition to these Terms, by purchasing or using Reddit Premium or our Virtual Goods, you further agree to the Reddit Premium and Virtual Goods Agreement.",
+        "Reddit may change the fees or benefits associated with the Paid Services from time to time with reasonable advance notice of material changes; provided, however, that no advance notice will be required for temporary promotions, including temporary reductions in the fees associated with the Paid Services. Notwithstanding the foregoing, any price changes or changes to your subscription plans will apply no earlier than 30 days following notice to you.",
+        "You may submit your debit card, credit card, or other payment information (“**Payment Information**”) via our Services to purchase the Paid Services. We use third-party service providers to process your Payment Information. If you submit your Payment Information, you agree to pay all costs that you incur, and you give us permission to charge you when payment is due for an amount that includes these costs and any applicable taxes and fees."
+      ],
+      "new": [
+        "**10. Paid Services**",
+        "There are no fees for the use of many aspects of the Services. However, some services, features, and products may be available for purchase (“**Paid Services**”). In addition to these Terms the Reddit Premium and Virtual Goods Agreement also applies to Paid Services. By purchasing or using Paid Services, you further agree to the Premium and Virtual Goods Agreement and, if applicable, the Previews Terms of Use."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "The Services are owned and operated by Reddit. The visual interfaces, graphics, design, compilation, information, data, computer code, products, services, trademarks, and all other elements of the Services (“**Materials**”) provided by Reddit are protected by intellectual property and other laws. All Materials included in the Services are the property of Reddit or its third-party licensors. You acknowledge and agree that you shall not acquire any ownership rights whatsoever by downloading Materials or by purchasing Reddit Premium or Virtual Goods. Except as expressly authorized by Reddit, and subject to Reddit’s Brand Guidelines, you may not make use of the Materials. Reddit reserves all rights to the Materials not granted expressly in these Terms."
+      ],
+      "new": [
+        "The Services are owned and operated by Reddit. The visual interfaces, graphics, design, compilation, information, data, computer code, products, services, trademarks, and all other elements of the Services (“**Materials**”) provided by Reddit are protected by intellectual property and other laws. All Materials included in the Services are the property of Reddit or its third-party licensors. You acknowledge and agree that you shall not acquire any ownership rights whatsoever by downloading Materials or by purchasing Paid Services. Except as expressly authorized by Reddit, and subject to Reddit’s Brand Guidelines, you may not make use of the Materials. Reddit reserves all rights to the Materials not granted expressly in these Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Except to the extent prohibited by law, you agree to defend, indemnify, and hold Reddit, its affiliates, and their respective directors, officers, employees, affiliates, agents, contractors, third-party service providers, and licensors (the “**Reddit Entities**”) harmless from and against any claim or demand made by any third party, and any related liability, damage, loss, and expense (including costs and attorneys’ fees) due to, arising out of, or in connection with: (a) your use of the Services, (b) your violation of these Terms, (c) your violation of applicable laws or regulations, or (d) Your Content. We reserve the right to control the defense of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims."
+      ],
+      "new": [
+        "Except to the extent prohibited by law, you agree to defend, indemnify, and hold Reddit, its affiliates, and their respective directors, officers, employees, affiliates, agents, contractors, third-party service providers, and licensors (the “**Reddit Entities**”) harmless from and against any claim or demand made by any third party, and any related liability, damage, loss, and expense (including costs and attorneys’ fees) due to, arising out of, or in connection with: (a) your use of the Services; (b) your violation of these Terms; (c) your violation of applicable laws or regulations; or (d) Your Content. We reserve the right to control the defense of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- If you use Reddit Premium or Virtual Goods, you must also agree to the Reddit Premium and Virtual Goods Agreement."
+      ],
+      "new": [
+        "- If you use any Paid Services, you must also agree to the Reddit Premium and Virtual Goods Agreement.",
+        "- If you use any preview features, you must also agree to the Reddit Previews Terms of Use."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- If you participate in any Reddit program that is subject to Additional Terms (including our Contributor Program), you must also agree to those Additional Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "These Terms are a legally-binding agreement between you and Reddit, Inc. If you have any questions about these terms, please contact us."
+      ],
+      "new": [
+        "Headings are used in these Terms for reference only and will not be considered when interpreting them. For purposes of these Terms: (a) the words “include,” “includes,” and “including” will be deemed to be followed by the words “without limitation;” (b) the words “such as,” “for example,” “e.g.,” and any derivatives of those words will mean by way of example and the items that follow these words will not be deemed an exhaustive list; and (c) the word “or” is used in the inclusive sense of “and/or” and the terms “or,” “any,” and “either” are not exclusive. No ambiguity will be construed against any party based on a claim that the party drafted the language.",
+        "These Terms are a legally-binding agreement between you and Reddit, Inc. If you have any questions about these Terms, please contact us."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "1455 Market Street, Suite 1600",
+        "San Francisco, CA 94103"
+      ],
+      "new": [
+        "303 2nd Street, Suite 500S",
+        "San Francisco, CA 94107"
+      ]
+    }
+  ]
+}

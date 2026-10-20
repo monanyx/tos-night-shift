@@ -1,0 +1,285 @@
+{
+  "id": "2024-01-12-openai-privacy",
+  "service": "openai",
+  "service_name": "OpenAI (ChatGPT)",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://openai.com/policies/privacy-policy/",
+  "detected_at": "2024-01-12T05:20:25+00:00",
+  "source": "wayback",
+  "window_start": "2023-05-17T00:15:50+00:00",
+  "archive_before": "https://web.archive.org/web/20230517001550/https://openai.com/policies/privacy-policy",
+  "archive_after": "https://web.archive.org/web/20240112052025/https://openai.com/policies/privacy-policy",
+  "flags": [
+    {
+      "tag": "data-sharing",
+      "label": "Data sharing",
+      "hits": 3
+    },
+    {
+      "tag": "tracking",
+      "label": "Tracking",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 20,
+    "added_words": 717,
+    "removed_words": 439
+  },
+  "headline": "OpenAI (ChatGPT) rewrote its Privacy Policy — new wording on sharing your data and tracking",
+  "summary": "717 words added and 439 removed across 20 sections. New wording touches: Data sharing, Tracking. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "- *Device Information*: Includes name of the device, operating system, device identifiers, and browser you are using.",
+  "receipt_side": "new",
+  "sideeye": 3,
+  "tags": [
+    "data-sharing",
+    "tracking"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "We at OpenAI OpCo, LLC (together with our affiliates, “OpenAI”, “we”, “our” or “us”) respect your privacy and are strongly committed to keeping secure any information we obtain from you or about you. This Privacy Policy describes our practices with respect to Personal Information we collect from or about you when you use our website and services (collectively, “Services”). This Privacy Policy does not apply to content that we process on behalf of customers of our business offerings, such as our API. Our use of that data is governed by our customer agreements covering access to and use of those offerings."
+      ],
+      "new": [
+        "**Effective: January 31, 2024**",
+        "*We’ve updated our Privacy Policy below. These updates do not apply to individuals located in the European Economic Area, UK, and Switzerland. If you reside in those areas, this version of our Privacy Policy applies to you.*",
+        "We at OpenAI OpCo, LLC (together with our affiliates, “OpenAI”, “we”, “our” or “us”) respect your privacy and are strongly committed to keeping secure any information we obtain from you or about you. This Privacy Policy describes our practices with respect to Personal Information we collect from or about you when you use our website, applications, and services (collectively, “Services”). This Privacy Policy does not apply to content that we process on behalf of customers of our business offerings, such as our API. Our use of that data is governed by our customer agreements covering access to and use of those offerings."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We collect information that alone or in combination with other information in our possession could be used to identify you (“Personal Information”) as follows:",
+        "**Personal Information You Provide**: We may collect Personal Information if you create an account to use our Services or communicate with us as follows:"
+      ],
+      "new": [
+        "We collect personal information relating to you (“Personal Information”) as follows:",
+        "**Personal Information You Provide**: We collect Personal Information if you create an account to use our Services or communicate with us as follows:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- *User Content:* When you use our Services, we may collect Personal Information that is included in the input, file uploads, or feedback that you provide to our Services (“Content”).",
+        "- *Communication Information*: If you communicate with us, we may collect your name, contact information, and the contents of any messages you send (“Communication Information”)."
+      ],
+      "new": [
+        "- *User Content:* When you use our Services, we collect Personal Information that is included in the input, file uploads, or feedback that you provide to our Services (“Content”).",
+        "- *Communication Information*: If you communicate with us, we collect your name, contact information, and the contents of any messages you send (“Communication Information”)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Personal Information We Receive Automatically From Your Use of the Services**: When you visit, use, and interact with the Services, we may receive the following information about your visit, use, or interactions (“Technical Information”):",
+        "- *Log Data*: Information that your browser automatically sends whenever you use our website (“log data”). Log data includes your Internet Protocol address, browser type and settings, the date and time of your request, and how you interacted with our website.",
+        "- *Usage Data*: We may automatically collect information about your use of the Services, such as the types of content that you view or engage with, the features you use and the actions you take, as well as your time zone, country, the dates and times of access, user agent and version, type of computer or mobile device, computer connection, IP address, and the like.",
+        "- *Device Information*: Includes name of the device, operating system, and browser you are using. Information collected may depend on the type of device you use and its settings.",
+        "- *Cookies*: We use cookies to operate and administer our Services, and improve your experience on it. A “cookie” is a piece of information sent to your browser by a website you visit. You can set your browser to accept all cookies, to reject all cookies, or to notify you whenever a cookie is offered so that you can decide each time whether to accept it. However, refusing a cookie may in some cases preclude you from using, or negatively affect the display or function of, a website or certain areas or features of a website. For more details on cookies please visit All About Cookies."
+      ],
+      "new": [
+        "- *Other Information You Provide*: We collect other information that you may provide to us, such as when you participate in our events or surveys or provide us with information to establish your identity (collectively, “Other Information You Provide”",
+        "**Personal Information We Receive Automatically From Your Use of the Services**: When you visit, use, or interact with the Services, we receive the following information about your visit, use, or interactions (“Technical Information”):",
+        "- *Log Data*: Information that your browser or device automatically sends when you use our Services. Log data includes your Internet Protocol address, browser type and settings, the date and time of your request, and how you interact with our Services.",
+        "- *Usage Data*: We may automatically collect information about your use of the Services, such as the types of content that you view or engage with, the features you use and the actions you take, as well as your time zone, country, the dates and times of access, user agent and version, type of computer or mobile device, and your computer connection.",
+        "- *Device Information*: Includes name of the device, operating system, device identifiers, and browser you are using. Information collected may depend on the type of device you use and its settings.",
+        "- *Cookies*: We use cookies to operate and administer our Services, and improve your experience. A “cookie” is a piece of information sent to your browser by a website you visit. You can set your browser to accept all cookies, to reject all cookies, or to notify you whenever a cookie is offered so that you can decide each time whether to accept it. However, refusing a cookie may in some cases preclude you from using, or negatively affect the display or function of, a website or certain areas or features of a website. For more details on cookies, please visit All About Cookies."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- To communicate with you;"
+      ],
+      "new": [
+        "- To communicate with you; including to send you information about our Services and events;"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- To prevent fraud, criminal activity, or misuses of our Services, and to ensure the security of our IT systems, architecture, and networks; and"
+      ],
+      "new": [
+        "- To prevent fraud, criminal activity, or misuses of our Services, and to protect the security of our IT systems, architecture, and networks;",
+        "- To carry out business transfers; and"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Aggregated or De-Identified Information**. We may aggregate or de-identify Personal Information and use the aggregated information to analyze the effectiveness of our Services, to improve and add features to our Services, to conduct research and for other similar purposes. In addition, from time to time, we may analyze the general behavior and characteristics of users of our Services and share aggregated information like general user statistics with third parties, publish such aggregated information or make such aggregated information generally available. We may collect aggregated information through the Services, through cookies, and through other means described in this Privacy Policy. We will maintain and use de-identified information in anonymous or de-identified form and we will not attempt to reidentify the information.",
+        "As noted above, we may use Content you provide us to improve our Services, for example to train the models that power ChatGPT. See here for instructions on how you can opt out of our use of your Content to train our models."
+      ],
+      "new": [
+        "**Aggregated or De-Identified Information**. We may aggregate or de-identify Personal Information so that it may no longer be used to identify you and use such information to analyze the effectiveness of our Services, to improve and add features to our Services, to conduct research and for other similar purposes. In addition, from time to time, we may analyze the general behavior and characteristics of users of our Services and share aggregated information like general user statistics with third parties, publish such aggregated information or make such aggregated information generally available. We may collect aggregated information through the Services, through cookies, and through other means described in this Privacy Policy. We will maintain and use de-identified information in anonymous or de-identified form and we will not attempt to reidentify the information, unless required by law.",
+        "As noted above, we may use Content you provide us to improve our Services, for example to train the models that power ChatGPT. Read our instructions on how you can opt out of our use of your Content to train our models."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- *Vendors and Service Providers*: To assist us in meeting business operations needs and to perform certain services and functions, we may provide Personal Information to vendors and service providers, including providers of hosting services, cloud services, and other information technology services providers, event management services, email communication software and email newsletter services, and web analytics services. Pursuant to our instructions, these parties will access, process, or store Personal Information only in the course of performing their duties to us.",
+        "- *Business Transfers*: If we are involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of service to another provider (collectively a “Transaction”), your Personal Information and other information may be disclosed in the diligence process with counterparties and others assisting with the Transaction and transferred to a successor or affiliate as part of that Transaction along with other assets.",
+        "- *Legal Requirements*: If required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, including to meet national security or law enforcement requirements, (ii) protect and defend our rights or property, (iii) prevent fraud, (iv) act in urgent circumstances to protect the personal safety of users of the Services, or the public, or (v) protect against legal liability."
+      ],
+      "new": [
+        "- *Vendors and Service Providers*: To assist us in meeting business operations needs and to perform certain services and functions, we may provide Personal Information to vendors and service providers, including providers of hosting services, customer service vendors, cloud services, email communication software, web analytics services, and other information technology providers, among others. Pursuant to our instructions, these parties will access, process, or store Personal Information only in the course of performing their duties to us.",
+        "- *Business Transfers*: If we are involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of service to another provider (collectively, a “Transaction”), your Personal Information and other information may be disclosed in the diligence process with counterparties and others assisting with the Transaction and transferred to a successor or affiliate as part of that Transaction along with other assets.",
+        "- *Legal Requirements*: We may share your Personal Information, including information about your interaction with our Services, with government authorities, industry peers, or other third parties (i) if required to do so by law or in the good faith belief that such action is necessary to comply with a legal obligation, (ii) to protect and defend our rights or property, (iii) if we determine, in our sole discretion, that there is a violation of our terms, policies, or the law; (iv) to detect or prevent fraud or other illegal activity; (v) to protect the safety, security, and integrity of our products, employees, or users, or the public, or (vi) to protect against legal liability."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- *Business Account Administrators*: When you join a ChatGPT Enterprise or business account, the administrators of that account may access and control your OpenAI account. In addition, if you create an account using an email address belonging to your employer or another organization, we may share the fact that you have an OpenAI account and certain account information, such as your email address, with your employer or organization to, for example, enable you to be added to their business account.",
+        "- *Other Users and Third Parties You Share Information With*: Certain features allow you to display or share information with other users or third parties. For example, you may share ChatGPT conversations with other users via shared links or send information to third-party applications via custom actions for GPTs. Be sure you trust any user or third party with whom you share information."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Depending on location, individuals in the EEA, the UK, and across the globe may have certain statutory rights in relation to their Personal Information. For example, you may have the right to:",
+        "- Access your Personal Information.",
+        "- Delete your Personal Information.",
+        "- Correct or update your Personal Information.",
+        "- Transfer your Personal Information elsewhere.",
+        "- Withdraw your consent to the processing of your Personal Information where we rely on consent as the legal basis for processing.",
+        "- Object to or restrict the processing of your Personal Information where we rely on legitimate interests as the legal basis for processing.",
+        "You can exercise some of these rights through your OpenAI account. If you are unable to exercise your rights through your account, please send your request to dsar@openai.com.",
+        "A note about accuracy: Services like ChatGPT generate responses by reading a user’s request and then predicting the next most likely words that might appear in response. In some cases, the most likely next words may not be the most factually accurate ones. For this reason, you should not rely on the factual accuracy of output from our models. If you notice that ChatGPT output contains factually inaccurate personal information about you and you would like us to correct the inaccuracy, you may submit a correction request to dsar@openai.com. Given the technical complexity of how our models work, we may not be able to correct the inaccuracy. In that case, you may request that we remove your personal information from ChatGPT’s output by filling out this form."
+      ],
+      "new": [
+        "Depending on location, individuals may have certain statutory rights in relation to their Personal Information. For example, you may have the right to:",
+        "- Access your Personal Information and information relating to how it is processed.",
+        "- Delete your Personal Information from our records.",
+        "- Rectify or update your Personal Information.",
+        "- Transfer your Personal Information to a third party (right to data portability).",
+        "- Restrict how we process your Personal Information.",
+        "- Withdraw your consent—where we rely on consent as the legal basis for processing at any time.",
+        "- Object to how we process your Personal Information.",
+        "- Lodge a complaint with your local data protection authority.",
+        "You can exercise some of these rights through your OpenAI account. If you are unable to exercise your rights through your account, please submit your request through privacy.openai.com or to dsar@openai.com.",
+        "A note about accuracy: Services like ChatGPT generate responses by reading a user’s request and, in response, predicting the words most likely to appear next. In some cases, the words most likely to appear next may not be the most factually accurate. For this reason, you should not rely on the factual accuracy of output from our models. If you notice that ChatGPT output contains factually inaccurate information about you and you would like us to correct the inaccuracy, you may submit a correction request through privacy.openai.com or to dsar@openai.com. Given the technical complexity of how our models work, we may not be able to correct the inaccuracy in every instance. In that case, you may request that we remove your Personal Information from ChatGPT’s output by filling out this form."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 5. California privacy rights",
+        "The following table provides additional information about how we disclose Personal Information. You can read more about the Personal Information we collect in “Personal information we collect” above, how we use Personal information in “How we use personal information” above, and how we retain personal information in “Security and Retention” below."
+      ],
+      "new": [
+        "## 5. Additional U.S. state disclosures",
+        "The following table provides additional information about the categories of Personal Information we collect and how we disclose that information. You can read more about the Personal Information we collect in “Personal information we collect” above, how we use Personal Information in “How we use personal information” above, and how we retain Personal Information in “Security and Retention” below."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| Identifiers, such as your contact details | We disclose this information to our affiliates, vendors and service providers, law enforcement, and parties involved in Transactions. |",
+        "| Commercial Information, such as your transaction history | We disclose this information to our affiliates, vendors and service providers, law enforcement, and parties involved in Transactions. |",
+        "| Network Activity Information, such as Content and how you interact with our Services | We disclose this information to our affiliates, vendors and service providers, law enforcement, and parties involved in Transactions. |",
+        "| Geolocation Data | We disclose this information to our affiliates, vendors and service providers, law enforcement, and parties involved in Transactions. |",
+        "| Your account login credentials (Sensitive Personal Information) | We disclose this information to our affiliates, vendors and service providers, law enforcement, and parties involved in Transactions. |",
+        "To the extent provided for by law and subject to applicable exceptions, California residents have the following privacy rights in relation to their Personal Information:"
+      ],
+      "new": [
+        "| Identifiers, such as your name, contact details, IP address, and other device identifiers | We may disclose this information to our affiliates, vendors and service providers to process in accordance with our instructions; to law enforcement and other third parties for the legal reasons described above; to parties involved in Transactions; to corporate administrators of enterprise or team accounts; and to other users and third parties you choose to share it with. |",
+        "| Commercial Information, such as your transaction history | We may disclose this information to our affiliates, vendors and service providers to process in accordance with our instructions; to law enforcement and other third parties for the legal reasons described above; to parties involved in Transactions; and to corporate administrators of enterprise or team accounts. |",
+        "| Network Activity Information, such as Content and how you interact with our Services | We may disclose this information to our affiliates, vendors and service providers to process in accordance with our instructions; to law enforcement and other third parties for the legal reasons described above; to parties involved in Transactions; and to other users and third parties you choose to share it with. |",
+        "| Geolocation Data | We may disclose this information to our affiliates, vendors and service providers to process in accordance with our instructions; to law enforcement and other third parties for the legal reasons described above; and to parties involved in Transactions. |",
+        "| Your account login credentials and payment card information (Sensitive Personal Information) | We disclose this information to our affiliates, vendors and service providers, law enforcement, and parties involved in Transactions. |",
+        "To the extent provided for by local law and subject to applicable exceptions, individuals may have the following privacy rights in relation to their Personal Information:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We don’t sell or share Personal Information as defined by the California Consumer Privacy Act, as amended by the California Privacy Rights Act. We also don’t process sensitive personal information for the purposes of inferring characteristics about a consumer.",
+        "**Exercising Your Rights**. California residents can exercise their CCPA privacy rights by sending their request to dsar@openai.com.",
+        "**Verification**. In order to protect your Personal Information from unauthorized access, change, or deletion, we may require you to verify your credentials before you can submit a request to know, correct, or delete Personal Information. If you do not have an account with us, or if we suspect fraudulent or malicious activity, we may ask you to provide additional Personal Information and proof of residency for verification. If we cannot verify your identity, we will not provide, correct, or delete your Personal Information.",
+        "**Authorized Agents**. You may submit a rights request through an authorized agent. If you do so, the agent must present signed written permission to act on your behalf and you may also be required to independently verify your identity and submit proof of your residency with us. Authorized agent requests can be submitted to dsar@openai.com."
+      ],
+      "new": [
+        "We don’t “sell” Personal Information or “share” Personal Information for cross-contextual behavioral advertising (as those terms are defined under applicable local law). We also don’t process sensitive Personal Information for the purposes of inferring characteristics about a consumer.",
+        "**Exercising Your Rights.** To the extent applicable under local law, you can exercise privacy rights described in this section by submitting a request through privacy.openai.com or to dsar@openai.com.",
+        "**Verification.** In order to protect your Personal Information from unauthorized access, change, or deletion, we may require you to verify your credentials before you can submit a request to know, correct, or delete Personal Information. If you do not have an account with us, or if we suspect fraudulent or malicious activity, we may ask you to provide additional Personal Information and proof of residency for verification. If we cannot verify your identity, we will not be able to honor your request.",
+        "**Authorized Agents.** You may also submit a rights request through an authorized agent. If you do so, the agent must present signed written permission to act on your behalf and you may also be required to independently verify your identity and submit proof of your residency with us. Authorized agent requests can be submitted to dsar@openai.com.",
+        "**Appeals.** Depending on where you live, you may have the right to appeal a decision we make relating to requests to exercise your rights under applicable local law. To appeal a decision, please send your request to dsar@openai.com."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Our Service is not directed to children who are under the age of 13. OpenAI does not knowingly collect Personal Information from children under the age of 13. If you have reason to believe that a child under the age of 13 has provided Personal Information to OpenAI through the Service please email us at legal@openai.com. We will investigate any notification and if appropriate, delete the Personal Information from our systems. If you are 13 or older, but under 18, you must have consent from your parent or guardian to use our Services."
+      ],
+      "new": [
+        "Our Service is not directed to children under the age of 13. OpenAI does not knowingly collect Personal Information from children under the age of 13. If you have reason to believe that a child under the age of 13 has provided Personal Information to OpenAI through the Service, please email us at legal@openai.com. We will investigate any notification and if appropriate, delete the Personal Information from our systems. If you are 13 or older, but under 18, you must have permission from your parent or guardian to use our Services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We implement commercially reasonable technical, administrative, and organizational measures to protect Personal Information both online and offline from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from us may not be secure. Therefore, you should take special care in deciding what information you send to us via the Service or email. In addition, we are not responsible for circumvention of any privacy settings or security measures contained on the Service, or third party websites."
+      ],
+      "new": [
+        "We implement commercially reasonable technical, administrative, and organizational measures to protect Personal Information both online and offline from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from us may not be secure. Therefore, you should take special care in deciding what information you send to us via the Service or email. In addition, we are not responsible for circumvention of any privacy settings or security measures contained on the Service, or third-party websites."
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "We may also anonymize or de-identify your Personal Information (so that it can no longer be associated with you) for research or statistical purposes, as described above, in which case we may use this information indefinitely without further notice to you."
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "By using our Service, you understand and acknowledge that your Personal Information will be transferred from your location to our facilities and servers in the United States.",
+        "For EEA, UK or Swiss users:"
+      ],
+      "new": [
+        "By using our Service, you understand and acknowledge that your Personal Information will be processed and stored in our facilities and servers in the United States and may be disclosed to our service providers and affiliates in other jurisdictions."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Our legitimate interests in protecting our Services from abuse, fraud, or security risks, or in developing, improving, or promoting our Services, including when we train our models. This may include the processing of Account Information, Content, Social Information, and Technical Information. See here for instructions on how you can opt out of our use of your information to train our models."
+      ],
+      "new": [
+        "- Our legitimate interests in protecting our Services from abuse, fraud, or security risks, or in developing, improving, or promoting our Services, including when we train our models. This may include the processing of Account Information, Content, Social Information, and Technical Information. Read our instructions on how you can opt out of our use of your information to train our models."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**EEA and UK Representative***.* We’ve appointed VeraSafe as our representative in the EEA and UK for data protection matters. You can contact VeraSafe in matters related to Personal Information processing using this contact form. Alternatively:",
+        "- For users in the EEA, you can contact VeraSafe at VeraSafe Ireland Ltd, Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork T23AT2P, Ireland.",
+        "- For users in the UK, you can contact VeraSafe at VeraSafe United Kingdom Ltd., 37 Albert Embankment, London SE1 7TL, United Kingdom.",
+        "If you feel we have not adequately addressed an issue, you have the right to lodge a complaint with your local supervisory authority.",
+        "**Data Transfers***.* Where required, we will use appropriate safeguards for transferring Personal Information outside of the EEA, Switzerland, and the UK. We will only transfer Personal Information pursuant to a legally valid transfer mechanism.",
+        "**Data Controller***.* For the purposes of the UK and EU General Data Protection Regulation 2018, our data controller is OpenAI OpCo, LLC at 3180 18th Street, San Francisco, CA, United States."
+      ],
+      "new": [
+        "**Data Transfers.** Where required, we will use appropriate safeguards for transferring Personal Information outside of certain countries. We will only transfer Personal Information pursuant to a legally valid transfer mechanism.",
+        "**Data Protection Officer.** You can contact our data protection officer at privacy@openai.com in matters related to Personal Information processing."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We may change this Privacy Policy at any time. When we do, we will post an updated version on this page, unless another type of notice is required by applicable law. By continuing to use our Service or providing us with Personal Information after we have posted an updated Privacy Policy, or notified you by other means, you consent to the revised Privacy Policy."
+      ],
+      "new": [
+        "We may update this Privacy Policy from time to time. When we do, we will post an updated version on this page, unless another type of notice is required by applicable law."
+      ]
+    }
+  ]
+}

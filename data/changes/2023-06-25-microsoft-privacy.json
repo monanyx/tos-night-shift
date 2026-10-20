@@ -1,0 +1,174 @@
+{
+  "id": "2023-06-25-microsoft-privacy",
+  "service": "microsoft",
+  "service_name": "Microsoft",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://privacy.microsoft.com/en-us/privacystatement",
+  "detected_at": "2023-06-25T07:11:14+00:00",
+  "source": "wayback",
+  "window_start": "2023-05-14T03:05:19+00:00",
+  "archive_before": "https://web.archive.org/web/20230514030519/https://privacy.microsoft.com/en-US/privacystatement",
+  "archive_after": "https://web.archive.org/web/20230625071114/https://privacy.microsoft.com/en-US/privacystatement",
+  "flags": [
+    {
+      "tag": "tracking",
+      "label": "Tracking",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 13,
+    "added_words": 1276,
+    "removed_words": 164
+  },
+  "headline": "Microsoft rewrote its Privacy Policy — new wording on tracking",
+  "summary": "1276 words added and 164 removed across 13 sections. New wording touches: Tracking. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "We also use “web beacons” to help deliver cookies and gather usage and performance data.",
+  "receipt_side": "new",
+  "sideeye": 2,
+  "tags": [
+    "tracking"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "We also use “web beacons” to help deliver cookies and gather usage and performance data. Our websites may include web beacons, cookies, or similar technologies from third-party service providers."
+      ],
+      "new": [
+        "We also use “web beacons” to help deliver cookies and gather usage and performance data. Our websites may include web beacons, cookies, or similar technologies from Microsoft affiliates and partners as well as third parties, such as service providers acting on our behalf.",
+        "Third party cookies may include: Social Media cookies designed to show you ads and content based on your social media profiles and activities on our websites; Analytics cookies to better understand how you and others use our websites so that we can make them better, and so the third parties can improve their own products and services; Advertising cookies to show you ads that are relevant to you; and Required cookies used to perform essential website functions. Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication.",
+        "Please see the Learn more section below for information about our use of third party cookies, web beacons and analytics services, and other similar technologies on our websites and services. For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit our third party cookie inventory. On some of our websites, a list of third parties is available directly on the site. The third parties on these sites may not be included in the list on our third party cookie inventory."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "In addition to the cookies Microsoft sets when you visit our websites, third parties can also set cookies when you visit Microsoft sites. For example:"
+      ],
+      "new": [
+        "We may also use the cookies of other Microsoft affiliates, companies, and partners, such as LinkedIn and Xandr.",
+        "**Third Party Cookies**",
+        "In addition to the cookies Microsoft sets when you visit our websites, we also use cookies from third parties to enhance the services on our sites. Some third parties can also set cookies when you visit Microsoft sites. For example:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Companies that deliver content, such as videos or news, or ads on Microsoft sites, place cookies on their own. These companies use the data they process in accordance with their privacy policies, which may enable these companies to collect and combine information about your activities across websites, apps, or online services.",
+        "For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit our third party cookie inventory. On some of our websites, a list of third parties is available directly on the site. The third parties on these sites may not be included in the list on our third party cookie inventory."
+      ],
+      "new": [
+        "- Companies that deliver content on Microsoft sites, such as videos or news, or ads, place cookies on their own.",
+        "These companies use the data they process in accordance with their privacy policies, which may enable these companies to collect and combine information about your activities across websites, apps, or online services.",
+        "The following types of third-party cookies may be used, depending on the context, service or product, as well as your settings and permissions:",
+        "- **Social Media cookies.** We and third parties use social media cookies to show you ads and content based on your social media profiles and activity on our websites. They’re used to connect your activity on our websites to your social media profiles so the ads and content you see on our websites and on social media will better reflect your interests.",
+        "- **Analytics cookies.**We allow third parties to use analytics cookies to understand how you use our websites so we can make them better and the third parties can develop and improve their products, which they may use on websites that are not owned or operated by Microsoft. For example, analytics cookies are used to gather information about the pages you visit and how many clicks you need to accomplish a task. These cookies may also be used for advertising purposes.",
+        "- **Advertising cookies.**We and third parties use advertising cookies to show you new ads by recording which ads you've already seen. They're also used to track which ads you click on or purchases you make after clicking on an ad for payment purposes, and to show you ads that are more relevant to you. For example, they're used to detect when you click on an ad and show you ads based on your social media interests and website browsing history.",
+        "- **Required cookies.**We use required cookies to perform essential website functions. For example, to log you in, save your language preferences, provide a shopping cart experience, improve performance, route traffic between web servers, detect the size of your screen, determine page load times, and measure audiences. These cookies are necessary for our websites to work.",
+        "Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication.",
+        "For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit our third party cookie inventory. The third party cookie inventory also includes links to those third parties’ websites or privacy notices. Please consult the third party websites or privacy notices for more information on their privacy practices with respect to their cookies that may be set on our websites. On some of our websites, a list of third parties is available directly on the site. The third parties on these sites may not be included in the list on our third party cookie inventory."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Most web browsers automatically accept cookies but provide controls that allow you to block or delete them. For example, in Microsoft Edge, you can block or delete cookies by selecting **Settings** > **Privacy and services** > **Clear Browsing data** > **Cookies and other site data**. For more information about how to delete your cookies in Microsoft browsers, see Microsoft Edge, Microsoft Edge Legacy or Internet Explorer. If you use a different browser, refer to that browser’s instructions."
+      ],
+      "new": [
+        "Most web browsers automatically accept cookies but provide controls that allow you to block or delete them. For example, in Microsoft Edge, you can block or delete cookies by selecting **Settings** > **Privacy and services** > **Clear Browsing data** > **Cookies and other site data**. For more information about how to delete your cookies in Microsoft browsers, see Microsoft Edge, Microsoft Edge Legacy, or Internet Explorer. If you use a different browser, refer to that browser’s instructions."
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "Certain features of Microsoft products depend on cookies. If you choose to block cookies, you cannot sign in or use some of those features, and preferences that are dependent on cookies will be lost. If you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, are deleted and will need to be recreated."
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Finally, Microsoft products often contain web beacons or similar technologies from third-party analytics providers, which help us compile aggregated statistics about the effectiveness of our promotional campaigns or other operations. These technologies enable the analytics providers to set or read their own cookies or other identifiers on your device, through which they can collect information about your online activities across applications, websites, or other products. However, we prohibit these analytics providers from using web beacons on our sites to collect or access information that directly identifies you (such as your name or email address You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites: Adjust, AppsFlyer, Clicktale, Flurry Analytics, Google Analytics (requires you to install a browser add-on), Kissmetrics, Mixpanel, Nielsen, Acuity Ads, WebTrends or Optimizely."
+      ],
+      "new": [
+        "Finally, Microsoft products often contain web beacons or similar technologies from third-party analytics providers, which help us compile aggregated statistics about the effectiveness of our promotional campaigns or other operations. These technologies enable the analytics providers to set or read their own cookies or other identifiers on your device, through which they can collect information about your online activities across applications, websites, or other products. However, we prohibit these analytics providers from using web beacons on our sites to collect or access information that directly identifies you (such as your name or email address). You can opt out of data collection or use by some of these analytics providers by visiting any of the following sites: Adjust, AppsFlyer, Clicktale, Flurry Analytics, Google Analytics (requires you to install a browser add-on), Kissmetrics, Mixpanel, Nielsen, Acuity Ads, WebTrends, or Optimizely."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- We may share data we collect with internal and external partners, such as Xandr, Verizon Media, or Facebook (see below), so that the ads you see in our products and their products are more relevant and valuable to you."
+      ],
+      "new": [
+        "- We may share data we collect with internal and external partners, such as Xandr, Yahoo, or Facebook (see below), so that the ads you see in our products and their products are more relevant and valuable to you."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "or online services. These companies currently include, but are not limited to: Facebook, Media.net, Outbrain, Taboola and Verizon Media. Select any of the preceding links to find more information on each company's practices, including the choices it offers. Many of these companies are also members of the NAI or DAA, which each provide a simple way to opt out of ad targeting from participating companies."
+      ],
+      "new": [
+        "or online services. These companies currently include, but are not limited to: Facebook, Media.net, Outbrain, Taboola and Yahoo. Select any of the preceding links to find more information on each company's practices, including the choices it offers. Many of these companies are also members of the NAI or DAA, which each provide a simple way to opt out of ad targeting from participating companies.",
+        "To opt out of receiving personalized advertising from Microsoft, visit our opt-out page. When you opt out, your preference is stored in a cookie that is specific to the web browser you are using. The opt-out cookie has an expiration date of five years. If you delete the cookies on your device, you need to opt out again."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "The Phone Link app lets you link your Android phone with your Windows device, enabling a variety of cross-device experiences. You can use Phone Link to see recent photos from your Android phone on your Windows device; make and receive calls from your Android phone on your Windows device; view and send text messages from your Windows device; view, dismiss, or perform other actions to your Android phone notifications from your Windows device; and share your phone screen on your Windows device through Phone Link’s mirroring function.",
+        "To use Phone Link, the Phone Link app must be installed on your Windows device and the Link to Windows app must be installed on your Android phone. Upon launching the Phone Link app on your Windows device, you will be prompted to provide your mobile phone number. We use this mobile phone number solely to send you a link with information about downloading the Link to Windows app.",
+        "To use Phone Link, you must log into your Microsoft account on the Phone Link app on your Windows device and on the Link to Windows app on your Android phone. Your Android phone must be connected to Wi-Fi and your Windows device must be connected to the internet and permit Phone Link to run in the background. To use Phone Link’s mirroring function, your Android phone must also have Bluetooth enabled. Phone Link also requires your Windows device to be set up with Windows Hello, as an additional security measure."
+      ],
+      "new": [
+        "**Phone Link - Link to Windows** The Phone Link app lets you link your Android phone with your Microsoft Account, enabling a variety of cross-device experiences. You can use Phone Link to see recent photos from your Android phone on your Windows device; make and receive calls from your Android phone on your Windows device; view and send text messages from your Windows device; view, dismiss, or perform other actions to your Android phone notifications from your Windows device; share your phone screen on your Windows device through Phone Link’s mirroring function; and instantly access Android apps installed on your Android phone on your Windows device.",
+        "To use Phone Link, the Phone Link app must be installed on your Windows device and the Link to Windows app must be installed on your Android phone.",
+        "To use Phone Link, you must log into your Microsoft account on the Phone Link app on your Windows device and on the Link to Windows app on your Android phone. Your Android phone and your Windows device must be connected to the internet. Some features will require you to enable Bluetooth and pair your phone with your PC. To use the Calls feature, your Android phone must also have Bluetooth enabled.",
+        "During setting up your Windows device, you can choose to link your phone with your Microsoft account. This is done by signing into Link to Windows on your Android phone, granting permissions and completing the onboarding experience. Once complete, Link to Windows will sync your data, such as your text messages, contacts, call history, photos, notifications, and other information, to all your Windows PCs where you have signed into your Microsoft account. See below for details on how your data is used."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You can unlink your Android phone from your Windows device at any time by logging in with your Microsoft account at accounts.microsoft.com/devices and updating the Settings on your Android phone. For detailed information, see our support page.",
+        "**Text Messages.** Phone Link allows you to view text messages delivered to your Android phone on your Windows device and send text messages from your Windows device. Only text messages received and sent within the last 30 days are visible on your Windows device. These text messages are temporarily stored on your Windows device. We never store your text messages on our servers or change or delete any text messages on your Android phone. You can see messages sent via SMS (Short Message Service) and MMS (Multimedia Messaging Service) but not messages sent via RCS (Rich Communication Services). To provide this functionality, Phone Link accesses the content of your text messages and the contact information of the individuals or businesses from whom you are receiving or sending text messages."
+      ],
+      "new": [
+        "You can unlink your Android phone from your Windows device at any time by going into your Phone Link app settings and choosing to remove your Android phone. You can do the same from the app settings on the Link to Windows app on your Android phone. For detailed information, see our support page.",
+        "**Text Messages.** Phone Link allows you to view text messages delivered to your Android phone on your Windows device and send text messages from your Windows device. Only text messages received and sent within the last 30 days are visible on your Windows device. These text messages are temporarily stored on your Windows device. We never store your text messages on our servers or change or delete any text messages on your Android phone. You can see messages sent via SMS (Short Message Service) and MMS (Multimedia Messaging Service) on Android devices, and messages sent via RCS (Rich Communication Services) on select Samsung devices on select mobile operator networks. To provide this functionality, Phone Link accesses the content of your text messages and the contact information of the individuals or businesses from whom you are receiving or sending text messages."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Photos.** Phone Link allows you to copy, share or edit photos from your Android phone on your Windows device. Only a limited number of your most recent photos from the Camera Roll and Screenshots folders on your Android phone will be visible on your Windows device at any given time. These photos are temporarily stored on your Windows device and as you take more photos on your Android phone, we remove the temporary copies of the older photos from your Windows device. We never store your photos on our servers or change or delete any photos on your Android phone."
+      ],
+      "new": [
+        "**Photos.** Phone Link allows you to copy, share, edit, save, or delete photos from your Android phone on your Windows device. Only a limited number of your most recent photos from the Camera Roll and Screenshots folders on your Android phone will be visible on your Windows device at any given time. These photos are temporarily stored on your Windows device and as you take more photos on your Android phone, we remove the temporary copies of the older photos from your Windows device. We never store your photos on our servers or change or delete any photos on your Android phone."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Mirroring.** Phone Link allows you to view your Android phone’s screen on your Windows device. Your Android phone screen will be visible on your Windows device as a pixel stream and any audio that you enable on your Android phone screen while it is linked to your Windows device through Phone Link will play through your Android phone."
+      ],
+      "new": [
+        "**Phone Screen Mirroring.** On supported devices, Phone Link allows you to view your Android phone’s screen on your Windows device. Your Android phone screen will be visible on your Windows device as a pixel stream and any audio that you enable on your Android phone screen while it is linked to your Windows device through Phone Link will play through your Android phone.",
+        "**Apps mirroring.** On supported devices, Phone Link allows you to use your Android apps that are installed on your Android phone on your Windows device. For example, you can launch a music app in your Windows session and listen to audio from that app on your PC speakers. Microsoft collects a list of your installed Android apps and recent activity to provide the service and show you your most recently used apps. Microsoft does not store what apps you have installed or any of the information displayed by the app in your experience with it.",
+        "**Content transfer.** On supported devices, Phone Link allows you to copy and paste contents such as files, documents, photos, etc. between your Android phone and your Windows device. You can transfer content from your Android phone to your Windows device and from your Windows device to your Android phone by drag and drop contents between the devices.",
+        "**Instant Hotspot.** On supported devices, Link to Windows enables users to share mobile hotspot information with their paired PC over secure Bluetooth communication. Your PC application can then be connected to the internet through the Windows network flyout. Please note mobile data charges may apply depending on the mobile data plan you have.",
+        "**Contacts sync.** Link to Windows allows you to sync your Android contacts into the Microsoft cloud to access them in other Microsoft products and services. You can enable this feature by going into Link to Windows settings and enabling “Contacts sync” feature. Your contacts information is stored online and associated with your Microsoft account. You may choose to disable sync and delete these contacts at any time. Learn more."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Office Enterprise.** Link to Windows allows you to insert photos into PowerPoint Online and Word Online directly from your mobile phone. This requires your IT Administrator to have enabled Optional Connected Experiences for Microsoft Office applications and you will need to associate your mobile device with your Azure Active Directory (AAD) account and provide Photos permission to your account. After onboarding, your session will last 15 minutes to enable you to transfer your Photos from your mobile device. In order to use this feature again, you will need to scan your QR code again. Link to Windows does not collect your AAD account or information about your Enterprise. In order to provide this service, Microsoft uses a cloud service to relay your files for the purpose of inserting the photos into your PowerPoint Online or Word Online files."
+      ]
+    }
+  ]
+}

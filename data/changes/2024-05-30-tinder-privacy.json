@@ -1,0 +1,37 @@
+{
+  "id": "2024-05-30-tinder-privacy",
+  "service": "tinder",
+  "service_name": "Tinder",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://policies.tinder.com/privacy/intl/en",
+  "detected_at": "2024-05-30T04:12:11+00:00",
+  "source": "wayback",
+  "window_start": "2024-04-01T04:43:50+00:00",
+  "archive_before": "https://web.archive.org/web/20240401044350/https://policies.tinder.com/privacy/intl/en/",
+  "archive_after": "https://web.archive.org/web/20240530041211/https://policies.tinder.com/privacy/intl/en/",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 21,
+    "removed_words": 0
+  },
+  "headline": "Tinder edited its Privacy Policy",
+  "summary": "21 words added and 0 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "**If you are a Washington or Nevada resident, please see our Consumer Health Data Privacy Policy, which supplements this Privacy Policy**",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**If you are a Washington or Nevada resident, please see our Consumer Health Data Privacy Policy, which supplements this Privacy Policy**"
+      ]
+    }
+  ]
+}

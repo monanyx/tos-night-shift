@@ -1,4 +1,34 @@
 {
+  "amazon/privacy": {
+    "changes": 7,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-18T06:04:52+00:00"
+  },
+  "amazon/terms": {
+    "changes": 3,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-11T13:00:14+00:00"
+  },
+  "anthropic/privacy": {
+    "changes": 11,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-06-24T02:21:15+00:00"
+  },
+  "anthropic/terms": {
+    "changes": 8,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-20T01:09:12+00:00"
+  },
+  "apple/privacy": {
+    "changes": 4,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-12T22:17:12+00:00"
+  },
   "discord/privacy": {
     "changes": 7,
     "copies": 12,
@@ -10,5 +40,233 @@
     "copies": 12,
     "done": true,
     "last_copy": "2026-06-15T08:40:23+00:00"
+  },
+  "duolingo/privacy": {
+    "changes": 0,
+    "copies": 16,
+    "done": true,
+    "last_copy": null
+  },
+  "duolingo/terms": {
+    "changes": 0,
+    "copies": 16,
+    "done": true,
+    "last_copy": null
+  },
+  "facebook/privacy": {
+    "changes": 10,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-18T20:19:27+00:00"
+  },
+  "facebook/terms": {
+    "changes": 9,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-07-20T03:33:37+00:00"
+  },
+  "google/privacy": {
+    "changes": 10,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-17T16:03:13+00:00"
+  },
+  "google/terms": {
+    "changes": 3,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-19T08:20:37+00:00"
+  },
+  "instagram/privacy": {
+    "changes": 8,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-11T13:40:11+00:00"
+  },
+  "instagram/terms": {
+    "changes": 1,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2023-04-02T02:13:33+00:00"
+  },
+  "linkedin/privacy": {
+    "changes": 7,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-19T14:33:44+00:00"
+  },
+  "linkedin/terms": {
+    "changes": 4,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-19T17:45:50+00:00"
+  },
+  "microsoft/privacy": {
+    "changes": 10,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2024-10-14T22:02:08+00:00"
+  },
+  "microsoft/terms": {
+    "changes": 10,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-15T04:40:25+00:00"
+  },
+  "netflix/privacy": {
+    "changes": 7,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-13T10:16:42+00:00"
+  },
+  "netflix/terms": {
+    "changes": 7,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-14T02:07:42+00:00"
+  },
+  "openai/privacy": {
+    "changes": 10,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-19T20:34:49+00:00"
+  },
+  "openai/terms": {
+    "changes": 8,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-13T07:55:35+00:00"
+  },
+  "pinterest/privacy": {
+    "changes": 9,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-09-26T04:55:30+00:00"
+  },
+  "pinterest/terms": {
+    "changes": 8,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-06T14:35:33+00:00"
+  },
+  "reddit/privacy": {
+    "changes": 6,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-19T04:29:54+00:00"
+  },
+  "reddit/terms": {
+    "changes": 12,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-17T22:05:12+00:00"
+  },
+  "snapchat/privacy": {
+    "changes": 6,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-16T15:00:28+00:00"
+  },
+  "snapchat/terms": {
+    "changes": 1,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2024-01-06T00:40:42+00:00"
+  },
+  "spotify/privacy": {
+    "changes": 11,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-19T11:23:05+00:00"
+  },
+  "spotify/terms": {
+    "changes": 5,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-19T11:23:26+00:00"
+  },
+  "temu/privacy": {
+    "changes": 9,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-16T17:06:50+00:00"
+  },
+  "temu/terms": {
+    "changes": 8,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-13T00:32:03+00:00"
+  },
+  "tiktok/privacy": {
+    "changes": 8,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-13T13:10:50+00:00"
+  },
+  "tiktok/terms": {
+    "changes": 7,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-07-16T19:02:59+00:00"
+  },
+  "tinder/privacy": {
+    "changes": 10,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-13T07:29:01+00:00"
+  },
+  "tinder/terms": {
+    "changes": 7,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-13T11:12:49+00:00"
+  },
+  "uber/terms": {
+    "changes": 8,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-07-30T16:40:37+00:00"
+  },
+  "whatsapp/privacy": {
+    "changes": 7,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-09T05:50:52+00:00"
+  },
+  "whatsapp/terms": {
+    "changes": 6,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-09T11:32:22+00:00"
+  },
+  "x/privacy": {
+    "changes": 9,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-13T18:24:37+00:00"
+  },
+  "x/terms": {
+    "changes": 8,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-13T18:24:37+00:00"
+  },
+  "youtube/terms": {
+    "changes": 2,
+    "copies": 5,
+    "done": true,
+    "last_copy": "2026-03-30T11:36:01+00:00"
+  },
+  "zoom/privacy": {
+    "changes": 5,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-13T14:23:49+00:00"
+  },
+  "zoom/terms": {
+    "changes": 2,
+    "copies": 16,
+    "done": true,
+    "last_copy": "2026-10-13T14:23:49+00:00"
   }
 }

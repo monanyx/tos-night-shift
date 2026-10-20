@@ -1,0 +1,216 @@
+{
+  "id": "2024-09-09-pinterest-terms",
+  "service": "pinterest",
+  "service_name": "Pinterest",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://policy.pinterest.com/en/terms-of-service",
+  "detected_at": "2024-09-09T03:16:21+00:00",
+  "source": "wayback",
+  "window_start": "2024-07-01T03:09:54+00:00",
+  "archive_before": "https://web.archive.org/web/20240701030954/https://policy.pinterest.com/en/terms-of-service",
+  "archive_after": "https://web.archive.org/web/20240909031621/https://policy.pinterest.com/en/terms-of-service",
+  "flags": [
+    {
+      "tag": "arbitration",
+      "label": "Arbitration / no lawsuits",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 25,
+    "added_words": 154,
+    "removed_words": 0
+  },
+  "headline": "Pinterest rewrote its Terms of Service — new wording on your right to sue",
+  "summary": "154 words added and 0 removed across 25 sections. New wording touches: Arbitration / no lawsuits. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Arbitration",
+  "receipt_side": "new",
+  "sideeye": 2,
+  "tags": [
+    "arbitration"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# Terms of Service",
+        "# Thank you for using Pinterest!"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# 1. The Service"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# 2. Using Pinterest",
+        "### a. Who can use Pinterest"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "### b. Our license to you"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "### c. Commercial use of Pinterest"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# 3. Your User Content",
+        "### a. Posting User Content"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "### b. How we and other users can use your User Content"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "### c. How long we keep your User Content"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "### d. Feedback you provide"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "### e. Our reporting channels"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# 4. Intellectual Property",
+        "### a. Copyright Policy and Trademark Policy"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "### b. Pinterest Intellectual Property"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# 5. Security"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# 6. Third party links, sites, and services"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# 7. Termination"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# 8. Indemnity"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# 9. Disclaimers"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# 10. Limitation of Liability"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# 11. Arbitration"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# 12. Governing law and jurisdiction"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# 13. General terms",
+        "### a. Notification procedures and changes to these Terms"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "### b. Assignment"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "### c. Entire agreement/severability"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "### d. No waiver"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "### e. Parties"
+      ]
+    }
+  ]
+}

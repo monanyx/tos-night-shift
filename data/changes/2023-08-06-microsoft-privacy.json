@@ -1,0 +1,57 @@
+{
+  "id": "2023-08-06-microsoft-privacy",
+  "service": "microsoft",
+  "service_name": "Microsoft",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://privacy.microsoft.com/en-us/privacystatement",
+  "detected_at": "2023-08-06T04:52:19+00:00",
+  "source": "wayback",
+  "window_start": "2023-06-25T07:11:14+00:00",
+  "archive_before": "https://web.archive.org/web/20230625071114/https://privacy.microsoft.com/en-us/privacystatement",
+  "archive_after": "https://web.archive.org/web/20230806045219/https://privacy.microsoft.com/en-us/privacystatement",
+  "flags": [],
+  "stats": {
+    "hunks": 3,
+    "added_words": 74,
+    "removed_words": 1
+  },
+  "headline": "Microsoft edited its Privacy Policy",
+  "summary": "74 words added and 1 removed across 3 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "For individuals in the United States, please refer to our U.S.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "For individuals in the United States, please refer to our U.S. State Data Privacy Notice and the Washington State Consumer Health Data Privacy Policy for additional information about the processing of your personal data, and your rights under applicable U.S. State data privacy laws."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Please note that recent changes to the CCPA and other state data privacy laws are set to take effect in 2023; however, the rules implementing many of these laws have not yet been finalized. We are continuously working to better comply with these laws, and we will update our processes and disclosures as these implementing rules are finalized.",
+        "Please also see our U.S. State Data Privacy Laws Notice for additional information about the data we collect, process, share and disclose, and your rights under applicable U.S. state data privacy laws."
+      ],
+      "new": [
+        "Please note that recent changes to the CCPA and other state data privacy laws are set to take effect in 2023; however, the rules implementing some of these laws have not yet been finalized. We are continuously working to better comply with these laws, and we will update our processes and disclosures as these implementing rules are finalized.",
+        "Please also see our U.S. State Data Privacy Laws Notice and our Washington State Consumer Health Data Privacy Policy for additional information about the data we collect, process, share and disclose, and your rights under applicable U.S. state data privacy laws."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Rights**. You have the right to request that we (i) disclose what personal data we collect, use, disclose, share, and sell, (ii) delete your personal data, (iii) correct your personal data, (iv) restrict the use and disclosure of your sensitive data, and (v) opt-out of “sharing” your personal data with third parties for personalized advertising purposes on third party sites. You may make these requests yourself or through an authorized agent. If you use an authorized agent, we provide your agent with detailed guidance on how to exercise your privacy rights. Please see our U.S. State Data Privacy Laws Notice for additional information on how to exercise these rights."
+      ],
+      "new": [
+        "**Rights**. You have the right to request that we (i) disclose what personal data we collect, use, disclose, share, and sell, (ii) delete your personal data, (iii) correct your personal data, (iv) restrict the use and disclosure of your sensitive data, and (v) opt-out of “sharing” your personal data with third parties for personalized advertising purposes on third party sites. You may make these requests yourself or through an authorized agent. If you use an authorized agent, we provide your agent with detailed guidance on how to exercise your privacy rights. Please see our U.S. State Data Privacy Laws Notice for additional information on how to exercise these rights. Please also see our Washington State Consumer Health Data Privacy Policy for information on the rights available under Washington law."
+      ]
+    }
+  ]
+}

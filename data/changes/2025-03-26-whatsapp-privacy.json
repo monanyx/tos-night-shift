@@ -1,0 +1,342 @@
+{
+  "id": "2025-03-26-whatsapp-privacy",
+  "service": "whatsapp",
+  "service_name": "WhatsApp",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.whatsapp.com/legal/privacy-policy-eea",
+  "detected_at": "2025-03-26T02:49:40+00:00",
+  "source": "wayback",
+  "window_start": "2024-01-27T18:27:33+00:00",
+  "archive_before": "https://web.archive.org/web/20240127182733/https://www.whatsapp.com/legal/privacy-policy-eea",
+  "archive_after": "https://web.archive.org/web/20250326024940/https://www.whatsapp.com/legal/privacy-policy-eea",
+  "flags": [
+    {
+      "tag": "location",
+      "label": "Location",
+      "hits": 1
+    },
+    {
+      "tag": "minors",
+      "label": "Kids & teens",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 28,
+    "added_words": 3430,
+    "removed_words": 103
+  },
+  "headline": "WhatsApp rewrote its Privacy Policy — new wording on your location and kids and teens",
+  "summary": "3430 words added and 103 removed across 28 sections. New wording touches: Location, Kids & teens. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "- Precise Location Information.",
+  "receipt_side": "new",
+  "sideeye": 3,
+  "tags": [
+    "location",
+    "minors"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "**As always, your personal messages and calls remain end-to-end encrypted. No one else, not even WhatsApp, can read or listen to them.**",
+        "Effective Date: December 4, 2023 (archived versions)"
+      ],
+      "new": [
+        "**As always, your personal messages and calls are end-to-end encrypted. No one else, not even WhatsApp, can read or listen to them.**",
+        "Effective March 20, 2025 (archived versions)"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*If you live in the* UK*, WhatsApp LLC provides the Services to you under this Terms of Service and Privacy Policy.*",
+        "*If you live outside the* UK *or* European Region*, WhatsApp LLC provides the Services to you under this Terms of Service and Privacy Policy.*",
+        "We’ve updated our Privacy Policy to explain how we process your information when you create an avatar using a photo so that your avatar more closely resembles you.",
+        "This feature is optional.",
+        "*If you live in the* European Region*, WhatsApp Ireland Limited (\"WhatsApp,\" \"our,\" \"we,\" or \"us\") provides our Services to you under the Terms of Service and this Privacy Policy.*",
+        "**Respect for your privacy is coded into our DNA**. Since we started WhatsApp, we've aspired to build our Services with a set of strong privacy principles in mind.",
+        "We are one of the Meta Companies. Our Privacy Policy (\"Privacy Policy\") explains our data practices, including the information we process to provide our Services."
+      ],
+      "new": [
+        "*If you live in the UK, WhatsApp LLC provides the Services to you under this Terms of Service and Privacy Policy.*",
+        "*If you live outside the UK or European Region, WhatsApp LLC provides the Services to you under this Terms of Service and Privacy Policy.*",
+        "WhatsApp has made several updates to its Privacy Policy. The key changes include:",
+        "- We’ve added information about how WhatsApp provides an option for users to message with Meta AI.",
+        "- We’ve added information about our calling features including new calling and media effects which you can access through your camera.",
+        "- We’ve updated information on how contacts are securely saved to WhatsApp to allow you to restore on a new device or manage across companion devices.",
+        "*If you live in the* European Region*, WhatsApp Ireland Limited (\"***WhatsApp***,\" \"***our***,\" \"***we***,\" or \"***us***\") provides our Services to you under the Terms of Service and this Privacy Policy.*",
+        "Respect for your privacy is coded into our DNA. Since we started WhatsApp, we've aspired to build our Services with a set of strong privacy principles in mind.",
+        "We are one of the Meta Companies. Our Privacy Policy (\"**Privacy Policy**\") explains our data practices, including the information we process to provide our Services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "This Privacy Policy applies to all of our Services unless specified otherwise. Some products or features that we offer have supplemental privacy policies which supplement this WhatsApp Privacy Policy: Channels Supplemental Privacy Policy.",
+        "Please also read WhatsApp's Terms of Service (\"Terms\"), which describe the terms under which you use and we provide our Services."
+      ],
+      "new": [
+        "This Privacy Policy applies to all of our Services unless specified otherwise. Some products or features that we offer have supplemental privacy policies which supplement this WhatsApp Privacy Policy. These can be found here.",
+        "If you are a user of another messaging service that is interoperable with WhatsApp under Article 7 of the Digital Markets Act, then this notice applies to you for the limited processing activities that enable interoperable messaging.",
+        "Please also read WhatsApp's Terms of Service (\"**Terms**\"), which describe the terms under which you use and we provide our Services."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "As always, your personal messages and calls remain end-to-end encrypted. No one else, not even WhatsApp, can read or listen to them."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Your Messages, Media within Messages, and Calls**: We offer end-to-end encryption for our Services. End-to-end encryption means that your calls, messages, media within messages including content like images, audio, video, documents and files are encrypted to protect against third parties (including WhatsApp) from seeing that content. Learn more about end-to-end encryption and how businesses communicate with you on WhatsApp."
+      ],
+      "new": [
+        "- Your Messages, Media within Messages, and Calls: We offer end-to-end encryption for our Services. End-to-end encryption means that your calls, messages, media within messages including content like images, audio, video, documents and files are encrypted to protect against third parties (including WhatsApp) from seeing that content. Learn more about end-to-end encryption and how businesses communicate with you on WhatsApp."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Status Information**. You can choose to share your Status, which is also end-to-end encrypted.",
+        "- **Precise Location Information**. We enable you to share your Precise Location Information from your device when you choose to use location-related features, like when you decide to share your current location with, or send live location to your contacts, or view locations nearby. Precise Location Information that you share with your contacts in your chats is encrypted so WhatsApp cannot see it. You can control your Precise Location Information sharing in your in-app settings (see more information for iPhone and Android) and your device-based settings."
+      ],
+      "new": [
+        "- Status Information. You can choose to share your Status, which is also end-to-end encrypted.",
+        "- Precise Location Information. We enable you to share your Precise Location Information from your device when you choose to use location-related features, like when you decide to share your current location with, or send live location to your contacts, or view locations nearby. Precise Location Information that you share with your contacts in your chats is encrypted so WhatsApp cannot see it. You can control your Precise Location Information sharing in your in-app settings (see more information for iPhone and Android) and your device-based settings."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You can use contact upload and provide us with the phone numbers in your device address book on a regular basis, including those of users of our Services and your other contacts. If any of your contacts aren’t yet using our Services, we’ll manage this information in a way that is designed to ensure that those contacts cannot be identified by us. Learn more about contact upload and about the information we provide to people who do not use WhatsApp here. We also collect information on users who contact you that aren't in your device address book and any users you've blocked or who have blocked you."
+      ],
+      "new": [
+        "You can use contact upload and provide us with contact information from your device address book on a regular basis, including those of users of our Services and your other contacts. If any of your contacts aren’t yet using our Services, we’ll manage this information in a way that is designed to ensure that those contacts cannot be identified by us. Learn more about contact upload and about the information we provide to people who do not use WhatsApp here. We also collect information on users who contact you that aren't in your device address book and any users you've blocked or who have blocked you."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You can create, join, or get added to communities, groups and broadcast lists, and such communities, groups and lists get associated with your account. You give your groups and communities a name. You can provide a community or group profile picture or description. We also collect information about when communities and groups are created or updated."
+      ],
+      "new": [
+        "You can create, join, or get added to communities, groups and broadcast lists, and such communities, groups and lists get associated with your account. You can give your groups and communities a name. You can also provide a community or group profile picture or description. We also collect information about when communities and groups are created or updated."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We collect information about your usage of our Services. This includes collecting information about your activity (including how you use our Services), how you interact with others using our Services (including when you search for and interact with a business), and the time, frequency, and duration of your activities. This also includes information about the features you use like our messaging (and integrated applications), calling, Status, avatars, communities, groups or business features; whether you are online; timestamps related to your use such as when you last used our Services (your \"last seen\") and the times you send and receive calls and messages; and when you last updated your \"about\" information."
+      ],
+      "new": [
+        "We collect information about your usage of our Services. This includes collecting information about your activity (including how you use our Services), how you interact with others using our Services (including when you search for and interact with a business), the time, frequency, and duration of your activities. This also includes information about the features you use like our messaging (and integrated applications), calling, Status, avatars, communities, groups or business features; whether you are online; timestamps related to your use such as when you last used our Services (your \"last seen\") and the times you send and receive calls and messages; and when you last updated your \"about\" information."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Even if you do not choose to use our precise location-related features (see Information Shared by You and by WhatsApp with Third Parties), we use IP addresses and other information like phone number area codes, to estimate your general location (e.g., country)."
+      ],
+      "new": [
+        "Even if you do not choose to use our precise location-related features (see Information Shared by You and by WhatsApp with Third Parties), we use IP addresses and other information like phone number area codes, to estimate your general location (e.g., country / region)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We collect information about your in-app settings, privacy settings and records about when you accepted terms. Only you are in control of your privacy settings which can be used to change, for example, who can see your \"last seen\", profile photo, \"about\" information, Status updates, read receipts or add you to groups. We also collect information about whether you have enabled push notifications and whether you wish to send disappearing messages."
+      ],
+      "new": [
+        "We collect information about your in-app settings, privacy settings and records about when you accepted terms. Only you are in control of your privacy settings which can be used to change, for example, who can see your \"last seen and online\", profile photo, \"about\" information, Status updates, read receipts or add you to groups. We also collect information about whether you have enabled push notifications and whether you wish to send disappearing messages."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We receive information about you from other users. For example, when other users you know use our Services, they may provide your phone number if they use contact upload just as you may provide theirs. We require each of these users to have lawful rights to collect, use, and share your information before providing any information to us. They may also send you messages, send messages to groups to which you belong, or call you. You should keep in mind that in general any user can capture screenshots of your chats or messages or make recordings of your calls with them and send them to WhatsApp or anyone else, or post them on another platform."
+      ],
+      "new": [
+        "We receive information about you from other users. For example, when other users you know use our Services, they may provide your contact information if they use contact upload just as you may provide theirs. We require each of these users to have lawful rights to collect, use, and share your information before providing any information to us. They may also send you messages, send messages to groups to which you belong, or call you. You should keep in mind that in general any user can capture screenshots of your chats or messages or make recordings of your calls with them and send them to WhatsApp or anyone else, or post them on another platform."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We also allow you to use our Services in connection with third-party services and Meta Company Products. If you use our Services with such third-party services or Meta Company Products, we may receive information about you from them; for example, if you use the WhatsApp share button on a news service to share a news article with your WhatsApp contacts, groups, or broadcast lists on our Services. Please note that when you use third-party services or Meta Company Products, the terms and privacy policies of the company that offers those services will govern your use of those services and products."
+      ],
+      "new": [
+        "We also allow you to use our Services in connection with third-party services and Meta Company Products. If you use our Services with such third-party services or Meta Company Products, we may receive information about you from them; for example, if you use the WhatsApp share button on a news service to share a news article with your WhatsApp contacts, groups, or broadcast lists on our Services.",
+        "When you choose to communicate with users of third party interoperable messaging services under Article 7 of the Digital Markets Act, we receive limited information to enable you to successfully send and receive messages, namely whether your messages are successfully delivered, information about the type of message (text or media) and when it was sent.",
+        "Please note that when you use third-party services or Meta Company Products, the terms and privacy policies of the company that offers those services will govern your use of those services and products."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Send Your Information To Those With Whom You Choose To Communicate**. You share User Content when you communicate through our Services. You are in control of what you are sending when you send your information to the individual or business WhatsApp users you choose to communicate with. Please be mindful that, once you have sent User Content to a WhatsApp user, they can store or reshare it with others on and off our Services.",
+        "- **Information Associated With Your Account**. As part of your WhatsApp messaging experience and based on your privacy settings, those users who have your phone number can see Your Account Information (phone number, profile photo, \"about\" information), and can add you to groups and communities where this information is then potentially visible to others in the group or community. When you send a message to another user or to a group, your chosen profile name will become visible to the recipients of the message, including users who do not have you in their contact list. Users who have your phone number can also see your \"last seen\" information and your message receipts, depending on your privacy settings. You can configure your privacy settings to manage group membership, and certain information (for example, your \"last seen\") available to other users. Please see our Help Center for more information on how to change your privacy settings.",
+        "- **Third-Party Services**. When you, or other users you interact with, use third-party services or other Meta Company Products that are linked through our Services, the providers of those services or products may receive the information about you that you or others share with them. For example, if you use a data backup service integrated with our Services (like iCloud or Google Drive), they will receive the information you share with them, such as your WhatsApp messages, and if you search the web from WhatsApp for a group profile picture, the search engine provider will receive the search term you use. If you interact with a third-party service or other Meta Company Products through our Services, such as when you use the in-app player to play content from a third-party platform like YouTube or Facebook, information like your IP address and technical information showing that the request comes from a WhatsApp app, may be provided to the provider of such service or products. Please note that when you use third-party services or other Meta Company Products, their own terms and privacy policies will govern your use of those services and products.",
+        "- **Third-Party Service Providers.** We work with third-party service providers to help us provide our Services."
+      ],
+      "new": [
+        "- **Send Your Information To Those With Whom You Choose To Communicate**. You share User Content when you communicate through our Services or if you choose to communicate with users of third party interoperable messaging services. You are in control of what you are sending when you send your information to the individual or business WhatsApp users you choose to communicate with. Please be mindful that, once you have sent User Content to a WhatsApp user, they can store or reshare it with others on and off our Services.",
+        "- **Information Associated With Your Account**. As part of your WhatsApp messaging experience and based on your privacy settings, those users who have your phone number can see Your Account Information (phone number, profile photo, \"about\" information), and can add you to groups and communities where this information is then potentially visible to others in the group or community. When you send a message to another user or to a group, your chosen profile name will become visible to the recipients of the message, including users who do not have you in their contact list. Users who have your phone number can also see your \"last seen and online\" information and your message receipts, depending on your privacy settings. You can configure your privacy settings to manage group membership, and certain information (for example, your \"last seen\") available to other users. Please see our Help Center for more information on how to change your privacy settings.",
+        "- **Third-Party Services**. When you, or other users you interact with, use third-party services or other Meta Company Products that are linked through our Services, or if you choose to communicate with users on third party interoperable messaging services, the providers of those services or products may receive the information about you that you or others share with them. For example, if you use a data backup service integrated with our Services (like iCloud or Google Account), they will receive the information you share with them, such as your WhatsApp messages, and if you search the web from WhatsApp for a group profile picture, the search engine provider will receive the search term you use. If you interact with a third-party service or other Meta Company Products through our Services, such as when you use the in-app player to play content from a third-party platform like YouTube or Facebook, information like your IP address and technical information showing that the request comes from a WhatsApp app, may be provided to the provider of such service or products. If you choose to communicate with users of third party interoperable messaging services, your phone number and some Usage Information, Device And Connection Information and Authentication Information will be shared with the applicable third party interoperable messaging service. Please note that when you use third-party services or other Meta Company Products, their own terms and privacy policies will govern your use of those services and products.",
+        "- **Third-Party Service Providers. We work with third-party service providers to help us provide our Services.**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Where Meta acts as a service provider for WhatsApp**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- carry out surveys."
+      ],
+      "new": [
+        "- carry out surveys;"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Where Meta provides optional experiences through WhatsApp**",
+        "If you choose to use certain optional Meta experiences available through WhatsApp, we share information with the Meta Companies that provide these experiences:",
+        "- If you choose to use Meta AI through WhatsApp, we share the following information with Meta Platforms Ireland Limited:",
+        "- Device and Connection Information (e.g. technical identifiers, region and language) to support the correct operation of Meta AI.",
+        "For other optional experiences which are subject to supplemental privacy policies see here."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We process information as necessary to conclude and perform our contract with you, our Terms. The categories of information used and why and how they are processed is set out below:"
+      ],
+      "new": [
+        "For all users who have the legal capacity to enter into an enforceable contract (for example, by being the age of majority or above in their country of residence), we process information as necessary to conclude and perform our contract with you, our Terms.",
+        "The categories of information used and why and how they are processed, are set out below:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| **To send and receive** end-to-end encrypted **messages and broadcast your Status, we:** enable you to reply to, forward and delete messages, or to send different types of messages such as voice messages, “View Once” or disappearing messages. if the recipient’s device is online on WhatsApp, deliver messages directly to their device. If your device or the recipient’s device is offline, we store the encrypted message for up to 30 days as we attempt to deliver the message and send a push notification to the device. show when you are online or indicate activity to recipients in a chat, such as displaying your ‘last seen’ to recipients according to your User Choices. enable you to search the web for images to use as a community or group profile picture or to share videos from third-party services such as YouTube. Where that link is a video, we display a preview and allow the recipient to view it within the chat. allow you to broadcast your Status updates with contacts of your choice. Status updates disappear after 24 hours. take precautions to ensure your messages are conveyed correctly. optimise the sending of media files by storing them temporarily for up to 30 days in encrypted form on our servers to aid in more efficient delivery. enable you and third parties, like businesses, to communicate and interact with each other using our services such as catalogs for businesses on WhatsApp where you can browse products and services and place orders. use cookies to operate and provide our web-based Services. | **To send and receive** end-to-end encrypted **messages and to broadcast your Status:** Your Account Information User Content (your messages, images, audio, video, documents and files are end-to-end encrypted, as is the Status you share) Your Connections Your Community and Group Information Log and Troubleshooting Information Device and Connection Information Cookies User Choices Authentication Information **For showing your presence (in one-to-one chats) and last seen:** Your Connections Usage Information (online or offline status) User Choices **For showing your activity indicators:** Your Connections Your Community and Group Information Usage Information (whether you are typing or pausing typing, or recording a voice note) **For sharing your Status:** User Content (Status is end-to-end encrypted) Your Connections User Choices |",
+        "| **To generally operate and provide our Services, we:** analyse log information to resolve crashes and user issues. collect information for troubleshooting, diagnostics and debugging. collect and aggregate activity, system events and metrics (such as messaging volume and latencies) to monitor service performance, reliability, and efficiency, so we can ensure and optimise service quality. test out and experiment with new features to see if they work as expected | **To generally operate and provide our Services:** |"
+      ],
+      "new": [
+        "| **To send and receive** end-to-end encrypted **messages and broadcast your Status, we:** enable you to reply to, forward and delete messages, or to send different types of messages such as voice messages, “View Once” or disappearing messages. if the recipient’s device is online on WhatsApp, deliver messages directly to their device. If your device or the recipient’s device is offline, we store the encrypted message for up to 30 days as we attempt to deliver the message and send a push notification to the device. show when you are online or indicate activity to recipients in a chat, such as displaying your ‘last seen’ to recipients according to your User Choices. enable you to search the web for images to use as a community or group profile picture or to share videos from third-party services such as YouTube. Where that link is a video, we display a preview and allow the recipient to view it within the chat. allow you to broadcast your Status updates with contacts of your choice. Status updates disappear after 24 hours. take precautions to ensure your messages are conveyed correctly. enable you to add visual effects or background to your media (such as your photos). optimise the sending of media files by storing them temporarily for up to 30 days in encrypted form on our servers to aid in more efficient delivery. enable you and third parties, like businesses, to communicate and interact with each other using our services such as catalogs for businesses on WhatsApp where you can browse products and services and place orders. use cookies to operate and provide our web-based Services. enable you to send messages to and receive messages from Meta AI, if you choose to use Meta AI. suggest prompts when you’re using the search feature which you can choose to send to Meta AI. | **To send and receive** end-to-end encrypted **messages and to broadcast your Status:** Your Account Information User Content (your messages, images, audio, video, documents and files are end-to-end encrypted, as is the Status you share) Your Connections Your Community and Group Information Log and Troubleshooting Information Device and Connection Information Cookies User Choices Authentication Information **For showing your presence and last seen:** Your Connections Usage Information (online or offline status) User Choices **For showing your activity indicators:** Your Connections Your Community and Group Information Usage Information (whether you are typing or pausing typing, or recording a voice note) **For sharing your Status:** User Content (Status is end-to-end encrypted) Your Connections User Choices |",
+        "| **To generally operate and provide our Services, we:** analyse log information to resolve crashes and user issues. collect information for troubleshooting, diagnostics and debugging. collect and aggregate activity, system events and metrics (such as messaging volume and latencies) to monitor service performance, reliability, and efficiency, so we can ensure and optimise service quality. test out and experiment with new features to see if they work as expected. | **To generally operate and provide our Services:** |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| **For making, receiving, joining or leaving voice and video calls, we:** establish an end-to-end encrypted connection for audio/video information between you and the other call participant (or participants if you are in a group call) after checking the participant’s privacy settings to see if they have blocked you. enable you to create and send call links. send you a push notification if you are receiving or have missed a call. notify participants in a group call when:"
+      ],
+      "new": [
+        "| **For making, receiving, joining or leaving voice and video calls, we:** establish an end-to-end encrypted connection for audio/video information between you and the other call participant (or participants if you are in a group call) after checking the participant’s privacy settings to see if they have blocked you. enable you to create and send call links. enable you to add visual effects or background to your video calls. send you a push notification if you are receiving or have missed a call. notify participants in a group call when:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| **To help you discover if your contacts are WhatsApp users when you choose to sync your device’s address book using contact upload, we:** regularly identify other WhatsApp users in your address book, add them to your WhatsApp contact list and store cryptographic hash values of the phone numbers of your contacts who are not WhatsApp users, so we can quickly update your WhatsApp contacts if those contacts sign-up to WhatsApp at a later date. Learn more here. remove contacts from your WhatsApp contact list if one of your contacts no longer has an account. at your request, block phone numbers of other users to prevent them contacting you on WhatsApp. | **To enable you to use contact upload:** |",
+        "| **To allow you to create, join, leave and connect in communities and groups to communicate with multiple contacts at the same time, we:** check that phone numbers you are trying to add to a group are WhatsApp users and check to ensure that their admission to the group is in line with their privacy settings. check to ensure that the community or group name and optional community or group description meets WhatsApp requirements. store information about the community or group and its participant users (including any pending or past participant users) for example, to ensure that the appropriate privileges are applied and assign the creator of the community or group as an admin so that they can control and personalise the community's or group’s information, membership and settings. when a community or group is active, log when you send invites to new community or group participants and for groups, expire non-accepted invitations within a set period. notify participants in the group of certain key changes to the community or group, such as changes to the community or group name, description or profile picture or when a message is deleted. After you exit a group, your phone number will appear in the past participants list of the group for up to 60 days from the time you exited the group. temporarily store information to protect you from being re-added to groups you chose to leave and store the phone numbers of participants who are banned for example, from groups to ensure that they cannot rejoin. This information is also used to help identify any suspicious users or abusive behaviour where there is a high turnover of participants. allow you to appoint other community admins to a community you’ve created or you are a community admin of and appoint a new group admin or community admin when the current admin (or admins) leave the group or community or delete their account. delete a group when its last member leaves. suspend, or deactivate a community, and add or disconnect groups within the community. | **For creating a group or community:** **For administering active groups or communities:** |",
+        "| **Assists you to create backups of your chat history (and media within the chat history), when you request it by:** enabling you to upload a backup of your chat history to a third-party cloud-based service (like Google Drive or iCloud). end-to-end encrypt your chat history with a randomly generated encryption key or password you create. You can upload these encrypted backups of your chat history to a third-party cloud-based service (like Google Drive or iCloud). using an encryption key or your password to retrieve an encryption key to decrypt your backed-up chat history. | **For allowing you to create, access and restore backups and encrypted backups:** Your Account Information Authentication Information (authenticating an encryption key or password) |"
+      ],
+      "new": [
+        "| **To help you discover if your contacts are WhatsApp users when you choose to sync your device’s address book and manage your contacts on WhatsApp using contact upload, we:** regularly identify other WhatsApp users in your address book, add them to your WhatsApp contact list and store cryptographic hash values of the phone numbers of your contacts who are not WhatsApp users, so we can quickly update your WhatsApp contacts if those contacts sign-up to WhatsApp at a later date. securely save your contacts on WhatsApp to allow you to manage them on linked devices and restore them on any device. Learn more here. remove contacts from your WhatsApp contact list if one of your contacts no longer has an account. at your request, block phone numbers of other users to prevent them contacting you on WhatsApp. | **To enable you to use contact upload:** |",
+        "| **To allow you to create, join, leave and connect in communities and groups to communicate with multiple contacts at the same time, we:** check that phone numbers you are trying to add to a group are WhatsApp users and check to ensure that their admission to the group is in line with their privacy settings. check to ensure that the community or group name and optional community or group description meets WhatsApp requirements. store information about the community or group and its participant users (including any pending or past participant users) for example, to ensure that the appropriate privileges are applied and assign the creator of the community or group as an admin so that they can control and personalise the community’s or group’s information, membership and settings. when a community or group is active, log when you send invites to new community or group participants and for groups, expire non-accepted invitations within a set period. notify participants in the group of certain key changes to the community or group, such as changes to the community or group name, description or profile picture or when a message is deleted. After you exit a group, your phone number will appear in the past participants list of the group for up to 60 days from the time you exited the group. temporarily store information to protect you from being re-added to groups you chose to leave and store the phone numbers of participants who are banned for example, from groups to ensure that they cannot rejoin. This information is also used to help identify any suspicious users or abusive behaviour where there is a high turnover of participants. allow you to appoint other community admins to a community you’ve created or you are a community admin of and appoint a new group admin or community admin when the current admin (or admins) leave the group or community or delete their account. delete a group when its last member leaves. suspend, or deactivate a community, and add or disconnect groups within the community. | **For creating a group or community:** **For administering active groups or communities:** |",
+        "| **Assists you to create backups of your chat history (and media within the chat history), when you request it by:** enabling you to upload a backup of your chat history to a third-party cloud-based service (like Google Account or iCloud). end-to-end encrypt your chat history with a randomly generated encryption key or password you create. You can upload these encrypted backups of your chat history to a third-party cloud-based service (like Google Account or iCloud). using an encryption key or your password to retrieve an encryption key to decrypt your backed-up chat history. | **For allowing you to create, access and restore backups and encrypted backups:** Your Account Information Authentication Information (authenticating an encryption key or password) |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| **For collecting information through the device-based settings which you have enabled, for example:** sharing your device’s Precise Location Information if you choose to use our location-related features. You can share your current location with, or send your live location to your contacts or view a nearby place on your map. When your live location is being shared, the live location control in your privacy settings shows which chats your live location is being shared in. Precise Location Information which you share in your chats is end-to-end encrypted which means that it cannot be seen by WhatsApp. accessing your camera and / or photo gallery if you choose to share photos or media with your WhatsApp contacts or use optional features like avatars. Photos and media that you share in your personal chats are end-to-end encrypted. | |"
+      ],
+      "new": [
+        "| **For collecting information through the device-based settings which you have enabled, for example:** sharing your device’s Precise Location Information if you choose to use our location-related features. You can share your current location with, or send your live location to your contacts or view a nearby place on your map. When your live location is being shared, the live location control in your privacy settings shows which chats your live location is being shared in. Precise Location Information which you share in your chats is end-to-end encrypted which means that it cannot be seen by WhatsApp. accessing your camera and / or photo gallery if you choose to share photos or media with your WhatsApp contacts or use optional features like avatars or visual effects. Photos and media that you share in your personal chats are end-to-end encrypted. | |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| For processing information when we comply with a legal obligation including, for example, to access, preserve or disclose certain information if there is a valid legal request from a regulator, law enforcement or others or to implement appropriate security measures. For example, a search warrant or production order from Irish law enforcement to provide information in relation to an investigation, such as your profile picture or IP address. Examples of Irish and EU laws enforceable in Ireland are laws that could give rise to an obligation requiring us to process information we hold about you are: **Civil and commercial matters**: where we are in receipt of a court order to disclose information for the purposes of court proceedings, such as under Regulation (EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters. **Criminal matters**: to comply with requests from Irish law enforcement to provide data in relation to an investigation, such as under Section 10 of the Criminal Justice (Miscellaneous Provisions) Act 1997 as amended by 6(1)(a) of the Criminal Justice Act 2006 or to take steps to report information to law enforcement where required. **Consumer matters**: to comply with our obligations under consumer law such as the Competition and Consumer Protection Act 2014 such as where the Irish Competition and Consumer Protection Commission requests information. **Corporate and taxation matters**: to comply with our obligations under companies legislation and tax law such as the Companies Act 2014 such as where the Irish Revenue requests information. **Regulatory matters**: to comply with our obligations to engage with regulators, such as the Data Protection Commission under the General Data Protection Regulation and the Data Protection Act 2018. **Information security**: to implement appropriate technical and organisational security measures, such as under the General Data Protection Regulation, EU Directive 2002/58/EC and the European Electronic Communications Code established under Directive (EU) 2018/1972. See here for the current list of laws which are enforceable in Ireland that give rise to a legal obligation for WhatsApp which results in the processing of information. New laws may be enacted or other obligations may become binding on our processing of your information which may require us to process your information and we will update this list from time to time. | |"
+      ],
+      "new": [
+        "| For processing information when we comply with a legal obligation including, for example, to access, preserve or disclose certain information if there is a valid legal request from a regulator, law enforcement or others or to implement appropriate security measures. For example, a search warrant or production order from Irish law enforcement to provide information in relation to an investigation, such as your profile picture or IP address. Examples of Irish and EU laws enforceable in Ireland are laws that could give rise to an obligation requiring us to process information we hold about you are: **Civil and commercial matters**: where we are in receipt of a court order to disclose information for the purposes of court proceedings, such as under Regulation (EU) No 1215/2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters. **Criminal matters**: to comply with requests from Irish law enforcement to provide data in relation to an investigation, such as under Section 10 of the Criminal Justice (Miscellaneous Provisions) Act 1997 as amended by 6(1)(a) of the Criminal Justice Act 2006 or to take steps to report information to law enforcement where required. **Consumer and competition matters**: to comply with our obligations under consumer law such as the Competition and Consumer Protection Act 2014 such as where the Irish Competition and Consumer Protection Commission requests information and our obligations under the Digital Markets Act and Digital Services Act. **Corporate and taxation matters**: to comply with our obligations under companies legislation and tax law such as the Companies Act 2014 such as where the Irish Revenue requests information. **Regulatory matters**: to comply with our obligations to engage with regulators, such as the Data Protection Commission under the General Data Protection Regulation and the Data Protection Act 2018, the European Commission under the Digital Markets Act, and relevant regulators under the Digital Services Act. **Information security**: to implement appropriate technical and organisational security measures, such as under the General Data Protection Regulation, EU Directive 2002/58/EC and the European Electronic Communications Code established under Directive (EU) 2018/1972. See here for the current list of laws which are enforceable in Ireland that give rise to a legal obligation for WhatsApp which results in the processing of information. New laws may be enacted or other obligations may become binding on our processing of your information which may require us to process your information and we will update this list from time to time. | |"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "| For users under the age of majority (under 18, in most applicable countries) who have a limited ability to enter into an enforceable contract only, where we may be unable to process your information on the grounds of contractual necessity. | | |",
+        "| **Assisting you in creating and managing your WhatsApp account by**: verifying your WhatsApp Account by, for example, sending you a verification code via SMS, email, by calling you or by using device verifiers when your operating system supports it. checking the operating system and other features of your device to set up WhatsApp correctly on your device, and running security checks to make sure you don’t already have an account or a phone number that is banned from WhatsApp. recording your User Choices, including the terms you accepted, your privacy settings and the users you’ve blocked. facilitating you adding additional information such as an avatar or Account Information such as a profile picture, “about” information which is displayed to people who have your phone number, in line with your privacy settings. changing the phone number associated with your WhatsApp account when you update it. in order to maintain security, limit data retention and protect your privacy, checking for activity every 30 days and deleting your account where your phone has not been online for 120 days (in general). Learn more in our Help Center here. deleting your account, at your request (see how to delete your account on your iPhone and on your Android device) or in accordance with our Terms. We may take steps to ban your account if there is a breach of our Terms, for example a breach of our \"Acceptable Use of Our Services\" terms. enabling you to re-register your account when it has been deactivated or locked. | It is in our interest and in the interests of all WhatsApp users under the age of majority to be able to create and manage a secure account which is set up correctly and reflects their choices, including their privacy settings. | **To assist you in creating and managing your WhatsApp account:** |",
+        "| **Facilitates you using and managing your WhatsApp account on multiple devices by:**. linking a new device to your account so that you can use WhatsApp on additional devices and so that we can register certain additional devices on our servers. syncing Your Account Information and User Choices across your devices by sending an update to other devices linked to your account. sending an end-to-end encrypted copy of your chat history to your new companion devices when you sync your chats (we temporarily store this encrypted copy to complete the sync). | It is in the interests of all WhatsApp users under the age of majority to be able to access the WhatsApp service across multiple devices in an easy and reliable manner. It is in our interest to allow users to easily use the Service across different devices. | **For linking a device to your account:** **For syncing your Account Information and User Choices across your devices:** Your Account Information Log and Troubleshooting Information Device and Connection Information User Choices **For syncing your chat history across your devices:** Your Account Information User Content (your messages, images, audio and videos are end-to-end encrypted) Log and Troubleshooting Information Device and Connection Information Authentication Information |",
+        "| **To send and receive end-to-end encrypted messages and broadcast your Status, we:** enable you to reply to, forward and delete messages, or to send different types of messages such as voice messages, “View Once” or disappearing messages. if the recipient’s device is online on WhatsApp, deliver messages directly to their device. If your device or the recipient’s device is offline, we store the encrypted message for up to 30 days as we attempt to deliver the message and send a push notification to the device. show when you are online or indicate activity to recipients in a chat, such as displaying your ‘last seen’ to recipients according to your User Choices. enable you to search the web for images to use as a community or group profile picture or to share videos from third-party services such as YouTube. Where that link is a video, we display a preview and allow the recipient to view it within the chat. allow you to broadcast your Status updates with contacts of your choice. Status updates disappear after 24 hours. take precautions to ensure your messages are conveyed correctly. enable you to add visual effects or background to your media (such as your photos). optimise the sending of media files by storing them temporarily for up to 30 days in encrypted form on our servers to aid in more efficient delivery. enable you and third parties, like businesses, to communicate and interact with each other using our services such as catalogs for businesses on WhatsApp where you can browse products and services and place orders. use cookies to operate and provide our web-based Services. enable you to send messages to and receive messages from Meta AI, if you choose to use Meta AI. suggest prompts when you’re using the search feature which you can choose to send to Meta AI. | It is in our interest to provide and maintain features that enable users to communicate. It is in the interests of all WhatsApp users under the age of majority to express themselves and communicate with other users and businesses. | **To send and receive end-to-end encrypted messages and to broadcast your Status:** Your Account Information User Content (your messages, images, audio, video, documents and files are end-to-end encrypted, as is the Status you share) Your Connections Your Community and Group Information Log and Troubleshooting Information Device and Connection Information Cookies User Choices Authentication Information **For showing your presence and last seen:** **For showing your activity indicators**: Your Connections Your Community and Group Information Usage Information (whether you are typing or pausing typing, or recording a voice note) **For sharing your Status:** |",
+        "| **To generally operate and provide our Services, we:** analyse log information to resolve crashes and user issues. collect information for troubleshooting, diagnostics and debugging. collect and aggregate activity, system events and metrics (such as messaging volume and latencies) to monitor service performance, reliability, and efficiency, so we can ensure and optimise service quality. test out and experiment with new features to see if they work as expected. | It is in our interest and in the interests of all WhatsApp users under the age of majority that we provide and maintain a reliable Service. | **To generally operate and provide our Services:** |",
+        "| **To enable you to connect with businesses, we:** enable you to search and browse for businesses on the Service. | It is in our interest and in the interests of all WhatsApp users under the age of majority to provide and maintain features which enable users to search for and connect with businesses on the Service. | **To enable you to connect with businesses:** |",
+        "| **For making, receiving, joining or leaving voice and video calls, we:** establish an end-to-end encrypted connection for audio/video information between you and the other call participant (or participants if you are in a group call) after checking the participant’s privacy settings to see if they have blocked you. enable you to create and send call links. enable you to add visual effects or background to your video calls. send you a push notification if you are receiving or have missed a call. notify participants in a group call when:",
+        "another user has been invited but has not accepted the call, another user starts to ring, another user joins the call, a call participant has left, and the call is over. **When you change your in-app settings or take certain actions in a call, we let the other call participant(s) know the following:** whether your video is on or off. when you invite other users to switch from an audio to a video call (or vice versa). when you have not heard from the other call participant(s). when you turn mute on or off. when your battery is below 5% and not charging. when you get an incoming call that interrupts your ongoing call on WhatsApp. **To optimise call quality, we:** swap to alternative networks interfaces where your existing connection is limited, and collect aggregated call metrics (for iOS only). track metrics such as failed calls, number of calls ended due to disconnection and measure network link conditions to identify and resolve call quality issues. store performance information on your device after the call, so it is easier to set up a call with the same user(s) again. collect metrics about calls and aggregate them to optimise call quality. back up your data usage and time spent on a call. exchange network and other information during a call to adjust audio, video and network quality. | It is in our interest and in the interests of WhatsApp users under the age of majority to be able to make, receive, join calls or video calls reliably in order to express themselves, communicate with other users, and have their choices respected. | **For making, receiving, joining or leaving voice and video calls:** **For notifying call participants about changes during a call:** **For optimising call quality:** |",
+        "| **To help you discover if your contacts are WhatsApp users when you choose to sync your device’s address book and manage your contacts on WhatsApp using contact upload, we:** regularly identify other WhatsApp users in your address book, add them to your WhatsApp contact list and store cryptographic hash values of the phone numbers of your contacts who are not WhatsApp users, so we can quickly update your WhatsApp contacts if those contacts sign-up to WhatsApp at a later date. securely save your contacts on WhatsApp to allow you to manage them on linked devices and restore them on any device. Learn more here. remove contacts from your WhatsApp contact list if one of your contacts no longer has an account. at your request, block phone numbers of other users to prevent them contacting you on WhatsApp. It is in our interest and in the interests of all WhatsApp users under the age of majority, in operating and providing the Service to discover and identify their contacts. **To enable you to use contact upload:** **To allow you to create, join, leave and connect in communities and groups to communicate with multiple contacts at the same time, we:** check that phone numbers you are trying to add to a group are WhatsApp users and check to ensure that their admission to the group is in line with their privacy settings. check to ensure that the community or group name and optional community or group description meets WhatsApp requirements. store information about the community or group and its participant users (including any pending or past participant users) for example, to ensure that the appropriate privileges are applied and assign the creator of the community or group as an admin so that they can control and personalise the community's or group’s information, membership and settings. when a community or group is active, log when you send invites to new community or group participants and for groups, expire non-accepted invitations within a set period. notify participants in the group of certain key changes to the community or group, such as changes to the community or group name, description or profile picture or when a message is deleted. After you exit a group, your phone number will appear in the past participants list of the group for up to 60 days from the time you exited the group. temporarily store information to protect you from being re-added to groups you chose to leave and store the phone numbers of participants who are banned for example, from groups to ensure that they cannot rejoin. This information is also used to help identify any suspicious users or abusive behaviour where there is a high turnover of participants. allow you to appoint other community admins to a community you’ve created or you are a community admin of and appoint a new group admin or community admin when the current admin (or admins) leave the group or community or delete their account. delete a group when its last member leaves. suspend, or deactivate a community, and add or disconnect groups within the community. It is in our interest and in the interests of WhatsApp users (under the age of majority) to provide and maintain features that enable users to communicate and engage in groups or communities relevant to them. It is in the interests of WhatsApp users under the age of majority to respect their choices or privacy settings and ensure that such features respect WhatsApp requirements. **For creating a group or community:** **For administering active groups or communities:** | | |",
+        "| **Assists you to create backups of your chat history (and media within the chat history), when you request it by:** enabling you to upload a backup of your chat history to a third-party cloud-based service (like Google Account or iCloud). end-to-end encrypt your chat history with a randomly generated encryption key or password you create. You can upload these encrypted backups of your chat history to a third-party cloud-based service (like Google Account or iCloud). using an encryption key or your password to retrieve an encryption key to decrypt your backed-up chat history. | It is in the interests of all WhatsApp users under the age of majority to be able to maintain a secure backup of their chat history. It is in our interest to provide users with the option of encrypted backups to secure their backup. | **For allowing you to create, access and restore backups and encrypted backups:** Your Account Information Authentication Information (authenticating an encryption key or password) |",
+        "| **To ensure safety, security, and integrity of our Services.** We use information we have and apply automated data processing techniques and, in some instances, conduct manual (human) review to: verify accounts on an ongoing basis, and check that user sign-ups are genuine. log events and aggregated counts about community, group and user actions on our Services (like the number of groups joined) and related sequences like patterns in registration and repetitive or identical User Reports to identify and investigate suspicious users, threats to the security of our Services or where a fake WhatsApp app or an imitation of our Services is being used. investigate and address violations of our Terms. For example, we may ban your account when we learn that you are engaged in infringing activities. detect, prevent and combat harmful or unlawful behaviour which threatens the security of our users' information or the Service, such as to combat scraping by bad actors at scale, or our efforts to detect and prevent spam. collect app verification information from anti-abuse services to aid our efforts to e.g. prevent malicious actors from trying to take over your account. | It is in our interest and in the interests of all WhatsApp users under the age of majority to secure WhatsApp systems, user's accounts, and detect and investigate threats, infringement, harmful or unlawful activities and promote safety, integrity and security on the Services. | **To ensure the safety, security and integrity of our Services:** |",
+        "| **Communicate with you on Services-related issues, we:** identify relevant Service-related notifications for you, send them to you on WhatsApp and keep a log when you have received the notification. For example, when our Terms are updated we’ll provide a notification about the update (as appropriate). | It is in our interest to send notifications and keep a record of users who have received them. It is in the interests of all WhatsApp users under the age of majority to receive these notifications. | **For sending you notifications or updates about our Services:** Your Account Information Log and Troubleshooting Information (details of the notifications you have previously received) Device and Connection Information General Location Information |",
+        "| **Provide customer support by:** processing requests for support and / or searches you make within the WhatsApp Help Center, in the app or via the WhatsApp website. responding when you request our help such as assisting with your account login or verification process. | It is in our interest to provide support to our users and provide information with regard to user issues and it is in all WhatsApp users’ interests under the age of majority to receive such support and information. | **For providing you with customer support:** |",
+        "| **For all users of our Services including users under the age of majority:** | | |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| **To improve the WhatsApp customer support service, we:** track information about your interactions with our customer support team to understand if issues are being resolved in a timely manner and whether the information provided in our FAQs are helpful. run quality assurance checks on our interactions with our customers request and review information you provide in customer satisfaction feedback surveys. log search queries in our Help Center to build an index of common search queries to keep our Help Center up to date with relevant content. | It is in our interest and in the interest of WhatsApp users to continuously improve and develop the customer support we provide. | |",
+        "| You have the right to object to, and seek restriction of, this processing. To exercise your rights, visit the How To Exercise Your Rights section of this Privacy Policy | | |"
+      ],
+      "new": [
+        "| **To improve the WhatsApp customer support service, we:** track information about your interactions with our customer support team to understand if issues are being resolved in a timely manner and whether the information provided in our FAQs are helpful. run quality assurance checks on our interactions with our customers. request and review information you provide in customer satisfaction feedback surveys. log search queries in our Help Center to build an index of common search queries to keep our Help Center up to date with relevant content. | It is in our interest and in the interest of WhatsApp users to continuously improve and develop the customer support we provide. | |",
+        "You have the right to object to, and seek restriction of, this processing. To exercise your rights, visit the How To Exercise Your Rights section of this Privacy Policy."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You can access or port your information using our in-app Request Account Info feature (available by tapping your profile photo to go to your settings > **Account**). You can access tools to rectify, update, and delete your information directly in-app as described in the Retention of Your Information section."
+      ],
+      "new": [
+        "You can access or port your information using our in-app Request Account Info feature (available under Settings > Account). You can access tools to rectify, update, and delete your information directly in-app as described in the Retention of Your Information section."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Standard Contractual Clauses**: We utilise standard contractual clauses approved by the European Commission for transfers to the United States, the UK and Singapore. For example, WhatsApp uses Meta’s global infrastructure and data centers, which are located around the world including in the United States, to store the information described in the Information We Collect section of this Privacy Policy. For a copy of the standard contractual clauses, please see our SCC Help Center article."
+      ],
+      "new": [
+        "- **EU-U.S. Data Privacy Framework**: WhatsApp LLC and Meta Platforms, Inc. have certified their participation in the EU-U.S. Data Privacy Framework. We rely on the EU-U.S. Data Privacy Framework, and the European Commission's related adequacy decision, for transfers of Information We Collect to WhatsApp LLC and Meta Platforms, Inc. in the U.S. for the services specified in the certifications of WhatsApp LLC and Meta Platforms, Inc. For more information, see the WhatsApp LLC Data Privacy Framework Disclosure and the Meta Platforms, Inc. Data Privacy Framework Disclosure.",
+        "- **Standard Contractual Clauses**: We utilise standard contractual clauses approved by the European Commission for transfers to third party interoperable messaging services and to the United States, the UK and Singapore. For example, WhatsApp uses Meta’s global infrastructure and data centers, which are located around the world including in the United States, to store the information described in the Information We Collect section of this Privacy Policy. For a copy of the standard contractual clauses, please see our SCC Help Center article."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We may amend or update our Privacy Policy. We will provide you notice of amendments to this Privacy Policy, as appropriate, and update the “Effective Date” at the top of this Privacy Policy. Please review our Privacy Policy from time to time."
+      ],
+      "new": [
+        "We may amend or update our Privacy Policy. We will provide you notice of amendments to this Privacy Policy, as appropriate, and update the “Effective” date at the top of this Privacy Policy. Please review our Privacy Policy from time to time."
+      ]
+    }
+  ]
+}

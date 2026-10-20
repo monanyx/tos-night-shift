@@ -1,0 +1,185 @@
+{
+  "id": "2025-05-15-pinterest-terms",
+  "service": "pinterest",
+  "service_name": "Pinterest",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://policy.pinterest.com/en/terms-of-service",
+  "detected_at": "2025-05-15T19:34:23+00:00",
+  "source": "wayback",
+  "window_start": "2025-02-25T10:03:26+00:00",
+  "archive_before": "https://web.archive.org/web/20250225100326/https://policy.pinterest.com/en/terms-of-service",
+  "archive_after": "https://web.archive.org/web/20250515193423/https://policy.pinterest.com/en/terms-of-service",
+  "flags": [],
+  "stats": {
+    "hunks": 17,
+    "added_words": 159,
+    "removed_words": 56
+  },
+  "headline": "Pinterest edited its Terms of Service",
+  "summary": "159 words added and 56 removed across 17 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "- Our Advertising Guidelines and Merchant Guidelines, which explain additional policies that apply to ads and merchants on Pinterest;",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "- Our Advertising Guidelines and Merchant Guidelines, which explain additional policies that apply to ads and merchants on Pinterest; and"
+      ],
+      "new": [
+        "- Our Advertising Guidelines and Merchant Guidelines, which explain additional policies that apply to ads and merchants on Pinterest;",
+        "- Our Commercial and Branded Content Guidelines, which explain additional policies that apply to sponsored, branded or otherwise commercial content; and"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "By accessing or using Pinterest, you agree to be bound by these Terms. If you do not agree to our Terms, you must not access or use Pinterest."
+      ],
+      "new": [
+        "By accessing or using Pinterest, you agree to comply with and be bound by these Terms and you will not attempt to circumvent them. If you do not agree to our Terms, you must not access or use Pinterest."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Pinterest helps to bring everyone the inspiration to create a life they love. We'll use your interests to show you content and ads on Pinterest that are relevant to you."
+      ],
+      "new": [
+        "Pinterest helps to bring everyone the inspiration to create a life they love. We'll use your interests to show you content and ads on and off Pinterest that are relevant to you."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "If you post content on Pinterest that is sponsored or branded – like when a business partner pays or incentivizes you to post it – or is in any way commercial in nature, you are subject to our Commercial and Branded Content Guidelines."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "These Terms are an agreement between you and us. You cannot use Pinterest if you're under 13 (or older in some countries). If you use Pinterest for work, you need to set up a business account. We grant you a revocable license to use Pinterest, which is subject to our Terms and policies as outlined immediately above. Unless we have agreed otherwise, if your account has been suspended you can’t return to Pinterest."
+      ],
+      "new": [
+        "These Terms are an agreement between you and us. You cannot use Pinterest if you're under 13 (or older in some countries). If you use Pinterest for commercial purposes, you need to set up a business account. If you post commercial, sponsored or branded content, you need to comply with our Commercial and Branded Content Guidelines. We grant you a revocable license to use Pinterest, which is subject to our Terms and policies as outlined immediately above. Unless we have agreed otherwise, if your account has been suspended you can’t return to Pinterest."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Following termination or deactivation of your account, or User Content removal from Pinterest, we may keep your User Content for a reasonable period of time for backup, archival, or audit purposes. We and our users may retain and continue to use, store, display, reproduce, re-pin, modify, create derivative works, perform, and distribute any of your User Content that you or other users have stored or shared on Pinterest."
+      ],
+      "new": [
+        "Following termination or deactivation of your account, or User Content removal from Pinterest, we may keep your User Content for a reasonable period of time for backup, archival, or audit purposes. We and our users may retain and continue to use, store, display, reproduce, save, modify, create derivative works, perform, and distribute any of your User Content that you or other users have stored or shared on Pinterest."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We appreciate your feedback and will use your suggestions and reporting to make Pinterest better."
+      ],
+      "new": [
+        "We appreciate your feedback and will use your suggestions and reporting to make Pinterest better. You can report content on Pinterest you think violates our policies or the law."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Pinterest has adopted and implemented the Pinterest Copyright Policy and the Pinterest Trademark Policy in accordance with applicable intellectual property laws. For more information, please read our Copyright Policy and Trademark Policy."
+      ],
+      "new": [
+        "Pinterest has adopted and implemented our Copyright Policy and Trademark Policy in accordance with applicable intellectual property laws."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Pinterest is provided to you for free. We reserve the right to refuse service to anyone and will provide notice of termination where appropriate."
+      ],
+      "new": [
+        "We reserve the right to refuse service to anyone and will provide notice of termination where appropriate."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If you are a consumer in the EEA or United Kingdom (UK), Section 11 doesn't apply to you."
+      ],
+      "new": [
+        "If you are a consumer in the EEA, Switzerland, or the United Kingdom (UK), Section 11 doesn't apply to you."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Arbitration**: If we haven’t been able to resolve the dispute through the mandatory processes above, you and we each agree to resolve any claim, dispute, or controversy arising out of or relating to these Terms or the Service through binding arbitration or, for qualifying claims, in small claims court.",
+        "Arbitration is a more informal way to resolve our disagreements than a lawsuit in court. By accepting these Terms, you agree that the U.S. Federal Arbitration Act governs the interpretation and enforcement of this Section, and that you and Pinterest are each waiving the right to a trial by jury or to participate in a class action. The arbitrator also has exclusive authority to resolve any dispute relating to the interpretation, applicability, or enforceability of this binding arbitration agreement."
+      ],
+      "new": [
+        "**Arbitration**: If we haven’t been able to resolve the dispute through the mandatory processes above, you and we each agree to resolve any claim, dispute, or controversy arising out of or relating to these Terms or the Service through binding arbitration or, for qualifying claims, in small claims court. The arbitrator will have authority to issue any remedies authorized by law.",
+        "Arbitration is a more informal way to resolve our disagreements than a lawsuit in court. By accepting these Terms, you agree that the U.S. Federal Arbitration Act governs the interpretation and enforcement of this Section, and that you and Pinterest are each waiving the right to a trial by jury or to participate in a class action. The arbitrator also has exclusive authority to resolve any dispute relating to the interpretation, applicability, or enforceability of this binding arbitration agreement, including any dispute regarding arbitrability."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Batched Arbitration**: To provide a more efficient arbitration process, you and we each agree that if 50 or more similar arbitration demands are filed within a 60-day period or with the assistance of the same law firm or group of law firms, AAA will consolidate the arbitration demands. For each batch, AAA will administer one set of filing and administrative fees per side, per batch, and AAA will appoint one arbitrator to resolve each batch as a single consolidated arbitration. Arbitration demands are similar if they arise from similar facts and raise similar legal issues while seeking similar relief. Any dispute about similarity will be submitted to a single arbitrator, whose fees will be paid by us."
+      ],
+      "new": [
+        "**Batched Arbitration**: To provide a more efficient arbitration process, you and we each agree that if 25 or more similar arbitration demands are filed within a 60-day period or with the assistance of the same law firm or group of law firms, AAA will consolidate the arbitration demands. For each batch, AAA will administer one set of filing and administrative fees per side, per batch, and AAA will appoint one arbitrator to resolve each batch as a single consolidated arbitration. Arbitration demands are similar if they arise from similar facts and raise similar legal issues while seeking similar relief. Any dispute about similarity will be submitted to a single arbitrator, whose fees will be paid by us."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If you are a consumer in the EEA or UK, these Terms and your use of the Service shall be governed by the law of the country where you live, and any claim, dispute, or controversy arising from or in connection with these Terms or the Service shall be resolved in the courts of the country where you live."
+      ],
+      "new": [
+        "If you are a consumer in the EEA, Switzerland, or the UK, these Terms and your use of the Service shall be governed by the law of the country where you live, and any claim, dispute, or controversy arising from or in connection with or relating to these Terms, Pinterest, or the Service shall be resolved in the courts of the country where you live."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "The Bay Area is beautiful this time of year. It doesn't matter what time of year it is, that's what's so great! Let’s resolve any disputes in California. If you are a consumer in the EEA or UK, however, you can file disputes in your home courts."
+      ],
+      "new": [
+        "The Bay Area is beautiful this time of year. It doesn't matter what time of year it is, that's what's so great! Let’s resolve any disputes in California. If you are a consumer in the EEA, Switzerland, or the UK, however, you can file disputes in your home courts."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If you’re a consumer in the EEA or UK, either you or we may assign this agreement, and any rights and licenses granted under it, to a third party. In all other cases, these Terms, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by us without restriction. Any attempted transfer or assignment in violation hereof shall be null and void."
+      ],
+      "new": [
+        "If you’re a consumer in the EEA, Switzerland, or the UK, either you or we may assign this agreement, and any rights and licenses granted under it, to a third party. In all other cases, these Terms, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by us without restriction. Any attempted transfer or assignment in violation hereof shall be null and void."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If you live in the United States, these Terms are a contract between you and Pinterest, Inc., 651 Brannan Street, San Francisco, CA 94107. If you live outside the United States, these Terms are a contract between you and Pinterest Europe Ltd., an Irish company with its registered office at Palmerston House, 2nd Floor, Fenian Street, Dublin 2, Ireland. As Pinterest is a worldwide service, you agree that any rights and licenses granted hereunder benefit Pinterest Inc. and all of its worldwide subsidiaries and affiliates."
+      ],
+      "new": [
+        "If you live in the United States, these Terms are a contract between you and Pinterest, Inc., 651 Brannan Street, San Francisco, CA 94107. If you live outside the United States, these Terms are a contract between you and Pinterest Europe Ltd., an Irish company with its registered office at Waterloo Exchange, 3rd Floor, Waterloo Road, Dublin 4, Ireland. As Pinterest is a worldwide service, you agree that any rights and licenses granted hereunder benefit Pinterest, Inc. and all of its worldwide subsidiaries and affiliates."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Effective Date outside EEA, UK, and Switzerland: March 13, 2024",
+        "Effective Date in EEA, UK, and Switzerland: April 30, 2024"
+      ],
+      "new": [
+        "Effective date: April 30, 2025"
+      ]
+    }
+  ]
+}

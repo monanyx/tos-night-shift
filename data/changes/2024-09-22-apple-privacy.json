@@ -1,0 +1,150 @@
+{
+  "id": "2024-09-22-apple-privacy",
+  "service": "apple",
+  "service_name": "Apple",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.apple.com/legal/privacy/en-ww/",
+  "detected_at": "2024-09-22T05:59:58+00:00",
+  "source": "wayback",
+  "window_start": "2024-06-18T02:30:48+00:00",
+  "archive_before": "https://web.archive.org/web/20240618023048/https://www.apple.com/legal/privacy/en-ww/",
+  "archive_after": "https://web.archive.org/web/20240922055958/https://www.apple.com/legal/privacy/en-ww/",
+  "flags": [],
+  "stats": {
+    "hunks": 12,
+    "added_words": 89,
+    "removed_words": 103
+  },
+  "headline": "Apple edited its Privacy Policy",
+  "summary": "89 words added and 103 removed across 12 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "### Updated September 18, 2024",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "### Updated March 31, 2024"
+      ],
+      "new": [
+        "### Updated September 18, 2024"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "There may be situations where we cannot grant your request — for example, if you ask us to delete your transaction data and Apple is legally obligated to keep a record of that transaction to comply with law. We may also decline to grant a request where doing so would undermine our legitimate use of data for anti-fraud and security purposes, such as when you request deletion of an account that is being investigated for security concerns. Other reasons your privacy request may be denied are if it jeopardizes the privacy of others, is frivolous or vexatious, or would be extremely impractical or unreasonable. *If you live in California and you cannot access Apple’s Data and Privacy page*, you or your authorized agent can make a request at apple.com/legal/privacy/contact or by calling 1-800-275-2273."
+      ],
+      "new": [
+        "There may be situations where we cannot grant your request — for example, if you ask us to delete your transaction data and Apple is legally obligated to keep a record of that transaction to comply with law. We may also decline to grant a request where doing so would undermine our legitimate use of data for anti-fraud and security purposes, such as when you request deletion of an account that is being investigated for security concerns. Other reasons your privacy request may be denied are if it jeopardizes the privacy of others, is frivolous or vexatious, or would be extremely impractical or unreasonable. *If you live in California and you cannot access Apple’s Data and Privacy page,* you or your authorized agent can make a request at apple.com/legal/privacy/contact or by calling 1-800-275-2273."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "When you create an Apple ID, apply for commercial credit, purchase and/or activate a product or device, download a software update, register for a class at an Apple Store, connect to our services, contact us (including by social media), participate in an online survey, or otherwise interact with Apple, we may collect a variety of information, including:",
+        "- **Account Information.** Your Apple ID and related account details, including email address, devices registered, account status, and age"
+      ],
+      "new": [
+        "When you create an Apple Account, apply for commercial credit, purchase and/or activate a product or device, download a software update, register for a class at an Apple Store, connect to our services, contact us (including by social media), participate in an online survey, or otherwise interact with Apple, we may collect a variety of information, including:",
+        "- **Account Information.** Your Apple Account and related account details, including email address, devices registered, account status, and age"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Contact Information.** Data such as name, email address, physical address, phone number, or other contact information",
+        "- **Payment Information.** Data about your billing address and method of payment, such as bank details, credit, debit, or other payment card information"
+      ],
+      "new": [
+        "- **Contact Information**. Data such as name, email address, physical address, phone number, or other contact information",
+        "- **Payment Information. Data about your billing address and method of payment, such as bank details, credit, debit, or other payment card information**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Location Information**. Precise location only to support services such as Find My or where you agree for region-specific services, and coarse location"
+      ],
+      "new": [
+        "- Location Information. Precise location only to support services such as Find My or where you agree for region-specific services, and coarse location"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Apple Partners.** We may also validate the information you provide — for example, when creating an Apple ID, with a third party for security, and for fraud-prevention purposes."
+      ],
+      "new": [
+        "- **Apple Partners.** We may also validate the information you provide — for example, when creating an Apple Account, with a third party for security, and for fraud-prevention purposes."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Apple does not use algorithms or profiling to make any decision that would significantly affect you without the opportunity for human review. Apple also does not use or disclose sensitive personal data for any purposes that would require a user to exercise a right to limit processing according to California law. **Apple retains personal data only for so long as necessary to fulfill the purposes for which it was collected, including as described in this Privacy Policy or in our service-specific privacy notices, or as required by law.** We will retain your personal data for the period necessary to fulfill the purposes outlined in this Privacy Policy and our service-specific privacy notices. When assessing retention periods, we first carefully examine whether it is necessary to retain the personal data collected and, if retention is required, work to retain the personal data for the shortest possible period permissible under law.",
+        "- ## Apple’s Sharing of Personal Data Apple may share personal data with **Apple-affiliated companies, service providers** who act on our behalf, our **partners, developers, and publishers**, or others **at your direction**. Further, Apple does not share personal data with third parties for their own marketing purposes."
+      ],
+      "new": [
+        "Apple does not use algorithms or profiling to make any decision that would significantly affect you without the opportunity for human review. Apple also does not use or disclose sensitive personal data for any purposes that would require a user to exercise a right to limit processing according to California law. **Apple retains personal data only for so long as necessary to fulfill the purposes for which it was collected, including as described in this Privacy Policy or in our service-specific privacy notices, or as required by law. We will retain your personal data for the period necessary to fulfill the purposes outlined in this Privacy Policy and our service-specific privacy notices. When assessing retention periods, we first carefully examine whether it is necessary to retain the personal data collected and, if retention is required, work to retain the personal data for the shortest possible period permissible under law.**",
+        "- ## Apple’s Sharing of Personal Data Apple may share personal data with **Apple-affiliated companies**, **service providers** who act on our behalf, our **partners**, **developers, and publishers**, or others **at your direction**. Further, Apple does not share personal data with third parties for their own marketing purposes."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- ## Protection of Personal Data at Apple At Apple, we believe that great privacy rests on great security. We use administrative, technical, and physical safeguards to protect your personal data, taking into account the nature of the personal data and the processing, and the threats posed. We are constantly working to improve on these safeguards to help keep your personal data secure. For more information, visit our Apple Platform Security guide.",
+        "- ## Children and Personal Data Apple understands the importance of safeguarding the personal data of children, which we consider to be an **individual under the age of 13 or the equivalent age as specified by law in your jurisdiction.** That is why Apple has implemented additional processes and protections to help keep children’s personal data safe.",
+        "To access certain Apple services, a child must have a child Apple ID. A child Apple ID may be created by the **parent** or, in the case of a Managed Apple ID, by the **child’s educational institution**."
+      ],
+      "new": [
+        "- ## Protection of Personal Data at Apple At Apple, we believe that great privacy rests on great security. We use **administrative, technical, and physical safeguards** to protect your personal data, taking into account the nature of the personal data and the processing, and the threats posed. We are constantly working to improve on these safeguards to help keep your personal data secure. For more information, visit our Apple Platform Security guide.",
+        "- ## Children and Personal Data Apple understands the importance of safeguarding the personal data of children, which we consider to be an **individual under the age of 13 or the equivalent age as specified by law in your jurisdiction**. That is why Apple has implemented additional processes and protections to help keep children’s personal data safe.",
+        "To access certain Apple services, a child must have a child Apple Account. A child Apple Account may be created by the **parent** or, in the case of a Managed Apple Account, by the **child’s educational institution**."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If we learn that a child’s personal data was collected without appropriate authorization, it will be deleted as soon as possible. To exercise privacy rights for your child’s information, visit the Apple Data and Privacy page at privacy.apple.com and sign in to their account."
+      ],
+      "new": [
+        "If we learn that a child’s personal data was collected without appropriate authorization, it will be deleted as soon as possible. **To exercise privacy rights for your child’s information, visit the Apple Data and Privacy page at** privacy.apple.com **and sign in to their account.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Ads that are delivered by Apple’s advertising platform may appear on the App Store, Apple News, Stocks, and Apple TV app depending on your location. Apple’s advertising platform does not track you, meaning that it does not link user or device data collected from our apps with user or device data collected from third parties for targeted advertising or advertising measurement purposes, and does not share user or device data with data brokers. If you do not want to receive ads targeted to your interests from Apple's advertising platform in those apps, you can choose to disable Personalized Ads, which will opt your Apple ID out of receiving such ads regardless of what device you are using. On your iOS, iPadOS, or visionOS device, you can disable Personalized Ads by going to Settings > Privacy & Security > Apple Advertising and tapping to turn off Personalized Ads. On your Mac, you can disable Personalized Ads by going to System Settings > Privacy & Security > Privacy > Advertising, then deselecting Personalized Ads. You may still see ads in the App Store, Apple News, or Stocks based on context like your search query or the channel you are reading. If you disable Allow Apps to Request to Track, third-party apps cannot request to use the Advertising Identifier, a non-personal identifier served by the operating system on your device, to track you across apps and websites owned by other companies. For more information about Apple-delivered advertising and privacy, visit apple.com/legal/privacy/data/en/apple-advertising.",
+        "- ## Transfer of Personal Data Between Countries Apple products and offerings connect you to the world. To make that possible, **your personal data may be transferred to or accessed by entities around the world**, including Apple-affiliated companies, to perform processing activities such as those described in this Privacy Policy in connection with your use of our products and services. Apple complies with laws on the transfer of personal data between countries to help ensure your data is protected, wherever it may be."
+      ],
+      "new": [
+        "Ads that are delivered by Apple’s advertising platform may appear on the App Store, Apple News, Stocks, and Apple TV app depending on your location. Apple’s advertising platform does not track you, meaning that it does not link user or device data collected from our apps with user or device data collected from third parties for targeted advertising or advertising measurement purposes, and does not share user or device data with data brokers. If you do not want to receive ads targeted to your interests from Apple's advertising platform in those apps, you can choose to disable Personalized Ads, which will opt your Apple Account out of receiving such ads regardless of what device you are using. On your iOS, iPadOS, or visionOS device, you can disable Personalized Ads by going to Settings > Privacy & Security > Apple Advertising and tapping to turn off Personalized Ads. On your Mac, you can disable Personalized Ads by going to System Settings > Privacy & Security > Privacy > Advertising, then deselecting Personalized Ads. You may still see ads in the App Store, Apple News, or Stocks based on context like your search query or the channel you are reading. If you disable Allow Apps to Request to Track, third-party apps cannot request to use the Advertising Identifier, a non-personal identifier served by the operating system on your device, to track you across apps and websites owned by other companies. For more information about Apple-delivered advertising and privacy, visit apple.com/legal/privacy/data/ww/apple-advertising.",
+        "- ## Transfer of Personal Data Between Countries Apple products and offerings connect you to the world. To make that possible, **your personal data may be transferred to or accessed by entities around the world,** including Apple-affiliated companies, to perform processing activities such as those described in this Privacy Policy in connection with your use of our products and services. Apple complies with laws on the transfer of personal data between countries to help ensure your data is protected, wherever it may be."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Personal data relating to individuals in the European Economic Area, the United Kingdom, and Switzerland is controlled by Apple Distribution International Limited in Ireland. Apple’s international transfer of personal data collected in the European Economic Area, the United Kingdom, and Switzerland is governed by Standard Contractual Clauses. If you have questions or would like a copy of Apple’s Standard Contractual Clauses, you can contact us at apple.com/legal/privacy/contact. Personal data collected by Apple or an Apple-affiliated company worldwide is generally stored by Apple Inc. in the United States. Regardless of where your personal data is stored, Apple maintains the same high level of protection and safeguarding measures. Apple’s international transfer of personal data collected in participating Asia-Pacific Economic Cooperation (APEC) countries abides by the APEC Cross-Border Privacy Rules (CBPR) System and Privacy Recognition for Processors (PRP) System for the transfer of personal data. Countries participating in the APEC CBPR systems at the date of this Privacy Policy are the United States, Australia, Canada, Chinese Taipei, Japan, Mexico, the Philippines, Republic of Korea, and Singapore. If you have questions or unresolved concerns about our APEC CBPR or PRP certifications, contact our third-party dispute resolution provider. Personal data relating to individuals in the People’s Republic of China may be processed by Apple in countries outside of the People’s Republic of China, such as Apple Inc. in the United States or Apple Distribution International Limited in the Republic of Ireland. Where this occurs, it will be done in compliance with local laws, including the Personal Information Protection Law. For the purposes of processing set out in this Privacy Policy, Apple may also transfer such personal data to third-party service providers, who may in turn store or transfer the data outside of the People’s Republic of China. For more information, visit China Mainland Privacy Disclosures."
+      ],
+      "new": [
+        "Personal data relating to individuals in the European Economic Area, the United Kingdom, and Switzerland is controlled by Apple Distribution International Limited in Ireland. Apple’s international transfer of personal data collected in the European Economic Area, the United Kingdom, and Switzerland is governed by Standard Contractual Clauses. If you have questions or would like a copy of Apple’s Standard Contractual Clauses, you can contact us at apple.com/legal/privacy/contact. Personal data collected by Apple or an Apple-affiliated company worldwide is generally stored by Apple Inc. in the United States. Regardless of where your personal data is stored, Apple maintains the same high level of protection and safeguarding measures. Apple’s privacy practices, as described in this Privacy Policy, comply with the Global Cross-Border Privacy Rules (CBPRs) System and the Global Privacy Recognition for Processors (PRP) System. For more information about the Global CBPR and PRP Systems, visit Global CBPR Forum. To view our certifications, visit CBPR System Compliance Directory. For more information about the scope of our participation, or to submit a privacy inquiry through BBB National Programs, our Accountability Agent, visit: Personal data relating to individuals in the People’s Republic of China may be processed by Apple in countries outside of the People’s Republic of China, such as Apple Inc. in the United States or Apple Distribution International Limited in the Republic of Ireland. Where this occurs, it will be done in compliance with local laws, including the Personal Information Protection Law. For the purposes of processing set out in this Privacy Policy, Apple may also transfer such personal data to third-party service providers, who may in turn store or transfer the data outside of the People’s Republic of China. For more information, visit China Mainland Privacy Disclosures."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- ## Privacy Questions **If you have questions about Apple’s Privacy Policy or privacy practices including where a third-party service provider is acting on our behalf, or you would like to contact our Data Protection Officer, you can contact us at apple.com/legal/privacy/contact or call the Apple Support number for your country or region.** You can also ask us questions about how to submit a privacy complaint and we will endeavor to help."
+      ],
+      "new": [
+        "- ## Privacy Questions **If you have questions about Apple’s Privacy Policy or privacy practices including where a third-party service provider is acting on our behalf, or you would like to contact our Data Protection Officer, you can contact us at** apple.com/legal/privacy/contact **or call the** Apple Support number **for your country or region.** You can also ask us questions about how to submit a privacy complaint and we will endeavor to help."
+      ]
+    }
+  ]
+}

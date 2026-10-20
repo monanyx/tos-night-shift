@@ -1,0 +1,199 @@
+{
+  "id": "2023-03-26-microsoft-privacy",
+  "service": "microsoft",
+  "service_name": "Microsoft",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://privacy.microsoft.com/en-us/privacystatement",
+  "detected_at": "2023-03-26T01:10:34+00:00",
+  "source": "wayback",
+  "window_start": "2023-02-12T00:04:39+00:00",
+  "archive_before": "https://web.archive.org/web/20230212000439/https://privacy.microsoft.com/en-us/privacystatement",
+  "archive_after": "https://web.archive.org/web/20230326011034/https://privacy.microsoft.com/en-us/privacystatement",
+  "flags": [
+    {
+      "tag": "minors",
+      "label": "Kids & teens",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 17,
+    "added_words": 759,
+    "removed_words": 348
+  },
+  "headline": "Microsoft rewrote its Privacy Policy — new wording on kids and teens",
+  "summary": "759 words added and 348 removed across 17 sections. New wording touches: Kids & teens. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "For users under the age specified by law in your jurisdiction, for example under 13 in the U.S., certain Microsoft products and services will either block users under that age or will ask them to provide consent or authorization from …",
+  "receipt_side": "new",
+  "sideeye": 2,
+  "tags": [
+    "minors"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "- **Bot usage data**. Interactions with third party bots and skills available through Microsoft products."
+      ],
+      "new": [
+        "- **Bot usage data**. Interactions with bots and skills available through Microsoft products, including bots and skills provided by third parties."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Searches and commands**. Search queries and commands when you use Microsoft products with search or related productivity functionality."
+      ],
+      "new": [
+        "- **Searches and commands**. Search queries and commands when you use Microsoft products with search or related productivity functionality, such as interactions with a chat bot."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Advertising**. Microsoft does not use what you say in email, chat, video calls, or voice mail, or your documents, photos, or other personal files to target ads to you. We use data we collect through our interactions with you, through some of our first-party products, services, apps, and web properties (Microsoft properties), and on third-party web properties, for advertising on our Microsoft properties and on third-party properties. We may use automated processes to help make advertising more relevant to you. For more information about how your data is used for advertising, see the Advertising section of this privacy statement."
+      ],
+      "new": [
+        "- **Advertising**. Microsoft does not use what you say in email, human-to-human chat, video calls, or voice mail, or your documents, photos, or other personal files to target ads to you. We use data we collect through our interactions with you, through some of our first-party products, services, apps, and web properties (Microsoft properties), and on third-party web properties, for advertising on our Microsoft properties and on third-party properties. We may use automated processes to help make advertising more relevant to you. For more information about how your data is used for advertising, see the Advertising section of this privacy statement."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Please note that, as defined under certain U.S. state data privacy laws, “sharing” also relates to providing personal data to third parties for personalized advertising purposes. Please see the U.S. State Data Privacy section below and our U.S. State Data Privacy Laws Notice for more information."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Bing.** If you are signed into Bing, you can view and clear your search history on your privacy dashboard. If you are not signed into Bing, you can view and clear search history associated to your device in your Bing settings."
+      ],
+      "new": [
+        "- **Bing.** If you are signed into Bing, you can view and clear your stored search history on your privacy dashboard. If you are not signed into Bing, you can view and clear stored search history associated to your device in your Bing settings."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "When a Microsoft product collects age, and there is an age in your jurisdiction under which parental consent or authorization is required to use the product, the product will either block users under that age or will ask them to provide consent or authorization from a parent or guardian before they can use it. We will not knowingly ask children under that age to provide more data than is required to provide for the product."
+      ],
+      "new": [
+        "For users under the age specified by law in your jurisdiction, for example under 13 in the U.S., certain Microsoft products and services will either block users under that age or will ask them to provide consent or authorization from a parent or guardian before they can use it. We will not knowingly ask children under that age to provide more data than is required to provide for the product.",
+        "Once parental consent or authorization is granted, the child's account is treated much like any other account. The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages. Parents or guardians can change or revoke the consent choices previously made. Learn more about parental consent and Microsoft child accounts.",
+        "As the organizer of a Microsoft family group, the parent or guardian can manage a child’s information and settings on their Family Safety page and view and delete a child’s data on their privacy dashboard. Select Learn more below for more information about how to access and delete child data.",
+        "For more information about children and Xbox profiles, select Learn more below.",
+        "For users under the age specified by law in your jurisdiction, for example under 13 in the U.S., certain Microsoft products and services will either block users under that age or will ask them to provide consent or authorization from a parent or guardian before they can use it. We will not knowingly ask children under that age to provide more data than is required to provide for the product."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Parents or guardians can change or revoke the consent choices previously made, and review, edit, or request the deletion of the personal data of the children for whom they provided consent or authorization. As the organizer of a Microsoft family group, the parent or guardian can manage a child’s information and settings on their Family Safety page and view and delete a child’s data on their privacy dashboard."
+      ],
+      "new": [
+        "Parents or guardians can change or revoke the consent choices previously made. As the organizer of a Microsoft family group, the parent or guardian can manage a child’s information and settings on their Family Safety page and view and delete a child’s data on their privacy dashboard. Select Learn more below for more information about how to access and delete child data."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "When a Microsoft product collects age, and there is an age in your jurisdiction under which parental consent or authorization is required to use the product, the product will either block users under that age or will ask them to provide consent or authorization from a parent or guardian before they can use it. We will not knowingly ask children under that age to provide more data than is required to provide for the product.",
+        "Once parental consent or authorization is granted, the child's account is treated much like any other account. The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages. Learn more about parental consent and Microsoft child accounts.",
+        "Parents or guardians can change or revoke the consent choices previously made, and review, edit, or request the deletion of the personal data of the children for whom they provided consent or authorization. As the organizer of a Microsoft family group, the parent or guardian can manage a child’s information and settings on their Family Safety page and view and delete a child’s data on their privacy dashboard.",
+        "Below is additional information about the collection of data from children as related to Xbox."
+      ],
+      "new": [
+        "Below is additional information about the collection of data from children, including more details as related to Xbox.",
+        "**Accessing and deleting child data.** Where parental consent is required, a parent can view and delete certain data belonging to their child from the parent’s privacy dashboard: browsing history, search history, location activity, media activity, apps and service activity, and product and service performance data. To delete this data, a parent can sign in to their privacy dashboard and manage their child’s activities. Please note that a parent’s ability to access and/or delete a child’s personal information on their privacy dashboard will vary depending on the laws where you are located.",
+        "Additionally, a parent can contact our privacy support team through the privacy support form and, following authentication, request that the data types on the privacy dashboard together with the following data be deleted: software, setup, and inventory; device connectivity and configuration; feedback and ratings; fitness and activity; support content; support interactions; and environmental sensor. We process authenticated deletion requests within 30 days of receipt.",
+        "Please note that content like emails, contacts, and chats are accessible through in-product experiences. You can find more information about data you are able to control within Microsoft products by visiting our Privacy Frequently Asked Questions (FAQs).",
+        "If your child’s account is not a part of your Microsoft family group and you do not have access to your child’s activity on your privacy dashboard, then you need to submit a request related to your child’s data through the privacy support form. The privacy team will ask for account verification before fulfilling the request.",
+        "To delete all of your child’s personal information, you must request deletion of the child’s account through the close your account form. This link will prompt you to sign in with your child’s account credentials. Check that the page shows the correct Microsoft account, and then follow the instructions to request that your child’s account be deleted. Learn more about how to close a Microsoft account.",
+        "After you submit the request to close your child’s account, we will wait 60 days before permanently deleting the account in case you change your mind or need to access something on the account before it is permanently closed and deleted. During the waiting period, the account is marked for closure and permanent deletion, but it still exists. If you want to reopen your child’s Microsoft account, just sign in again within that 60-day period. We will cancel the account closure, and the account will be reinstated."
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Accessing child data**. As the organizer of a Microsoft family group, a parent can view and delete a child’s data on their privacy dashboard. The dashboard allows you to review your child's personal information, have it deleted, and refuse to permit further collection or use of your child's information.",
+        "To close your child’s account, sign in with their account info at account.microsoft.com/profile and select ”How to close your account.”"
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Share**. We may “share” your personal data for personalized advertising purposes. As noted in our Advertising section, we do not deliver personalized advertising to children whose birthdate in their Microsoft account identifies them as under 18 years of age."
+      ],
+      "new": [
+        "**Share**. We may “share” your personal data, as defined under California and other applicable U.S. state laws, for personalized advertising purposes. As noted in our Advertising section, we do not deliver personalized advertising to children whose birthdate in their Microsoft account identifies them as under 18 years of age."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Please see the Advertising section for more information about our advertising practices."
+      ],
+      "new": [
+        "Please see the Advertising section for more information about our advertising practices, and our U.S. State Data Privacy Laws Notice for more information on “sharing” for personalized advertising purposes under applicable U.S. state laws."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We do not use or disclose your sensitive data for purposes other than those listed below and permitted under applicable U.S. state data privacy laws. So, we do not offer an ability to limit the use of sensitive data."
+      ],
+      "new": [
+        "We do not use or disclose your sensitive data for purposes other than those listed below, without your consent, or as permitted or required under applicable laws. So, we do not offer an ability to limit the use of sensitive data."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Subject to your privacy settings, and depending on the products you use and your choices, we may collect, process, or disclose certain personal data that qualifies as “sensitive data” under applicable U.S. state data privacy laws. Sensitive data is a subset of personal data. In the list below, we outline the categories of sensitive data we collect, the sources of the sensitive data, our purposes of processing, and the categories of third party recipients with whom we share the sensitive data. Please see the Personal data we collect section for more information about the sensitive data we may collect."
+      ],
+      "new": [
+        "Subject to your privacy settings, your consent, and depending on the products you use and your choices, we may collect, process, or disclose certain personal data that qualifies as “sensitive data” under applicable U.S. state data privacy laws. Sensitive data is a subset of personal data. In the list below, we outline the categories of sensitive data we collect, the sources of the sensitive data, our purposes of processing, and the categories of third party recipients with whom we share the sensitive data. Please see the Personal data we collect section for more information about the sensitive data we may collect."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Not in a Position to Identify Data**. In some situations, Microsoft may process data in a state called Not in a Position to Identify Data (NPI) or de-identified data. Data is in this state when we are not able to link data to an individual to whom such data may relate without taking additional steps. In those instances, and unless allowed under applicable law, we will maintain such information in an NPI state, and will not try to re-identify the individual to whom NPI data relates."
+      ],
+      "new": [
+        "**De-Identified Data**. In some situations, Microsoft may process de-identified data. Data is in this state when we are not able to link data to an individual to whom such data may relate without taking additional steps. In those instances, and unless allowed under applicable law, we will maintain such information in a de-identified state, and will not try to re-identify the individual to whom the de-identified data relates."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising allows us to provide, support, and improve some of our products. Microsoft does not use what you say in email, chat, video calls or voice mail, or your documents, photos, or other personal files to target ads to you. We use other data, detailed below, for advertising on our Microsoft properties and on third-party properties. For example:"
+      ],
+      "new": [
+        "Advertising allows us to provide, support, and improve some of our products. Microsoft does not use what you say in email, human-to-human chat, video calls or voice mail, or your documents, photos, or other personal files to target ads to you. We use other data, detailed below, for advertising on our Microsoft properties and on third-party properties. For example:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "To provide the Enterprise Online Services, Microsoft uses data you provide (including Customer Data, Personal Data, Administrator Data, Payment Data, and Support Data) and data Microsoft collects or generates associated with your use of the Enterprise Online Services. We process data as described in the Product Terms, Microsoft Products and Services Data Protection Addendum and the Microsoft Trust Center."
+      ],
+      "new": [
+        "To provide the Enterprise Online Services, Microsoft uses data you provide (including Customer Data, Personal Data, Administrator Data, Payment Data, and Support Data) and data Microsoft collects or generates associated with your use of the Enterprise Online Services. We process data as described in the Product Terms, Microsoft Products and Services Data Protection Addendum (Products and Services DPA), and the Microsoft Trust Center."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Bing services include search and mapping services, as well as the Bing Toolbar and Bing Desktop apps. Bing services collect and process data in many forms, including text that has been inked or typed, voice data, and images. Bing services are also included within other Microsoft services, such as Microsoft 365, Cortana, and certain features in Windows (which we refer to as Bing-powered experiences)."
+      ],
+      "new": [
+        "Bing services include search and mapping services, as well as other apps and programs described in this section. Bing services collect and process data in many forms, including text that has been inked or typed, voice data, and images. Bing services are also included within other Microsoft services, such as Microsoft 365, Cortana, and certain features in Windows (which we refer to as Bing-powered experiences)."
+      ]
+    }
+  ]
+}

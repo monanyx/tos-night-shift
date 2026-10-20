@@ -1,0 +1,70 @@
+{
+  "id": "2025-07-13-google-privacy",
+  "service": "google",
+  "service_name": "Google",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://policies.google.com/privacy?hl=en",
+  "detected_at": "2025-07-13T00:01:35+00:00",
+  "source": "wayback",
+  "window_start": "2025-04-13T00:22:08+00:00",
+  "archive_before": "https://web.archive.org/web/20250413002208/https://policies.google.com/privacy?hl=en",
+  "archive_after": "https://web.archive.org/web/20250713000135/https://policies.google.com/privacy?hl=en",
+  "flags": [],
+  "stats": {
+    "hunks": 4,
+    "added_words": 69,
+    "removed_words": 4
+  },
+  "headline": "Google edited its Privacy Policy",
+  "summary": "69 words added and 4 removed across 4 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "The types of location data we collect and how long we store it depend in part on your device and account settings.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "The types of location data we collect and how long we store it depend in part on your device and account settings. For example, you can turn your Android device’s location on or off using the device’s settings app. You can also turn on Location History if you want to create a private map of where you go with your signed-in devices. And if your Web & App Activity setting is enabled, your searches and other activity from Google services, which may also include location information, is saved to your Google Account. Learn more about how we use location information."
+      ],
+      "new": [
+        "The types of location data we collect and how long we store it depend in part on your device and account settings. For example, you can turn your Android device’s location on or off using the device’s settings app. You can also turn on Timeline if you want to create a private map of where you go with your signed-in devices. And if your Web & App Activity setting is enabled, your searches and other activity from Google services, which may also include location information, is saved to your Google Account. Learn more about how we use location information."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "### Performance of their ad campaigns.",
+        "Learn more about the technologies used for advertising."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You might choose to save places to your Google Account that are important to you, such as your home or your work. If you set your home or work addresses, they can be used to help you do things more easily, such as getting directions or finding results closer to your home or work, and for more useful ads."
+      ],
+      "new": [
+        "You might choose to save places to your Google Account that are important to you, such as your home or your work. If you set your home or work addresses, they can be used to help you do things more easily, such as getting directions or finding results closer to your home or work, and for ads."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- New Jersey Senate Bill 332",
+        "- New Hampshire Senate Bill 255",
+        "- Nebraska Data Privacy Act (NEDPA)",
+        "- Iowa Consumer Data Protection Act (IACDPA)",
+        "- Delaware Personal Data Privacy Act (DPDPA)",
+        "- Tennessee Information Protection Act (TIPA)",
+        "- Minnesota Consumer Data Privacy Act (MNCDPA)",
+        "- Maryland Online Data Privacy Act of 2024 (MDODPA)"
+      ]
+    }
+  ]
+}

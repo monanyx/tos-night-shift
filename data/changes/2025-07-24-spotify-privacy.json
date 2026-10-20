@@ -1,0 +1,190 @@
+{
+  "id": "2025-07-24-spotify-privacy",
+  "service": "spotify",
+  "service_name": "Spotify",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.spotify.com/us/legal/privacy-policy/",
+  "detected_at": "2025-07-24T17:03:54+00:00",
+  "source": "wayback",
+  "window_start": "2025-04-14T07:03:28+00:00",
+  "archive_before": "https://web.archive.org/web/20250414070328/https://www.spotify.com/us/legal/privacy-policy/",
+  "archive_after": "https://web.archive.org/web/20250724170354/https://www.spotify.com/us/legal/privacy-policy/",
+  "flags": [
+    {
+      "tag": "ai-training",
+      "label": "AI training",
+      "hits": 3
+    }
+  ],
+  "stats": {
+    "hunks": 14,
+    "added_words": 212,
+    "removed_words": 54
+  },
+  "headline": "Spotify rewrote its Privacy Policy — new wording on AI training",
+  "summary": "212 words added and 54 removed across 14 sections. New wording touches: AI training. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "This includes development and training of algorithmic and machine learning models, which help us to keep our service safe and enhance our users’ experience.",
+  "receipt_side": "new",
+  "sideeye": 2,
+  "tags": [
+    "ai-training"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Effective as of 31 December 2024"
+      ],
+      "new": [
+        "Effective as of 12 May 2025",
+        "2\\. Your personal data rights and controls",
+        "3\\. Personal data we collect about you",
+        "4\\. Our purpose for using your personal data",
+        "5\\. Disclosing your personal data",
+        "7\\. Transfer to other countries",
+        "8\\. Keeping your personal data safe"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**This Policy is*not*...**"
+      ],
+      "new": [
+        "**This Policy is *not*...**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| **It’s your right to...** | | **How?** |",
+        "|---|---|---|"
+      ],
+      "new": [
+        "| **It’s your right to..** | | **How?** |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| Payment and Purchase Data | If you make any purchases from Spotify or sign up for a paid Service Option or a trial, we will need to process your payment data. The exact personal data collected and used will vary depending on the payment method. It will include information such as: name date of birth payment method type (e.g. credit or debit card) if using a debit or credit card, the card type, expiration date, and certain digits of your card numberNote: For security, we never store your full card number ZIP/postal code mobile phone number details of your purchase and payment history |"
+      ],
+      "new": [
+        "| Voice Data | If voice features are available in your market and where you’ve chosen to use a voice feature, we collect and process voice data. Voice data means audio recordings of your voice and transcripts of those recordings. |",
+        "| Payment and Purchase Data | If you make any purchases from Spotify or sign up for a paid Service Option or a trial, we will need to process your payment data. The exact personal data collected and used will vary depending on the payment method. It will include information such as: name date of birth payment method type (e.g. credit or debit card) if using a debit or credit card, the card type, expiration date, and certain digits of your card number. Note: For security, we never store your full card number ZIP/postal code mobile phone number details of your purchase and payment history |"
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "We receive some of the data mentioned above from third parties. The below table describes the categories of those third parties."
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| To provide the Spotify Service. For example, when we use your personal data to: • set up an account for you • personalize your account • provide the Spotify app when you download it onto your device, • enable you to share a link to Spotify content with someone else, or • provide various optional features of the Spotify Service | User Data Street Address Data Usage Data Payment and Purchase Data Survey and Research Data |",
+        "| To diagnose, troubleshoot, and fix issues with the Spotify Service. | User Data Usage Data |",
+        "| To evaluate and develop new features, technologies, and improvements to the Spotify Service. For example: • we use personal data to develop and improve our personalized recommendation algorithms • we analyze how our users react to a particular new feature and see whether we should make any changes | User Data Usage Data Survey and Research Data |"
+      ],
+      "new": [
+        "| To provide the Spotify Service. For example, when we use your personal data to: • set up an account for you • personalize your account • provide the Spotify app when you download it onto your device, • enable you to share a link to Spotify content with someone else, or • provide various optional features of the Spotify Service | User Data Street Address Data Usage Data Voice Data Payment and Purchase Data Survey and Research Data |",
+        "| To diagnose, troubleshoot, and fix issues with the Spotify Service. | User Data Usage Data Voice Data |",
+        "| To evaluate and develop new features, technologies, and improvements to the Spotify Service. This includes development and training of algorithmic and machine learning models, which help us to keep our service safe and enhance our users’ experience. For example: For example: • to help us develop and improve our personalized recommendations • to help analyze how our users react to a particular new feature and see whether we should make any changes • so we can build AI features such as AI DJ and AI playlist • to help us enforce our User Guidelines, Platform Rules and Spotify for Creators Community Guidelines. | User Data Usage Data Voice Data Survey and Research Data |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| To comply with a legal obligation that we are subject to. This might be: • an obligation under the law of the country / region you are in • Swedish law (because of our headquarters in Sweden), or • EU law that applies to us For example, when we use your date of birth when required for age verification purposes. | User Data Street Address Data Usage Data Payment and Purchase Data Survey and Research Data |",
+        "| To comply with a request from law enforcement, courts, or other competent authorities. | User Data Street Address Data Usage Data Payment and Purchase Data Survey and Research Data |",
+        "| To fulfill contractual obligations with third parties. For example, when we provide pseudonymized data about our users’ listening because we have an agreement with a Spotify rightsholder to do so. Pseudonymized data means that your data is identified by a code rather than your name or other directly identifying information. | User Data Usage Data Payment and Purchase Data |",
+        "| To take appropriate action with reports of intellectual property infringement and inappropriate content. | User Data Usage Data Payment and Purchase Data |",
+        "| To establish, exercise, or defend legal claims. For example, if we are involved in litigation, we need to provide information to our lawyers in relation to that legal case. | User Data Street Address Data Usage Data Payment and Purchase Data Survey and Research Data |"
+      ],
+      "new": [
+        "| To comply with a legal obligation that we are subject to. This might be: • an obligation under the law of the country / region you are in • Swedish law (because of our headquarters in Sweden), or • EU law that applies to us For example, when we use your date of birth when required for age verification purposes. | User Data Street Address Data Usage Data Voice Data Payment and Purchase Data Survey and Research Data |",
+        "| To comply with a request from law enforcement, courts, or other competent authorities. | User Data Street Address Data Usage Data Voice Data Payment and Purchase Data Survey and Research Data |",
+        "| To fulfill contractual obligations with third parties. For example, when we provide pseudonymized data about our users’ listening because we have an agreement with a Spotify rightsholder to do so. Pseudonymized data means that your data is identified by a code rather than your name or other directly identifying information. | User Data Usage Data Voice Data Payment and Purchase Data |",
+        "| To take appropriate action with reports of intellectual property infringement and inappropriate content. | User Data Usage Data Voice Data Payment and Purchase Data |",
+        "| To establish, exercise, or defend legal claims. For example, if we are involved in litigation, we need to provide information to our lawyers in relation to that legal case. | User Data Street Address Data Usage Data Voice Data Payment and Purchase Data Survey and Research Data |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| To conduct research and surveys. For example, when we contact our users to ask for your feedback. | User Data Usage Data Survey and Research Data |"
+      ],
+      "new": [
+        "| To conduct research and surveys. For example, when we contact our users to ask for your feedback. | User Data Usage Data Voice Data Survey and Research Data |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| Other Spotify users | • User Data • Usage Data | To share information about your use of the Spotify Service with other Spotify users. These could include your followers on Spotify. For example, under ‘Social’ settings you can choose to share your recently played artists and your playlists on your profile. You can also choose to create or join a shared playlist with other users. Shared playlists give you social recommendations based on your listening activity. |"
+      ],
+      "new": [
+        "| Other Spotify users | • User Data • Usage Data • Voice Data | To share information about your use of the Spotify Service with other Spotify users. These could include your followers on Spotify. For example, under ‘Social’ settings you can choose to share your recently played artists and your playlists on your profile. You can also choose to create or join a shared playlist with other users. Shared playlists give you social recommendations based on your listening activity. |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| Service providers | • User Data • Street Address Data • Usage Data • Payment and Purchase Data • Survey and Research Data | So they can provide their services to Spotify. These service providers include those we hire to: • give customer support • operate the technical infrastructure we need to provide the Spotify Service • assist in protecting and securing our systems and services (e.g. Google’s reCAPTCHA) • help market Spotify’s (and our partners’) products, services, events and promotions • verify your eligibility for certain types of Service Options (e.g., Spotify Premium Student) |"
+      ],
+      "new": [
+        "| Service providers | • User Data • Street Address Data • Usage Data • Voice Data • Payment and Purchase Data • Survey and Research Data | So they can provide their services to Spotify. These service providers include those we hire to: • give customer support • operate the technical infrastructure we need to provide the Spotify Service • assist in protecting and securing our systems and services (e.g. Google’s reCAPTCHA) • help market Spotify’s (and our partners’) products, services, events and promotions • verify your eligibility for certain types of Service Options (e.g., Spotify Premium Student) |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| Other Spotify group companies, including companies that Spotify acquires | • User Data • Street Address Data • Usage Data • Payment and Purchase Data • Survey and Research Data | To carry out our daily business operations and so we can maintain, improve and provide the Spotify Service and acquired companies’ services to you. For example: • enabling our employees who work for different group companies to develop and improve features for the Spotify Service • disclosing data to our measurement companies to measure the effectiveness of ad campaigns that run on the Spotify Service • disclosing data to our podcast companies to better understand user listening trends |",
+        "| Law enforcement and other authorities, or other parties to litigation | • User Data • Usage Data | When we believe in good faith it’s necessary for us to do so, for example: to comply with a legal obligation to respond to a valid legal process (such as a search warrant, court order, or subpoena) for our own or a third party’s justifiable interest, relating to:"
+      ],
+      "new": [
+        "| Other Spotify group companies, including companies that Spotify acquires | • User Data • Street Address Data • Usage Data • Voice Data • Payment and Purchase Data • Survey and Research Data | To carry out our daily business operations and so we can maintain, improve and provide the Spotify Service and acquired companies’ services to you. For example: • enabling our employees who work for different group companies to develop and improve features for the Spotify Service • disclosing data to our measurement companies to measure the effectiveness of ad campaigns that run on the Spotify Service • disclosing data to our podcast companies to better understand user listening trends |",
+        "| Law enforcement and other authorities, or other parties to litigation | • User Data • Street Address Data • Usage Data • Voice Data •Payment and Purchase Data •Survey and Research Data | When we believe in good faith it’s necessary for us to do so, for example: to comply with a legal obligation to respond to a valid legal process (such as a search warrant, court order, or subpoena) for our own or a third party’s justifiable interest, relating to:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| Purchasers of our business | • User Data • Street Address Data • Usage Data • Payment and Purchase Data • Survey and Research Data | If we were to sell or negotiate to sell our business to a buyer or possible buyer. In this case, we may transfer your personal data to a successor or affiliate as part of that transaction. |"
+      ],
+      "new": [
+        "| Purchasers of our business | • User Data • Street Address Data • Usage Data • Voice Data • Payment and Purchase Data • Survey and Research Data | If we were to sell or negotiate to sell our business to a buyer or possible buyer. In this case, we may transfer your personal data to a successor or affiliate as part of that transaction. |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "The following chart contains statistics about global requests we received from users between 1 January and 31 December 2023:",
+        "| **Type of request** | **Received** | **Complied** | **Denied** | **Average response rate** |"
+      ],
+      "new": [
+        "The following chart contains statistics about global requests we received from users between 1 January and 31 December 2024:",
+        "| Type of request | Received | Complied | Denied | Average response rate |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| Right to Know / Access | 2,375,576 | 2,375,576 | 0 | 9.88 days |",
+        "| Request to Delete | 6,367,692 | 6,367,692 | 0 | 15.5 days |",
+        "| Request to Correct\\* | 38 | 32 | 6 | 13.84 days |",
+        "| Request to Opt-Out of Data Sharing for Tailored Ads | 78,145,777 | 78,145,777 | 0 | 1 day |"
+      ],
+      "new": [
+        "| Right to Know / Access | 2,284,441 | 2,284,441 | 0 | 8.83 days |",
+        "| Request to Delete | 7,542,315 | 7,542,315 | 0 | 15.5 days |",
+        "| Request to Correct\\* | 34 | 4 | 30 | 12.32 days |",
+        "| Request to Opt-Out of Data Sharing for Tailored Ads | 29,213,601 | 29,213,601 | 0 | 1 day |"
+      ]
+    }
+  ]
+}

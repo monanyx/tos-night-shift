@@ -1,0 +1,74 @@
+{
+  "id": "2023-07-27-whatsapp-terms",
+  "service": "whatsapp",
+  "service_name": "WhatsApp",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.whatsapp.com/legal/terms-of-service-eea",
+  "detected_at": "2023-07-27T22:29:44+00:00",
+  "source": "wayback",
+  "window_start": "2023-03-06T06:47:34+00:00",
+  "archive_before": "https://web.archive.org/web/20230306064734/https://www.whatsapp.com/legal/terms-of-service-eea",
+  "archive_after": "https://web.archive.org/web/20230727222944/https://www.whatsapp.com/legal/terms-of-service-eea",
+  "flags": [],
+  "stats": {
+    "hunks": 5,
+    "added_words": 50,
+    "removed_words": 40
+  },
+  "headline": "WhatsApp edited its Terms of Service",
+  "summary": "50 words added and 40 removed across 5 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Effective Date: January 4, 2021 (archived versions)",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Last modified: January 4, 2021 (archived versions)"
+      ],
+      "new": [
+        "Effective Date: January 4, 2021 (archived versions)"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*If you don't live in the* European Region*, WhatsApp LLC provides WhatsApp to you under this Terms of Service and Privacy Policy.*"
+      ],
+      "new": [
+        "*If you live in the UK, WhatsApp LLC provides the Services to you under this Terms of Service and Privacy Policy.*",
+        "*If you live outside the UK or the European Region, WhatsApp LLC provides the Services to you under this Terms of Service and Privacy Policy.*"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "If you live in Austria, these provisions supersede those in the below Terms and prevail over them."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "WhatsApp Ireland Limited (\"WhatsApp,\" \"our,\" \"we,\" or \"us\") provides the services described below to you (\"Services\") if you live in a country or territory in the European Economic Area (which includes the European Union), and any other included country or territory (collectively referred to as the \"European Region\"). If you live in any other country or territory except those in the European Region, WhatsApp LLC provides the Services to you under this Terms of Service and Privacy Policy."
+      ],
+      "new": [
+        "WhatsApp Ireland Limited (\"WhatsApp,\" \"our,\" \"we,\" or \"us\") provides the services described below to you (\"Services\") if you live in a country or territory in the European Economic Area (which includes the European Union), and any other included country or territory (collectively referred to as the \"European Region\")."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- We are constantly working to improve our Services and develop new features to make our products even better for you and our community. Therefore, we may need to update these Terms from time to time to reflect our Services and practices correctly. We will only make changes if the provisions are no longer appropriate or incomplete. Unless otherwise required by law, we will provide you at least 30 days' advance notice of changes to our Terms (e.g., by e-mail or through the Services), which will give you the opportunity to review the revised Terms before they become effective, and we will ensure that any such changes are reasonable for you, taking into consideration your interests. We will also update the \"Last modified\" date at the top of our Terms. Changes to these Terms shall become effective no sooner than 30 days after we provide notice of planned changes. Once updated Terms come into effect, you will be bound by them if you continue to use our Services. We hope you will continue using our Services, but if you do not agree to our Terms, as amended, you must stop using our Services by deleting your account."
+      ],
+      "new": [
+        "- We are constantly working to improve our Services and develop new features to make our products even better for you and our community. Therefore, we may need to update these Terms from time to time to reflect our Services and practices correctly. We will only make changes if the provisions are no longer appropriate or incomplete. Unless otherwise required by law, we will provide you at least 30 days' advance notice of changes to our Terms (e.g., by e-mail or through the Services), which will give you the opportunity to review the revised Terms before they become effective, and we will ensure that any such changes are reasonable for you, taking into consideration your interests. We will also update the \"Effective Date\" at the top of our Terms. Changes to these Terms shall become effective no sooner than 30 days after we provide notice of planned changes. Once updated Terms come into effect, you will be bound by them if you continue to use our Services. We hope you will continue using our Services, but if you do not agree to our Terms, as amended, you must stop using our Services by deleting your account."
+      ]
+    }
+  ]
+}

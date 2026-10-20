@@ -1,0 +1,116 @@
+{
+  "id": "2023-08-21-tinder-privacy",
+  "service": "tinder",
+  "service_name": "Tinder",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://policies.tinder.com/privacy/intl/en",
+  "detected_at": "2023-08-21T21:55:03+00:00",
+  "source": "wayback",
+  "window_start": "2023-04-13T19:33:46+00:00",
+  "archive_before": "https://web.archive.org/web/20230413193346/https://policies.tinder.com/privacy/intl/en/",
+  "archive_after": "https://web.archive.org/web/20230821215503/https://policies.tinder.com/privacy/intl/en/",
+  "flags": [
+    {
+      "tag": "data-sharing",
+      "label": "Data sharing",
+      "hits": 1
+    },
+    {
+      "tag": "tracking",
+      "label": "Tracking",
+      "hits": 1
+    },
+    {
+      "tag": "minors",
+      "label": "Kids & teens",
+      "hits": 1
+    },
+    {
+      "tag": "retention",
+      "label": "How long they keep it",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 4,
+    "added_words": 137,
+    "removed_words": 15
+  },
+  "headline": "Tinder rewrote its Privacy Policy — new wording on sharing your data, tracking and more",
+  "summary": "137 words added and 15 removed across 4 sections. New wording touches: Data sharing, Tracking, Kids & teens, How long they keep it. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "How Long We Retain Your Information",
+  "receipt_side": "new",
+  "sideeye": 4,
+  "tags": [
+    "data-sharing",
+    "tracking",
+    "minors",
+    "retention"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "This Privacy Policy applies from February 24, 2023. The previous version of this Privacy Policy will apply until then."
+      ],
+      "new": [
+        "This Privacy Policy applies from July 1, 2023. The previous version of this Privacy Policy applies until then.",
+        "1. Who We Are",
+        "2. Where This Privacy Policy Applies",
+        "3. Information We Collect",
+        "4. How We Use Information",
+        "5. How We Share Information",
+        "6. Cross-Border Data Transfers",
+        "7. Your Rights",
+        "8. How Long We Retain Your Information",
+        "9. Children's Privacy",
+        "10. Job Candidates, Contractors and Vendor Representatives",
+        "11. Privacy Policy Changes",
+        "12. How To Contact Us",
+        "### For California Consumers",
+        "Please see our California Privacy Statement to learn about California privacy rights."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- <u>Access / Update tools in the service.</u> Tools and account settings can help you access, rectify or remove information that you provided to us and that’s associated with your account directly within the service. If you have any questions on those tools and settings, please contact our customer care team for help.",
+        "- <u>Device permissions.</u> Mobile platforms can have permission systems for specific types of device data and notifications, such as phone contacts, pictures, location services, push notifications and advertising identifiers. You can change your settings on your device to either consent or oppose the collection or processing of the corresponding information or the display of the corresponding notifications. Of course, if you do that, certain services may lose functionality.",
+        "- <u>Uninstall.</u> You can stop all information collection by an app by uninstalling it using the standard uninstall process for your device. Remember that uninstalling an app does NOT close your account. To close your account, please use the corresponding functionality on the service.",
+        "- <u>Account closure.</u> You can close your account by using the corresponding functionality directly on the service."
+      ],
+      "new": [
+        "- **Access / Update tools in the service.** Tools and account settings can help you access, rectify or remove information that you provided to us and that’s associated with your account directly within the service. If you have any questions on those tools and settings, please contact our customer care team for help.",
+        "- **Device permissions.** Mobile platforms can have permission systems for specific types of device data and notifications, such as phone contacts, pictures, location services, push notifications and advertising identifiers. You can change your settings on your device to either consent or oppose the collection or processing of the corresponding information or the display of the corresponding notifications. Of course, if you do that, certain services may lose functionality.",
+        "- **Uninstall.** You can stop all information collection by an app by uninstalling it using the standard uninstall process for your device. Remember that uninstalling an app does NOT close your account. To close your account, please use the corresponding functionality on the service.",
+        "- **Account closure.** You can close your account by using the corresponding functionality directly on the service."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- <u>Access/know.</u> You may have the right to request a copy of the information we keep about you, and in certain circumstances to receive this in a portable format. You can exercise your right to access directly within the service by putting in a request.",
+        "- <u>Delete/erase.</u> You may request that we delete the personal information we keep about you. You can exercise your right to delete by submitting a request.",
+        "- <u>Correct/rectify/update.</u> You can correct most information you provided to us by editing your profile directly in the service. If you believe the information we hold about you is inaccurate, you may contact us to rectify it.",
+        "- <u>Object/restrict.</u> You may also have the right to object to or request that we restrict certain processing. To do so, please contact us."
+      ],
+      "new": [
+        "- **Access/know.** You may have the right to request a copy of the information we keep about you, and in certain circumstances to receive this in a portable format. You can exercise your right to access directly within the service by putting in a request.",
+        "- **Delete/erase.** You may request that we delete the personal information we keep about you. You can exercise your right to delete by submitting a request.",
+        "- **Correct/rectify/update.** You can correct most information you provided to us by editing your profile directly in the service. If you believe the information we hold about you is inaccurate, you may contact us to rectify it.",
+        "- **Object/restrict.** You may also have the right to object to or request that we restrict certain processing. To do so, please contact us."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If you are a resident of Virginia, USA, if we deny your privacy request, you may be able to appeal by contacting us, and explicitly referencing “Privacy Request Appeal.” If you have concerns about the result of your appeal you may contact the attorney general for your state."
+      ],
+      "new": [
+        "If you are a resident of Virginia, Colorado, or Connecticut, USA, if we deny your privacy request, you may be able to appeal by contacting us, and explicitly referencing “Privacy Request Appeal.” If you have concerns about the result of your appeal you may contact the attorney general for your state. Additionally, please note that we do not “sell” your personal data, or use it for “targeted advertising” or “profiling” in furtherance of decisions that produce legal or similarly significant effects, as those terms are defined by applicable law in your state, so no opt-out choice is necessary."
+      ]
+    }
+  ]
+}

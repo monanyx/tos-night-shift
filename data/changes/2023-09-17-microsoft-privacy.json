@@ -1,0 +1,198 @@
+{
+  "id": "2023-09-17-microsoft-privacy",
+  "service": "microsoft",
+  "service_name": "Microsoft",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://privacy.microsoft.com/en-us/privacystatement",
+  "detected_at": "2023-09-17T04:36:21+00:00",
+  "source": "wayback",
+  "window_start": "2023-08-06T04:52:19+00:00",
+  "archive_before": "https://web.archive.org/web/20230806045219/https://privacy.microsoft.com/en-us/privacystatement",
+  "archive_after": "https://web.archive.org/web/20230917043621/https://privacy.microsoft.com/en-us/privacystatement",
+  "flags": [
+    {
+      "tag": "ai-training",
+      "label": "AI training",
+      "hits": 2
+    }
+  ],
+  "stats": {
+    "hunks": 18,
+    "added_words": 736,
+    "removed_words": 307
+  },
+  "headline": "Microsoft rewrote its Privacy Policy — new wording on AI training",
+  "summary": "736 words added and 307 removed across 18 sections. New wording touches: AI training. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "For example, to build, train, and improve the accuracy of our automated methods of processing (including artificial intelligence or AI), we manually review some of the predictions and inferences produced by the automated methods against the underlying data from which …",
+  "receipt_side": "new",
+  "sideeye": 3,
+  "tags": [
+    "ai-training"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "- Third parties that deliver experiences through Microsoft products. Publicly-available sources, such as open public sector, academic, and commercial data sets and other data sources."
+      ],
+      "new": [
+        "- Third parties that deliver experiences through Microsoft products.",
+        "- Publicly-available sources, such as open public sector, academic, and commercial data sets and other data sources."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Our processing of personal data for these purposes includes both automated and manual (human) methods of processing. Our automated methods often are related to and supported by our manual methods. For example, our automated methods include artificial intelligence (AI), which we think of as a set of technologies that enable computers to perceive, learn, reason, and assist in decision-making to solve problems in ways that are similar to what people do. To build, train, and improve the accuracy of our automated methods of processing (including AI), we manually review some of the predictions and inferences produced by the automated methods against the underlying data from which the predictions and inferences were made. For example, we manually review short snippets of voice data that we have taken steps to de-identify to improve our speech recognition technologies. This manual review may be conducted by Microsoft employees or vendors who are working on Microsoft’s behalf."
+      ],
+      "new": [
+        "Our processing of personal data for these purposes includes both automated and manual (human) methods of processing. Our automated methods often are related to and supported by our manual methods. For example, to build, train, and improve the accuracy of our automated methods of processing (including artificial intelligence or AI), we manually review some of the predictions and inferences produced by the automated methods against the underlying data from which the predictions and inferences were made. For instance, with your permission and for the purpose of improving our speech recognition technologies, we manually review short snippets of voice data that we have taken steps to de-identify. This manual review may be conducted by Microsoft employees or vendors who are working on Microsoft’s behalf."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Our processing of personal data for these purposes includes both automated and manual (human) methods of processing. Our automated methods often are related to and supported by our manual methods. For example, our automated methods include artificial intelligence (AI), which we think of as a set of technologies that enable computers to perceive, learn, reason, and assist in decision-making to solve problems in ways that are similar to what people do. To build, train, and improve the accuracy of our automated methods of processing (including AI), we manually review some of the predictions and inferences produced by the automated methods against the underlying data from which the predictions and inferences were made. For example, we manually review short snippets of voice data that we have taken steps to de-identify to improve our speech recognition technologies. This manual review may be conducted by Microsoft employees or vendors who are working on Microsoft’s behalf."
+      ],
+      "new": [
+        "Our processing of personal data for these purposes includes both automated and manual (human) methods of processing. Our automated methods often are related to and supported by our manual methods. For example, to build, train, and improve the accuracy of our automated methods of processing (including artificial intelligence or AI), we manually review some of the predictions and inferences produced by the automated methods against the underlying data from which the predictions and inferences were made. For instance, with your permission and for the purpose of improving our speech recognition technologies, we manually review short snippets of voice data that we have taken steps to de-identify. This manual review may be conducted by Microsoft employees or vendors who are working on Microsoft’s behalf."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We share your personal data with your consent or as necessary to complete any transaction or provide any product you have requested or authorized. For example, we share your content with third parties when you tell us to do so, such as when you send an email to a friend, share photos and documents on OneDrive, or link accounts with another service. If you use a Microsoft product provided by an organization you are affiliated with, such as an employer or school, or use an email address provided by such organization to access Microsoft products, we share certain data, such as interaction data and diagnostic data to enable your organization to manage the products. When you provide payment data to make a purchase, we will share payment data with banks and other entities that process payment transactions or provide other financial services, and for fraud prevention and credit risk reduction. When you permit push notifications for Microsoft products or applications on a non-Windows device, the operating system of that device will process some personal data to provide push notifications. Accordingly, Microsoft may send data to an external, third-party notification provider to deliver push notifications. Your device’s push notification services are governed by their own service-specific terms and privacy statements."
+      ],
+      "new": [
+        "We share your personal data with your consent or as necessary to complete any transaction or provide any product you have requested or authorized. For example, we share your content with third parties when you tell us to do so, such as when you send an email to a friend, share photos and documents on OneDrive, or link accounts with another service. If you use a Microsoft product provided by an organization you are affiliated with, such as an employer or school, or use an email address provided by such organization to access Microsoft products, we share certain data, such as interaction data and diagnostic data to enable your organization to manage the products. When you provide payment data to make a purchase, we will share payment data with banks and other entities that process payment transactions or provide other financial services, and for fraud prevention and credit risk reduction. Additionally, when you save a payment method (such as a card) to your account that you and other Microsoft account holders use to make purchases from Microsoft or its affiliates, your purchase receipts may be shared with anyone else who uses and has access to the same payment method to make a purchase from Microsoft, including the payment method’s named accountholder. When you permit push notifications for Microsoft products or applications on a non-Windows device, the operating system of that device will process some personal data to provide push notifications. Accordingly, Microsoft may send data to an external, third-party notification provider to deliver push notifications. Your device’s push notification services are governed by their own service-specific terms and privacy statements."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Bing.** If you are signed into Bing, you can view and clear your stored search history on your privacy dashboard. If you are not signed into Bing, you can view and clear stored search history associated to your device in your Bing settings."
+      ],
+      "new": [
+        "- **Bing.** If you are signed into Bing, you can view and clear your stored search and chat history on your privacy dashboard. If you are not signed into Bing, you can view and clear stored search history associated to your device in your Bing settings."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "For users under the age specified by law in their jurisdiction - for example under 13 in the U.S. - certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services. We will not knowingly ask children under that age to provide more data than is required to provide for the product."
+      ],
+      "new": [
+        "For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services. We will not knowingly ask children under that age to provide more data than is required to provide for the product."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "For users under the age specified by law in your jurisdiction, for example under 13 in the U.S., certain Microsoft products and services will either block users under that age or will ask them to provide consent or authorization from a parent or guardian before they can use it. We will not knowingly ask children under that age to provide more data than is required to provide for the product."
+      ],
+      "new": [
+        "For users under the age of 13 or as specified by law in their jurisdiction, certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services. We will not knowingly ask children under that age to provide more data than is required to provide for the product."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Parents or guardians can change or revoke the consent choices previously made. As the organizer of a Microsoft family group, the parent or guardian can manage a child’s information and settings on their Family Safety page and view and delete a child’s data on their privacy dashboard. Select Learn more below for more information about how to access and delete child data."
+      ],
+      "new": [
+        "Parents or guardians can change or revoke the consent choices previously made. As the organizer of a Microsoft family group, the parent or guardian can manage a child’s information and settings on their Family Safety page and view and delete a child’s data on their privacy dashboard. See below for more information about how to access and delete child data."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Accessing and deleting child data.** Where parental consent is required, a parent can view and delete certain data belonging to their child from the parent’s privacy dashboard: browsing history, search history, location activity, media activity, apps and service activity, and product and service performance data. To delete this data, a parent can sign in to their privacy dashboard and manage their child’s activities. Please note that a parent’s ability to access and/or delete a child’s personal information on their privacy dashboard will vary depending on the laws where you are located."
+      ],
+      "new": [
+        "**Accessing and deleting child data.** For Microsoft products and services that require parental consent, a parent can view and delete certain data belonging to their child from the parent’s privacy dashboard: browsing history, search history, location activity, media activity, apps and service activity, and product and service performance data. To delete this data, a parent can sign in to their privacy dashboard and manage their child’s activities. Please note that a parent’s ability to access and/or delete a child’s personal information on their privacy dashboard will vary depending on the laws where you are located."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Data we collect when you create an Xbox profile**. You as the parent or guardian are required to consent to the collection of personal data from a child under 13 years old. With your permission, your child can have an Xbox profile and use the online Xbox network. During the child Xbox profile creation, you will sign in with your own Microsoft account to verify that you are an adult organizer in your Microsoft family group. We collect an alternate email address or phone number to boost account security. If your child needs help accessing their account, they will be able to use one of these alternates to validate they own the Microsoft account."
+      ],
+      "new": [
+        "**Data we collect when you create an Xbox profile**. You as the parent or guardian are required to consent to the collection of personal data from a child under 13 years old or as otherwise specified by your jurisdiction. With your permission, your child can have an Xbox profile and use the online Xbox network. During the child Xbox profile creation, you will sign in with your own Microsoft account to verify that you are an adult organizer in your Microsoft family group. We collect an alternate email address or phone number to boost account security. If your child needs help accessing their account, they will be able to use one of these alternates to validate they own the Microsoft account."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Microsoft Corporation complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and Switzerland to the United States, although Microsoft does not rely on the EU-U.S. Privacy Shield Framework as a legal basis for transfers of personal data in light of the judgment of the Court of Justice of the EU in Case C-311/18. Microsoft Corporation has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If third-party agents process personal data on our behalf in a manner inconsistent with the principles of either Privacy Shield framework, we remain liable unless we prove we are not responsible for the event giving rise to the damage. The controlled U.S. subsidiaries of Microsoft Corporation, as identified in our self-certification submission, also adhere to the Privacy Shield Principles—for more info, see the list of Microsoft U.S. entities or subsidiaries adhering to the Privacy Shield Principles.",
+        "If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, visit the Privacy Shield website.",
+        "If you have a question or complaint related to participation by Microsoft in the EU-U.S. or Swiss-U.S. Privacy Shield, we encourage you to contact us via our web form. For any complaints related to the Privacy Shield frameworks that Microsoft cannot resolve directly, we have chosen to cooperate with the relevant EU Data Protection Authority, or a panel established by the European data protection authorities, for resolving disputes with EU individuals, and with the Swiss Federal Data Protection and Information Commissioner (FDPIC) for resolving disputes with Swiss individuals. Please contact us if you’d like us to direct you to your data protection authority contacts. As further explained in the Privacy Shield Principles, binding arbitration is available to address residual complaints not resolved by other means. Microsoft is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).",
+        "Individuals whose personal data is protected by Japan's Act on the Protection of Personal Information should refer to the article on the Japanese Personal Information Protection Commission’s website (only published in Japanese) for more information on the Commission’s review of certain countries’ personal data protection systems."
+      ],
+      "new": [
+        "Microsoft Corporation complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Microsoft Corporation has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Microsoft Corporation has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy statement and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit the U.S. Department of Commerce’s Data Privacy Framework website. The controlled U.S. subsidiaries of Microsoft Corporation, as identified in our self-certification submission, also adhere to the DPF Principles—for more info, see the list of Microsoft U.S. entities or subsidiaries adhering to the DPF Principles.",
+        "If you have a question or complaint related to participation by Microsoft in the DPF Frameworks, we encourage you to contact us via our web form. For any complaints related to the DPF Frameworks that Microsoft cannot resolve directly, we have chosen to cooperate with the relevant EU Data Protection Authority, or a panel established by the European data protection authorities, for resolving disputes with EU individuals, the UK Information Commissioner (for UK individuals), and the Swiss Federal Data Protection and Information Commissioner (FDPIC) for resolving disputes with Swiss individuals. Please contact us if you’d like us to direct you to your data protection authority contacts. As further explained in the DPF Principles, binding arbitration is available to address residual complaints not resolved by other means. Microsoft is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).",
+        "Individuals whose personal data is protected by Japan's Act on the Protection of Personal Information should refer to the article on the Japanese Personal Information Protection Commission’s website (only published in Japanese) for more information on the commission’s review of certain countries’ personal data protection systems."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Microsoft leverages the power of artificial intelligence (AI) in many of our products and services, including by incorporating generative AI features. Microsoft’s development and use of AI is subject to Microsoft’s AI Principles and Microsoft’s Responsible AI Standard, and the collection and use of personal data in developing and deploying AI features is consistent with the commitments outlined in this privacy statement. Product-specific details provide additional relevant information. You can find out more about how Microsoft uses AI here."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If you would like to exercise your rights under applicable U.S. state data privacy law, you may contact Microsoft at the address above, use our web form, or call our US toll free number +1 (844) 931 2038."
+      ],
+      "new": [
+        "If you would like to exercise your rights under applicable U.S. state data privacy law, you may contact Microsoft at the address above, use our web form, or call our U.S. toll free number +1 (844) 931 2038."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "We offer various means for you to control your personal data that Microsoft has obtained, and to exercise your data protection rights. You can do so by contacting Microsoft at our web form or the information above, or by using the various tools we provide. Please see the How to access and control your personal data section for additional details."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**AI-powered Bing search**. Bing search now includes an AI-enhanced web search functionality, Bing Chat, which supports users by providing relevant search results, reviewing and summarizing from across the web, refining research queries through the chat experience, and sparking creativity by helping users create content. Bing Chat’s use and collection of personal data is consistent with Bing’s core web search offering as described in this section. More information about the new Bing experience is available at The New Bing: Our approach to Responsible AI."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Managing search history**. When you’re signed-in to a personal Microsoft account, you can erase your search history on the Microsoft privacy dashboard. The Search History service from Bing, located in Bing Settings, provides another method of revisiting the search terms you've entered and results you've clicked when using Bing search through your browser. You may clear your search history on a device through this service. Clearing your history prevents that history from being displayed on the Search History site, but does not delete information from our search logs, which are retained and de-identified as described above or as you have instructed through the privacy dashboard. If you are signed-in to a work or school Microsoft account using Microsoft Search in Bing, you can export your Microsoft Search in Bing search history, but you cannot delete it. Your Microsoft Search in Bing service administrator can see aggregated search history across all enterprise users but cannot see specific searches by user."
+      ],
+      "new": [
+        "**Managing search history**. When you’re signed-in to a personal Microsoft account, you can erase your search and chat history on the Microsoft privacy dashboard. The Search History service from Bing, located in Bing Settings, provides another method of revisiting the search terms you've entered and results you've clicked when using Bing search through your browser. You may clear your search history on a device through this service. The conversations you have with Bing chat are also remembered as “Recent activity”. The history of previous Recent activities is saved, with the names of chats based by default on the first query of the chat. Your Recent activity is displayed on the right-hand side of the chat window when you are using the service. Clearing your history prevents that history from being displayed in your Search History or chat history, but does not delete information from our search logs, which are retained and de-identified as described above or as you have instructed through the privacy dashboard. If you are signed-in to a work or school Microsoft account using Microsoft Search in Bing, you can export your Microsoft Search in Bing search history, but you cannot delete it. Your Microsoft Search in Bing service administrator can see aggregated search history across all enterprise users but cannot see specific searches by user. However, if you are using Bing Chat for Enterprise while signed-in to a work or school Microsoft account, your Bing Chat for Enterprise conversations will not be saved or stored."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You may also choose to share your Microsoft Edge browsing activity to allow us to personalize Microsoft Edge and Microsoft services like ads, search, shopping, and news. Microsoft Edge browsing activity includes your history, favorites, usage data, and other browsing data. For more information about our **advertising privacy policies** see the Advertising section of the privacy statement. In the Microsoft privacy dashboard you can control the use of your browsing activity for personalized ads in the **See ads that interest you** setting. If you disable this setting in the Microsoft privacy dashboard you will continue to receive personalized web experiences like search and news based on your browsing activity if you have **Allow Microsoft to use your browsing activity including history, favorites, usage and other browsing data to personalize Microsoft Edge and Microsoft services like ads, search, shopping and news** turned on in Microsoft Edge settings. You may disable this browser setting in Microsoft Edge at any time to stop receiving personalized web experiences based on your browsing activity."
+      ],
+      "new": [
+        "You may also choose to share your Microsoft Edge browsing activity to allow us to personalize Microsoft Edge and Microsoft services like ads, search, shopping, and news. Microsoft Edge browsing activity includes your history, favorites, usage data, web content, and other browsing data. For more information about our **advertising privacy policies** see the Advertising section of the privacy statement. In the Microsoft privacy dashboard you can control the use of your browsing activity for personalized ads in the **See ads that interest you** setting. If you disable this setting in the Microsoft privacy dashboard you will continue to receive personalized web experiences like search and news based on your browsing activity. You may stop sharing your Microsoft Edge browsing activity by disabling **Allow Microsoft to use your browsing activity including history, favorites, usage and other browsing data to personalize Microsoft Edge and Microsoft services like ads, search, shopping and news** within Edge settings. When using Bing chat features in the Microsoft Edge sidebar, you can choose to allow Bing to access the content of the webpage you are viewing in order to provide further insights, such as page summaries. Use of data connected with Bing conversational experiences is described in the Bing section of this privacy statement."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Microsoft Defender SmartScreen helps protect you when using our services by identifying threats to you, your device, and your passwords. These threats might include potentially unsafe apps or web content that Microsoft Defender SmartScreen discovers while checking websites you visit, files you download, and apps you install and run. When Microsoft Defender SmartScreen checks web content, data about the content and your device is sent to Microsoft, including the full web address of the content. If Microsoft Defender SmartScreen detects that content is potentially unsafe, you will see a warning in place of the content. Microsoft Defender SmartScreen can be turned on or off in the Windows Security app."
+      ],
+      "new": [
+        "Microsoft Defender SmartScreen helps protect you when using our services by identifying threats to you, your device, and your passwords. These threats might include potentially unsafe apps or web content that Microsoft Defender SmartScreen discovers while checking websites you visit, files you download, and apps you install and run. When Microsoft Defender SmartScreen checks web and app content, data about the content and your device is sent to Microsoft, including the full web address of the content. When additional analysis is needed to identify security threats, information about the suspicious website or app—such as content displayed, sounds played, and application memory—may be sent to Microsoft. This data will only be used for security purposes in detecting, protecting against, and responding to security incidents, identity theft, fraud, or other malicious, deceptive, or illegal activities. If Microsoft Defender SmartScreen detects that content is potentially unsafe, you will see a warning in place of the content. Microsoft Defender SmartScreen can be turned on or off in the Windows Security app."
+      ]
+    }
+  ]
+}

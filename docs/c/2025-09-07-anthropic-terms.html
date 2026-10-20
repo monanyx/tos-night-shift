@@ -1,0 +1,339 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Anthropic (Claude) rewrote its Terms of Service — new wording on AI training and how long they keep your data · ToS Night Shift</title>
+<meta name="description" content="463 words added and 79 removed across 15 sections. New wording touches: AI training, How long they keep it. Read the receipts below — this summary is automatic, not AI.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Anthropic (Claude) rewrote its Terms of Service — new wording on AI training and how long they keep your data · ToS Night Shift">
+<meta property="og:description" content="463 words added and 79 removed across 15 sections. New wording touches: AI training, How long they keep it. Read the receipts below — this summary is automatic, not AI.">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#09090d">
+<link rel="alternate" type="application/rss+xml" title="ToS Night Shift" href="../feed.xml">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👀</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,800&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#09090d; --panel:#111118; --panel-2:#16161f; --line:#24242f; --text:#ececf2; --muted:#8a8a99;
+  --acid:#c6ff2e; --red:#ff4d6d; --green:#38d996; --amber:#ffb020;
+  --del:rgba(255,77,109,.16); --ins:rgba(56,217,150,.16);
+  --display:"Bricolage Grotesque",system-ui,sans-serif; --body:"Instrument Sans",system-ui,sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,monospace;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 var(--body);
+  background-image:radial-gradient(1200px 500px at 85% -10%,rgba(198,255,46,.07),transparent 60%);}
+a{color:inherit}
+.wrap{max-width:920px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.demo-bar{background:var(--acid);color:#0b0d04;font:600 13px/1.4 var(--body);text-align:center;padding-block:8px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+nav.top{display:flex;align-items:center;justify-content:space-between;padding:20px 0;gap:12px;flex-wrap:wrap}
+.logo{font:800 18px/1 var(--display);letter-spacing:-.02em;text-decoration:none;display:flex;gap:8px;align-items:center}
+.logo .moon{width:22px;height:22px;border-radius:50%;background:var(--acid);box-shadow:inset -7px -2px 0 0 var(--bg)}
+nav.top .links{display:flex;gap:18px;font-size:14px;color:var(--muted)}
+nav.top .links a{text-decoration:none}
+nav.top .links a:hover{color:var(--text)}
+h1,h2,h3{font-family:var(--display);letter-spacing:-.025em;line-height:1.05;margin:0}
+.muted{color:var(--muted)}
+.mono{font-family:var(--mono)}
+.meter{display:inline-flex;align-items:center;gap:8px;font:500 12px/1 var(--mono);text-transform:uppercase;letter-spacing:.06em;
+  padding:6px 10px;border:1px solid var(--line);border-radius:999px;background:var(--panel-2);white-space:nowrap}
+.meter .dots{display:inline-flex;gap:3px}
+.meter .dots i{width:8px;height:8px;border-radius:50%;background:#2c2c38}
+.meter[data-score="2"] .dots i.on{background:var(--amber)}
+.meter[data-score="3"] .dots i.on{background:#ff8a3d}
+.meter[data-score="4"] .dots i.on,.meter[data-score="5"] .dots i.on{background:var(--red)}
+.meter[data-score="0"] .dots i.on,.meter[data-score="1"] .dots i.on{background:var(--muted)}
+.meter[data-score="5"]{border-color:rgba(255,77,109,.5);box-shadow:0 0 18px rgba(255,77,109,.25)}
+.tag{display:inline-block;font:500 12px/1 var(--mono);padding:5px 8px;border-radius:6px;background:var(--panel-2);border:1px solid var(--line);color:var(--muted)}
+.receipt{margin:14px 0 0;padding:12px 14px;border-left:3px solid var(--acid);background:rgba(198,255,46,.05);
+  font:14px/1.55 var(--mono);color:#dfe8c8;border-radius:0 8px 8px 0;overflow-wrap:anywhere}
+.receipt.old{border-left-color:var(--red);background:var(--del);color:#f3c9d1}
+.receipt .label{display:block;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+footer{margin:72px 0 40px;padding-top:24px;border-top:1px solid var(--line);font-size:14px;color:var(--muted);display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between}
+footer a{color:var(--muted)}
+.btn{display:inline-flex;align-items:center;gap:6px;font:600 14px/1 var(--body);padding:10px 14px;border-radius:10px;
+  border:1px solid var(--line);background:var(--panel);color:var(--text);text-decoration:none;cursor:pointer}
+.btn:hover{border-color:#3a3a48}
+.btn.primary{background:var(--acid);color:#0b0d04;border-color:var(--acid)}
+@media (max-width:600px){ nav.top .links{gap:14px} }
+
+.back{display:inline-block;margin:24px 0 28px;color:var(--muted);text-decoration:none;font-size:14px}
+.back:hover{color:var(--text)}
+.meta{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;color:var(--muted);font-size:14px}
+.meta b{color:var(--text);font-weight:600}
+h1.headline{font-size:clamp(32px,6vw,56px);font-weight:800;margin:18px 0 18px}
+.summary{font-size:19px;color:#d0d0da;max-width:720px;margin:0}
+.big-receipt{font-size:16px;margin-top:24px}
+.actions{display:flex;flex-wrap:wrap;gap:10px;margin:28px 0 8px}
+h2.section{font-size:26px;margin:56px 0 6px}
+.hint{color:var(--muted);font-size:14px;margin:0 0 18px}
+.block{border:1px solid var(--line);border-radius:12px;overflow:hidden;margin-bottom:14px;background:var(--panel)}
+.block .kind{font:500 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:10px 14px;border-bottom:1px solid var(--line);color:var(--muted);background:var(--panel-2)}
+.row{padding:12px 14px;font:14px/1.6 var(--mono);overflow-wrap:anywhere;border-top:1px solid var(--line)}
+.row:first-of-type{border-top:0}
+.row .line{display:block;padding:2px 0 2px 22px;position:relative}
+.row .line::before{position:absolute;left:0;top:2px;font-weight:700}
+.row .old{color:#c9a3ad}
+.row .old::before{content:"−";color:var(--red)}
+.row .new{color:#d8efe3}
+.row .new::before{content:"+";color:var(--green)}
+.row .solo-old{background:var(--del);border-radius:6px;padding-right:6px}
+.row .solo-new{background:var(--ins);border-radius:6px;padding-right:6px}
+del{background:var(--del);color:#ff9fb1;text-decoration:line-through;text-decoration-color:rgba(255,77,109,.7);border-radius:3px;padding:0 2px}
+ins{background:var(--ins);color:#8ff0c4;text-decoration:none;border-radius:3px;padding:0 2px}
+.statline{font:13px/1 var(--mono);color:var(--muted);margin-top:14px}
+.source-note{font-size:13px;color:var(--muted);margin-top:10px}
+
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <nav class="top">
+    <a class="logo" href="../index.html"><span class="moon"></span>ToS Night Shift</a>
+    <div class="links">
+      <a href="../index.html">Caught</a>
+      <a href="../watched.html">Watching</a>
+      <a href="../feed.xml">RSS</a>
+      <a href="https://github.com/monanyx/tos-night-shift">GitHub</a>
+    </div>
+  </nav>
+  
+<a class="back" href="../index.html">← All changes</a>
+<div class="meta">
+  <span><b>Anthropic (Claude)</b> · Terms of Service · changed between Jul 8, 2025 and Sep 7, 2025, found in the Internet Archive</span>
+  <span class="meter" data-score="4" title="Side-eye 4 out of 5">side-eye <span class="dots"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class=""></i></span> 4/5</span>
+</div>
+<h1 class="headline">Anthropic (Claude) rewrote its Terms of Service — new wording on AI training and how long they keep your data</h1>
+<p class="summary">463 words added and 79 removed across 15 sections. New wording touches: AI training, How long they keep it. Read the receipts below — this summary is automatic, not AI.</p>
+<blockquote class="receipt big-receipt "><span class="label">New wording</span>“**Our use of Materials.** We may use Materials to provide, maintain, and improve the Services and to develop other products and services, including training our models, unless you opt out of training through your account settings.”</blockquote>
+<p class="statline">+463 words · −79 words · 15 sections touched</p>
+<p class="source-note">Automatic keyword summary. The diff below is the source of truth.</p>
+
+<div class="actions">
+  <a class="btn primary" href="https://twitter.com/intent/tweet?text=%F0%9F%91%80%20Anthropic%20%28Claude%29%20rewrote%20its%20Terms%20of%20Service%20%E2%80%94%20new%20wording%20on%20AI%20training%20and%20how%20long%20they%20keep%20your%20data&url=https%3A//monanyx.github.io/tos-night-shift/c/2025-09-07-anthropic-terms.html" target="_blank" rel="noopener">Post the side-eye</a>
+  <button class="btn" id="copy">Copy link</button>
+  <a class="btn" href="https://www.anthropic.com/legal/consumer-terms" target="_blank" rel="noopener">Read the policy</a>
+  <a class="btn" href="https://web.archive.org/web/20250708090057/https://www.anthropic.com/legal/consumer-terms" target="_blank" rel="noopener">Archived before</a><a class="btn" href="https://web.archive.org/web/20250907103337/https://www.anthropic.com/legal/consumer-terms" target="_blank" rel="noopener">Archived after</a>
+  <a class="btn" href="https://github.com/monanyx/tos-night-shift/commits/main/snapshots/anthropic/terms.md" target="_blank" rel="noopener">Full history</a>
+</div>
+
+<h2 class="section">The receipts</h2>
+<p class="hint">Exactly what changed between the two archived copies. Red is gone, green is new.</p>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">Note: This policy is effective on September 28, 2025 or the date you acknowledge these updated Terms within our Services (if earlier).</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>###</del> 1. Who we are.</span>
+    <span class="line new "><ins>##</ins> 1. Who we are.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>###</del> 2. Account creation and access.</span>
+    <span class="line new "><ins>##</ins> 2. Account creation and access.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>###</del> 3. Use of our Services.</span>
+    <span class="line new "><ins>##</ins> 3. Use of our Services.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">9. To rely upon the Services, the Materials, or the Actions to buy or sell securities or to provide or receive advice about securities, commodities, derivatives, or other financial products or services, as Anthropic is not a broker-dealer or a registered investment adviser under the securities laws of the United States or any other jurisdiction.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>###</del> 4. Inputs, Outputs, Actions, and Materials.</span>
+    <span class="line new "><ins>##</ins> 4. Inputs, Outputs, Actions, and Materials.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old solo-old">**Our use of Materials.** We may use Materials to provide, maintain, and improve the Services and to develop other products and services. We will not train our models on any Materials that are not publicly available, except in two circumstances:</span>
+    
+  </div>
+  
+  <div class="row">
+    <span class="line old solo-old">1. If you provide Feedback to us (through the Services or otherwise) regarding any Materials, we may use that Feedback in accordance with Section 5 (Feedback).</span>
+    
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>2. If</del> your Materials are flagged for <del>trust and</del> safety <del>review, we may use or analyze those Materials</del> to improve our ability to detect <del>and</del> enforce <del>Acceptable Use Policy violations, including training models for use by</del> our <del>trust and</del> safety <del>team, consistent with Anthropic’s safety mission.</del></span>
+    <span class="line new "><ins>**Our use of Materials.** We may use Materials to provide, maintain, and improve the Services and to develop other products and services, including training our models, unless you opt out of training through your account settings. Even if you opt out, we will use Materials for model training when: (1) you provide Feedback to us regarding any Materials, or (2)</ins> your Materials are flagged for safety <ins>review</ins> to improve our ability to detect <ins>harmful content,</ins> enforce our <ins>policies, or advance our</ins> safety <ins>research.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>###</del> 5. Feedback</span>
+    <span class="line new "><ins>##</ins> 5. Feedback</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>###</del> 6. Subscriptions, fees and payment.</span>
+    <span class="line new "><ins>##</ins> 6. Subscriptions, fees and payment.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">4. <del>**Subscription fees.** You will pay the fees, either to us</del> or <del>to the App Distributor, for the Initial Term and each subsequent Renewal Term up front, at the start of that Initial Term or Renewal Term, as applicable. We</del> have <del>the</del> right to <del>make changes to the fees applicable to</del> your <del>Subscription from time to time, although we will not make any change to the fees applicable to your Subscription during the current Initial Term or Renewal Term, as applicable. If these changes result in an increase in the fees payable by you, we will inform you at least 30 days in advance of the change. You agree to the increase in fees payable by you unless you</del> cancel the <del>Subscription, as described in</del> the <del>paragraph (Subscription cancellation) immediately above, before the Renewal Term to which the increase in fees will apply.</del></span>
+    <span class="line new ">4. <ins>**Additional cancellation rights.** If you are a resident of Brazil, Mexico, South Korea,</ins> or <ins>Taiwan, you</ins> have <ins>a legal</ins> right to <ins>change</ins> your <ins>mind and</ins> cancel the <ins>Subscription within 7 days of entering into</ins> the <ins>Subscription without giving a reason.</ins></span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">1. To exercise the right to cancel in the 7-day cancellation period, you must inform us of your decision to cancel the Subscription by making a clear statement to us of such decision before the cancellation period has expired. The easiest way to do this is by cancelling your subscription in the customer portal, or you may contact us at support@anthropic.com. You may also use the model cancellation form in Appendix 1 of these Terms, but it is not obligatory. For further details on how to cancel, please see support.anthropic.com. We will acknowledge your cancellation, e.g., through our online customer portal or console.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">2. If you cancel the Subscription under Section 6(4)(a), we will reimburse you all payments received from you for the cancelled Subscription. We will make the reimbursement without undue delay, and not later than 14 days after the day on which we are informed about your decision to cancel the Subscription. We will make the reimbursement using the same means of payment as you used for the initial transaction; you will not incur any fees as a result of the reimbursement.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">3. If you would like to use the Services during the 7-day cancellation period, you may do so. If you have used the Services during the 7-day cancellation period, and wish to cancel the Subscription, you can still do so by following the process in Section (4)(a) above, but we may retain an amount which is in proportion to what has been provided until you have communicated us your withdrawal from these Terms, in comparison with the full coverage of the Subscription.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">4. The 7-day cancellation period will not reset if you change subscription tiers or cancel and then resubscribe, as you have already had an opportunity to test the Services.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">5. **Subscription fees.** You will pay the fees, either to us or to the App Distributor, for the Initial Term and each subsequent Renewal Term up front, at the start of that Initial Term or Renewal Term, as applicable. We have the right to make changes to the fees applicable to your Subscription from time to time, although we will not make any change to the fees applicable to your Subscription during the current Initial Term or Renewal Term, as applicable. If these changes result in an increase in the fees payable by you, we will inform you at least 30 days in advance of the change. You agree to the increase in fees payable by you unless you cancel the Subscription, as described in the paragraph (Subscription cancellation) immediately above, before the Renewal Term to which the increase in fees will apply.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>###</del> 7. Third-party services and links</span>
+    <span class="line new "><ins>##</ins> 7. Third-party services and links</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>###</del> 8. Content Moderation</span>
+    <span class="line new "><ins>##</ins> 8. Content Moderation</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>###</del> 9. Software</span>
+    <span class="line new "><ins>##</ins> 9. Software</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>###</del> 10. Ownership of the Services</span>
+    <span class="line new "><ins>##</ins> 10. Ownership of the Services</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>###</del> 11. Disclaimer of warranties, limitations of liability, and indemnity</span>
+    <span class="line new "><ins>##</ins> 11. Disclaimer of warranties, limitations of liability, and indemnity</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>###</del> 12. General terms</span>
+    <span class="line new "><ins>##</ins> 12. General terms</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>###</del> 13. In case of disputes</span>
+    <span class="line new "><ins>##</ins> 13. In case of disputes</span>
+  </div>
+  
+</div>
+
+
+  <footer>
+    <span>Open source. Automatic. Not legal advice — just receipts.</span>
+    <span>45 policies watched · <a href="https://github.com/monanyx/tos-night-shift">Add one</a></span>
+  </footer>
+</div>
+
+<script>
+document.getElementById('copy').addEventListener('click', async e => {
+  try { await navigator.clipboard.writeText(location.href); e.target.textContent = 'Copied'; }
+  catch { e.target.textContent = 'Copy failed'; }
+});
+</script>
+
+</body>
+</html>

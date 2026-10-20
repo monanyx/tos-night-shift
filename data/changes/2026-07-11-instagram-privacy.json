@@ -1,0 +1,37 @@
+{
+  "id": "2026-07-11-instagram-privacy",
+  "service": "instagram",
+  "service_name": "Instagram",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://privacycenter.instagram.com/policy",
+  "detected_at": "2026-07-11T09:52:47+00:00",
+  "source": "wayback",
+  "window_start": "2025-12-23T09:09:36+00:00",
+  "archive_before": "https://web.archive.org/web/20251223090936/https://privacycenter.instagram.com/policy",
+  "archive_after": "https://web.archive.org/web/20260711095247/https://privacycenter.instagram.com/policy",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 0,
+    "removed_words": 13
+  },
+  "headline": "Instagram edited its Privacy Policy",
+  "summary": "0 words added and 13 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "removed",
+      "old": [
+        "We updated our Privacy Policy on December 16, 2025. View our previous policy."
+      ],
+      "new": []
+    }
+  ]
+}

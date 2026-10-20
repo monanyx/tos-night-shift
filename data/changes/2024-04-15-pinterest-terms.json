@@ -1,0 +1,156 @@
+{
+  "id": "2024-04-15-pinterest-terms",
+  "service": "pinterest",
+  "service_name": "Pinterest",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://policy.pinterest.com/en/terms-of-service",
+  "detected_at": "2024-04-15T00:26:39+00:00",
+  "source": "wayback",
+  "window_start": "2024-01-29T18:05:15+00:00",
+  "archive_before": "https://web.archive.org/web/20240129180515/https://policy.pinterest.com/en/terms-of-service",
+  "archive_after": "https://web.archive.org/web/20240415002639/https://policy.pinterest.com/en/terms-of-service",
+  "flags": [],
+  "stats": {
+    "hunks": 12,
+    "added_words": 197,
+    "removed_words": 119
+  },
+  "headline": "Pinterest edited its Terms of Service",
+  "summary": "197 words added and 119 removed across 12 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "If you are located in the EEA, UK, and Switzerland, you can view your current Terms of Service here.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "If you are located in the EEA, UK, and Switzerland, you can view your current Terms of Service here. The Terms of Service below will be effective for the EEA, UK, and Switzerland on April 30, 2024."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Any use or access to Pinterest by anyone under the age of 13 is not allowed. If you are older than 13, you can use Pinterest if you are over the minimum age of consent in your country. If you are 13 to 18, you may only use the Services with the permission of your parent or legal guardian. Please be sure your parent or legal guardian has reviewed and discussed these Terms with you."
+      ],
+      "new": [
+        "Any use or access to Pinterest by anyone under the age of 13 is not allowed. If you are older than 13, you can use Pinterest if you are over the minimum age of consent in your country. If you are 13 to 18, you may only use the Service with the permission of your parent or legal guardian. Please be sure your parent or legal guardian has reviewed and discussed these Terms with you."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You may not permit Pinterest to be used by or for the benefit of unauthorized third parties. Nothing in these Terms will be construed to grant you any right to transfer or assign rights to access or use Pinterest. All rights not expressly granted to you are reserved by us and our licensors. Except as described in Section 3(b), you may not: (i) modify or make derivative works based upon the Service; (ii) reverse engineer the Service or access the Service or (iii) copy any features or functions of the Service."
+      ],
+      "new": [
+        "You may not permit Pinterest to be used by or for the benefit of unauthorized third parties. Nothing in these Terms will be construed to grant you any right to transfer or assign rights to access or use Pinterest. All rights not expressly granted to you are reserved by us and our licensors. Except as described in Section 3(b), you may not: (i) modify or make derivative works based upon the Service; (ii) reverse engineer the Service; or (iii) copy any features or functions of the Service."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You will only post User Content that you have the rights to post, and you won’t post User Content that infringes the intellectual property rights of others (e.g., copyright infringement, trademark infringement or counterfeit), or that is otherwise unlawful, unless an exception or limitation applies under applicable law. We can take action against User Content that violates these Terms or our policies or where we are permitted or required by law, such as by removing, restricting, or limiting access to, or distribution of, the content. We can also suspend or terminate accounts of users who repeatedly or seriously infringe third-party intellectual property rights, violate the law, these Terms, or our policies, or where permitted or required to do so by law. We are a neutral intermediary and we do not review all User Content before or after it is published on the Service, so we are not responsible or liable to any third party for the content or accuracy of any User Content posted by you or any other Pinterest user. For more information about how we enforce our policies or otherwise take action on content on Pinterest, see our Enforcement page.",
+        "If you post your Content on Pinterest, it still belongs to you. In using Pinterest, you agree to only post User Content that follows these Terms and our policies, is lawful and doesn’t violate anyone else’s rights. If you post User Content that is infringing, illegal, or violates our Terms or policies, we can take action against the User Content and, where appropriate, your account.",
+        "By providing any User Content on the Service, you grant us and our affiliates and service providers, and our users, a non-exclusive, royalty-free, transferable, sublicensable, worldwide license to use, store, publicly perform or display, reproduce, save, modify, create derivative works, monetize, download, translate and distribute your User Content, including for the purpose of promoting and redistributing part or all of the Pinterest Service. Nothing in these Terms: (i) entitles you to any payments or the right to share in any revenue from any monetization of User Content; or (ii) restricts other legal rights we may have to User Content, for example under other licenses. We reserve the right to remove, limit distribution of, or modify User Content, or change the way it’s used in Pinterest, for any reason in our sole discretion, and without notice. This not only includes User Content that we believe violates these Terms, but also our Community Guidelines, our Copyright Policy, our Trademark Policy or any of our other policies, or other circumstances where we feel such action is in the best interest of Pinterest or our Users. Where appropriate, you may appeal the decisions you think were made in error.",
+        "Content recommendations on Pinterest are made based on a combination of factors. Your recommendations are mainly influenced by how you engage with our service, the topics we think you’re interested in and how interested you are in them, and what other users who share your similar characteristics and interests like. The relative importance of these criteria is influenced by how you engage with our service, including how often you engage, your saves, and your hides."
+      ],
+      "new": [
+        "You will only post User Content that you have the rights to post, and you won’t post User Content that infringes the intellectual property rights of others (e.g., copyright infringement, trademark infringement or counterfeit), or that is otherwise unlawful, unless an exception or limitation applies under applicable law. We can take action against User Content that violates these Terms or our policies or where we are permitted or required by law, such as by removing, restricting, or limiting access to, or distribution of, the content. We can also suspend or terminate accounts of users who repeatedly or seriously infringe third-party intellectual property rights, violate the law, these Terms, or our policies, or where permitted or required to do so by law. We are a neutral intermediary and we do not review all User Content before or after it is published on the Service, so we are not responsible or liable to any third party for the content or accuracy of any User Content posted by you or any other Pinterest user. For more information about how we enforce our policies or otherwise take action on content on Pinterest, see our Enforcement page. Where appropriate, you may appeal the decisions you think were made in error. You may have a right under local law to bring a claim for breach of contract if you believe we have breached these Terms by removing, restricting or limiting access to, or distribution of, your User Content, or suspending or terminating your account. Pinterest cannot provide you with legal advice.",
+        "If you post your Content on Pinterest, it still belongs to you. In using Pinterest, you agree to only post User Content that follows these Terms and our policies, is lawful and doesn’t violate anyone else’s rights. If you post User Content that is infringing, illegal, or violates our Terms or policies, we can take action against the User Content and, where appropriate, your account. Where appropriate, you can appeal those actions.",
+        "By providing any User Content on the Service, you grant us and our affiliates and service providers, and our users, a non-exclusive, royalty-free, transferable, sublicensable, worldwide license to use, store, publicly perform or display, reproduce, save, modify, create derivative works, monetize, download, translate and distribute your User Content, including for the purpose of promoting and redistributing part or all of the Pinterest Service. Nothing in these Terms: (i) entitles you to any payments or the right to share in any revenue from any monetization of User Content; or (ii) restricts other legal rights we may have to User Content, for example under other licenses. We reserve the right to remove, limit distribution of, or modify User Content, or change the way it’s used in Pinterest. This not only includes User Content that we believe violates these Terms, but also our Community Guidelines, our Copyright Policy, our Trademark Policy or any of our other policies, or other circumstances where we feel such action is in the best interest of Pinterest or our Users.",
+        "Content recommendations on Pinterest are made based on a combination of factors. Your recommendations are mainly influenced by how you engage with our Service, the topics we think you’re interested in and how interested you are in them, and what other users who share your similar characteristics and interests like. The relative importance of these criteria is influenced by how you engage with our Service, including how often you engage, your saves, and your hides."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If you post your User Content on Pinterest, we can show it to people and others can use it and save it. Pinterest shows content to users based on a combination of factors, focusing on what we think you will find interesting. When content violates these Terms, we can take action on that content and, where appropriate, you can appeal those actions."
+      ],
+      "new": [
+        "If you post your User Content on Pinterest, we can show it to people and others can use it and save it. Pinterest shows content to users based on a combination of factors, focusing on what we think you will find interesting. When content violates these Terms, we can take action on that content."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We may terminate or suspend your right to access or use Pinterest for any violation of these Terms. Where required by law, we will provide you with written notice. You may also terminate or delete your account at any time. You can learn how to delete your account in our Help Center."
+      ],
+      "new": [
+        "We may terminate or suspend your right to access or use Pinterest for any violation of these Terms. Where appropriate, we will provide you with written notice and you may appeal a decision you think was made in error. For more information about how we enforce our policies or otherwise take action on content on Pinterest, see our Enforcement page.",
+        "You may also terminate or delete your account at any time. You can learn how to delete your account in our Help Center."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Pinterest is provided to you for free. We reserve the right to refuse service to anyone and will provide notice of termination where required by law."
+      ],
+      "new": [
+        "Pinterest is provided to you for free. We reserve the right to refuse service to anyone and will provide notice of termination where appropriate."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| To the extent permitted by applicable law, the service and all content on Pinterest is provided on an \"as is\" basis without warranty of any kind, whether express or implied. Pinterest specifically disclaims any and all warranties and conditions of merchantability, fitness for a particular purpose, and non-infringement, and any warranties arising out of course of dealing or usage of trade. Pinterest takes no responsibility and assumes no liability for any user content that you or any other person or third party posts or sends using the service. You understand and agree that you may be exposed to user content that's inaccurate, objectionable, inappropriate for children, or otherwise unsuited to your purpose. We do not warrant that Pinterest or any portion of the service, or any materials or content offered through Pinterest, are accurate, complete, or current, or will be uninterrupted, secure, or free of errors, viruses, or other harmful components. We may make changes to Pinterest for various reasons. We will have no liability for any change to Pinterest or any suspension or termination of your access to, or use of Pinterest. The limitations, exclusions, and disclaimers in this section apply to the fullest extent permitted by applicable law. If you're a consumer in the European Economic Area (EEA) or the United Kingdom (UK), we don't exclude or limit any liability for gross negligence, intent, or death or personal injury caused by our negligence or willful misconduct. |",
+        "We work every day to improve our service, and we hope you love it. We may make changes to Pinterest from time to time and for various reasons - including adding, removing or changing features and how our services work. But services like Pinterest aren't perfect, and you agree to use ours 'as is,' without warranties.",
+        "| To the maximum extent permitted by law, we shall not be liable for any indirect, incidental, special, consequential or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from (a) your access to or use of or inability to access or use the service; (b) any conduct or content of any third party on the service, including without limitation, any defamatory, offensive or illegal conduct of other users or third parties; or (c) unauthorized access, use or alteration of your transmissions or content. In no event shall our aggregate liability for all claims relating to the service exceed one hundred U.S. dollars (U.S. $100.00). The foregoing does not affect any liability that cannot be excluded or limited under applicable law. If we cause damage to you and you're a consumer in the EEA or UK, the above doesn't apply. Instead, Pinterest's liability will be limited to foreseeable damages arising due to a breach of material contractual obligations typical for this type of contract. Pinterest isn't liable for damages that result from a non-material breach of any other applicable duty of care. This limitation of liability won't apply to any statutory liability that cannot be limited, to liability for death or personal injury caused by our negligence or willful misconduct, or to exclude our responsibility for something we have specifically promised to you. |",
+        "We are building the best service we can, but it won't always be perfect. We're not liable for various losses or damages.",
+        "If you are a consumer in the EEA or United Kingdom (UK), Section 11 doesn't apply to you for disputes initiated after the effective date of these Terms.",
+        "For any dispute you have with us, you agree to first contact us and try to resolve the dispute informally. Neither party may initiate any legal proceeding—whether in court, arbitration, or any other forum—until the Notice of Dispute and Informal Dispute Resolution processes described below are completed. Nothing in this Section, however, will prevent either you or us from seeking temporary injunctive relief in court (or in arbitration) to preserve the status quo or to help enforce this arbitration clause at the outset of any dispute."
+      ],
+      "new": [
+        "| To the extent permitted by applicable law, the Service and all content on Pinterest is provided on an \"as is\" basis without warranty of any kind, whether express or implied. Pinterest specifically disclaims any and all warranties and conditions of merchantability, fitness for a particular purpose, and non-infringement, and any warranties arising out of course of dealing or usage of trade. Pinterest takes no responsibility and assumes no liability for any User Content that you or any other person or third party posts or sends using the Service. You understand and agree that you may be exposed to User Content that's inaccurate, objectionable, inappropriate for children, or otherwise unsuited to your purpose. We do not warrant that Pinterest or any portion of the Service, or any materials or content offered through Pinterest, are accurate, complete, or current, or will be uninterrupted, secure, or free of errors, viruses, or other harmful components. We may make changes to Pinterest for various reasons. We will have no liability for any change to Pinterest or any suspension or termination of your access to, or use of Pinterest. The limitations, exclusions, and disclaimers in this section apply to the fullest extent permitted by applicable law. |",
+        "We work every day to improve our Service, and we hope you love it. We may make changes to Pinterest from time to time and for various reasons - including adding, removing or changing features and how our Service works. But services like Pinterest aren't perfect, and you agree to use ours 'as is,' without warranties.",
+        "| To the maximum extent permitted by law, we shall not be liable for any indirect, incidental, special, consequential or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from (a) your access to or use of or inability to access or use the Service; (b) any conduct or content of any third party on the Service, including without limitation, any defamatory, offensive or illegal conduct of other users or third parties; or (c) unauthorized access, use or alteration of your transmissions or content. In no event shall our aggregate liability for all claims relating to the Service exceed one hundred U.S. dollars (U.S. $100.00). The foregoing does not affect any liability that cannot be excluded or limited under applicable law. If we cause damage to you and you're a consumer in the EEA or UK, the above doesn't apply. Instead, Pinterest's liability will be limited to foreseeable damages arising due to a breach of material contractual obligations typical for this type of contract. Pinterest isn't liable for damages that result from a non-material breach of any other applicable duty of care. This limitation of liability won't apply to any statutory liability that cannot be limited, to liability for death or personal injury caused by our negligence or willful misconduct, or to exclude our responsibility for something we have specifically promised to you. |",
+        "We are building the best Service we can, but it won't always be perfect. We're not liable for various losses or damages.",
+        "If you are a consumer in the EEA or United Kingdom (UK), Section 11 doesn't apply to you.",
+        "For any dispute you have with us, you agree to first contact us and try to resolve the dispute informally. To the extent permitted by law, neither party may initiate any legal proceeding—whether in court, arbitration, or any other forum—until the Notice of Dispute and Informal Dispute Resolution processes described below are completed. Nothing in this Section, however, will prevent either you or us from seeking temporary injunctive relief in court (or in arbitration) to preserve the status quo or to help enforce this arbitration clause at the outset of any dispute."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "All disputes must be brought in the party's individual capacity, and not as a member in any class or representative proceeding. You agree that, by entering into these terms, you are waiving the right to a trial by jury or to participate in a class action.",
+        "Nothing in these terms shall affect any non-waivable statutory rights that apply to you. To the extent any dispute isn’t arbitrable under applicable laws or otherwise, you agree that the dispute will be resolved exclusively in accordance with Section 12 of these Terms."
+      ],
+      "new": [
+        "All disputes must be brought in the party's individual capacity, and not as a member in any class or representative proceeding. You agree that, by entering into these Terms, you are waiving the right to a trial by jury or to participate in a class action.",
+        "Nothing in these Terms shall affect any non-waivable statutory rights that apply to you. To the extent any dispute isn’t arbitrable under applicable laws or otherwise, you agree that the dispute will be resolved exclusively in accordance with Section 12 of these Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "In all other cases, these Terms and your use of the Service shall be governed by the laws of the State of California, without respect to its conflict of laws principles. For any actions not subject to Section 11 (Arbitration), the exclusive place of jurisdiction for any claim, dispute, or controversy arising from or in connection with these Terms is San Francisco County, California, or the United States District Court for the Northern District of California, and such disputes will be determined under California law."
+      ],
+      "new": [
+        "In all other cases, these Terms and your use of the Service shall be governed by the laws of the State of California, without respect to its conflict of laws principles. For any actions not subject to Section 11 (Arbitration), the exclusive place of jurisdiction for any claim, dispute, or controversy arising from or in connection with these Terms or the Service is San Francisco County, California, or the United States District Court for the Northern District of California, and such disputes will be determined under California law."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If we're making a material change to the terms, we'll let you know ahead of time. If you don’t agree with the new terms, please stop using Pinterest."
+      ],
+      "new": [
+        "If we're making a material change to the Terms, we'll let you know ahead of time. If you don’t agree with the new Terms, please stop using Pinterest."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Effective August 1, 2023"
+      ],
+      "new": [
+        "Effective Date outside EEA, UK, and Switzerland: March 13, 2024",
+        "Effective Date in EEA, UK, and Switzerland: April 30, 2024"
+      ]
+    }
+  ]
+}

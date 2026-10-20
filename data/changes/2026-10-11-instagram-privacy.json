@@ -1,0 +1,329 @@
+{
+  "id": "2026-10-11-instagram-privacy",
+  "service": "instagram",
+  "service_name": "Instagram",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://privacycenter.instagram.com/policy",
+  "detected_at": "2026-10-11T13:40:11+00:00",
+  "source": "wayback",
+  "window_start": "2026-07-11T09:52:47+00:00",
+  "archive_before": "https://web.archive.org/web/20260711095247/https://privacycenter.instagram.com/policy/",
+  "archive_after": "https://web.archive.org/web/20261011134011/https://privacycenter.instagram.com/policy/",
+  "flags": [],
+  "stats": {
+    "hunks": 27,
+    "added_words": 224,
+    "removed_words": 296
+  },
+  "headline": "Instagram edited its Privacy Policy",
+  "summary": "224 words added and 296 removed across 27 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Effective July 23, 2026 | View printable version | See previous versions",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Effective December 16, 2025 | View printable version | See previous versions"
+      ],
+      "new": [
+        "Effective July 23, 2026 | View printable version | See previous versions",
+        "Read the United States Regional Privacy Notice for more details about how we handle Personal Information and how to exercise your rights."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "The information we collect and process about you depends on how you use our Products. For example, we collect different information if you sell furniture on Marketplace than if you ask AI at Meta to write a joke for you. When you use our Products, we collect some information about you even if you don't have an account."
+      ],
+      "new": [
+        "The information we collect and process about you depends on how you use our Products. For example, we collect different information if you sell furniture on Marketplace than if you ask Meta AI to write a joke for you. When you use our Products, we collect some information about you even if you don't have an account."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Personalizing features, content and recommendations, such as your Facebook Feed, Instagram Feed, AI at Meta, Stories and ads."
+      ],
+      "new": [
+        "- Personalizing features, content and recommendations, such as your Facebook Feed, Instagram Feed, Meta AI, Stories and ads."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Privacy notice for United States residents",
+        "You can learn more about the consumer privacy rights that may be available to you by reviewing the United States Regional Privacy Notice."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Personalizing the Meta Products: Our systems automatically process information we've collected and stored associated with you and others to assess and understand your interests and your preferences and provide you personalized experiences on and across the Meta Company Products in accordance with our terms. This is how we:",
+        "- Personalize features and content (such as your Facebook Feed, Instagram Feed, AI at Meta and Stories);"
+      ],
+      "new": [
+        "Our systems automatically process information we've collected and stored associated with you and others to assess and understand your interests and your preferences and provide you personalized experiences on and across the Meta Company Products in accordance with our terms. This is how we:",
+        "- Personalize features and content (such as your Facebook Feed, Instagram Feed, our features that are part of AI at Meta and Stories);"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Metadata about content",
+        "- Interactions with AI at Meta and related metadata. For example, information you or others exchange with AI at Meta like content and messages"
+      ],
+      "new": [
+        "- Metadata about content and messages, subject to applicable law",
+        "- Interactions with our features that are part of AI at Meta and related metadata. For example, information like content and messages you or others exchange with these features"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If you decide to add a WhatsApp account to an Accounts Center with other accounts on Meta Company Products:",
+        "- To associate your accounts on Meta Company Products with your WhatsApp account in the same Accounts Center and share your information with WhatsApp."
+      ],
+      "new": [
+        "If you add a WhatsApp account to an Accounts Center with other accounts on Meta Company Products: To associate your accounts on Meta Company Products with your WhatsApp account in the same Accounts Center and share your information with WhatsApp."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Providing and improving our Meta Products: The provision of the Meta Products includes collecting, storing, and, where relevant, sharing, profiling, reviewing and curating, and in some instances not only automated processing but also manual (human) reviewing, to:",
+        "- Create and maintain your account and profile,",
+        "- Connect your Meta Products account, including your public profile information, to an integrated partner to sign in or share your information,",
+        "- Facilitate the sharing of content and status,",
+        "- Provide and curate features,",
+        "- Provide messaging services, the ability to make voice and video calls and connect with others,",
+        "- Provide advertising products,",
+        "- Understand and enable creation of content like text, audio, images and videos, including through AI at Meta,",
+        "- Undertake analytics,",
+        "- Facilitate your purchases and payments on Meta Pay or other Meta checkout experiences, and",
+        "- See if our Products are working correctly, such as troubleshooting, and fixing it when it’s not working."
+      ],
+      "new": [
+        "The provision of the Meta Products includes collecting, storing, and, where relevant, sharing, profiling, reviewing and curating, and in some instances not only automated processing but also manual (human) reviewing, to:",
+        "- Create and maintain your account and profile",
+        "- Connect your Meta Products account, including your public profile information, to an integrated partner to sign in or share your information",
+        "- Facilitate the sharing of content and status",
+        "- Provide and curate features",
+        "- Provide messaging services, the ability to make voice and video calls and connect with others",
+        "- Provide advertising products",
+        "- Provide our features that are part of AI at Meta that do things like create and understand content (like text, audio, images and videos) and perform actions",
+        "- Undertake analytics",
+        "- Facilitate your purchases and payments on Meta Pay or other Meta checkout experiences",
+        "- See if our Products are working correctly, such as troubleshooting, and fixing it when it’s not working"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Develop and improve products and features,",
+        "- Build and test out new products and features to see if they work,",
+        "- Get feedback on our ideas for products or features, and",
+        "- Conduct surveys and other research about what you like about our Products and brands and on what we can do better for Meta Products and brands."
+      ],
+      "new": [
+        "- Develop and improve products and features",
+        "- Build and test out new products and features to see if they work",
+        "- Get feedback on our ideas for products or features",
+        "- Conduct surveys and other research about what you like about our Products and brands and on what we can do better for Meta Products and brands"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Interactions with AI at Meta and related metadata. For example, information you or others exchange with AI at Meta like content and messages"
+      ],
+      "new": [
+        "- Interactions with our features that are part of AI at Meta and related metadata. For example, information like content and messages you or others exchange with these features"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Interactions with AI at Meta and related metadata. For example, information you or others exchange with AI at Meta like content and messages.",
+        "Promoting safety, integrity and security",
+        "Promoting safety, integrity and security on and across the Meta Products: The Meta Products are designed to research and help ensure the safety, integrity and security of those services and those people who enjoy them, on and off Meta Products. We process information we have associated with you and apply automated processing techniques and, in some instances, conduct manual (human) review to:",
+        "- Verify accounts and activity,",
+        "- Find and address violations of our terms or policies. In some cases, the decisions we make about violations are reviewed by the Oversight Board,",
+        "- Investigate suspicious activity,",
+        "- Detect, prevent and combat harmful or unlawful behavior, such as to review and, in some cases, remove content reported to us,",
+        "- Identify and combat disparities and racial bias against historically marginalized communities,",
+        "- Protect the life, physical or mental health, well-being or integrity of our users or others,",
+        "- Detect and prevent spam, other security matters and other bad experiences,",
+        "- Detect and stop threats to our personnel and property, and",
+        "- Maintain the integrity of our Products."
+      ],
+      "new": [
+        "- Interactions with our features that are part of AI at Meta and related metadata. For example, information like content and messages you or others exchange with these features.",
+        "Promoting safety, integrity and security on and across the Meta Products",
+        "The Meta Products are designed to research and help ensure the safety, integrity and security of those services and those people who enjoy them, on and off Meta Products. We process information we have associated with you and apply automated processing techniques and, in some instances, conduct manual (human) review to:",
+        "- Verify accounts and activity",
+        "- Find and address violations of our terms or policies. In some cases, the decisions we make about violations are reviewed by the Oversight Board",
+        "- Investigate suspicious activity",
+        "- Detect, prevent and combat harmful or unlawful behavior, such as to review and, in some cases, remove content reported to us",
+        "- Identify and combat disparities and racial bias against historically marginalized communities",
+        "- Protect the life, physical or mental health, well-being or integrity of our users or others",
+        "- Detect and prevent spam, other security matters and other bad experiences",
+        "- Detect and stop threats to our personnel and property",
+        "- Maintain the integrity of our Products"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Interactions with AI at Meta and related metadata. For example, information you or others exchange with AI at Meta like content and messages"
+      ],
+      "new": [
+        "- Interactions with our features that are part of AI at Meta and related metadata. For example, information like content and messages you or others exchange with these features"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "To communicate with you: We use information you’ve given us (like contact information on your profile) to send you a communication, like an e-mail or in-product notice, for example:"
+      ],
+      "new": [
+        "We use information you’ve given us (like contact information on your profile) to send you a communication, like an e-mail or in-product notice, for example:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Interactions with AI at Meta and related metadata. For example, information you or others exchange with AI at Meta like content and messages"
+      ],
+      "new": [
+        "- Interactions with our features that are part of AI at Meta and related metadata. For example, information like content and messages you or others exchange with these features"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Any information with special protections that you choose to provide, such as your religious views, your sexual orientation, political views, health, racial or ethnic origin, philosophical beliefs or trade union membership, or as part of surveys you choose to participate in, and where you have given your explicit consent"
+      ],
+      "new": [
+        "- Any information with special protections that you choose to provide, such as your religious views, your sexual orientation, political views, health, racial or ethnic origin, philosophical beliefs or trade union membership, or as part of surveys you choose to participate in, or where you have given your explicit consent"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Receiving and using information from third parties to tailor the ads you see: We’ll use information that advertisers, businesses and other partners provide us about activity off Meta Company Products that we have associated with you to personalize ads that we show you on our Products, and on websites, apps and devices that use our advertising services. We receive this information whether or not you’re logged in or have an account on our Products. See the Cookies Policy for more information."
+      ],
+      "new": [
+        "Receiving and using information from third parties to tailor the ads you see: We’ll use information that advertisers, businesses and other partners provide us about activity off the Meta Company Products that we have associated with you to personalize ads that we show you on our Products, and on websites, apps and devices that use our advertising services. We receive this information whether or not you’re logged in or have an account on our Products, see the Cookies Policy for more information."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Sharing your contact, profile or other information with third parties upon your request: The type of third party and categories of information shared depend on the circumstances of what you ask us to share. For example:"
+      ],
+      "new": [
+        "The type of third party and categories of information shared depend on the circumstances of what you ask us to share. For example:"
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "Providing measurement, analytics and business services:"
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Interactions with AI at Meta and related metadata. For example, information you or others exchange with AI at Meta like content and messages"
+      ],
+      "new": [
+        "- Interactions with our features that are part of AI at Meta and related metadata. For example, information like content and messages you or others exchange with these features"
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "Business intelligence and analytics:"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "- Content you create, like posts, comments or audio",
+        "- Content you provide through our camera feature or your camera roll settings, or through our voice-enabled features",
+        "- Metadata about content and messages, subject to applicable law",
+        "- Interactions with AI at Meta and related metadata. For example, information you or others exchange with AI at Meta like content and messages",
+        "- Types of content you view or interact with, and how you interact with it",
+        "- Apps and features you use, and what actions you take in them",
+        "- Purchases or other transactions you make",
+        "- Hashtags you use",
+        "- The time, frequency and duration of your activities on our Products"
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Metadata about content",
+        "- Interactions with AI at Meta and related metadata. For example, information you or others exchange with AI at Meta like content and messages"
+      ],
+      "new": [
+        "- Metadata about content and messages, subject to applicable law",
+        "- Interactions with our features that are part of AI at Meta and related metadata. For example, information like content and messages you or others exchange with these features"
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "Providing marketing communications to you:"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "Research and innovate for social good:"
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Sharing information with others including law enforcement to respond to legal requests",
+        "Sharing information with others, including law enforcement and to respond to legal requests."
+      ],
+      "new": [
+        "Sharing information with others including law enforcement and responding to legal requests"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Metadata about content, subject to applicable law",
+        "- Interactions with AI at Meta and related metadata. For example, information you or others exchange with AI at Meta like content and messages"
+      ],
+      "new": [
+        "- Metadata about content and messages, subject to applicable law",
+        "- Interactions with our features that are part of AI at Meta and related metadata. For example, information like content and messages you or others exchange with these features"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "For processing information when the law requires it: Where we are under an obligation to disclose information such as, for example, if we receive a valid legal request for certain information such as a search warrant, we will access, preserve and/or share your information with regulators, law enforcement or others."
+      ],
+      "new": [
+        "Where we are under an obligation to disclose information such as, for example, if we receive a valid legal request for certain information such as a search warrant, we will access, preserve and/or share your information with regulators, law enforcement or others."
+      ]
+    }
+  ]
+}

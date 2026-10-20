@@ -1,0 +1,91 @@
+{
+  "id": "2024-09-02-anthropic-privacy",
+  "service": "anthropic",
+  "service_name": "Anthropic (Claude)",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.anthropic.com/legal/privacy",
+  "detected_at": "2024-09-02T12:26:42+00:00",
+  "source": "wayback",
+  "window_start": "2024-07-06T08:22:06+00:00",
+  "archive_before": "https://web.archive.org/web/20240706082206/https://www.anthropic.com/legal/privacy",
+  "archive_after": "https://web.archive.org/web/20240902122642/https://www.anthropic.com/legal/privacy",
+  "flags": [
+    {
+      "tag": "arbitration",
+      "label": "Arbitration / no lawsuits",
+      "hits": 1
+    },
+    {
+      "tag": "retention",
+      "label": "How long they keep it",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 4,
+    "added_words": 618,
+    "removed_words": 1
+  },
+  "headline": "Anthropic (Claude) rewrote its Privacy Policy — new wording on your right to sue and how long they keep your data",
+  "summary": "618 words added and 1 removed across 4 sections. New wording touches: Arbitration / no lawsuits, How long they keep it. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "For example, in certain cases we may continue to process and retain data regardless of your request for deletion, objection, blocking or anonymisation, in order to comply with legal, contractual and regulatory obligations, safeguard and exercise rights, including in judicial, …",
+  "receipt_side": "new",
+  "sideeye": 4,
+  "tags": [
+    "arbitration",
+    "retention"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "If you are located in Brazil, please read section 9 of the Privacy Policy which applies to you."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 9. Changes to Our Privacy Policy"
+      ],
+      "new": [
+        "## 9. Supplemental Disclosures for Residents of Brazil",
+        "These supplemental disclosures contain additional information relevant to residents of Brazil. This content should be read in conjunction with the rest of our Privacy Policy. In case of conflict between our Privacy Policy and these supplemental disclosures, the supplemental disclosures shall prevail in relation to residents of Brazil.",
+        "**Legal Bases.** Depending on the specific purpose of the processing, we may rely on different grounds than those listed under section 2, where permitted by and in accordance with the Brazilian General Data Protection Law (LGPD). For example, we may rely on the \"exercise of legal rights\" basis to process personal data associated with customer complaints and to enforce our Terms of Service and similar terms and agreements, including our Usage Policy.",
+        "**Data Subject's Rights.** LGPD grants certain rights regarding your personal data, which differ from the ones listed under section 4. We will respond to your requests to exercise your rights below in accordance with applicable law:",
+        "- **Confirmation of whether your data is being processed.** You have the right to receive a confirmation on whether Anthropic processes your data.",
+        "Access to your data. You have the right to know what personal data Anthropic processes about you.",
+        "- **Correction of incomplete, inaccurate or outdated data.** You have the right to request the correction of your data that is incomplete, inaccurate, or outdated.",
+        "- **Anonymization, blocking or erasure of data.** You have the right to request the anonymisation, blocking or erasure of data that is unnecessary, excessive or processed in non-compliance with the provisions of the law.",
+        "- **Portability of personal data to a third party.** You have the right to request portability of your data to a third-party, as long as this does not infringe on our trade secrets.",
+        "- **Information of public and private entities with which we shared data.** You have the right to request information of public and private entities with which we have shared your data.",
+        "- Information about the possibility to refuse to provide consent and the respective consequences, when applicable.",
+        "- **Withdrawal of your consent.** You have the right to withdraw your consent. This procedure will be carried out free of charge.",
+        "- Request a review of decisions made solely based on automated processing of personal data.",
+        "Please keep in mind that these rights are not absolute and may not apply in certain circumstances. For example, in certain cases we may continue to process and retain data regardless of your request for deletion, objection, blocking or anonymisation, in order to comply with legal, contractual and regulatory obligations, safeguard and exercise rights, including in judicial, administrative and arbitration proceedings and in other cases provided for by law.",
+        "**International Data Transfers.** You acknowledge that Anthropic is a company based in and headquartered in the United States and that any information we hold about you will be transferred to, used, processed, and stored in the United States and other countries and territories, which may not have data privacy or data protection laws equivalent to the laws in your country or territory. For the proper operation of the Services, Anthropic needs to carry out international transfers of personal data. Until the Brazilian Standard Contractual Clauses, to be issued by the Brazilian Data Protection Authority (ANPD), come into effect, Anthropic will rely on the transfer mechanisms prescribed by Article 33, IX of the LGPD. The \"competent supervisory authority\" for these transfers, as governed by Brazilian Data Protection Laws, is the ANPD.",
+        "## 10. Changes to Our Privacy Policy"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 10. Contact Information"
+      ],
+      "new": [
+        "## 11. Contact Information"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Please note that under many countries' laws, you have the right to lodge a complaint with the supervisory authority in the place in which you live or work. A full list of EU supervisory authorities’ contact details is available here. If you live or work in the UK, you have the right to lodge a complaint with the UK Information Commissioner’s Office."
+      ],
+      "new": [
+        "Please note that under many countries' laws, you have the right to lodge a complaint with the supervisory authority in the place in which you live or work. A full list of EU supervisory authorities’ contact details is available here. If you live or work in the UK, you have the right to lodge a complaint with the UK Information Commissioner’s Office. If you live in Brazil, you have the right to lodge a complaint with the Brazilian Data Protection Authority (ANPD)."
+      ]
+    }
+  ]
+}

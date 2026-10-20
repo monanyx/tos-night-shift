@@ -1,0 +1,39 @@
+{
+  "id": "2025-07-11-openai-terms",
+  "service": "openai",
+  "service_name": "OpenAI (ChatGPT)",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://openai.com/policies/terms-of-use/",
+  "detected_at": "2025-07-11T06:26:12+00:00",
+  "source": "wayback",
+  "window_start": "2025-03-27T20:10:15+00:00",
+  "archive_before": "https://web.archive.org/web/20250327201015/https://openai.com/policies/terms-of-use/",
+  "archive_after": "https://web.archive.org/web/20250711062612/https://openai.com/policies/terms-of-use/",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 1,
+    "removed_words": 7
+  },
+  "headline": "OpenAI (ChatGPT) edited its Terms of Service",
+  "summary": "1 words added and 7 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "**Opt out.** If you do not want us to use your Content to train our models, you can opt out by following the instructions in this article.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "**Opt out.** If you do not want us to use your Content to train our models, you can opt out by following the instructions in this Help Center article(opens in a new window). Please note that in some cases this may limit the ability of our Services to better address your specific use case."
+      ],
+      "new": [
+        "**Opt out.** If you do not want us to use your Content to train our models, you can opt out by following the instructions in this article. Please note that in some cases this may limit the ability of our Services to better address your specific use case."
+      ]
+    }
+  ]
+}

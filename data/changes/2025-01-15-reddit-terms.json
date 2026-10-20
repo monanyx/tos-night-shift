@@ -1,0 +1,142 @@
+{
+  "id": "2025-01-15-reddit-terms",
+  "service": "reddit",
+  "service_name": "Reddit",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://redditinc.com/policies/user-agreement",
+  "detected_at": "2025-01-15T01:29:10+00:00",
+  "source": "wayback",
+  "window_start": "2024-10-03T01:58:31+00:00",
+  "archive_before": "https://web.archive.org/web/20241003015831/https://redditinc.com/policies/user-agreement",
+  "archive_after": "https://web.archive.org/web/20250115012910/https://redditinc.com/policies/user-agreement",
+  "flags": [],
+  "stats": {
+    "hunks": 12,
+    "added_words": 29,
+    "removed_words": 30
+  },
+  "headline": "Reddit edited its Terms of Service",
+  "summary": "29 words added and 30 removed across 12 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "## Reddit User Agreement",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "# Reddit User Agreement"
+      ],
+      "new": [
+        "## Reddit User Agreement"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Although we have no obligation to screen, edit, or monitor Your Content, we may, in our sole discretion, delete, deem your content ineligible for monetization, or remove Your Content, at any time and for any reason, including for violating these Terms, our Content Policy, or our other terms and policies, or if you otherwise create or are likely to create liability for us.",
+        "For more information about Reddit’s approach to content moderation, including how we enforce our Content Policy and how to appeal content moderation decisions, please visit our Help Center."
+      ],
+      "new": [
+        "Although we have no obligation to screen, edit, or monitor Your Content, we may, in our sole discretion, delete, deem your content ineligible for monetization, or remove Your Content, at any time and for any reason, including for violating these Terms, our Reddit Rules, or our other terms and policies, or if you otherwise create or are likely to create liability for us.",
+        "For more information about Reddit’s approach to content moderation, including how we enforce our Reddit Rules and how to appeal content moderation decisions, please visit our Help Center."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "When using or accessing the Services, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Content Policy, which is incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the Content Policy, you may not do any of the following:"
+      ],
+      "new": [
+        "When using or accessing the Services, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Reddit Rules, which is incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the Reddit Rules, you may not do any of the following:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We encourage you to report content or conduct that you believe violates these Terms or our Content Policy. We also support the responsible reporting of security vulnerabilities. To report a security issue, please email security@reddit.com."
+      ],
+      "new": [
+        "We encourage you to report content or conduct that you believe violates these Terms or our Reddit Rules. We also support the responsible reporting of security vulnerabilities. To report a security issue, please email security@reddit.com."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the Content Policy, or the Moderator Code of Conduct."
+      ],
+      "new": [
+        "- You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the Reddit Rules, or the Moderator Code of Conduct."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "To the fullest extent permitted by applicable law, we may suspend or terminate your Account, moderator status, or ability to access or use the Services at any time for any or no reason, including for violating these Terms or our Content Policy."
+      ],
+      "new": [
+        "To the fullest extent permitted by applicable law, we may suspend or terminate your Account, moderator status, or ability to access or use the Services at any time for any or no reason, including for violating these Terms or our Reddit Rules."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Although we reserve the right to review, screen, edit, or monitor Your Content, we do not necessarily review all of it at the time it is submitted to the Services. However, we may, in our sole discretion, delete, deem your content ineligible for monetization, or remove Your Content at any time and for any reason, including for violating these Terms, our Content Policy, or our other terms and policies, or if you otherwise create or are likely to create liability for us.",
+        "For more information about Reddit’s approach to content moderation, including how we enforce our Content Policy and how to appeal content moderation decisions, please visit our Help Center."
+      ],
+      "new": [
+        "Although we reserve the right to review, screen, edit, or monitor Your Content, we do not necessarily review all of it at the time it is submitted to the Services. However, we may, in our sole discretion, delete, deem your content ineligible for monetization, or remove Your Content at any time and for any reason, including for violating these Terms, our Reddit Rules, or our other terms and policies, or if you otherwise create or are likely to create liability for us.",
+        "For more information about Reddit’s approach to content moderation, including how we enforce our Reddit Rules and how to appeal content moderation decisions, please visit our Help Center."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "When using or accessing Reddit, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Content Policy, which is incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the Content Policy, you may not do any of the following:"
+      ],
+      "new": [
+        "When using or accessing Reddit, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Reddit Rules, which is incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the Reddit Rules, you may not do any of the following:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We encourage you to report content or conduct that you believe violates these Terms or our Content Policy. We also support the responsible reporting of security vulnerabilities. To report a security issue, please email security@reddit.com."
+      ],
+      "new": [
+        "We encourage you to report content or conduct that you believe violates these Terms or our Reddit Rules. We also support the responsible reporting of security vulnerabilities. To report a security issue, please email security@reddit.com."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the Content Policy, or the Moderator Code of Conduct."
+      ],
+      "new": [
+        "- You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the Reddit Rules, or the Moderator Code of Conduct."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Reddit respects the intellectual property of others and requires that users of our Services do the same. We have a policy that includes the removal of any infringing material from the Services and for the termination, in appropriate circumstances, of users of our Services who are repeat infringers. If you believe that anything on our Services infringes a copyright or a trademark that you own or control, you may notify Reddit’s Designated Agent by filling out our our Copyright Report Form or Trademark Report Form, or by contacting:"
+      ],
+      "new": [
+        "Reddit respects the intellectual property of others and requires that users of our Services do the same. We have a policy that includes the removal of any infringing material from the Services and for the termination, in appropriate circumstances, of users of our Services who are repeat infringers. If you believe that anything on our Services infringes a copyright or a trademark that you own or control, you may notify Reddit’s Designated Agent by filling out our Copyright Report Form or Trademark Report Form, or by contacting:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "To the fullest extent permitted by applicable law, we may suspend or terminate your Account, moderator status, or ability to access or use the Services at any time for any or no reason, including for violating these Terms or our Content Policy."
+      ],
+      "new": [
+        "To the fullest extent permitted by applicable law, we may suspend or terminate your Account, moderator status, or ability to access or use the Services at any time for any or no reason, including for violating these Terms or our Reddit Rules."
+      ]
+    }
+  ]
+}

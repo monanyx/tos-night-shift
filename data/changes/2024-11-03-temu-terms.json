@@ -1,0 +1,198 @@
+{
+  "id": "2024-11-03-temu-terms",
+  "service": "temu",
+  "service_name": "Temu",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.temu.com/terms-of-use.html",
+  "detected_at": "2024-11-03T09:58:31+00:00",
+  "source": "wayback",
+  "window_start": "2024-07-04T15:35:20+00:00",
+  "archive_before": "https://web.archive.org/web/20240704153520/https://www.temu.com/terms-of-use.html",
+  "archive_after": "https://web.archive.org/web/20241103095831/https://www.temu.com/terms-of-use.html",
+  "flags": [],
+  "stats": {
+    "hunks": 18,
+    "added_words": 42,
+    "removed_words": 41
+  },
+  "headline": "Temu edited its Terms of Service",
+  "summary": "42 words added and 41 removed across 18 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Thank you for using Temu!",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Thank you for using Temu! These Terms of Use (\"Terms\") contain the rules and restrictions that govern your use of our applications, products, services and websites (\"Services\"). These Terms form a binding agreement between you and us. By completing the registration process and/or browsing the Services, you represent that (1) you have read, understand and agree to be bound by the Terms; (2) you are of legal age to form a binding contract with us; (3) you have the authority to enter into the Terms personally; and (4) if you are using the Services on behalf of a company or other entity, (a) you agree that “you” includes you and that entity, (b) you are an authorized representative of the entity with the authority to bind the entity to these Terms, and (c) you agree to these Terms on the entity’s behalf. You should not access or use the Services unless you agree to be bound by all of these Terms."
+      ],
+      "new": [
+        "Thank you for using Temu! These Terms of Use (“Terms”) contain the rules and restrictions that govern your use of our applications, products, services and websites (“Services”). These Terms form a binding agreement between you and us. By completing the registration process and/or browsing the Services, you represent that (1) you have read, understand and agree to be bound by the Terms; (2) you are of legal age to form a binding contract with us; (3) you have the authority to enter into the Terms personally; and (4) if you are using the Services on behalf of a company or other entity, (a) you agree that “you” includes you and that entity, (b) you are an authorized representative of the entity with the authority to bind the entity to these Terms, and (c) you agree to these Terms on the entity’s behalf. You should not access or use the Services unless you agree to be bound by all of these Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**1.2** Whaleco Inc. is referred to in these Terms and Policies (as defined below) as \"we\" or \"us,\". For purposes of these Terms and Policies, we also refer to:"
+      ],
+      "new": [
+        "**1.2** Whaleco Inc. is referred to in these Terms and Policies (as defined below) as “we” or “us”. For purposes of these Terms and Policies, we also refer to:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**2.1** To use the Services, you represent that you are at least eighteen (18) years old and of legal age to form a binding contract. Minors under 18 and at least 13 years of age are only permitted to use our Services through an Account owned by a parent or legal guardian with their appropriate permission and under their direct supervision. Children under 13 years are not permitted to use Temu or the Services. Products for children’s use may be sold on Temu. However, these products are intended for sale to adults. Certain products may be intended for individuals of certain ages or \"mature audiences\" only. By ordering such products, you certify that you are old enough to view, use, own, or receive them. We are not responsible for third-party content that you may find offensive, indecent, or objectionable."
+      ],
+      "new": [
+        "**2.1** To use the Services, you represent that you are at least eighteen (18) years old and of legal age to form a binding contract. Minors under 18 and at least 13 years of age are only permitted to use our Services through an Account owned by a parent or legal guardian with their appropriate permission and under their direct supervision. Children under 13 years are not permitted to use Temu or the Services. Products for children’s use may be sold on Temu. However, these products are intended for sale to adults. Certain products may be intended for individuals of certain ages or “mature audiences” only. By ordering such products, you certify that you are old enough to view, use, own, or receive them. We are not responsible for third-party content that you may find offensive, indecent, or objectionable."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**3.4** Any sweepstakes, contests, raffles, surveys, games, or similar promotions (collectively, \"Promotions\") made available through the Services may be governed by separate rules. If the rules for a Promotion conflict with these Terms, the Promotion rules will govern."
+      ],
+      "new": [
+        "**3.4** Any sweepstakes, contests, raffles, surveys, games, or similar promotions (collectively, “Promotions”) made available through the Services may be governed by separate rules. If the rules for a Promotion conflict with these Terms, the Promotion rules will govern."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "(11) run any form of auto-responder or \"spam\" on the Services, any process that runs or is activated while you are not logged into the Services, or any process that otherwise interferes with the proper functioning of the Services (including by placing an unreasonable load on the Services' infrastructure through overloading, “flooding,” “mail bombing” or crashing the Services);",
+        "(12) potentially harm the Services, including but not limited to the violation of any security features of the Services, use of manual or automated software or other means to access, \"crawl,\" \"scrape,\" or \"spider\" any page, data, or portion of or relating to the Services or the introduction of viruses, worms or similar harmful code into the Services;"
+      ],
+      "new": [
+        "(11) run any form of auto-responder or “spam” on the Services, any process that runs or is activated while you are not logged into the Services, or any process that otherwise interferes with the proper functioning of the Services (including by placing an unreasonable load on the Services' infrastructure through overloading, “flooding,” “mail bombing” or crashing the Services);",
+        "(12) potentially harm the Services, including but not limited to the violation of any security features of the Services, use of manual or automated software or other means to access, “crawl,” “scrape,” or “spider” any page, data, or portion of or relating to the Services or the introduction of viruses, worms or similar harmful code into the Services;"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "(4) suspension or termination of your access or use the Services."
+      ],
+      "new": [
+        "(4) suspension or termination of your access or use of the Services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**5.5** Our communications with you may be through a third-party service provider. You acknowledge and consent that, subject to our Privacy Policy, your communications with us, our agents may be recorded, monitored and stored for quality control and training purposes, or to protect your and our interests."
+      ],
+      "new": [
+        "**5.5** Our communications with you may be through a third-party service provider. You acknowledge and consent that, subject to our Privacy Policy, your communications with us and our agents may be recorded, monitored and stored for quality control and training purposes, or to protect your and our interests."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**7.1** You acknowledge and agree that all materials displayed, performed, or available on or through the Services, including, but not limited to, text, graphics, data, articles, photos, images, illustrations and User Submissions (collectively, \"Content\") are protected by copyright and/or other intellectual property laws throughout the world. You undertake to comply with all copyright notices, trademark rules, information, and restrictions contained in the Content, and not to copy, reproduce, modify, translate, publish, broadcast, transmit, distribute, perform, upload, display, license, sell, or otherwise use for any purpose any Content not owned by you without the prior consent of the owner of that Content."
+      ],
+      "new": [
+        "**7.1** You acknowledge and agree that all materials displayed, performed, or available on or through the Services, including, but not limited to, text, graphics, data, articles, photos, images, illustrations and User Submissions (collectively, “Content”) are protected by copyright and/or other intellectual property laws throughout the world. You undertake to comply with all copyright notices, trademark rules, information, and restrictions contained in the Content, and not to copy, reproduce, modify, translate, publish, broadcast, transmit, distribute, perform, upload, display, license, sell, or otherwise use for any purpose any Content not owned by you without the prior consent of the owner of that Content."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**8.3** The Services may contain links or connections to third-party websites or services that are not owned or controlled by us. We have no control over, and assume no responsibility for, the content, accuracy, privacy policies, or practices of or opinions expressed in any third-party websites or services. In addition, we will not and cannot monitor, verify, censor, or edit the content of any third-party website or service. You acknowledge and agree that we are not responsible for any risks resulting from your access or use of any third party websites or services. We encourage you to be aware when you leave the Services and to read the terms of use and privacy policy of each third-party website or service that you visit or use."
+      ],
+      "new": [
+        "**8.3** The Services may contain links or connections to third-party websites or services that are not owned or controlled by us. We have no control over, and assume no responsibility for, the content, accuracy, privacy policies, or practices of or opinions expressed in any third-party websites or services. In addition, we will not and cannot monitor, verify, censor, or edit the content of any third-party website or service. You acknowledge and agree that we are not responsible for any risks resulting from your access or use of any third-party websites or services. We encourage you to be aware when you leave the Services and to read the terms of use and privacy policy of each third-party website or service that you visit or use."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**14.1** TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW WE EXPRESSLY DISCLAIM ALL REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, RELATING TO THE SERVICES, ANY CONTENT OR ANY PRODUCT OFFERED OR PURCHASED ON OR THROUGH THE SERVICES, INCLUDING WITHOUT LIMITATION ANY WARRANTIES OF PRODUCTS’ CONDITION, QUALITY, DURABILITY, PERFORMANCE, ACCURACY, RELIABILITY, MERCHANTABILITY. FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, OR ANY WARRANTIES OF THE CONTENT’S ACCURACY, CORRECTNESS, COMPLETENESS, OR LEGALITY. ALL SUCH WARRANTIES, REPRESENTATIONS, CONDITIONS, AND UNDERTAKINGS ARE HEREBY EXPRESSLY EXCLUDED. NO COMMUNICATION OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM OR THROUGH THE SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED HEREIN. IN ADDITION, WE MAKE NO REPRESENTATIONS OR WARRANTIES REGARDING SUGGESTIONS OR RECOMMENDATIONS OF PRODUCTS OFFERED OR PURCHASED ON OR THROUGH THE SERVICES. THIS SECTION 14 DOES NOT AFFECT IN ANY WAY OUR RETURN AND REFUND POLICY FOR PRODUCTS PURCHASED ON THE SERVICES.",
+        "**14.2** YOUR USE OF THE SERVICES AND YOUR USE OF ANY PRODUCT OFFERED AND PURCHASED ON OR THROUGH THE SERVICES ARE AT YOUR OWN RISK. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, UNLESS EXPRESSLY PROVIDED OTHERWISE, THE SERVICES, PRODUCTS OFFERED AND PURCHASED ON OR THROUGH THE SERVICES, AND THE CONTENT ARE MADE AVAILABLE TO YOU ON AN \"AS-IS\" AND \"AS-AVAILABLE\" BASIS, WITH ALL FAULTS AND WITHOUT WARRANTIES OF ANY KIND."
+      ],
+      "new": [
+        "**14.1** TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW WE EXPRESSLY DISCLAIM ALL REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, RELATING TO THE SERVICES, ANY CONTENT OR ANY PRODUCT OFFERED OR PURCHASED ON OR THROUGH THE SERVICES, INCLUDING WITHOUT LIMITATION ANY WARRANTIES OF PRODUCTS’ CONDITION, QUALITY, DURABILITY, PERFORMANCE, ACCURACY, RELIABILITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, OR ANY WARRANTIES OF THE CONTENT’S ACCURACY, CORRECTNESS, COMPLETENESS, OR LEGALITY. ALL SUCH WARRANTIES, REPRESENTATIONS, CONDITIONS, AND UNDERTAKINGS ARE HEREBY EXPRESSLY EXCLUDED. NO COMMUNICATION OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM OR THROUGH THE SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED HEREIN. IN ADDITION, WE MAKE NO REPRESENTATIONS OR WARRANTIES REGARDING SUGGESTIONS OR RECOMMENDATIONS OF PRODUCTS OFFERED OR PURCHASED ON OR THROUGH THE SERVICES. THIS SECTION 14 DOES NOT AFFECT IN ANY WAY OUR RETURN AND REFUND POLICY FOR PRODUCTS PURCHASED ON THE SERVICES.",
+        "**14.2** YOUR USE OF THE SERVICES AND YOUR USE OF ANY PRODUCT OFFERED AND PURCHASED ON OR THROUGH THE SERVICES ARE AT YOUR OWN RISK. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, UNLESS EXPRESSLY PROVIDED OTHERWISE, THE SERVICES, PRODUCTS OFFERED AND PURCHASED ON OR THROUGH THE SERVICES, AND THE CONTENT ARE MADE AVAILABLE TO YOU ON AN “AS-IS” AND “AS-AVAILABLE” BASIS, WITH ALL FAULTS AND WITHOUT WARRANTIES OF ANY KIND."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**15.4** TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, UNDER NO CIRCUMSTANCES WILL THE TOTAL AGGREGATE AMOUNT FOR WHICH THE TEMU PARTIES ARE LIABLE TO YOU EXCEED THE GREATER OF: (A) THE TOTAL AMOUNT PAID TO US BY YOU DURING THE ONE-MONTH PERIOD PRIOR TO THE ACT, OMISSION OR OCCURRENCE GIVING RISE TO SUCH LIABIITY; (B) $100.00; OR (C) THE REMEDY OR PENALTY IMPOSED BY THE STATUTE UNDER WHICH SUCH CLAIM ARISES. THE FOREGOING CAP ON LIABILTY SHALL NOT APPLY TO LIABLITY OF A TEMU PARTY FOR (I) DEATH OR PERSONAL INJURY CAUSED BY OUR GROSS NEGLIGENCE; OR FOR (II) ANY INJURY CAUSED BY OUR FRAUD OR FRAUDULENT MISREPRESENTATION. THE PRECEDING SENTENCE SHALL NOT PRECLUDE THE REQUIREMENT FOR YOU TO PROVE ACTUAL DAMAGES."
+      ],
+      "new": [
+        "**15.4** TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, UNDER NO CIRCUMSTANCES WILL THE TOTAL AGGREGATE AMOUNT FOR WHICH THE TEMU PARTIES ARE LIABLE TO YOU EXCEED THE GREATER OF: (A) THE TOTAL AMOUNT PAID TO US BY YOU DURING THE ONE-MONTH PERIOD PRIOR TO THE ACT, OMISSION OR OCCURRENCE GIVING RISE TO SUCH LIABILITY; (B) $100.00; OR (C) THE REMEDY OR PENALTY IMPOSED BY THE STATUTE UNDER WHICH SUCH CLAIM ARISES. THE FOREGOING CAP ON LIABILITY SHALL NOT APPLY TO LIABILITY OF A TEMU PARTY FOR (I) DEATH OR PERSONAL INJURY CAUSED BY OUR GROSS NEGLIGENCE; OR FOR (II) ANY INJURY CAUSED BY OUR FRAUD OR FRAUDULENT MISREPRESENTATION. THE PRECEDING SENTENCE SHALL NOT PRECLUDE THE REQUIREMENT FOR YOU TO PROVE ACTUAL DAMAGES."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**16.1** To the fullest extent permitted by applicable law, you agree to indemnify and hold us, our parents, subsidiaries, affiliates, directors, officers, agents, employees, suppliers, licensors and partners (each, a “Temu Party” and collectively, the “Temu Parties”) harmless from and against any and all claims, liabilities, damages, losses, and expenses (including reasonable attorneys' fees ) arising from or in connection with any third-party claims relating to: (a) your use of the Services, including without limitation, User Submissions or any actions taken by a third party using your Account; (b) your violation of these Terms; (c) your violation of any rights of another party, including without limitation any copyright, property, or privacy right or any third-party agreement; or (d) your violation of any applicable laws, rules, or regulations. In the event of such a claim, suit, or action (\"Claim\"), we will attempt to provide notice of the Claim to the contact information we have for your Account (provided that failure to deliver such notice shall not eliminate or reduce your indemnification obligations under these Terms)."
+      ],
+      "new": [
+        "**16.1** To the fullest extent permitted by applicable law, you agree to indemnify and hold us, our parents, subsidiaries, affiliates, directors, officers, agents, employees, suppliers, licensors and partners (each, a “Temu Party” and collectively, the “Temu Parties”) harmless from and against any and all claims, liabilities, damages, losses, and expenses (including reasonable attorneys' fees) arising from or in connection with any third-party claims relating to: (a) your use of the Services, including without limitation, User Submissions or any actions taken by a third party using your Account; (b) your violation of these Terms; (c) your violation of any rights of another party, including without limitation any copyright, property, or privacy right or any third-party agreement; or (d) your violation of any applicable laws, rules, or regulations. In the event of such a claim, suit, or action (“Claim”), we will attempt to provide notice of the Claim to the contact information we have for your Account (provided that failure to deliver such notice shall not eliminate or reduce your indemnification obligations under these Terms)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**17.2 App Stores.** You acknowledge and agree that the availability of the Application and the Services is dependent on the third party from whom you received the Application license, e.g., the Apple App Store or Google Play (each, an “App Store”). You acknowledge that the Terms are between you and us and not with the App Store. We, not the App Store, are solely responsible for The Services, including the Application, the content thereof, maintenance, support services, and warranty therefor, and addressing any claims relating thereto (e.g., product liability, legal compliance or intellectual property infringement). In order to use the Application, you must have access to a wireless network, and you agree to pay all fees associated with such access. You also agree to pay all fees (if any) and applicable taxes charged by the App Store in connection with the Services, including the Application. You agree to comply with, and your license to use the Application is conditioned upon your compliance with all terms of agreement imposed by the applicable App Store when using any Service, including the Application. You acknowledge that the App Store (and its subsidiaries) are third-party beneficiaries of the Terms and will have the right to enforce it."
+      ],
+      "new": [
+        "**17.2 App Stores.** You acknowledge and agree that the availability of the Application and the Services is dependent on the third party from whom you received the Application license, e.g., the Apple App Store or Google Play (each, an “App Store”). You acknowledge that the Terms are between you and us and not with the App Store. We, not the App Store, are solely responsible for the Services, including the Application, the content thereof, maintenance, support services, and warranty therefor, and addressing any claims relating thereto (e.g., product liability, legal compliance or intellectual property infringement). In order to use the Application, you must have access to a wireless network, and you agree to pay all fees associated with such access. You also agree to pay all fees (if any) and applicable taxes charged by the App Store in connection with the Services, including the Application. You agree to comply with, and your license to use the Application is conditioned upon your compliance with all terms of agreement imposed by the applicable App Store when using any Service, including the Application. You acknowledge that the App Store (and its subsidiaries) are third-party beneficiaries of the Terms and will have the right to enforce it."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**18.6 Export Control.** You undertake to use the Services and products purchased on or through the Services in compliance with all applicable US or other export and re-export restrictions of relevant jurisdictions. In particular, you acknowledge and agree that the Services, including any products purchased on or through the Services, may not be exported or re-exported (a) into any countries or territories subject to sanctions by your country of residence or other relevant countries, or (b) to anyone on the U.S. Treasury Department's Specially Designated Nationals and Blocked Persons List (“SDN List”) or the U.S. Department of Commerce's Denied Person's List or Entity List. You represent and warrant that (i) you are not located in a country, region, or territory that is subject to U.S. Government sanctions, or that has been designated by the U.S. Government as a \"terrorist supporting\" country, and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties, including, but not limited to the SDN List. You also will not use the Services nor the products purchased on the Services for any purpose prohibited by any applicable law."
+      ],
+      "new": [
+        "**18.6 Export Control.** You undertake to use the Services and products purchased on or through the Services in compliance with all applicable US or other export and re-export restrictions of relevant jurisdictions. In particular, you acknowledge and agree that the Services, including any products purchased on or through the Services, may not be exported or re-exported (a) into any countries or territories subject to sanctions by your country of residence or other relevant countries, or (b) to anyone on the U.S. Treasury Department's Specially Designated Nationals and Blocked Persons List (“SDN List”) or the U.S. Department of Commerce's Denied Person's List or Entity List. You represent and warrant that (i) you are not located in a country, region, or territory that is subject to U.S. Government sanctions, or that has been designated by the U.S. Government as a “terrorist supporting” country, and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties, including, but not limited to the SDN List. You also will not use the Services nor the products purchased on the Services for any purpose prohibited by any applicable law."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**PLEASE READ THIS SECTION 19 (\"ARBITRATION AGREEMENT\") CAREFULLY. PLEASE BE AWARE THAT THIS SECTION CONTAINS PROVISIONS GOVERNING HOW DISPUTES BETWEEN YOU AND US WILL BE RESOLVED. AMONG OTHER THINGS, THIS SECTION 19 INCLUDES AN AGREEMENT TO ARBITRATE, WHICH REQUIRES, WITH LIMITED EXCEPTIONS, THAT ALL DISPUTES BETWEEN YOU AND US BE RESOLVED BY BINDING AND FINAL ARBITRATION. THIS SECTION 19 ALSO CONTAINS A CLASS ACTION AND JURY TRIAL WAIVER. IN SOME COUNTRIES YOU MAY HAVE ADDITIONAL RIGHTS AND/OR ELEMENTS OF THIS ARBITRATION AGREEMENT MAY NOT APPLY TO YOU AS REQUIRED BY LAW.**"
+      ],
+      "new": [
+        "**PLEASE READ THIS SECTION 19 (“ARBITRATION AGREEMENT”) CAREFULLY. PLEASE BE AWARE THAT THIS SECTION CONTAINS PROVISIONS GOVERNING HOW DISPUTES BETWEEN YOU AND US WILL BE RESOLVED. AMONG OTHER THINGS, THIS SECTION 19 INCLUDES AN AGREEMENT TO ARBITRATE, WHICH REQUIRES, WITH LIMITED EXCEPTIONS, THAT ALL DISPUTES BETWEEN YOU AND US BE RESOLVED BY BINDING AND FINAL ARBITRATION. THIS SECTION 19 ALSO CONTAINS A CLASS ACTION AND JURY TRIAL WAIVER. IN SOME COUNTRIES YOU MAY HAVE ADDITIONAL RIGHTS AND/OR ELEMENTS OF THIS ARBITRATION AGREEMENT MAY NOT APPLY TO YOU AS REQUIRED BY LAW.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**19.5 Rules and Forum.** The Terms evidence a transaction involving interstate commerce; and notwithstanding any other provision herein with respect to the applicable substantive law, the Federal Arbitration Act, 9 U.S.C. § 1 et seq., will govern the interpretation and enforcement of this Arbitration Agreement and any arbitration proceedings. If the Informal Dispute Resolution Process described above does not resolve satisfactorily within sixty (60) days after receipt of Notice, you and we agree that either party shall have the right to finally resolve the Dispute through binding arbitration. The arbitration will be conducted by American Arbitration Association (the “AAA”), an established alternative dispute resolution provider, under its rules, including Consumer Arbitration Rules (the “AAA Rules”), then effect, unless otherwise required by law. AAA’s rules are also available at https://adr.org/consumer, or by calling 1-800-778-7879. For all actions under the AAA Rules, the proceedings may be filed where your residence is, or in New York, New York, and any in-person hearings will be conducted at a location which is reasonably convenient to both parties taking into account their ability to travel and other pertinent circumstances. If AAA is not available to arbitrate, the parties will select an alternative arbitral forum. Your responsibility to pay any AAA fees and costs will be solely as set forth in the applicable AAA rules.",
+        "If the Parties are not able to resolve the Dispute through the mandatory informal dispute resolution process referenced above, either party may initiate an arbitration proceeding by sending a demand to the other party that describes the nature and basis for the claim and includes all of the information required in the arbitration notice (“Arbitration Notice”). The Party initiating arbitration must include as part of the demand a personally signed certification of compliance with the informal dispute resolution process. The Arbitration Notice must include: (1) the name, telephone number, mailing address, e‐mail address of the party seeking arbitration and the account username (if applicable) as well as the email address associated with any applicable account; (2) a statement of the legal claims being asserted and the factual bases of those claims; (3) a description of the remedy sought and an accurate, good‐faith calculation of the amount in controversy in United States Dollars; (4) a statement certifying completion of the Informal Dispute Resolution process as described above; and (5) evidence that the requesting party has paid any necessary filing fees in connection with such arbitration. If the party requesting arbitration is represented by counsel, the Arbitration Notice shall also include counsel’s name, telephone number, mailing address, and email address. Such counsel must also sign the Arbitration Notice. By signing the Arbitration Notice, counsel certifies to the best of counsel’s knowledge, information, and belief, formed after an inquiry reasonable under the circumstances, that: (1) the Arbitration Notice is not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of dispute resolution; (2) the claims, defenses and other legal contentions are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law; and (3) the factual and damages contentions have evidentiary support or, if specifically so identified, will likely have evidentiary support after a reasonable opportunity for further investigation or discovery. Unless you and we otherwise agree, or the Batch Arbitration process discussed in Section 19.9 is triggered, the arbitration will be conducted in the county where you reside. Subject to the applicable AAA rules, the arbitrator may direct a limited and reasonable exchange of information between the parties, consistent with the expedited nature of the arbitration. If the AAA is not available to arbitrate, the parties will select an alternative arbitral forum. Your responsibility to pay any AAA fees and costs will be solely as set forth in the applicable AAA Rules. You and we agree that all materials and documents exchanged during the arbitration proceedings shall be kept confidential and shall not be shared with anyone except the parties’ attorneys, accountants, or business advisors, and then subject to the condition that they agree to keep all materials and documents exchanged during the arbitration proceedings confidential. During the arbitration, the amount of any settlement offer made by you or us must not be disclosed to the arbitrator until after the arbitrator makes a final decision and award, if any."
+      ],
+      "new": [
+        "**19.5 Rules and Forum.** The Terms evidence a transaction involving interstate commerce; and notwithstanding any other provision herein with respect to the applicable substantive law, the Federal Arbitration Act, 9 U.S.C. § 1 et seq., will govern the interpretation and enforcement of this Arbitration Agreement and any arbitration proceedings. If the informal dispute resolution process described above does not resolve satisfactorily within sixty (60) days after receipt of Notice, you and we agree that either party shall have the right to finally resolve the Dispute through binding arbitration. The arbitration will be conducted by American Arbitration Association (the “AAA”), an established alternative dispute resolution provider, under its rules, including Consumer Arbitration Rules (the “AAA Rules”), then in effect, unless otherwise required by law. AAA’s rules are also available at https://adr.org/consumer, or by calling 1-800-778-7879. For all actions under the AAA Rules, the proceedings may be filed where your residence is, or in New York, New York, and any in-person hearings will be conducted at a location which is reasonably convenient to both parties taking into account their ability to travel and other pertinent circumstances. If AAA is not available to arbitrate, the parties will select an alternative arbitral forum. Your responsibility to pay any AAA fees and costs will be solely as set forth in the applicable AAA rules.",
+        "If the Parties are not able to resolve the Dispute through the mandatory informal dispute resolution process referenced above, either party may initiate an arbitration proceeding by sending a demand to the other party that describes the nature and basis for the claim and includes all of the information required in the arbitration notice (“Arbitration Notice”). The Party initiating arbitration must include as part of the demand a personally signed certification of compliance with the informal dispute resolution process. The Arbitration Notice must include: (1) the name, telephone number, mailing address, e‐mail address of the party seeking arbitration and the account username (if applicable) as well as the email address associated with any applicable account; (2) a statement of the legal claims being asserted and the factual bases of those claims; (3) a description of the remedy sought and an accurate, good‐faith calculation of the amount in controversy in United States Dollars; (4) a statement certifying completion of the informal dispute resolution process as described above; and (5) evidence that the requesting party has paid any necessary filing fees in connection with such arbitration. If the party requesting arbitration is represented by counsel, the Arbitration Notice shall also include counsel’s name, telephone number, mailing address, and email address. Such counsel must also sign the Arbitration Notice. By signing the Arbitration Notice, counsel certifies to the best of counsel’s knowledge, information, and belief, formed after an inquiry reasonable under the circumstances, that: (1) the Arbitration Notice is not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of dispute resolution; (2) the claims, defenses and other legal contentions are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law; and (3) the factual and damages contentions have evidentiary support or, if specifically so identified, will likely have evidentiary support after a reasonable opportunity for further investigation or discovery. Unless you and we otherwise agree, or the Batch Arbitration process discussed in Section 19.9 is triggered, the arbitration will be conducted in the county where you reside. Subject to the applicable AAA rules, the arbitrator may direct a limited and reasonable exchange of information between the parties, consistent with the expedited nature of the arbitration. If the AAA is not available to arbitrate, the parties will select an alternative arbitral forum. Your responsibility to pay any AAA fees and costs will be solely as set forth in the applicable AAA Rules. You and we agree that all materials and documents exchanged during the arbitration proceedings shall be kept confidential and shall not be shared with anyone except the parties’ attorneys, accountants, or business advisors, and then subject to the condition that they agree to keep all materials and documents exchanged during the arbitration proceedings confidential. During the arbitration, the amount of any settlement offer made by you or us must not be disclosed to the arbitrator until after the arbitrator makes a final decision and award, if any."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**19.8 Attorneys’ Fees and Costs.** The parties shall bear their own attorneys’ fees and costs in arbitration unless the arbitrator finds that either the substance of the Dispute or the relief sought in the Arbitration Notice was frivolous or was brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)). If you or we need to invoke the authority of a court of competent jurisdiction to compel arbitration, then the party that obtains an order compelling arbitration in such action shall have the right to collect from the other party its reasonable costs, necessary disbursements, and reasonable attorneys' fees incurred in securing an order compelling arbitration. The prevailing party in any court action relating to whether either party has satisfied any condition precedent to arbitration, including the Informal Dispute Resolution Process, is entitled to recover their reasonable costs, necessary disbursements, and reasonable attorneys’ fees and costs."
+      ],
+      "new": [
+        "**19.8 Attorneys’ Fees and Costs.** The parties shall bear their own attorneys’ fees and costs in arbitration unless the arbitrator finds that either the substance of the Dispute or the relief sought in the Arbitration Notice was frivolous or was brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)). If you or we need to invoke the authority of a court of competent jurisdiction to compel arbitration, then the party that obtains an order compelling arbitration in such action shall have the right to collect from the other party its reasonable costs, necessary disbursements, and reasonable attorneys' fees incurred in securing an order compelling arbitration. The prevailing party in any court action relating to whether either party has satisfied any condition precedent to arbitration, including the informal dispute resolution process, is entitled to recover their reasonable costs, necessary disbursements, and reasonable attorneys’ fees and costs."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**19.12 Modification.** Notwithstanding any provision in the Terms to the contrary, we agree that if we make any future material change to this Arbitration Agreement, it will notify you. Unless you reject the change within thirty (30) days of such change becoming effective by writing to us at the applicable address set forth in Section 18.5, your continued use of the Services, including the acceptance of products and services offered on or through the Services, following the posting of changes to this Arbitration Agreement constitutes your acceptance of any such changes. Changes to this Arbitration Agreement do not provide you with a new opportunity to opt out of the Arbitration Agreement if you have previously agreed to a version of the Terms and did not validly opt out of arbitration. If you reject any change or update to this Arbitration Agreement, and you were bound by an existing agreement to arbitrate Disputes arising out of or relating in any way to your access to or use of the Services, any communications you receive, any products sold or distributed through the Services or the Terms, the provisions of this Arbitration Agreement as of the date you first accepted the Terms (or accepted any subsequent changes to the Terms) remain in full force and effect. We will continue to honor any valid opt outs of the Arbitration Agreement that you made to a prior version of the Terms."
+      ],
+      "new": [
+        "**19.12 Modification.** Notwithstanding any provision in the Terms to the contrary, we agree that if we make any future material change to this Arbitration Agreement, we will notify you. Unless you reject the change within thirty (30) days of such change becoming effective by writing to us at the applicable address set forth in Section 18.5, your continued use of the Services, including the acceptance of products and services offered on or through the Services, following the posting of changes to this Arbitration Agreement constitutes your acceptance of any such changes. Changes to this Arbitration Agreement do not provide you with a new opportunity to opt out of the Arbitration Agreement if you have previously agreed to a version of the Terms and did not validly opt out of arbitration. If you reject any change or update to this Arbitration Agreement, and you were bound by an existing agreement to arbitrate Disputes arising out of or relating in any way to your access to or use of the Services, any communications you receive, any products sold or distributed through the Services or the Terms, the provisions of this Arbitration Agreement as of the date you first accepted the Terms (or accepted any subsequent changes to the Terms) remain in full force and effect. We will continue to honor any valid opt outs of the Arbitration Agreement that you made to a prior version of the Terms."
+      ]
+    }
+  ]
+}

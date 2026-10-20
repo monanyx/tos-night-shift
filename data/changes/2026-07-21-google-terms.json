@@ -1,0 +1,160 @@
+{
+  "id": "2026-07-21-google-terms",
+  "service": "google",
+  "service_name": "Google",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://policies.google.com/terms?hl=en",
+  "detected_at": "2026-07-21T02:27:01+00:00",
+  "source": "wayback",
+  "window_start": "2026-04-21T00:06:47+00:00",
+  "archive_before": "https://web.archive.org/web/20260421000647/https://policies.google.com/terms?hl=en",
+  "archive_after": "https://web.archive.org/web/20260721022701/https://policies.google.com/terms?hl=en",
+  "flags": [],
+  "stats": {
+    "hunks": 12,
+    "added_words": 389,
+    "removed_words": 295
+  },
+  "headline": "Google edited its Terms of Service",
+  "summary": "389 words added and 295 removed across 12 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Country version: Canada",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Country version: United States"
+      ],
+      "new": [
+        "Country version: Canada",
+        "See a preview of the new Terms"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Understanding these terms is important because, by accessing or using our services (whether you’re signed in to a Google account or not), you’re agreeing to these terms.",
+        "Besides these terms, we also publish a Privacy Policy. We encourage you to read it to better understand how you can update, manage, export, and delete your information."
+      ],
+      "new": [
+        "Understanding these terms is important because, by accessing or using our services, you’re agreeing to these terms.",
+        "Besides these terms, we also publish a Privacy Policy. Although it’s not part of these terms, we encourage you to read it to better understand how you can update, manage, export, and delete your information."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You also agree that our Privacy Policy applies to your use of our services. We also provide resources like the Copyright Help Center, Safety Center, Transparency Center, and descriptions of our technologies from our policies site to answer common questions and to set expectations about using our services. Finally, we may provide specific instructions and warnings within our services – such as dialog boxes that alert you to important information."
+      ],
+      "new": [
+        "We also make various policies, help centers, and other resources available to you to answer common questions and to set expectations about using our services. These resources include our Privacy Policy, Copyright Help Center, Safety Center, Transparency Center, and other pages accessible from our policies site. Finally, we may provide specific instructions and warnings within our services – such as dialog boxes that alert you to important information."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## Warranty disclaimer",
+        "We built our reputation on providing useful, reliable services like Google Search and Maps, and we’re continuously improving our services to meet your needs. However, for legal purposes, we offer our services without warranties unless explicitly stated in our service-specific additional terms. The law requires that we explain this using specific legal language and that we use capital letters to help make sure you see it, as follows:",
+        "TO THE EXTENT ALLOWED BY APPLICABLE LAW, WE PROVIDE OUR SERVICES “AS IS” WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. FOR EXAMPLE, WE DON’T MAKE ANY WARRANTIES ABOUT THE CONTENT OR FEATURES OF THE SERVICES, INCLUDING THEIR ACCURACY, RELIABILITY, AVAILABILITY, OR ABILITY TO MEET YOUR NEEDS.",
+        "DON’T RELY ON THE SERVICES FOR MEDICAL, LEGAL, FINANCIAL, OR OTHER PROFESSIONAL ADVICE. ANY CONTENT REGARDING THOSE TOPICS IS PROVIDED FOR INFORMATIONAL PURPOSES ONLY AND IS NOT A SUBSTITUTE FOR ADVICE FROM A QUALIFIED PROFESSIONAL."
+      ],
+      "new": [
+        "Both the law and these terms give you the right to (1) a certain quality of service, and (2) ways to fix problems if things go wrong.",
+        "## Warranty",
+        "We provide our services using reasonable skill and care. If we don’t meet the quality level described in this warranty, you agree to tell us and we’ll work with you to try to resolve the issue.",
+        "## Disclaimers",
+        "The only commitments we make about our services (including the content in the services, the specific functions of our services, or their reliability, availability, or ability to meet your needs) are provided in (1) the *Warranty* section; (2) the service-specific additional terms; and (3) laws that can’t be limited by these terms.",
+        "**Don’t rely on the services for medical, legal, financial, or other professional advice. Any content regarding those topics is provided for informational purposes only and is not a substitute for advice from a qualified professional.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "These terms only limit our responsibilities as allowed by applicable law. These terms don’t limit liability for gross negligence or willful misconduct.",
+        "- Google is liable only for its breaches of these terms or applicable service-specific additional terms",
+        "- Google isn’t liable for:",
+        "- loss of profits, revenues, business opportunities, goodwill, or anticipated savings",
+        "- indirect or consequential losses",
+        "- punitive damages",
+        "- Google’s total liability arising out of or relating to these terms is limited to the greater of (1) $200 or (2) the fees paid to use the relevant services in the 12 months before the dispute"
+      ],
+      "new": [
+        "These terms only limit our responsibilities as allowed by applicable law. These terms don’t limit liability for:",
+        "- fraud or fraudulent misrepresentation",
+        "- death or personal injury caused by negligence",
+        "- gross negligence",
+        "- willful misconduct",
+        "Other than the liabilities described above, Google is liable only for its breaches of these terms or applicable service-specific additional terms, subject to applicable law."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- To the extent allowed by applicable law, you’ll indemnify Google and its directors, officers, employees, and contractors for any third-party legal proceedings (including actions by government authorities) arising out of or relating to your unlawful use of the services or violation of these terms or service-specific additional terms. This indemnity covers any liability or expense arising from claims, losses, damages, judgments, fines, litigation costs, and legal fees."
+      ],
+      "new": [
+        "- To the extent allowed by applicable law, you’ll indemnify Google and its directors, officers, employees, and contractors for any third-party legal proceedings (including actions by government authorities) arising out of or relating to your unlawful use of the services or violation of these terms or service-specific additional terms. This indemnity covers any liability or expense arising from claims, losses, damages, judgments, fines, litigation costs, and legal fees, except to the extent a liability or expense is caused by Google's breach, negligence, or willful misconduct."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- Google won’t be responsible for the following liabilities:",
+        "- loss of profits, revenues, business opportunities, goodwill, or anticipated savings",
+        "- indirect or consequential loss",
+        "- punitive damages",
+        "- Except as stated in the *For all users* section above, Google’s total liability arising out of or relating to these terms is limited to the greater of (1) US$500 or (2) 125% of the fees that you paid to use the relevant services in the 12 months before the breach."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Before taking action as described below, we’ll provide you with advance notice when reasonably possible, describe the reason for our action, and give you an opportunity to clarify the issue and address it, unless doing so would:"
+      ],
+      "new": [
+        "Before taking action as described below, we’ll provide you with advance notice when reasonably possible, describe the reason for our action, and give you an opportunity to clarify the issue and address it, unless we reasonably believe that doing so would:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If any of your content (1) breaches these terms, service-specific additional terms or policies, (2) violates applicable law, or (3) could harm our users, third parties, or Google, then we reserve the right to take down some or all of that content in accordance with applicable law. Examples include child pornography, content that facilitates human trafficking or harassment, terrorist content, and content that infringes someone else’s intellectual property rights."
+      ],
+      "new": [
+        "If we reasonably believe that any of your content (1) breaches these terms, service-specific additional terms or policies, (2) violates applicable law, or (3) could harm our users, third parties, or Google, then we reserve the right to take down some or all of that content in accordance with applicable law. Examples include child pornography, content that facilitates human trafficking or harassment, terrorist content, and content that infringes someone else’s intellectual property rights."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- your conduct causes harm or liability to a user, third party, or Google — for example, by hacking, phishing, harassing, spamming, misleading others, or scraping content that doesn’t belong to you"
+      ],
+      "new": [
+        "- we reasonably believe that your conduct causes harm or liability to a user, third party, or Google — for example, by hacking, phishing, harassing, spamming, misleading others, or scraping content that doesn’t belong to you"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "To the extent that applicable local law prevents certain disputes from being resolved in a California court, then you can file those disputes in your local courts. Likewise, if applicable local law prevents your local court from applying California law to resolve these disputes, then these disputes will be governed by the applicable local laws of your country, state, or other place of residence."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If we materially change these terms or service-specific additional terms, we’ll provide you with reasonable advance notice and the opportunity to review the changes, except (1) when we launch a new service or feature, or (2) in urgent situations, such as preventing ongoing abuse or responding to legal requirements. If you don’t agree to the new terms, you should remove your content and stop using the services. You can also end your relationship with us at any time by closing your Google Account. If you close your Google Account and then access or use our services without an account, that access and use will be subject to the most current version of these terms."
+      ],
+      "new": [
+        "If we materially change these terms or service-specific additional terms, we’ll provide you with reasonable advance notice and the opportunity to review the changes, except (1) when we launch a new service or feature, or (2) in urgent situations, such as preventing ongoing abuse or responding to legal requirements. If you don’t agree to the new terms, you should remove your content and stop using the services. You can also end your relationship with us at any time by closing your Google Account."
+      ]
+    }
+  ]
+}

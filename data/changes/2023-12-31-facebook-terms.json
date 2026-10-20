@@ -1,0 +1,37 @@
+{
+  "id": "2023-12-31-facebook-terms",
+  "service": "facebook",
+  "service_name": "Facebook",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.facebook.com/terms.php",
+  "detected_at": "2023-12-31T00:45:30+00:00",
+  "source": "wayback",
+  "window_start": "2023-10-01T02:27:11+00:00",
+  "archive_before": "https://web.archive.org/web/20231001022711/https://www.facebook.com/terms.php",
+  "archive_after": "https://web.archive.org/web/20231231004530/https://www.facebook.com/terms.php",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 0,
+    "removed_words": 80
+  },
+  "headline": "Facebook edited its Terms of Service",
+  "summary": "0 words added and 80 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "removed",
+      "old": [
+        "## *The Facebook company is now Meta. We’ve updated our Terms of Use, Data Policy, and Cookies Policy to reflect the new name on January 4, 2022. While our company name has changed, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. *Learn more about Meta* and our vision for the metaverse.*"
+      ],
+      "new": []
+    }
+  ]
+}

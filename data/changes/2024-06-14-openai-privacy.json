@@ -1,0 +1,162 @@
+{
+  "id": "2024-06-14-openai-privacy",
+  "service": "openai",
+  "service_name": "OpenAI (ChatGPT)",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://openai.com/policies/privacy-policy/",
+  "detected_at": "2024-06-14T02:36:01+00:00",
+  "source": "wayback",
+  "window_start": "2024-03-29T09:19:55+00:00",
+  "archive_before": "https://web.archive.org/web/20240329091955/https://openai.com/policies/privacy-policy/",
+  "archive_after": "https://web.archive.org/web/20240614023601/https://openai.com/policies/privacy-policy/",
+  "flags": [],
+  "stats": {
+    "hunks": 14,
+    "added_words": 74,
+    "removed_words": 31
+  },
+  "headline": "OpenAI (ChatGPT) edited its Privacy Policy",
+  "summary": "74 words added and 31 removed across 14 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "# Privacy policy",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# Privacy policy"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "For information about how we collect and use training information to develop our language models that power ChatGPT and other Services, and your choices with respect to that information, please see this help center article."
+      ],
+      "new": [
+        "For information about how we collect and use training information to develop our language models that power ChatGPT and other Services, and your choices with respect to that information, please see this help center article(opens in a new window)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Personal Information You Provide**: We collect Personal Information if you create an account to use our Services or communicate with us as follows:"
+      ],
+      "new": [
+        "**Personal information you provide**: We collect Personal Information if you create an account to use our Services or communicate with us as follows:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Personal Information We Receive Automatically From Your Use of the Services**: When you visit, use, or interact with the Services, we receive the following information about your visit, use, or interactions (“Technical Information”):"
+      ],
+      "new": [
+        "**Personal information we receive automatically from your use of the Services**: When you visit, use, or interact with the Services, we receive the following information about your visit, use, or interactions (“Technical Information”):"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- *Cookies*: We use cookies to operate and administer our Services, and improve your experience. A “cookie” is a piece of information sent to your browser by a website you visit. You can set your browser to accept all cookies, to reject all cookies, or to notify you whenever a cookie is offered so that you can decide each time whether to accept it. However, refusing a cookie may in some cases preclude you from using, or negatively affect the display or function of, a website or certain areas or features of a website. For more details on cookies, please visit All About Cookies."
+      ],
+      "new": [
+        "- *Cookies*: We use cookies to operate and administer our Services, and improve your experience. A “cookie” is a piece of information sent to your browser by a website you visit. You can set your browser to accept all cookies, to reject all cookies, or to notify you whenever a cookie is offered so that you can decide each time whether to accept it. However, refusing a cookie may in some cases preclude you from using, or negatively affect the display or function of, a website or certain areas or features of a website. For more details on cookies, please visit All About Cookies(opens in a new window)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Aggregated or De-Identified Information**. We may aggregate or de-identify Personal Information so that it may no longer be used to identify you and use such information to analyze the effectiveness of our Services, to improve and add features to our Services, to conduct research and for other similar purposes. In addition, from time to time, we may analyze the general behavior and characteristics of users of our Services and share aggregated information like general user statistics with third parties, publish such aggregated information or make such aggregated information generally available. We may collect aggregated information through the Services, through cookies, and through other means described in this Privacy Policy. We will maintain and use de-identified information in anonymous or de-identified form and we will not attempt to reidentify the information, unless required by law.",
+        "As noted above, we may use Content you provide us to improve our Services, for example to train the models that power ChatGPT. Read our instructions on how you can opt out of our use of your Content to train our models."
+      ],
+      "new": [
+        "**Aggregated or de-identified information**. We may aggregate or de-identify Personal Information so that it may no longer be used to identify you and use such information to analyze the effectiveness of our Services, to improve and add features to our Services, to conduct research and for other similar purposes. In addition, from time to time, we may analyze the general behavior and characteristics of users of our Services and share aggregated information like general user statistics with third parties, publish such aggregated information or make such aggregated information generally available. We may collect aggregated information through the Services, through cookies, and through other means described in this Privacy Policy. We will maintain and use de-identified information in anonymous or de-identified form and we will not attempt to reidentify the information, unless required by law.",
+        "As noted above, we may use Content you provide us to improve our Services, for example to train the models that power ChatGPT. Read our instructions(opens in a new window) on how you can opt out of our use of your Content to train our models."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You can exercise some of these rights through your OpenAI account. If you are unable to exercise your rights through your account, please submit your request through privacy.openai.com or to dsar@openai.com.",
+        "A note about accuracy: Services like ChatGPT generate responses by reading a user’s request and, in response, predicting the words most likely to appear next. In some cases, the words most likely to appear next may not be the most factually accurate. For this reason, you should not rely on the factual accuracy of output from our models. If you notice that ChatGPT output contains factually inaccurate information about you and you would like us to correct the inaccuracy, you may submit a correction request through privacy.openai.com or to dsar@openai.com. Given the technical complexity of how our models work, we may not be able to correct the inaccuracy in every instance. In that case, you may request that we remove your Personal Information from ChatGPT’s output by filling out this form.",
+        "For information on how to exercise your rights with respect to data we have collected from the internet to train our models, please see this help center article."
+      ],
+      "new": [
+        "You can exercise some of these rights through your OpenAI account. If you are unable to exercise your rights through your account, please submit your request through privacy.openai.com(opens in a new window) or to dsar@openai.com.",
+        "A note about accuracy: Services like ChatGPT generate responses by reading a user’s request and, in response, predicting the words most likely to appear next. In some cases, the words most likely to appear next may not be the most factually accurate. For this reason, you should not rely on the factual accuracy of output from our models. If you notice that ChatGPT output contains factually inaccurate information about you and you would like us to correct the inaccuracy, you may submit a correction request through privacy.openai.com(opens in a new window) or to dsar@openai.com. Given the technical complexity of how our models work, we may not be able to correct the inaccuracy in every instance. In that case, you may request that we remove your Personal Information from ChatGPT’s output by filling out this form(opens in a new window).",
+        "For information on how to exercise your rights with respect to data we have collected from the internet to train our models, please see this help center article(opens in a new window)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Exercising Your Rights.** To the extent applicable under local law, you can exercise privacy rights described in this section by submitting a request through privacy.openai.com or to dsar@openai.com."
+      ],
+      "new": [
+        "**Exercising your rights.** To the extent applicable under local law, you can exercise privacy rights described in this section by submitting a request through privacy.openai.com(opens in a new window) or to dsar@openai.com."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Authorized Agents.** You may also submit a rights request through an authorized agent. If you do so, the agent must present signed written permission to act on your behalf and you may also be required to independently verify your identity and submit proof of your residency with us. Authorized agent requests can be submitted to dsar@openai.com."
+      ],
+      "new": [
+        "**Authorized agents.** You may also submit a rights request through an authorized agent. If you do so, the agent must present signed written permission to act on your behalf and you may also be required to independently verify your identity and submit proof of your residency with us. Authorized agent requests can be submitted to dsar@openai.com."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 8. Security and Retention"
+      ],
+      "new": [
+        "## 8. Security and retention"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Legal Basis for Processing**. Our legal bases for processing your Personal Information include:"
+      ],
+      "new": [
+        "**Legal basis for processing**. Our legal bases for processing your Personal Information include:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Our legitimate interests in protecting our Services from abuse, fraud, or security risks, or in developing, improving, or promoting our Services, including when we train our models. This may include the processing of Account Information, Content, Social Information, and Technical Information. Read our instructions on how you can opt out of our use of your information to train our models."
+      ],
+      "new": [
+        "- Our legitimate interests in protecting our Services from abuse, fraud, or security risks, or in developing, improving, or promoting our Services, including when we train our models. This may include the processing of Account Information, Content, Social Information, and Technical Information. Read our instructions(opens in a new window) on how you can opt out of our use of your information to train our models."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Data Transfers.** Where required, we will use appropriate safeguards for transferring Personal Information outside of certain countries. We will only transfer Personal Information pursuant to a legally valid transfer mechanism.",
+        "**Data Protection Officer.** You can contact our data protection officer at privacy@openai.com in matters related to Personal Information processing."
+      ],
+      "new": [
+        "**Data transfers.** Where required, we will use appropriate safeguards for transferring Personal Information outside of certain countries. We will only transfer Personal Information pursuant to a legally valid transfer mechanism.",
+        "**Data protection officer.** You can contact our data protection officer at privacy@openai.com in matters related to Personal Information processing."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Please contact support if you have any questions or concerns not already addressed in this Privacy Policy."
+      ],
+      "new": [
+        "Please contact support(opens in a new window) if you have any questions or concerns not already addressed in this Privacy Policy."
+      ]
+    }
+  ]
+}

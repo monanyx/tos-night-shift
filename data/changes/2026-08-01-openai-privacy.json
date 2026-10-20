@@ -1,0 +1,45 @@
+{
+  "id": "2026-08-01-openai-privacy",
+  "service": "openai",
+  "service_name": "OpenAI (ChatGPT)",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://openai.com/policies/privacy-policy/",
+  "detected_at": "2026-08-01T00:42:18+00:00",
+  "source": "wayback",
+  "window_start": "2026-05-11T01:07:38+00:00",
+  "archive_before": "https://web.archive.org/web/20260511010738/https://openai.com/policies/privacy-policy/",
+  "archive_after": "https://web.archive.org/web/20260801004218/https://openai.com/policies/privacy-policy/",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 87,
+    "removed_words": 17
+  },
+  "headline": "OpenAI (ChatGPT) edited its Privacy Policy",
+  "summary": "87 words added and 17 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "This is known as “targeted advertising” or sharing for “cross-context behavioral advertising” under certain state privacy laws.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "This is known as “targeted advertising” or sharing for “cross-context behavioral advertising” under certain state privacy laws. You can opt out using the marketing privacy control in your account settings. If you’re not logged in, you can opt out using the Your Privacy Choices link on our website. You can also opt out using a legally recognized opt-out mechanism, like Global Privacy Control. You can learn more about the types of data we use and share for these purposes and controls we offer you <u>here</u>(opens in a new window). We don’t engage in these activities for users we know to be under 18 years of age.",
+        "**Your Other Rights.** You can exercise these privacy rights described in this section by submitting a request through <u>privacy.openai.com</u>(opens in a new window) or to <u>dsar@openai.com</u>. Review our California privacy rights reporting <u>here</u>."
+      ],
+      "new": [
+        "This is known as “targeted advertising” or sharing for “cross-context behavioral advertising” under certain state privacy laws. You can opt out using the marketing privacy control in your account settings. If you’re not logged in, you can opt out within Settings > Data Controls on ChatGPT or using the Your Privacy Choices link on our website. You can also opt out using a legally recognized opt-out mechanism, like Global Privacy Control. You can learn more about the types of data we use and share for these purposes and controls we offer you <u>here</u>(opens in a new window). We don’t engage in these activities for users we know to be under 18 years of age.",
+        "**Your Other Rights.** Depending on where you live and subject to applicable exceptions, you may have the following privacy rights in relation to your Personal Data:",
+        "- The right to know information about our processing of your Personal Data, including the right to access your Personal Data, often in a portable format;",
+        "- The right to request deletion of your Personal Data;",
+        "- The right to correct your Personal Data; and",
+        "The right to be free from retaliation relating to the exercise of any of your privacy rights. Review our California privacy rights reporting <u>here</u>."
+      ]
+    }
+  ]
+}

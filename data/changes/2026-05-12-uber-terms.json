@@ -1,0 +1,58 @@
+{
+  "id": "2026-05-12-uber-terms",
+  "service": "uber",
+  "service_name": "Uber",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en",
+  "detected_at": "2026-05-12T03:38:44+00:00",
+  "source": "wayback",
+  "window_start": "2026-03-17T15:11:17+00:00",
+  "archive_before": "https://web.archive.org/web/20260317151117/https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en",
+  "archive_after": "https://web.archive.org/web/20260512033844/https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en",
+  "flags": [],
+  "stats": {
+    "hunks": 2,
+    "added_words": 14,
+    "removed_words": 14
+  },
+  "headline": "Uber edited its Terms of Service",
+  "summary": "14 words added and 14 removed across 2 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "1\\.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "1\\. Contractual Relationship; Termination; and Modification",
+        "3\\. The Services",
+        "4\\. Third-Party Services (including Autonomous Vehicles) and Content",
+        "6\\. User Conduct and Requirements; Communications; Avoiding Conflicts of Interest; and User Content",
+        "7\\. Payment",
+        "8\\. Disclaimers; Limitation of Liability; and Indemnity"
+      ],
+      "new": [
+        "1\\. <u>Contractual Relationship; Termination; and Modification</u>",
+        "3\\. <u>The Services</u>",
+        "4\\. <u>Third-Party Services (including Autonomous Vehicles) and Content</u>",
+        "6\\. <u>User Conduct and Requirements; Communications; Avoiding Conflicts of Interest; and User Content</u>",
+        "7. <u>Payment</u>",
+        "8\\. <u>Disclaimers; Limitation of Liability; and Indemnity</u>"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "PLEASE READ THESE TERMS OF SERVICE CAREFULLY AS THEY CONTAIN PROVISIONS THAT GOVERN HOW YOU CAN BRING CLAIMS AND/OR LAWSUITS BETWEEN YOU AND UBER, INCLUDING THE ARBITRATION AGREEMENT IN SECTION 2 BELOW. THE ARBITRATION AGREEMENT REQUIRES YOU TO RESOLVE ALL DISPUTES WITH UBER ON AN INDIVIDUAL BASIS AND, WITH LIMITED EXCEPTIONS, THROUGH FINAL AND BINDING ARBITRATION. THESE TERMS OF SERVICE OUTLINE HOW SUCH CLAIMS AND/OR LAWSUITS ARE RESOLVED, INCLUDING, WITHOUT LIMITATION, ANY CLAIMS AND/OR LAWSUITS THAT AROSE OR WERE ASSERTED BEFORE THE EFFECTIVE DATE OF THESE TERMS OF SERVICE. BY AGREEING TO THESE TERMS OF SERVICE, YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD ALL OF THEM AND HAVE TAKEN TIME TO CONSIDER THE CONSEQUENCES OF THIS IMPORTANT DECISION."
+      ],
+      "new": [
+        "PLEASE READ THESE TERMS OF SERVICE CAREFULLY AS THEY CONTAIN PROVISIONS THAT GOVERN HOW YOU CAN BRING CLAIMS AND/OR LAWSUITS BETWEEN YOU AND UBER, INCLUDING THE <u>ARBITRATION AGREEMENT</u> IN SECTION 2 BELOW. THE ARBITRATION AGREEMENT REQUIRES YOU TO RESOLVE ALL DISPUTES WITH UBER ON AN INDIVIDUAL BASIS AND, WITH LIMITED EXCEPTIONS, THROUGH FINAL AND BINDING ARBITRATION. THESE TERMS OF SERVICE OUTLINE HOW SUCH CLAIMS AND/OR LAWSUITS ARE RESOLVED, INCLUDING, WITHOUT LIMITATION, ANY CLAIMS AND/OR LAWSUITS THAT AROSE OR WERE ASSERTED BEFORE THE EFFECTIVE DATE OF THESE TERMS OF SERVICE. BY AGREEING TO THESE TERMS OF SERVICE, YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD ALL OF THEM AND HAVE TAKEN TIME TO CONSIDER THE CONSEQUENCES OF THIS IMPORTANT DECISION."
+      ]
+    }
+  ]
+}

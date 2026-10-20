@@ -1,0 +1,64 @@
+{
+  "id": "2026-09-26-pinterest-privacy",
+  "service": "pinterest",
+  "service_name": "Pinterest",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://policy.pinterest.com/en/privacy-policy",
+  "detected_at": "2026-09-26T04:55:30+00:00",
+  "source": "wayback",
+  "window_start": "2026-06-04T23:41:53+00:00",
+  "archive_before": "https://web.archive.org/web/20260604234153/https://policy.pinterest.com/en/privacy-policy",
+  "archive_after": "https://web.archive.org/web/20260926045530/https://policy.pinterest.com/en/privacy-policy",
+  "flags": [
+    {
+      "tag": "minors",
+      "label": "Kids & teens",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 2,
+    "added_words": 110,
+    "removed_words": 0
+  },
+  "headline": "Pinterest rewrote its Privacy Policy — new wording on kids and teens",
+  "summary": "110 words added and 0 removed across 2 sections. New wording touches: Kids & teens. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Our policy on children's information",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "minors"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "We're updating our Privacy Policy, effective November 12, 2026. You can preview the updated Privacy Policy here ."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## Table of Contents",
+        "State Privacy Law Disclosure & Notice at Collection",
+        "Summary of changes",
+        "Thank you for using Pinterest!",
+        "Scope of the Privacy Policy",
+        "We collect information in a few different ways",
+        "How we use the info we collect",
+        "Additional Info for EEA, Swiss and UK Data Subjects: Legal bases we rely on where we use your information",
+        "Your Rights and Choices",
+        "How and when we share information",
+        "Transferring your information",
+        "How long we keep your information",
+        "Our policy on children's information",
+        "How we make changes to this policy",
+        "Contact us"
+      ]
+    }
+  ]
+}

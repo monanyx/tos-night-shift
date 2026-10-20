@@ -1,0 +1,130 @@
+{
+  "id": "2023-07-02-microsoft-terms",
+  "service": "microsoft",
+  "service_name": "Microsoft",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.microsoft.com/en-us/servicesagreement",
+  "detected_at": "2023-07-02T03:11:57+00:00",
+  "source": "wayback",
+  "window_start": "2023-04-02T02:33:43+00:00",
+  "archive_before": "https://web.archive.org/web/20230402023343/https://www.microsoft.com/en-US/servicesagreement/",
+  "archive_after": "https://web.archive.org/web/20230702031157/https://www.microsoft.com/en-US/servicesagreement/",
+  "flags": [],
+  "stats": {
+    "hunks": 13,
+    "added_words": 74,
+    "removed_words": 46
+  },
+  "headline": "Microsoft edited its Terms of Service",
+  "summary": "74 words added and 46 removed across 13 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "- Apps and services included with Microsoft 365 Basic",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- Apps and services included with Microsoft 365 Basic",
+        "- Apps and services included with Microsoft 365 consumer subscriptions",
+        "- Apps and services included with Microsoft 365 Family",
+        "- Apps and services included with Microsoft 365 Personal"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- Bing Conversational Experiences"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- Bing Image Creator"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- Microsoft 365 for the web",
+        "- Microsoft 365 optional connected experiences"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- Microsoft Rewards"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- Microsoft Sway"
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "- Microsoft XiaoIce"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "- Office 365 Pro Plus optional connected experiences",
+        "- Office for the web (formerly Office Online)",
+        "- Office in Microsoft 365 Consumer",
+        "- Office in Microsoft 365 Family",
+        "- Office in Microsoft 365 Personal"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "- Office Sway",
+        "- Office.com"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "- Rinna"
+      ],
+      "new": []
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- SMS Organizer app"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- The free version of Microsoft 365"
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "- Zo"
+      ],
+      "new": []
+    }
+  ]
+}

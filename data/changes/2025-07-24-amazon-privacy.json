@@ -1,0 +1,192 @@
+{
+  "id": "2025-07-24-amazon-privacy",
+  "service": "amazon",
+  "service_name": "Amazon",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+  "detected_at": "2025-07-24T21:17:25+00:00",
+  "source": "wayback",
+  "window_start": "2025-03-25T05:29:17+00:00",
+  "archive_before": "https://web.archive.org/web/20250325052917/https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+  "archive_after": "https://web.archive.org/web/20250724211725/https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+  "flags": [],
+  "stats": {
+    "hunks": 16,
+    "added_words": 125,
+    "removed_words": 157
+  },
+  "headline": "Amazon edited its Privacy Policy",
+  "summary": "125 words added and 157 removed across 16 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "**Last updated: June 30, 2025.** View the prior version of this Privacy Notice.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "**Last updated: February 14, 2025.** To see prior version, click here."
+      ],
+      "new": [
+        "**Last updated: June 30, 2025.** View the prior version of this Privacy Notice."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "personal information through Amazon websites, devices, products, services, online",
+        "and physical stores, and applications that reference this Privacy Notice (together",
+        "\"Amazon Services\"). **By using Amazon Services, you are consenting to the practices described in this Privacy"
+      ],
+      "new": [
+        "personal information through Amazon products, services, stores, website and physical",
+        "locations, devices and applications that reference this Privacy Notice (together \"Amazon",
+        "Services\"). **By using Amazon Services, you are consenting to the practices described in this Privacy"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Click here to see examples of what we collect. You can choose not to provide certain information,",
+        "but then you might not be able to take advantage of many of our Amazon Services."
+      ],
+      "new": [
+        "You can choose not to provide certain information, but then you might not be able",
+        "to take advantage of many of our Amazon Services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "such as the products and services you interact with. Click here to see examples of what we collect."
+      ],
+      "new": [
+        "such as the products and services you interact with."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "deliver your next purchase more easily. Click here to see additional examples of the information we receive."
+      ],
+      "new": [
+        "deliver your next purchase more easily."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "service to you, and improve our services. For more information about Alexa voice services",
+        ", click here."
+      ],
+      "new": [
+        "service to you, and improve our services. You can read more about Alexa, Echo Devices, and Your Privacy."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "via different channels (e.g., by phone, email, chat)."
+      ],
+      "new": [
+        "via different channels (for example, by phone, email, chat)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Our devices offer security features to protect them against unauthorized access and loss of data. You can control these features and configure them based on your needs. Click here for more information on how to manage the security settings of your device.",
+        "- It is important for you to protect against unauthorized access to your password and to your computers, devices, and applications. We recommend using a unique password for your Amazon account that is not used for other online accounts. Be sure to sign off when finished using a shared computer. Click here for more information on how to sign off."
+      ],
+      "new": [
+        "- Our devices offer security features to protect them against unauthorized access and loss of data. You can control these features and configure them based on your needs. Learn more about how to manage the security settings of your device at Digital Services and Device Support.",
+        "- It is important for you to protect against unauthorized access to your password and to your computers, devices, and applications. We recommend using a unique password for your Amazon account that is not used for other online accounts. Consider enhancing your security by following the guidance at our Your Security page.",
+        "- Be sure to sign off when finished using a shared computer. Read more information on Signing Out of Your Amazon Account."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "third-party advertising at Amazon, including interest-based ads, please read our Interest-Based Ads notice. To adjust your advertising preferences, please go to the Your Ads Privacy Choices page."
+      ],
+      "new": [
+        "third-party advertising at Amazon, including interest-based ads, please read our Interest-Based Ads notice. To adjust your advertising preferences, please visit Your Ads Privacy Choices."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "of personalized advertising (such as cross-context behavioral advertising) by going",
+        "to the Your Ads Privacy Choices page.",
+        "## What Information Can I Access?",
+        "You can access your information, including your name, address, payment options, profile information, Prime membership, household settings, and purchase history in the \"Your Account\" section of the website. Click here for a list of examples that you can access."
+      ],
+      "new": [
+        "of personalized advertising (such as cross-context behavioral advertising) by visiting",
+        "Your Ads Privacy Choices.",
+        "## What Information Can I Access in My Account?",
+        "You can access your information, including your name, address, payment options, profile information, Prime membership, household settings, and purchase history in the \"Your Account\" section of the website."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- If you want to browse our websites without linking the browsing history to your account, you may do so by logging out of your account here and blocking cookies on your browser.",
+        "- You can manage the recommendations you receive in our store here, remove recommendations you don’t want to see here by selecting View All and Manage then selecting the Remove Items toggle that appears at the top of the page, and edit your browsing history here.",
+        "- You will also be able to opt out of certain other types of data usage by updating your settings on the applicable Amazon website (e.g., in \"Manage Your Content and Devices\"), device, or application. For more information click here. Most non-Amazon devices also provide users with the ability to change device permissions (e.g., disable/access location services, contacts). For most devices, these controls are located in the device's settings menu. If you have questions about how to change your device permissions on devices manufactured by third parties, we recommend you contact your mobile service carrier or your device manufacturer."
+      ],
+      "new": [
+        "- If you want to browse our websites without linking the browsing history to your account, you may do so by signing out of your account and blocking cookies on your browser.",
+        "- You can manage the recommendations you receive in our store at Improve Your Recommendations, and you can remove recommendations you don’t want to see by unchecking the “Use this item for recommendations” toggle on the right side of the page for each item. You can edit Your Browsing History, as well.",
+        "- You will also be able to opt out of certain other types of data usage by updating your settings on the applicable Amazon website (for example, Manage Your Content and Devices), device, or application. Learn more about certain devices at our Privacy Settings FAQ page. Most non-Amazon devices also provide users with the ability to change device permissions (for example, disable/access location services, contacts). For most devices, these controls are located in the device's settings menu. If you have questions about how to change your device permissions on devices manufactured by third parties, we recommend you contact your mobile service carrier or your device manufacturer."
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "- If you shop in our physical stores, you can manage how certain data is used to analyze the performance of our products and services, as well as learn more here."
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Amazon.com, Inc. participates in the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework. Click here to learn more."
+      ],
+      "new": [
+        "Amazon.com, Inc. participates in the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework. Learn more about the EU-US Data Privacy Framework, UK Extension, and Swiss-US Data Privacy Framework."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- provide information in Your Account (and you might have more than one if you have used more than one email address or mobile number when shopping with us) or Your Profile ;"
+      ],
+      "new": [
+        "- provide information in Your Account (and you might have more than one if you have used more than one email address or mobile number when shopping with us) or Your Profile;"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- compile Playlists, Watchlists, Wish Lists , or other gift registries;"
+      ],
+      "new": [
+        "- compile Playlists, Watchlists, Wish Lists, or other gift registries;"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Amazon Services metrics (e.g., the occurrences of technical errors, your interactions with service features and content, your settings preferences and backup information, location of your device running an application, information about uploaded images and files such as the file name, dates, times and location of your images);"
+      ],
+      "new": [
+        "- Amazon Services metrics (for example, the occurrences of technical errors, your interactions with service features and content, your settings preferences and backup information, location of your device running an application, information about uploaded images and files such as the file name, dates, times and location of your images);"
+      ]
+    }
+  ]
+}

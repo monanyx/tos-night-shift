@@ -1,0 +1,165 @@
+{
+  "id": "2024-04-20-spotify-privacy",
+  "service": "spotify",
+  "service_name": "Spotify",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.spotify.com/us/legal/privacy-policy/",
+  "detected_at": "2024-04-20T01:13:41+00:00",
+  "source": "wayback",
+  "window_start": "2024-01-20T07:09:15+00:00",
+  "archive_before": "https://web.archive.org/web/20240120070915/https://www.spotify.com/us/legal/privacy-policy/",
+  "archive_after": "https://web.archive.org/web/20240420011341/https://www.spotify.com/us/legal/privacy-policy/",
+  "flags": [],
+  "stats": {
+    "hunks": 15,
+    "added_words": 30,
+    "removed_words": 30
+  },
+  "headline": "Spotify edited its Privacy Policy",
+  "summary": "30 words added and 30 removed across 15 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "# Spotify Privacy Policy",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "# **Spotify Privacy Policy**"
+      ],
+      "new": [
+        "# Spotify Privacy Policy"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## **1. About this Policy**"
+      ],
+      "new": [
+        "## 1. About this Policy"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## **2. Your personal data rights and controls**"
+      ],
+      "new": [
+        "## 2. Your personal data rights and controls"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "#### **Verifying requests, generally**"
+      ],
+      "new": [
+        "#### Verifying requests, generally"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "#### **Household requests**"
+      ],
+      "new": [
+        "#### Household requests"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "#### **Tailored advertising controls**"
+      ],
+      "new": [
+        "#### Tailored advertising controls"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## **3. Personal data we collect about you**"
+      ],
+      "new": [
+        "## 3. Personal data we collect about you"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## **4. Our purpose for using your personal data**"
+      ],
+      "new": [
+        "## 4. Our purpose for using your personal data"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## **5. Disclosing your personal data**"
+      ],
+      "new": [
+        "## 5. Disclosing your personal data"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## **6. Data retention**"
+      ],
+      "new": [
+        "## 6. Data retention"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## **7. Transfer to other countries**"
+      ],
+      "new": [
+        "## 7. Transfer to other countries"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## **8. Keeping your personal data safe**"
+      ],
+      "new": [
+        "## 8. Keeping your personal data safe"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## **9. Children**"
+      ],
+      "new": [
+        "## 9. Children"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## **10. Changes to this Policy**"
+      ],
+      "new": [
+        "## 10. Changes to this Policy"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## **11. How to contact us**"
+      ],
+      "new": [
+        "## 11. How to contact us"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2024-04-24-linkedin-terms",
+  "service": "linkedin",
+  "service_name": "LinkedIn",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.linkedin.com/legal/user-agreement",
+  "detected_at": "2024-04-24T18:36:47+00:00",
+  "source": "wayback",
+  "window_start": "2024-01-18T14:13:36+00:00",
+  "archive_before": "https://web.archive.org/web/20240118141336/https://www.linkedin.com/legal/user-agreement",
+  "archive_after": "https://web.archive.org/web/20240424183647/https://www.linkedin.com/legal/user-agreement",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 49,
+    "removed_words": 0
+  },
+  "headline": "LinkedIn edited its Terms of Service",
+  "summary": "49 words added and 0 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "6.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "6. ## 6. Governing Law and Dispute Resolution In the unlikely event we end up in a legal dispute, depending on where you live, you and LinkedIn agree to resolve it in California courts using California law, Dublin, Ireland courts using Irish law, or in your local courts using local law. If you live in the Designated Countries, the laws of Ireland govern all claims related to LinkedIn's provision of the Services, but this shall not deprive you of the mandatory consumer protections under the law of the country to which we direct your Services where you have habitual residence. With respect to jurisdiction, you and LinkedIn agree to choose the courts of the country to which we direct your Services where you have habitual residence for all disputes arising out of or relating to this User Agreement, or in the alternative, you may choose the responsible court in Ireland. For others outside of Designated Countries, including those who live outside of the United States: You and LinkedIn agree that the laws of the State of California, U.S.A., excluding its conflict of laws rules, shall exclusively govern any dispute relating to this Contract and/or the Services. You and LinkedIn both agree that all claims and disputes can be litigated only in the federal or state courts in Santa Clara County, California, USA, and you and LinkedIn each agree to personal jurisdiction in those courts"
+      ],
+      "new": [
+        "6. ## 6. Governing Law and Dispute Resolution In the unlikely event we end up in a legal dispute, depending on where you live, you and LinkedIn agree to resolve it in California courts using California law, Dublin, Ireland courts using Irish law, or in your local courts using local law. If you live in the Designated Countries, the laws of Ireland govern all claims related to LinkedIn's provision of the Services, but this shall not deprive you of the mandatory consumer protections under the law of the country to which we direct your Services where you have habitual residence. With respect to jurisdiction, you and LinkedIn agree to choose the courts of the country to which we direct your Services where you have habitual residence for all disputes arising out of or relating to this User Agreement, or in the alternative, you may choose the responsible court in Ireland. If you are a business user within the scope of Article 6(12) of the EU Digital Markets Act (“DMA”) and have a dispute arising out of or in connection with Article 6(12) of the DMA, you may also utilize the alternative dispute resolution mechanism available in the Help Center. For others outside of Designated Countries, including those who live outside of the United States: You and LinkedIn agree that the laws of the State of California, U.S.A., excluding its conflict of laws rules, shall exclusively govern any dispute relating to this Contract and/or the Services. You and LinkedIn both agree that all claims and disputes can be litigated only in the federal or state courts in Santa Clara County, California, USA, and you and LinkedIn each agree to personal jurisdiction in those courts"
+      ]
+    }
+  ]
+}

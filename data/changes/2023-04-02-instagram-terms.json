@@ -1,0 +1,39 @@
+{
+  "id": "2023-04-02-instagram-terms",
+  "service": "instagram",
+  "service_name": "Instagram",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://help.instagram.com/581066165581870",
+  "detected_at": "2023-04-02T02:13:33+00:00",
+  "source": "wayback",
+  "window_start": "2023-01-01T02:47:26+00:00",
+  "archive_before": "https://web.archive.org/web/20230101024726/https://help.instagram.com/581066165581870/",
+  "archive_after": "https://web.archive.org/web/20230402021333/https://help.instagram.com/581066165581870/",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 2,
+    "removed_words": 2
+  },
+  "headline": "Instagram edited its Terms of Service",
+  "summary": "2 words added and 2 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "# Terms of Use",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "# Terms and Imprint"
+      ],
+      "new": [
+        "# Terms of Use"
+      ]
+    }
+  ]
+}

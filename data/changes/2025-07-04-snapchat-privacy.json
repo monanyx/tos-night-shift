@@ -1,0 +1,37 @@
+{
+  "id": "2025-07-04-snapchat-privacy",
+  "service": "snapchat",
+  "service_name": "Snapchat",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://values.snap.com/privacy/privacy-policy",
+  "detected_at": "2025-07-04T10:21:09+00:00",
+  "source": "wayback",
+  "window_start": "2025-03-24T02:31:14+00:00",
+  "archive_before": "https://web.archive.org/web/20250324023114/https://values.snap.com/privacy/privacy-policy",
+  "archive_after": "https://web.archive.org/web/20250704102109/https://values.snap.com/privacy/privacy-policy",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 0,
+    "removed_words": 26
+  },
+  "headline": "Snapchat edited its Privacy Policy",
+  "summary": "0 words added and 26 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "removed",
+      "old": [
+        "**We've updated our Privacy Policy, effective April 7, 2025. You can view the prior Privacy Policy, which applies to all users until April 7, 2025,** <u>here</u>**.**"
+      ],
+      "new": []
+    }
+  ]
+}

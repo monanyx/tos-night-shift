@@ -1,0 +1,39 @@
+{
+  "id": "2025-05-25-anthropic-privacy",
+  "service": "anthropic",
+  "service_name": "Anthropic (Claude)",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.anthropic.com/legal/privacy",
+  "detected_at": "2025-05-25T08:16:40+00:00",
+  "source": "wayback",
+  "window_start": "2025-03-28T10:12:55+00:00",
+  "archive_before": "https://web.archive.org/web/20250328101255/https://www.anthropic.com/legal/privacy",
+  "archive_after": "https://web.archive.org/web/20250525081640/https://www.anthropic.com/legal/privacy",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 7,
+    "removed_words": 0
+  },
+  "headline": "Anthropic (Claude) edited its Privacy Policy",
+  "summary": "7 words added and 0 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "| To improve the Services and conduct research (including model training).",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "| To improve the Services and conduct research (including model training). See our Notice on Model Training for more details on the data used to train our models. | Feedback (which may include Inputs and Outputs) Inputs and Outputs flagged for Trust & Safety review | Consent (when users submit Feedback) Legitimate interests (for trust and safety purposes) It is our legitimate interest and in the interest of Anthropic users to evaluate the use of the Services and adoption of new features to inform the development of future features and improve direction and development of the Services. |"
+      ],
+      "new": [
+        "| To improve the Services and conduct research (including model training). See our Notice on Model Training for more details on the data used to train our models. | Feedback (which may include Inputs and Outputs) Inputs and Outputs flagged for Trust & Safety review Data provided through the Development Partner Program | Consent (when users submit Feedback) Legitimate interests (for trust and safety purposes) It is our legitimate interest and in the interest of Anthropic users to evaluate the use of the Services and adoption of new features to inform the development of future features and improve direction and development of the Services. |"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": "2024-04-03-reddit-terms",
+  "service": "reddit",
+  "service_name": "Reddit",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://redditinc.com/policies/user-agreement",
+  "detected_at": "2024-04-03T04:46:34+00:00",
+  "source": "wayback",
+  "window_start": "2024-01-02T00:02:13+00:00",
+  "archive_before": "https://web.archive.org/web/20240102000213/https://www.redditinc.com/policies/user-agreement",
+  "archive_after": "https://web.archive.org/web/20240403044634/https://www.redditinc.com/policies/user-agreement",
+  "flags": [],
+  "stats": {
+    "hunks": 13,
+    "added_words": 306,
+    "removed_words": 97
+  },
+  "headline": "Reddit edited its Terms of Service",
+  "summary": "306 words added and 97 removed across 13 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Effective February 15, 2024.",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Effective September 25, 2023. Last Revised September 25, 2023"
+      ],
+      "new": [
+        "Effective February 15, 2024. Last Revised February 15, 2024"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- If you live outside the European Economic Area (“**EEA**”), the United Kingdom, or Switzerland, your terms are here."
+      ],
+      "new": [
+        "- If you live in the United States or outside the European Economic Area (“**EEA**”), the United Kingdom, and Switzerland, your terms are here."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## Reddit User Agreement if you live outside the EEA, United Kingdom, or Switzerland, including if you live in the United States"
+      ],
+      "new": [
+        "## Reddit User Agreement if you live in the United States or outside the EEA, United Kingdom, and Switzerland"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "We personalize your experience on the Services based on a variety of factors, including your activity on the Services, communities you are subscribed to, and preferences you’ve identified in your settings. Based on these and other factors, we may make recommendations to make your experience on Reddit more relevant. For more information about your content recommendations, as well as a description of how you can control certain personalization options, please see our Help Center."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You are solely responsible for the information associated with your Account and anything that happens related to your Account. You must maintain the security of your Account and immediately notify Reddit if you discover or suspect that someone has accessed your Account without your permission. We recommend that you use a strong password that is used only with your Account and enable two-factor authentication."
+      ],
+      "new": [
+        "You are solely responsible for the information associated with your Account and anything that happens related to your Account. You must maintain the security of your Account and immediately notify Reddit if you discover or suspect that someone has accessed your Account without your permission. We recommend that you use a strong password that is used only with your Account and enable two-factor authentication. If you add your phone number to your Account and later change or deactivate your phone number, make sure to update your Account information."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Although we have no obligation to screen, edit, or monitor Your Content, we may, in our sole discretion, delete or remove Your Content at any time and for any reason, including for violating these Terms, violating our Content Policy, or if you otherwise create or are likely to create liability for us."
+      ],
+      "new": [
+        "Although we have no obligation to screen, edit, or monitor Your Content, we may, in our sole discretion, delete, deem your content ineligible for monetization, or remove Your Content, at any time and for any reason, including for violating these Terms, our Content Policy, or our other terms and policies, or if you otherwise create or are likely to create liability for us.",
+        "For more information about Reddit’s approach to content moderation, including how we enforce our Content Policy and how to appeal content moderation decisions, please visit our Help Center."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- If you participate in any Reddit program that is subject to Additional Terms (including our Contributor Program), you must also agree to those Additional Terms."
+      ],
+      "new": [
+        "- If you participate in any Reddit program that is subject to Additional Terms (e.g., Contributor Terms for our Contributor Program), you must also agree to those Additional Terms."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "We personalize your experience on the Services based on a variety of factors, including your activity on the Services, communities you are subscribed to, and preferences you’ve identified in your settings. Based on these and other factors, we may make recommendations to make your experience on Reddit more relevant. For more information about your content recommendations, as well as a description of how you can control certain personalization options, please see our Help Center."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You are solely responsible for the information associated with your Account and anything that happens related to your Account. You must maintain the security of your Account and immediately notify Reddit if you discover or suspect that someone has accessed your Account without your permission. We recommend that you use a strong password that is used only with your Account and enable two-factor authentication."
+      ],
+      "new": [
+        "You are solely responsible for the information associated with your Account and anything that happens related to your Account. You must maintain the security of your Account and immediately notify Reddit if you discover or suspect that someone has accessed your Account without your permission. We recommend that you use a strong password that is used only with your Account and enable two-factor authentication. If you add your phone number to your Account and later change or deactivate your phone number, make sure to update your Account information."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Although we reserve the right to review, screen, edit, or monitor Your Content, we do not necessarily review all of it at the time it is submitted to the Services. However, we may, in our sole discretion, delete or remove Your Content at any time and for any reason, including for violating these Terms, violating our Content Policy, or if you otherwise create or are likely to create liability for us."
+      ],
+      "new": [
+        "Although we reserve the right to review, screen, edit, or monitor Your Content, we do not necessarily review all of it at the time it is submitted to the Services. However, we may, in our sole discretion, delete, deem your content ineligible for monetization, or remove Your Content at any time and for any reason, including for violating these Terms, our Content Policy, or our other terms and policies, or if you otherwise create or are likely to create liability for us.",
+        "For more information about Reddit’s approach to content moderation, including how we enforce our Content Policy and how to appeal content moderation decisions, please visit our Help Center."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- If you participate in any Reddit program that is subject to Additional Terms (including our Contributor Program), you must also agree to those Additional Terms."
+      ],
+      "new": [
+        "- If you participate in any Reddit program that is subject to Additional Terms (e.g., Contributor Terms for our Contributor Program), you must also agree to those Additional Terms."
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "### 18. Contact Details"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "The following representative is authorized to receive service in Germany on behalf of Reddit, Inc. for administrative and judicial proceedings within the meaning of Section 5(1) of the Network Enforcement Act:",
+        "Taylor Wessing PartG mbB",
+        "- NetzDG-Zustellungen -",
+        "Am Sandtorkai 41",
+        "20457 Hamburg",
+        "Germany",
+        "This authorization to receive service relates exclusively to service in respect of unlawful content within the meaning of Section 1(3) of the Network Enforcement Act."
+      ],
+      "new": []
+    }
+  ]
+}

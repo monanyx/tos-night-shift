@@ -1,0 +1,50 @@
+{
+  "id": "2025-05-07-x-privacy",
+  "service": "x",
+  "service_name": "X (Twitter)",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://x.com/en/privacy",
+  "detected_at": "2025-05-07T01:21:53+00:00",
+  "source": "wayback",
+  "window_start": "2025-03-04T17:52:22+00:00",
+  "archive_before": "https://web.archive.org/web/20250304175222/https://x.com/en/privacy",
+  "archive_after": "https://web.archive.org/web/20250507012153/https://x.com/en/privacy",
+  "flags": [],
+  "stats": {
+    "hunks": 2,
+    "added_words": 6,
+    "removed_words": 6
+  },
+  "headline": "X (Twitter) edited its Privacy Policy",
+  "summary": "6 words added and 6 removed across 2 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "If you live in the European Union, EFTA States, or the United Kingdom, the data controller responsible for your personal data is X Internet Unlimited Company, with an address of:",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "If you live in the European Union, EFTA States, or the United Kingdom, the data controller responsible for your personal data is Twitter International Unlimited Company, with an address of:",
+        "**Twitter International Unlimited Company Attn: Data Protection Officer One Cumberland Place, Fenian Street Dublin 2, D02 AX07 IRELAND**"
+      ],
+      "new": [
+        "If you live in the European Union, EFTA States, or the United Kingdom, the data controller responsible for your personal data is X Internet Unlimited Company, with an address of:",
+        "**X Internet Unlimited Company Attn: Data Protection Officer One Cumberland Place, Fenian Street Dublin 2, D02 AX07 IRELAND**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If you wish to raise a concern about our <u>data processing practices</u>, you have the right to do so with your local supervisory authority or Twitter International Unlimited Company’s lead supervisory authority, the Irish Data Protection Commission, using the <u>contact details</u> listed on their website."
+      ],
+      "new": [
+        "If you wish to raise a concern about our <u>data processing practices</u>, you have the right to do so with your local supervisory authority or X Internet Unlimited Company’s lead supervisory authority, the Irish Data Protection Commission, using the <u>contact details</u> listed on their website."
+      ]
+    }
+  ]
+}

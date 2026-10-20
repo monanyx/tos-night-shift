@@ -1,0 +1,411 @@
+{
+  "id": "2024-05-28-tinder-terms",
+  "service": "tinder",
+  "service_name": "Tinder",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://policies.tinder.com/terms/intl/en",
+  "detected_at": "2024-05-28T15:40:47+00:00",
+  "source": "wayback",
+  "window_start": "2024-02-23T22:12:30+00:00",
+  "archive_before": "https://web.archive.org/web/20240223221230/https://policies.tinder.com/terms/intl/en/",
+  "archive_after": "https://web.archive.org/web/20240528154047/https://policies.tinder.com/terms/intl/en/",
+  "flags": [],
+  "stats": {
+    "hunks": 41,
+    "added_words": 277,
+    "removed_words": 97
+  },
+  "headline": "Tinder edited its Terms of Service",
+  "summary": "277 words added and 97 removed across 41 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "*Effective on April 1, 2024;* download these Terms of Use as a PDF",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "*Effective on January 31, 2024*",
+        "*A short summary of our Terms of Use is available* <u>here</u>*.*"
+      ],
+      "new": [
+        "*Effective on April 1, 2024;* download these Terms of Use as a PDF",
+        "**Here is a short summary of our Terms of Use.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*We have included brief summaries at the beginning of each section to make it easier for you to read and understand this agreement. The summaries do not replace the text of each section, and you should still read each section in its entirety.*"
+      ],
+      "new": [
+        "**We have included brief summaries at the beginning of each section to make it easier for you to read and understand this agreement. The summaries do not replace the text of each section, and you should still read each section in its entirety.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*By accessing or using Tinder's Services, you agree to be bound by this Terms of Use Agreement (the “Terms” or “Agreement”), including our* <u>Privacy Policy</u>*,* <u>Cookie Policy</u>*,* <u>Community Guidelines</u>*, and* <u>Safety Tips</u>*, so it is important that you read this Agreement and these policies and procedures carefully before you create an account.*",
+        "**PLEASE CAREFULLY REVIEW THE DISPUTE RESOLUTION PROVISIONS IN SECTION 15 BELOW. THESE GOVERN THE MANNER IN WHICH DISPUTES WILL BE ADDRESSED BETWEEN YOU AND TINDER. THESE PROVISIONS INCLUDE A MANDATORY PRE-ARBITRATION INFORMAL DISPUTE RESOLUTION PROCESS, AN ARBITRATION AGREEMENT, SMALL CLAIMS COURT ELECTION, CLASS ACTION WAIVER, ADDITIONAL PROCEDURES FOR MASS ARBITRATION FILINGS, AND JURY TRIAL WAIVER THAT AFFECT YOUR RIGHTS. IN ARBITRATION, THERE IS TYPICALLY LESS DISCOVERY AND APPELLATE REVIEW THAN IN COURT.**",
+        "*We may update these Terms from time to time, so check this page regularly for updates.*"
+      ],
+      "new": [
+        "**By accessing or using Tinder's Services, you agree to be bound by this Terms of Use Agreement (the “Terms” or “Agreement”), including our** <u>Privacy Policy</u>**,** <u>Cookie Policy</u>**,** <u>Community Guidelines</u>**, and** <u>Safety Tips</u>**, so it is important that you read this Agreement and these policies and procedures carefully before you create an account.**",
+        "**PLEASE CAREFULLY REVIEW THE DISPUTE RESOLUTION PROVISIONS IN SECTION 15 BELOW. THESE GOVERN THE MANNER IN WHICH DISPUTES WILL BE ADDRESSED BETWEEN YOU AND TINDER. THESE PROVISIONS INCLUDE A MANDATORY PRE-ARBITRATION INFORMAL DISPUTE RESOLUTION PROCESS (EXCEPT FOR INDIVIDUAL CLAIMS OF SEXUAL ASSAULT OR SEXUAL HARASSMENT OCCURRING IN CONNECTION WITH YOUR USE OF THE SERVICES), AN ARBITRATION AGREEMENT, SMALL CLAIMS COURT ELECTION, CLASS ACTION WAIVER, ADDITIONAL PROCEDURES FOR MASS ARBITRATION FILINGS, AND JURY TRIAL WAIVER THAT AFFECT YOUR RIGHTS. IN ARBITRATION, THERE IS TYPICALLY LESS DISCOVERY AND APPELLATE REVIEW THAN IN COURT.**",
+        "**We may update these Terms from time to time, so check this page regularly for updates.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*Before you create an account on Tinder, make sure you are eligible to use our Services. This Section also details what you can and can't do when using the Services, as well as the rights you grant Tinder.*"
+      ],
+      "new": [
+        "**Before you create an account on Tinder, make sure you are eligible to use our Services. This Section also details what you can and can't do when using the Services, as well as the rights you grant Tinder.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "6. May harm the reputation of Tinder or its affiliates."
+      ],
+      "new": [
+        "6. May harm the reputation of Tinder or its affiliates, meaning the uploading or sharing of content on the Tinder platform that is defamatory to Tinder or its affiliates or advocates misuse of the Service or any service provided by Tinder’s affiliates."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*It is important that you understand your rights and responsibilities with regard to the content on our Services, including any content you provide or post. You are expressly prohibited from posting inappropriate content.*"
+      ],
+      "new": [
+        "**It is important that you understand your rights and responsibilities with regard to the content on our Services, including any content you provide or post. You are expressly prohibited from posting inappropriate content.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "For additional information on how we moderate content, please see our Safety page <u>here</u> for more details. For additional information on how recommended profiles are ordered, please see our FAQ <u>here</u>."
+      ],
+      "new": [
+        "For additional information on how we moderate content, please see our Safety page for more details. For additional information on how recommended profiles are ordered, please see the <u>Method Behind our Matching</u>."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*You are responsible for Your Content. Don't share anything that you wouldn't want others to see, that would violate this Agreement, or that may expose you or us to legal liability.*"
+      ],
+      "new": [
+        "**You are responsible for Your Content. Don't share anything that you wouldn't want others to see, that would violate this Agreement, or that may expose you or us to legal liability.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*While you will have access to Member Content, it is not yours and you may not copy or use Member Content for any purpose except as contemplated by these Terms.*"
+      ],
+      "new": [
+        "**While you will have access to Member Content, it is not yours and you may not copy or use Member Content for any purpose except as contemplated by these Terms.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*Tinder owns or licenses all other content on our Services.*"
+      ],
+      "new": [
+        "**Tinder owns or licenses all other content on our Services.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*Tinder does not tolerate inappropriate content or behavior on our Services.*"
+      ],
+      "new": [
+        "**Tinder does not tolerate inappropriate content or behavior on our Services.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "As set forth in our <u>Privacy Policy</u>, we may share data between our affiliates for the safety and security of our users and may take necessary actions if we believe you have violated these Terms, including banning you from our Services and/or our affiliates’ services (such as Hinge, Plenty of Fish, OkCupid, Match, Meetic, BlackPeopleMeet, LoveScout24, OurTime, Pairs, ParPerfeito, and Twoo; for more details, click here), and/or preventing you from creating new accounts. You understand and agree that we may not share information with you regarding your account if doing so would potentially impair the safety or privacy of our other users."
+      ],
+      "new": [
+        "As set forth in our <u>Privacy Policy</u>, we may share data between our affiliates for the safety and security of our users and may take necessary actions if we believe you have violated these Terms, including banning you from our Services and/or our affiliates’ services (such as Hinge, Plenty of Fish, OkCupid, Match, Meetic, BlackPeopleMeet, LoveScout24, OurTime, Pairs, ParPerfeito, and Twoo; for more details, please see our <u>Safety</u> page), and/or preventing you from creating new accounts. You understand and agree that we may not share information with you regarding your account if doing so would potentially impair the safety or privacy of our other users."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*Privacy is important to us. We have a separate policy about it that you should read.*"
+      ],
+      "new": [
+        "**Privacy is important to us. We have a separate policy about it that you should read.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*Tinder grants you the right to use and enjoy our Services, subject to these Terms.*"
+      ],
+      "new": [
+        "**Tinder grants you the right to use and enjoy our Services, subject to these Terms.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*You own all of the content you provide to Tinder, but you also grant us the right to use Your Content as provided in this Agreement.*"
+      ],
+      "new": [
+        "**You own all of the content you provide to Tinder, but you also grant us the right to use Your Content as provided in this Agreement.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*You will have the opportunity to purchase products and services from Tinder. If you purchase a subscription, it will automatically renew - and you will be charged - until you cancel.*"
+      ],
+      "new": [
+        "**You will have the opportunity to purchase products and services from Tinder. If you purchase a subscription, it will automatically renew - and you will be charged - until you cancel.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*External Service Purchases, including subscriptions, may be processed through the External Service, in which case those purchases must be managed through your External Service Account. Subscriptions automatically renew until you cancel.*"
+      ],
+      "new": [
+        "**External Service Purchases, including subscriptions, may be processed through the External Service, in which case those purchases must be managed through your External Service Account. Subscriptions automatically renew until you cancel.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "<u>To cancel a subscription:</u> If you do not want your subscription to renew automatically, or if you want to change or terminate your subscription, you must log in to your External Service Account and follow instructions to manage or cancel your subscription, even if you have otherwise deleted your account with us or if you have deleted the App from your device. For example, if you subscribed using your Apple ID, cancellation is handled by Apple, not Tinder. To cancel a purchase made with your Apple ID, go to Settings within the app , and follow the instructions to cancel. You can also request assistance at <u>https://getsupport.apple.com</u>.",
+        "Similarly, if you subscribed on Google Play, cancellation is handled by Google. To cancel a purchase made through Google Play, launch the Google Play app on your mobile device and navigate to Settings. You can also request assistance at <u>https://play.google.com</u>. If you cancel a subscription, you may continue to use the canceled service until the end of your then-current subscription term. The subscription will not be renewed when your then-current term expires."
+      ],
+      "new": [
+        "<u>To cancel a subscription:</u> If you do not want your subscription to renew automatically, or if you want to change or terminate your subscription, you must log in to your External Service Account and follow instructions to manage or cancel your subscription, even if you have otherwise deleted your account with us or if you have deleted the App from your device. For example, if you subscribed using your Apple ID, cancellation is handled by Apple, not Tinder. To cancel a purchase made with your Apple ID, go to Settings within the app , and follow the instructions to cancel. You can also request assistance at <u>Apple Support</u>.",
+        "Similarly, if you subscribed on Google Play, cancellation is handled by Google. To cancel a purchase made through Google Play, launch the Google Play app on your mobile device and navigate to Settings. You can also request assistance at <u>Google Play</u>. If you cancel a subscription, you may continue to use the canceled service until the end of your then-current subscription term. The subscription will not be renewed when your then-current term expires."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*Internal Purchases, including subscriptions, are processed using the Payment Method you provide on the Website or App. Subscriptions automatically renew until you cancel.*"
+      ],
+      "new": [
+        "**Internal Purchases, including subscriptions, are processed using the Payment Method you provide on the Website or App. Subscriptions automatically renew until you cancel.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*Virtual items are non-refundable and subject to certain conditions.*"
+      ],
+      "new": [
+        "**Virtual items are non-refundable and subject to certain conditions.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*Generally, all purchases are nonrefundable. Special terms for refunds apply in the EU, EEA, UK, Switzerland, Korea, and Israel. Special terms for refunds also apply in Arizona, California, Colorado, Connecticut, Illinois, Iowa, Minnesota, New York, North Carolina, Ohio, Rhode Island, and Wisconsin.*"
+      ],
+      "new": [
+        "**Generally, all purchases are nonrefundable. Special terms for refunds apply in the EU, EEA, UK, Switzerland, Korea, and Israel. Special terms for refunds also apply in Arizona, California, Colorado, Connecticut, Illinois, Iowa, Minnesota, New York, North Carolina, Ohio, Rhode Island, and Wisconsin.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If any of the above apply to you and you subscribed using your Apple ID, your refund requests are handled by Apple, not Tinder. To request a refund, please contact your External Service directly; for example using your Apple device, go to Settings > iTunes & App Stores > \\[click on your Apple ID\\] > View Apple ID > Purchase History. Find the transaction and select \"Report a Problem.\" You can also request a refund at <u>https://getsupport.apple.com</u>. For any other purchase, please contact Tinder <u>Customer Service</u> with your order number (see your confirmation email) by mailing or delivering a signed and dated notice which states that you, the buyer, are canceling this Agreement, or words of similar effect. Please also include the email address or telephone number associated with your account along with your order number. This notice shall be sent to:"
+      ],
+      "new": [
+        "If any of the above apply to you and you subscribed using your Apple ID, your refund requests are handled by Apple, not Tinder. To request a refund, please contact your External Service directly; for example using your Apple device, go to Settings > iTunes & App Stores > \\[click on your Apple ID\\] > View Apple ID > Purchase History. Find the transaction and select \"Report a Problem.\" You can also request a refund at <u>Apple Support</u>. For any other purchase, please contact Tinder <u>Customer Service</u> with your order number (see your confirmation email) by mailing or delivering a signed and dated notice which states that you, the buyer, are canceling this Agreement, or words of similar effect. Please also include the email address or telephone number associated with your account along with your order number. This notice shall be sent to:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*If you no longer wish to use our Services, or if we terminate your account for any reason, here's what you need to know.*"
+      ],
+      "new": [
+        "**If you no longer wish to use our Services, or if we terminate your account for any reason, here's what you need to know.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*Tinder does not conduct criminal background or identity verification checks on its users. Though Tinder strives to encourage a respectful user experience, it is not responsible for the conduct of any user on or off the Service. Use your best judgment when interacting with others and review our* <u>Safety Tips</u>*.*"
+      ],
+      "new": [
+        "**Tinder does not conduct criminal background or identity verification checks on its users. Though Tinder strives to encourage a respectful user experience, it is not responsible for the conduct of any user on or off the Service. Use your best judgment when interacting with others and review our** <u>Safety Tips</u>**.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*Tinder's Services are provided \"as is\" and we do not make, and cannot make, any representations about the content or features of our Services or Member Content.*"
+      ],
+      "new": [
+        "**Tinder's Services are provided \"as is\" and we do not make, and cannot make, any representations about the content or features of our Services or Member Content.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*We take copyright infringement very seriously. We ask you to help us to ensure we address it promptly and effectively.*"
+      ],
+      "new": [
+        "**We take copyright infringement very seriously. We ask you to help us to ensure we address it promptly and effectively.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*You may see ads and third-party promotions on our Services. Tinder does not endorse and isn’t responsible for your interactions with those products or services.*"
+      ],
+      "new": [
+        "**You may see ads and third-party promotions on our Services. Tinder does not endorse and isn’t responsible for your interactions with those products or services.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*Tinder's liability is limited to the maximum extent allowed by applicable law.*"
+      ],
+      "new": [
+        "**Tinder's liability is limited to the maximum extent allowed by applicable law.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*In the unlikely event that we have a legal dispute, here is how the Parties agree to proceed, except where prohibited by applicable law.*",
+        "Any Subsection in this Dispute Resolution Section that is prohibited by law shall not apply to the users residing in that jurisdiction, including Subsections 15b, 15c, 15d, and 15e, which shall not apply to users residing within the EU, EEA, UK, or Switzerland. The online dispute settlement platform of the European Commission is available under <u>http://ec.europa.eu/odr</u>. Tinder does not take part in dispute settlement procedures in front of a consumer arbitration entity for users residing in the EU, EEA, UK, or Switzerland."
+      ],
+      "new": [
+        "**In the unlikely event that we have a legal dispute, here is how the Parties agree to proceed, except where prohibited by applicable law.**",
+        "Any Subsection in this Dispute Resolution Section that is prohibited by law shall not apply to the users residing in that jurisdiction, including Subsections 15b, 15c, 15d, and 15e, which shall not apply to users residing within the EU, EEA, UK, or Switzerland. The online dispute settlement platform of the European Commission is available at <u>Online Dispute Resolution | European Commission</u>. Tinder does not take part in dispute settlement procedures in front of a consumer arbitration entity for users residing in the EU, EEA, UK, or Switzerland."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Tinder values its relationship with you and appreciates the mutual benefit realized from informally resolving Disputes. “Dispute” is any dispute, claim, or controversy between you and Tinder that arises from or related in any way to this Agreement (including any alleged breach of this Agreement), the Service, or our relationship with you. “Dispute” as used in this Agreement shall have the broadest possible meaning and include claims that arose before the existence of this or any prior Agreement and claims that arise during the term of this Agreement or after the termination of this Agreement (unless this Agreement is superseded by a subsequent Agreement entered into by you and Tinder). If you have a Dispute with Tinder (“Your Dispute”), before formally pursuing Your Dispute in arbitration or small claims court, you agree to first (send a detailed notice (“Notice”) to CT Corporation, 1209 Orange Street, City of Wilmington, County of New Castle, Delaware 19801, USA. If Tinder has a Dispute with you (“Tinder’s Dispute\"), Tinder agrees to first send a Notice to you at your most recent email address on file with us, or if no email address is on file, other contact information associated with your account. Your Notice must contain all of the following information: (1) your full name; (2) information that enables Tinder to identify your account, including a picture or screenshot of your profile, your address, mobile phone number, email address, and date of birth you used to register your account if any; and (3) a detailed description of your Dispute, including the nature and factual basis of your claim(s) and the relief you are seeking with a corresponding calculation of your alleged damages (if any). You must personally sign this Notice for it to be effective. Tinder’s Dispute Notice must likewise set forth a detailed description of Tinder’s Dispute, which shall include the nature and factual basis of its claim(s) and the relief it is seeking, with a corresponding calculation of our damages (if any). You and Tinder agree to then negotiate in good faith in an effort to resolve the Dispute. As part of these good faith negotiations, Tinder may request a telephone conference with you to discuss Your Dispute, and you agree to personally participate, with your attorney if you’re represented by counsel. Likewise, you may request a telephone conference to discuss Tinder’s Dispute with you, and Tinder agrees to have one representative participate. (For the avoidance of doubt, Tinder’s termination of your account, as set forth in Section 4 above, is not Tinder’s Dispute with you.) This informal process should lead to a resolution of the Dispute. However, if the Dispute is not resolved within 60 days after receipt of a fully completed Notice and the Parties have not otherwise mutually agreed to an extension of this informal dispute resolution time period, you or Tinder may initiate an arbitration (subject to a Party’s right to elect small claims court as provided below).",
+        "Completion of this informal dispute resolution is a condition precedent to filing any demand for arbitration or small claims court action. Failure to do so is a breach of this Agreement. The statute of limitations and any filing fee deadlines will be tolled while you and Tinder engage in this informal dispute resolution process. Unless prohibited by applicable law, the arbitration provider, National Arbitration and Mediation (“NAM”), shall not accept or administer any demand for arbitration and shall administratively close any arbitration unless the Party bringing such demand for arbitration can certify in writing that the terms and conditions of this informal dispute resolution process were fully satisfied. A court of competent jurisdiction shall have authority to enforce this provision and to enjoin any arbitration proceeding or small claims court action accordingly."
+      ],
+      "new": [
+        "Tinder values its relationship with you and appreciates the mutual benefit realized from informally resolving Disputes. “Dispute” is any dispute, claim, or controversy between you and Tinder that arises from or related in any way to this Agreement (including any alleged breach of this Agreement), the Service, or our relationship with you. “Dispute” as used in this Agreement shall have the broadest possible meaning and include claims that arose before the existence of this or any prior Agreement and claims that arise during the term of this Agreement or after the termination of this Agreement (unless this Agreement is superseded by a subsequent Agreement entered into by you and Tinder). If you have a Dispute with Tinder (“Your Dispute”), before formally pursuing Your Dispute in arbitration or small claims court, you agree to first send a detailed notice (“Notice”) to CT Corporation, 1209 Orange Street, City of Wilmington, County of New Castle, Delaware 19801, USA. However, if Your Dispute includes individual claims of sexual assault or sexual harassment occurring in connection with your use of the Services, then you are not required to send a Notice before pursuing your claims in accordance with Section 17. If Tinder has a Dispute with you (“Tinder’s Dispute\"), Tinder agrees to first send a Notice to you at your most recent email address on file with us, or if no email address is on file, other contact information associated with your account. Your Notice must contain all of the following information: (1) your full name; (2) information that enables Tinder to identify your account, including a picture or screenshot of your profile, your address, mobile phone number, email address, and date of birth you used to register your account if any; and (3) a detailed description of your Dispute, including the nature and factual basis of your claim(s) and the relief you are seeking with a corresponding calculation of your alleged damages (if any). You must personally sign this Notice for it to be effective. Tinder’s Dispute Notice must likewise set forth a detailed description of Tinder’s Dispute, which shall include the nature and factual basis of its claim(s) and the relief it is seeking, with a corresponding calculation of our damages (if any). You and Tinder agree to then negotiate in good faith in an effort to resolve the Dispute. As part of these good faith negotiations, Tinder may request a telephone conference with you to discuss Your Dispute, and you agree to personally participate, with your attorney if you’re represented by counsel. Likewise, you may request a telephone conference to discuss Tinder’s Dispute with you, and Tinder agrees to have one representative participate. (For the avoidance of doubt, Tinder’s termination of your account, as set forth in Section 4 above, is not Tinder’s Dispute with you.) This informal process should lead to a resolution of the Dispute. However, if the Dispute is not resolved within 60 days after receipt of a fully completed Notice and the Parties have not otherwise mutually agreed to an extension of this informal dispute resolution time period, you or Tinder may initiate an arbitration (subject to a Party’s right to elect small claims court as provided below).",
+        "Completion of this informal dispute resolution is a condition precedent to filing any demand for arbitration or small claims court action (except for individual claims of sexual assault or sexual harassment occurring in connection with your use of the Services). Failure to do so is a breach of this Agreement. The statute of limitations and any filing fee deadlines will be tolled while you and Tinder engage in this informal dispute resolution process. Unless prohibited by applicable law, the arbitration provider, National Arbitration and Mediation (“NAM”), shall not accept or administer any demand for arbitration and shall administratively close any arbitration unless the Party bringing such demand for arbitration can certify in writing that the terms and conditions of this informal dispute resolution process were fully satisfied. A court of competent jurisdiction shall have authority to enforce this provision and to enjoin any arbitration proceeding or small claims court action accordingly."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**TO THE FULLEST EXTENT ALLOWABLE BY LAW, YOU AND TINDER EACH WAIVE THE RIGHT TO A JURY TRIAL AND THE RIGHT TO LITIGATE DISPUTES IN COURT IN FAVOR OF INDIVIDUAL ARBITRATION (EXCEPT FOR SMALL CLAIMS COURT AS PROVIDED ABOVE). YOU AND TINDER EACH WAIVE THE RIGHT TO FILE OR PARTICIPATE IN A CLASS ACTION AGAINST THE OTHER OR OTHERWISE TO SEEK RELIEF ON A CLASS BASIS, INCLUDING ANY CURRENTLY PENDING ACTIONS AGAINST TINDER. TO THE FULLEST EXTENT ALLOWABLE BY LAW, THERE SHALL BE NO RIGHT OR AUTHORITY FOR ANY CLAIMS TO BE ARBITRATED OR LITIGATED ON A CLASS, COLLECTIVE, REPRESENTATIVE, CONSOLIDATED, OR PRIVATE ATTORNEY GENERAL BASIS. THE ARBITRATOR CAN AWARD THE SAME RELIEF AVAILABLE IN COURT PROVIDED THAT THE ARBITRATOR MAY ONLY AWARD FINAL RELIEF (INCLUDING INJUNCTIVE OR DECLARATORY RELIEF) IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO PROVIDE FINAL RELIEF WARRANTED BY THAT INDIVIDUAL PARTY’S CLAIM. THE ARBITRATOR MAY NOT AWARD FINAL RELIEF FOR, AGAINST, OR ON BEHALF OF ANYONE WHO IS NOT A PARTY TO THE ARBITRATION ON A CLASS, COLLECTIVE, REPRESENTATIVE, OR PRIVATE ATTORNEY GENERAL BASIS. IF A COURT DETERMINES THAT ANY OF THESE PROHIBITIONS IN THIS PARAGRAPH ARE UNENFORCEABLE AS TO A PARTICULAR CLAIM OR REQUEST FOR RELIEF (SUCH AS A REQUEST FOR PUBLIC INJUNCTIVE RELIEF), AND ALL APPEALS OF THAT DECISION ARE AFFIRMED AND SUCH DECISION BECOMES FINAL, THEN YOU AND TINDER AGREE THAT THAT PARTICULAR CLAIM OR REQUEST FOR RELIEF SHALL PROCEED IN COURT BUT SHALL BE STAYED PENDING INDIVIDUAL ARBITRATION OF THE REMAINING CLAIMS FOR RELIEF THAT YOU HAVE BROUGHT. IF THIS SPECIFIC PARAGRAPH IS FOUND TO BE UNENFORCEABLE, THEN THE ENTIRETY OF THIS ARBITRATION PROVISION (EXCEPT FOR THE JURY TRIAL WAIVER AND THE INFORMAL DISPUTE RESOLUTION PROCESS) SHALL BE NULL AND VOID. THIS PARAGRAPH IS AN ESSENTIAL PART OF THIS ARBITRATION AGREEMENT.**"
+      ],
+      "new": [
+        "**TO THE FULLEST EXTENT ALLOWABLE BY LAW, YOU AND TINDER EACH WAIVE THE RIGHT TO A JURY TRIAL AND THE RIGHT TO LITIGATE DISPUTES IN COURT IN FAVOR OF INDIVIDUAL ARBITRATION (EXCEPT FOR SMALL CLAIMS COURT OR FOR INDIVIDUAL CLAIMS OF SEXUAL ASSAULT OR SEXUAL HARASSMENT OCCURING IN CONNECTION WITH YOUR USE OF THE SERVICES, AS PROVIDED HEREIN). YOU AND TINDER EACH WAIVE THE RIGHT TO FILE OR PARTICIPATE IN A CLASS ACTION AGAINST THE OTHER OR OTHERWISE TO SEEK RELIEF ON A CLASS BASIS, INCLUDING ANY CURRENTLY PENDING ACTIONS AGAINST TINDER. TO THE FULLEST EXTENT ALLOWABLE BY LAW, THERE SHALL BE NO RIGHT OR AUTHORITY FOR ANY CLAIMS TO BE ARBITRATED OR LITIGATED ON A CLASS, COLLECTIVE, REPRESENTATIVE, CONSOLIDATED, OR PRIVATE ATTORNEY GENERAL BASIS. THE ARBITRATOR CAN AWARD THE SAME RELIEF AVAILABLE IN COURT PROVIDED THAT THE ARBITRATOR MAY ONLY AWARD FINAL RELIEF (INCLUDING INJUNCTIVE OR DECLARATORY RELIEF) IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO PROVIDE FINAL RELIEF WARRANTED BY THAT INDIVIDUAL PARTY’S CLAIM. THE ARBITRATOR MAY NOT AWARD FINAL RELIEF FOR, AGAINST, OR ON BEHALF OF ANYONE WHO IS NOT A PARTY TO THE ARBITRATION ON A CLASS, COLLECTIVE, REPRESENTATIVE, OR PRIVATE ATTORNEY GENERAL BASIS. IF A COURT DETERMINES THAT ANY OF THESE PROHIBITIONS IN THIS PARAGRAPH ARE UNENFORCEABLE AS TO A PARTICULAR CLAIM OR REQUEST FOR RELIEF (SUCH AS A REQUEST FOR PUBLIC INJUNCTIVE RELIEF), AND ALL APPEALS OF THAT DECISION ARE AFFIRMED AND SUCH DECISION BECOMES FINAL, THEN YOU AND TINDER AGREE THAT THAT PARTICULAR CLAIM OR REQUEST FOR RELIEF SHALL PROCEED IN COURT BUT SHALL BE STAYED PENDING INDIVIDUAL ARBITRATION OF THE REMAINING CLAIMS FOR RELIEF THAT YOU HAVE BROUGHT. IF THIS SPECIFIC PARAGRAPH IS FOUND TO BE UNENFORCEABLE, THEN THE ENTIRETY OF THIS ARBITRATION PROVISION (EXCEPT FOR THE JURY TRIAL WAIVER AND THE INFORMAL DISPUTE RESOLUTION PROCESS) SHALL BE NULL AND VOID. THIS PARAGRAPH IS AN ESSENTIAL PART OF THIS ARBITRATION AGREEMENT.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Any Dispute (that is not resolved informally by Tinder Customer Service or as provided under subsection 15a above) shall be exclusively resolved through BINDING INDIVIDUAL ARBITRATION except as specifically provided otherwise in this Dispute Resolution Section. Notwithstanding the foregoing, either you or Tinder may elect to have an individual claim heard in small claims court. If the request to proceed in small claims court is made after an arbitration has been initiated but before an arbitrator has been appointed, such arbitration shall be administratively closed by the arbitration provider (e.g., NAM). Any controversy over the small claims court’s jurisdiction shall be exclusively determined by such small claims court. No determinations made by a small claims court shall have preclusive effect in any proceeding involving Tinder and anyone other than you. In the event such small claims court specifically determines that it is without jurisdiction to hear the Dispute, you and Tinder shall arbitrate the Dispute under the terms of this Agreement. All other issues (except as otherwise provided herein) are exclusively for the Arbitrator to decide, including but not limited to scope and enforceability of this Dispute Resolution Section and including questions of arbitrability, any request to proceed in small claims court that is made after an arbitrator has been appointed, and any dispute as to whether either Party is in breach or default of the Dispute Resolution Section or has explicitly or implicitly waived the right to arbitrate. If you or Tinder challenges the small claims court election in your Dispute, and a court of competent jurisdiction determines that the small claims court election is unenforceable, then such election shall be severed from this Agreement as to your Dispute. However, such court determination shall not be considered or deemed binding or have preclusive effect with respect to any proceeding involving Tinder and anyone other than you."
+      ],
+      "new": [
+        "Any Dispute (that is not resolved informally by Tinder Customer Service or as provided under subsection 15a above) shall be exclusively resolved through BINDING INDIVIDUAL ARBITRATION except as specifically provided otherwise in this Dispute Resolution Section. Notwithstanding the foregoing, either you or Tinder may elect to have an individual claim heard in small claims court, and individual claims of sexual assault or sexual harassment occurring in connection with your use of the Services may be brought in accordance with Section 17. If the request to proceed in small claims court is made after an arbitration has been initiated but before an arbitrator has been appointed, such arbitration shall be administratively closed by the arbitration provider (e.g., NAM). Any controversy over the small claims court’s jurisdiction shall be exclusively determined by such small claims court. No determinations made by a small claims court shall have preclusive effect in any proceeding involving Tinder and anyone other than you. In the event such small claims court specifically determines that it is without jurisdiction to hear the Dispute, you and Tinder shall arbitrate the Dispute under the terms of this Agreement. All other issues (except as otherwise provided herein) are exclusively for the Arbitrator to decide, including but not limited to scope and enforceability of this Dispute Resolution Section and including questions of arbitrability, any request to proceed in small claims court that is made after an arbitrator has been appointed, and any dispute as to whether either Party is in breach or default of the Dispute Resolution Section or has explicitly or implicitly waived the right to arbitrate. If you or Tinder challenges the small claims court election in your Dispute, and a court of competent jurisdiction determines that the small claims court election is unenforceable, then such election shall be severed from this Agreement as to your Dispute. However, such court determination shall not be considered or deemed binding or have preclusive effect with respect to any proceeding involving Tinder and anyone other than you."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "This subsection 15d applies to Disputes that are submitted to NAM after fully completing the informal dispute resolution process described in subsection 15a above and when no small claims court election is made by you or Tinder. Any arbitration between you and Tinder shall be administered by NAM in accordance with NAM’s operative Comprehensive Dispute Resolution Rules and Procedures (the “NAM Rules”) in effect at the time any demand for arbitration is filed with NAM, as modified by this Dispute Resolution Section 15. For a copy of the NAM Rules, please visit <u>https://www.namadr.com/resources/rules-fees-forms</u> or contact NAM at NAM’s National Processing Center at 990 Stewart Avenue, 1<sup>st</sup> Floor, Garden City, NY 11530 or at email address at <u>commercial@namadr.com</u>. If NAM is unable or unwilling to perform its duties under this Agreement, the Parties shall mutually agree on an alternative administrator that will replace NAM and assume NAM’s role consistent with this Agreement and this Agreement will govern to the extent it conflicts with the arbitration provider’s rules. If the Parties are unable to agree, they will petition a court of competent jurisdiction to appoint an arbitration provider who will assume NAM’s duties under this Agreement and this Agreement will govern to the extent it conflicts with the arbitration provider’s rules."
+      ],
+      "new": [
+        "This subsection 15d applies to Disputes that are submitted to NAM after fully completing the informal dispute resolution process described in subsection 15a above and when no small claims court election is made by you or Tinder. Any arbitration between you and Tinder shall be administered by NAM in accordance with NAM’s operative Comprehensive Dispute Resolution Rules and Procedures (the “NAM Rules”) in effect at the time any demand for arbitration is filed with NAM, as modified by this Dispute Resolution Section 15. For a copy of the NAM Rules, please visit <u>Rules, Fees & Forms - National Arbitration and Mediation</u> or contact NAM at NAM’s National Processing Center at 990 Stewart Avenue, 1<sup>st</sup> Floor, Garden City, NY 11530 or at email address at <u>commercial@namadr.com</u>. If NAM is unable or unwilling to perform its duties under this Agreement, the Parties shall mutually agree on an alternative administrator that will replace NAM and assume NAM’s role consistent with this Agreement and this Agreement will govern to the extent it conflicts with the arbitration provider’s rules. If the Parties are unable to agree, they will petition a court of competent jurisdiction to appoint an arbitration provider who will assume NAM’s duties under this Agreement and this Agreement will govern to the extent it conflicts with the arbitration provider’s rules."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*Texas law and the Federal Arbitration Act will apply to any Dispute (except where prohibited by law).*"
+      ],
+      "new": [
+        "**Texas law and the Federal Arbitration Act will apply to any Dispute (except where prohibited by law).**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*To the fullest extent allowable by law, any claims that are not arbitrated for any reason must be litigated in Dallas County, Texas (except for claims filed in small claims court, or for users residing in the EU, EEA, UK or Switzerland or another jurisdiction where prohibited by law).*"
+      ],
+      "new": [
+        "**To the fullest extent allowable by law, any claims that are not arbitrated for any reason must be litigated in Dallas County, Texas (except for claims filed in small claims court, or for users residing in the EU, EEA, UK or Switzerland or another jurisdiction where prohibited by law).**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*You agree to indemnify Tinder if a claim is made against Tinder due to your actions.*"
+      ],
+      "new": [
+        "**You agree to indemnify Tinder if a claim is made against Tinder due to your actions.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*By using our Services, you accept the Terms of this Agreement.*"
+      ],
+      "new": [
+        "**By using our Services, you accept the Terms of this Agreement.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*This Agreement supersedes any previous agreements or representations.*"
+      ],
+      "new": [
+        "**This Agreement supersedes any previous agreements or representations.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*Special terms apply in Israel, Denmark, Arizona, California, Colorado, Connecticut, Illinois, Iowa, Minnesota, New York, North Carolina, Ohio, Rhode Island, and Wisconsin.*"
+      ],
+      "new": [
+        "**Special terms apply in Israel, Denmark, Arizona, California, Colorado, Connecticut, Illinois, Iowa, Minnesota, New York, North Carolina, Ohio, Rhode Island, and Wisconsin.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- You may review the New York Dating Service Consumer Bill of Rights <u>here</u>;"
+      ],
+      "new": [
+        "- You may review the <u>New York Dating Service Consumer Bill of Rights</u>;"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- You may review the North Carolina Buyer's Rights <u>here</u>."
+      ],
+      "new": [
+        "- You may review the <u>North Carolina Buyer's Rights</u>."
+      ]
+    }
+  ]
+}

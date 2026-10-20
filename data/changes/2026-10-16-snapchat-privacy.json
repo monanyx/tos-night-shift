@@ -1,0 +1,226 @@
+{
+  "id": "2026-10-16-snapchat-privacy",
+  "service": "snapchat",
+  "service_name": "Snapchat",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://values.snap.com/privacy/privacy-policy",
+  "detected_at": "2026-10-16T15:00:28+00:00",
+  "source": "wayback",
+  "window_start": "2026-07-19T03:22:57+00:00",
+  "archive_before": "https://web.archive.org/web/20260719032257/https://values.snap.com/privacy/privacy-policy",
+  "archive_after": "https://web.archive.org/web/20261016150028/https://values.snap.com/privacy/privacy-policy",
+  "flags": [
+    {
+      "tag": "location",
+      "label": "Location",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 19,
+    "added_words": 368,
+    "removed_words": 88
+  },
+  "headline": "Snapchat rewrote its Privacy Policy — new wording on your location",
+  "summary": "368 words added and 88 removed across 19 sections. New wording touches: Location. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "This also includes <u>device information</u> (such as your device hardware or software, operating system, device memory, advertising identifiers, apps installed, browser type, information from device sensors that measure the motion of your device or compasses and microphones, including whether you …",
+  "receipt_side": "new",
+  "sideeye": 2,
+  "tags": [
+    "location"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**We've updated our Privacy Policy, effective September 21, 2026. You can view the prior Privacy Policy, which applies to all users until September 21, 2026,** <u>here</u>**.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Effective: April 7, 2025",
+        "Welcome to Snap Inc.’s Privacy Policy. This Policy explains how we collect and use your data and how you can control your information. Looking for a quick summary on our privacy practices? Check out this page or this video. If you’re looking for specific product privacy information, for example, how we process your Chats and Snaps, take a look at our Privacy by Product page. In addition to these documents, we also show in-app notices that provide you more information about our products and services. And if you’re a Spectacles user you can learn more on how we collect and use your data in the Spectacles Supplemental Privacy Policy."
+      ],
+      "new": [
+        "Effective: September 21, 2026",
+        "Welcome to Snap Inc.’s Privacy Policy. This Policy explains how we collect and use your data and how you can control your information. Looking for a quick summary on our privacy practices? Check out this page or this video. If you’re looking for specific product privacy information, for example, how we process your Chats and Snaps, take a look at our Privacy by Product page. In addition to these documents, we also show in-app notices that provide you more information about our products and services. If you’re a SPECS user you can learn more on how we collect and use your data here."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "This Policy covers our Snapchat app as well as our other products, services, and features, such as Bitmoji, Spectacles, and our advertising and commerce initiatives. When you read \"Services\" in this Policy, we’re talking about all of them. Also, if you see us refer to our \"Terms,\" we mean the Terms of Service that you agree to when you sign up for our Services. Finally, if you see the term \"Snapchatter\" we are often using that as shorthand for any user of our Services."
+      ],
+      "new": [
+        "This Policy covers our Snapchat app as well as our other products, services, and features, such as Bitmoji, SPECS, and our advertising and commerce initiatives. When you read “Services” in this Policy, we’re talking about all of them. Also, if you see us refer to our “Terms,” we mean the Terms of Service that you agree to when you sign up for our Services. Finally, if you see the term “Snapchatter” we are often using that as shorthand for any user of our Services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Access and update your information.** You can access and edit most of your basic account information right in our Services. Just navigate to your settings and you will see the options available to you."
+      ],
+      "new": [
+        "- **Access and update your information.** You can access and edit most of your basic information, including account details (information about you, like your name, username, email address, birthday, and phone number), right in our Services. Just navigate to your settings and you will see the options available to you."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Control who can see your content.** We’ve built a number of tools that let you choose who you share your content with. In some cases you may want to share content with your friends, and in other instances you may want to share it with the public. To learn more, go here."
+      ],
+      "new": [
+        "- **Control who can see your content.** We’ve built a number of tools that let you choose who you share your content with. In some cases you may want to share content with just your friends, and in other instances you may want to share it with the public. To learn more, go here."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Many of our Services require you to set up an account. To do this, we ask you to provide us with <u>account details</u> (information about you, like your name, username, email address, birthday, and phone number). When you set up your profile, you’ll also provide us with <u>profile details</u> (like your Bitmoji and profile picture). If you use our commerce products to buy something, like those latest sneakers, we may ask you for <u>payment and related information</u> (like your physical address, so we can ship the product to you, payment information, so we can process the payment, and transaction history).",
+        "Of course, you’ll also provide us with information you send through or save within our Services, including content and information about that content, and content you share and generate with our <u>AI Features</u> (content, or “Inputs,” including text, images, video, audio, precise location, and engagement, used to generate content and responses, or “Outputs”). We consider some of this information to be <u>private content and communications</u> (like Snaps and Chats with friends, voice and video calls, and content that is saved in My Eyes Only). Or content you share with a particular audience like <u>private & friend stories</u> (My Story set to Friends, Private Stories). On the other end of the spectrum, some of the information you send through or save within our Services may be <u>public content</u> that is accessible to everyone (such as Public Story content, including My Story set to Everyone, Shared Stories, and Community Stories, Spotlight or Snap Map submissions, and Public Profile information). Keep in mind that Snapchatters who view your Snaps, Chats, and any other content, can always screenshot that content, save it, or copy it outside the Snapchat app. So please don’t send messages or share content that you wouldn’t want someone to save or share."
+      ],
+      "new": [
+        "Many of our Services require you to set up an account. To do this, we ask you to provide us with <u>account details</u>. When you set up your profile, you’ll also provide us with <u>profile details</u> (like your Bitmoji and profile picture). If you use our commerce products to buy something, like those latest sneakers, we may ask you for <u>payment and related information</u> (like your physical address, so we can ship the product to you, payment information, so we can process the payment, and transaction history). Based on your region, we may also use information you provide to estimate or infer your age or ask you to verify your age.",
+        "Of course, you’ll also provide us with information you send through or save within our Services, including content and information about that content, and content you share and generate with our <u>AI Features</u> (content, or “Inputs,” including text, images, video, audio, precise location, and engagement, including content you share with My AI, used to generate content and responses, or “Outputs,”). We consider some of this information to be <u>private content and communications</u> (like Snaps and Chats with your friends, voice and video calls, and content that is saved in My Eyes Only). Or content you share with a particular audience like <u>private & friend stories</u> (My Story set to Friends, Private Stories). On the other end of the spectrum, some of the information you send through or save within our Services may be <u>public content</u> that is accessible to everyone (such as Public Story content, including My Story set to Everyone, Shared Stories, and Community Stories, Spotlight or Snap Map submissions, and Public Profile information). Keep in mind that Snapchatters who view your Snaps, Chats, and any other content, can always screenshot that content, save it, or copy it outside the Snapchat app. So please don’t send messages or share content that you wouldn’t want someone to save or share."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "This includes <u>usage information</u> (information about how you interact with our Services — for example, which Lenses you view and apply, your premium subscriptions, Stories you watch, and how often you interact with other Snapchatters) and <u>content information</u> (information about content you create or provide, your engagement with the camera and creative tools, your interactions with My AI, and metadata — for example, information about the content itself like the date and time it was posted and who viewed it). <u>Content information</u> includes information based on the content of the image, video, or audio — so if you post a Spotlight of a basketball game, we may use that information to show you more content on Spotlight about basketball.",
+        "This also includes <u>device information</u> (such as your hardware or software, operating system, device memory, advertising identifiers, apps installed, browser type, information from device sensors that measure the motion of your device or compasses and microphones, including whether you have headphones connected, and information about your wireless and mobile connections), <u>location information</u> (IP address), <u>information collected by cookies and similar technologies</u>, depending on your settings, (cookies, <u>pixels</u> (small graphic data that recognize user activity, such as if and how often a user has visited a website), web storage, unique advertising identifiers), and <u>log information</u> (such as details about how you’ve used our Services, access times, pages viewed, IP address, and unique identifiers like cookies).",
+        "If you’ve explicitly granted device-level permissions, <u>device information</u> may also include information about your <u>device phonebook</u> (contacts and related information), images and other information from your device’s <u>camera, photos, and microphone</u> (like the ability to take photos, videos, view stored photos and videos, and access the microphone to record audio while recording video), and <u>location information</u> (precise location through methods like GPS signals)."
+      ],
+      "new": [
+        "This includes <u>usage information</u> (information about how you interact with our Services — for example, which Lenses you view and apply, your premium subscriptions, Stories you watch, and how often you interact with other Snapchatters) and <u>content information</u> (information about content you create or provide, your engagement with the camera and creative tools, your interactions with My AI, and metadata — for example, information about the content itself like the date and time it was posted and who viewed it). <u>Content information</u> includes information based on the content of the image, video, or audio — so if you post a Spotlight of a basketball game, we may use that information to show you more content on Spotlight about basketball, or if you enable certain face grouping features, we may use information about faces detected in your Memories to help you organize and find Snaps featuring the same person.",
+        "This also includes <u>device information</u> (such as your device hardware or software, operating system, device memory, advertising identifiers, apps installed, browser type, information from device sensors that measure the motion of your device or compasses and microphones, including whether you have headphones connected, and information about your wireless and mobile connections), <u>IP address-based location information</u> (IP address), <u>information collected by cookies and similar technologies</u>, depending on your settings, (cookies, <u>pixels</u> (small graphic data that recognize user activity, such as if and how often a user has visited a website), web storage, unique advertising identifiers), and <u>log information</u> (such as details about how you’ve used our Services, access times, pages viewed, IP address, and unique identifiers like cookies).",
+        "If you’ve explicitly granted device-level permissions, <u>device information</u> may also include information about your <u>device phonebook</u> (contacts and related information), images and other information from your device’s <u>camera, photos, and microphone</u> (like the ability to take photos, videos, view stored photos and videos, and access the microphone to record audio while recording video), and <u>precise location information</u> (precise location through methods like GPS signals)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We offer personalized Services to Snapchatters. One of the ways we do this is by showing you content that is relevant to you or we think you may enjoy based on the information you share with us. To do so, we use information about you across different areas of the Services in order to add context to your Snapchat experience. For example, we automatically tag content with labels based on the content, your location, or the time of day. So if there's a dog in the photo, it may be searchable in Memories by the term “dog,” show up on the Map at the location where you created the Memory, and inform us that you’re into dogs so we can surface you fun dog videos and dog food ads in other parts of our Services, such as Spotlight.",
+        "Personalization can also help with suggesting friends or recommending a new friend to send a Snap to based on who you Snap with the most. We may show recommended places on the Snap Map, generate stickers, or even generate Snaps and other content using AI, infer your interests based on your content or activity, or customize the content we show you, including ads. For example, if you watch barista content on Spotlight, talk to My AI about your favorite espresso machine, or save a lot of coffee-related Snaps in your Memories, we may highlight coffee shops on the Snap Map when you visit a new city or show you content about coffee that you may find interesting or relevant. Or, if you interact with a lot of music venues we may use that to show you ads for upcoming shows in town. Personalization also includes tailoring your experience based on who you interact with most and what your friends are doing, including showing you content your friends create, like, or enjoy on Spotlight or Place recommendations that are popular with your friends."
+      ],
+      "new": [
+        "We offer personalized Services to Snapchatters. One of the ways we do this is by showing you content that is relevant to you or we think you may enjoy based on the information you share with us. To do so, we use information about you across different areas of the Services in order to add context to your Snapchat experience. For example, we automatically tag content with labels based on the content, your location, or the time of day. So, if there's a dog in the photo, it may be searchable in Memories by the term “dog,” show up on the Map at the location where you created the Memory, and inform us that you’re into dogs so we can surface you fun dog videos and dog food ads in other parts of our Services, such as Spotlight. If you enable certain face grouping features, we may use information about faces in your Memories to improve search, organization, and personalization in Memories (for example, by suggesting Memories with the same friend).",
+        "Personalization can also help with suggesting friends or recommending a new friend to send a Snap to based on who you Snap with the most. We may show recommended places on the Snap Map, generate content with our <u>AI Features</u> like stickers or Snaps, infer your age or interests based on your content or activity, or customize the content we show you, including ads. For example, if you watch barista content on Spotlight, talk to My AI about your favorite espresso machine, or save a lot of coffee-related Snaps in your Memories, we may highlight coffee shops on the Snap Map when you visit a new city or show you content about coffee that you may find interesting or relevant. Or, if you interact with a lot of music venues we may use that to show you ads for upcoming shows in town. Personalization also includes tailoring your experience based on who you interact with most and what your friends are doing, including showing you content your friends create, like, or enjoy on Spotlight or Place recommendations that are popular with your friends."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We believe it is critical to also balance the benefits of personalization with our Snapchatters’ expectations of privacy. For example, we may automatically tag the Snaps you save to Memories based on the content within it (e.g., the Snap contained a dog), and then use that tag to personalize your experience, make recommendations, or show you ads (such as showing you Spotlight Snaps containing dogs). We do not use the <u>private content and communications</u> you send to your friends to personalize your experience, make recommendations, or show you ads."
+      ],
+      "new": [
+        "We believe it is critical to also balance the benefits of personalization with our Snapchatters’ expectations of privacy. For example, we may automatically tag the Snaps you save to Memories based on the content within it (e.g., the Snap contained a dog), and then use that tag to personalize your experience, make recommendations, or show you ads (such as showing you Spotlight Snaps containing dogs). We do not use the <u>private content and communications</u> you send to people who are your friends to personalize your experience, make recommendations, or show you ads."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Our teams are constantly coming up with new ideas for features and ways to improve our Services. In order to do this, we also develop and improve the algorithms and <u>machine learning models</u> (an expression of an algorithm that combs through significant amounts of data to find patterns or make predictions) that make our features and Services work, including through <u>generative AI features</u> (artificial intelligence capable of generating text, images, or other media, using generative models. Generative AI models learn the patterns and structure of their input training data and then generate new data that has similar characteristics). We use algorithms and <u>machine learning models</u> for personalization, advertising, safety and security, fairness and inclusivity, augmented reality, and to prevent abuse or other Terms of Service violations. For example, our algorithms and <u>machine learning models</u> take into account the conversations Snapchatters are having with My AI to improve the responses from My AI."
+      ],
+      "new": [
+        "Our teams are constantly coming up with new ideas for features and ways to improve our Services. In order to do this, we also develop and improve the algorithms and <u>machine learning models</u> (an expression of an algorithm that combs through significant amounts of data to find patterns or make predictions) that make our features and Services work, including through <u>our AI features</u>. Our AI features typically use <u>generative AI</u> (artificial intelligence capable of generating text, images, or other media, using generative models. Generative AI models learn the patterns and structure of their input training data and then generate new data that has similar characteristics). We use algorithms, <u>machine learning models</u>, and <u>generative AI</u> for personalization, advertising, safety and security, fairness and inclusivity, augmented reality, and to prevent abuse or other Terms or Community Guidelines violations. For example, our algorithms and <u>machine learning models</u> take into account the conversations Snapchatters are having with My AI to improve the responses from My AI."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We conduct research to better understand general consumer interests, trends, and how our Services are used by you and others in our community. This information, along with analytics (as we described above), helps us understand more about our community and about how our Services fit into the lives of those in our community. We also engage in research and development to develop new techniques and technologies (e.g., new <u>machine learning models</u> or hardware, such as Spectacles). The results of our research are sometimes used in features on Snapchat, and we sometimes publish papers about things like overall behaviors and consumer trends (which will only have aggregated data across our user base, and not contain any private information about you specifically)."
+      ],
+      "new": [
+        "We conduct research to better understand general consumer interests, trends, and how our Services are used by you and others in our community. This information, along with analytics (as we described above), helps us understand more about our community and about how our Services fit into the lives of those in our community. We also engage in research and development to develop new techniques and technologies (e.g., new <u>machine learning models</u> or hardware, such as SPECS). The results of our research are sometimes used in features on Snapchat, and we sometimes publish papers about things like overall behaviors and consumer trends (which will only have aggregated data across our user base, and not contain any of your <u>private content and communications</u> or personal information about you specifically)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We use your information to enhance the safety and security of our Services, verify Snapchatter identity, and prevent fraud or other unauthorized or illegal activity. For example, we provide two-factor authentication to help protect your account and can send you email or text messages if we notice any suspicious activity. We also scan URLs sent on Snapchat to see if that webpage is potentially harmful, and can give you a warning about it."
+      ],
+      "new": [
+        "We use your information to enhance the safety and security of our Services, verify Snapchatter identity or age, and prevent fraud or other unauthorized or illegal activity. For example, we provide two-factor authentication to help protect your account and can send you email or text messages if we notice any suspicious activity. We also scan URLs sent on Snapchat to see if that webpage is potentially harmful, and can give you a warning about it.",
+        "We may use automated tools to detect potential violations of our Terms or Community Guidelines including harmful or unlawful activity and confirm age-appropriate use. These tools may use signals such as account, device, usage, and content-related information described in this Policy."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We use the data we collect to enforce our Terms and the law. This includes enforcing, investigating, and reporting conduct that violates our Terms, policies, or the law, responding to requests from law enforcement, and complying with legal requirements. For example, when unlawful content is posted on our Services, we may need to enforce our Terms and other policies. In some cases, we may also use or share your information to cooperate with law enforcement requests, escalate safety issues to law enforcement, industry partners, or others, or comply with our legal obligations. Check out our Transparency Report to learn more."
+      ],
+      "new": [
+        "We use the data we collect to enforce our Terms, policies, and the law. This includes enforcing, investigating, and reporting conduct that violates our Terms, policies, or the law, responding to requests from law enforcement, and complying with legal requirements. For example, when unlawful content is posted on our Services, we may need to enforce our Terms and other policies. In some cases, we may also use or share your information to cooperate with law enforcement requests, escalate safety issues to law enforcement, industry partners, or others, or comply with our legal obligations, including to verify the ages of our users. Check out our Transparency Report to learn more."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Snapchat.** To provide our Services to you and our community, we may share your information with your friends on Snapchat or other Snapchatters. For example, the content you post to Stories, or your status as a premium subscriber, can be viewed by your Friends if you allow them. See the Control Over Your Information section and your Settings for the controls you have over who sees what and when.",
+        "- **Family Center Participants.** When you have enabled Family Center, we share information about the connected teen account to the parent or guardian to provide insight about how the account is used, for example, who your Friends are on Snapchat or which friends you may be sharing your location with. We do not share message content. Learn more.",
+        "- **Public.** Most of the features on Snapchat are private and for Friends only, but we also offer public features that allow you to opt in to showcase your best Snaps to the world, such as Spotlight, Snap Map, or your Public Profile. When you do this, those Snaps may also be discoverable outside of Snapchat, for example on the web. Some information, like your username and Bitmoji, are visible to the public. Learn more.",
+        "- **Third-Party Apps.** Sometimes we provide features that allow you to connect with third-party apps. If you decide to connect your Snapchat account with a third-party app, we will share any additional information you direct us to.",
+        "- **Service Providers.** We share your information with our service providers, who process that information on our behalf. For example, we rely on such Service Providers to facilitate payments, measure and optimize the performance of ads, or protect the services. We do not share private communications with them. We maintain a list of categories of service providers here.",
+        "- **Business and Integrated Partners.** We share your information with business and integrated partners in order to provide the Services. For example, you can use OpenTable within Snapchat to reserve a table. This does not include private communications. We maintain a list of these partners here."
+      ],
+      "new": [
+        "- **Snapchat.** To provide our Services to you and our community, we may share some of your information with your friends on Snapchat or other Snapchatters. For example, the content you post to Stories, your current or recent activity status, or your status as a premium subscriber, can be viewed by your Friends if you allow it. See the Control Over Your Information section and your Settings for the controls you have over who sees what and when.",
+        "- **Family Center Participants.** When you have enabled Family Center, we share information about the connected teen account to the parent or guardian to provide insight about how the account is used, for example, who your Friends are on Snapchat or which friends you may be sharing your location with. We do not share the content of <u>private content and communications</u>. Learn more.",
+        "- **Public.** Most of the features on Snapchat are private and for Friends only, but we also offer features that allow you to create and share <u>public content</u> to showcase your best Snaps to the world, such as Spotlight, Snap Map, or your Public Profile. When you do this, those Snaps may also be discoverable outside of Snapchat, for example on the web. Some information, like your username and Bitmoji, are visible to the public. Learn more.",
+        "- **Third-Party Apps.** Sometimes we provide features that allow you to connect with third-party apps. If you decide to connect your Snapchat account with a third-party app, we will share any additional information associated with your account that you direct us to for the purpose of fulfilling the connection request.",
+        "- **Service Providers.** We share your information with our service providers, who process that information on our behalf. For example, we rely on such Service Providers to facilitate payments, measure and optimize the performance of ads, or protect the services. We do not share <u>private content and communications</u> with our service providers to use for their own purposes. We maintain a list of categories of service providers here.",
+        "- **Business and Integrated Partners.** We share your information with business and integrated partners in order to provide the Services. For example, you can use OpenTable within Snapchat to reserve a table. This does not include sharing <u>private content and communications</u>. We maintain a list of these partners here."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Affiliates.** Snap Inc. consists of different subsidiaries owned by us. We may share your information within those internal subsidiaries as needed to carry out our Services."
+      ],
+      "new": [
+        "- **Affiliates.** Snap Inc. consists of different subsidiaries owned by us. We may share your information within those internal subsidiaries at your direction, the direction of other users, or as needed to carry out our own and our affiliates’ Services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Our Services may contain content and integrations offered by our integrated partners. Examples include integrations in Lenses, Camera editing tools, to provide Scan results, and third-party developer integrations. Through these integrations, you may be providing information to the integrated partner as well as to Snap. We are not responsible for how those partners collect or use your information. As always, we encourage you to review the privacy policies of every third-party service that you visit or use, including those third parties you interact with through our Services. You can learn more about our integrations in Snapchat here."
+      ],
+      "new": [
+        "Our Services may contain content and integrations offered by our integrated partners. Examples include integrations in Lenses, Camera editing tools, and the Map, and third-party developer integrations with our Services. Your information may be provided to the integrated partner through these integrations, as well as to Snap. We are not responsible for how those partners collect or use your information. As always, we encourage you to review the privacy policies of every third-party service that you visit or use, including those third parties you interact with through our Services. You can learn more about our integrations in Snapchat here."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Our Services connect you with your friends around the world. To make that possible, we may collect your personal information from, transfer it to, and store and process it in the United States or other countries outside of where you live. Whenever we share information outside of where you live, we ensure safeguards are in place to protect the data as required by law where you live. If you want to learn more about this, see the <u>Region Specific Information</u> section for more details."
+      ],
+      "new": [
+        "Our Services connect you with your friends around the world. To make that possible, we may collect your personal information from, transfer it to, and store and process it in the United States or other countries outside of where you live. Whenever we share information outside of where you live, we ensure safeguards are in place to protect the data as required by law where you live. If you want to learn more about this, see the Region Specific Information section for more details."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- To do the things you expect from our Services and as we’ve described within this Privacy Policy. For example, we maintain your list of friends until you ask us to delete them since friends are key to expressing yourself. Similarly, we keep your shared list of contacts until you ask us to remove them in our app settings (note: updating your device permissions may not remove the contacts you’ve previously shared with Snapchat). <u>Learn more</u>. Conversely, Snaps and Chats sent in Snapchat will be deleted by default from our servers within 24 hours after we detect they’ve been opened by all recipients or have expired, unless you’ve changed your default settings or decide to save something, in which case we will honor your choices.",
+        "- The information itself. For example, we store location information for different lengths of time based on how precise it is and which Services you use. If location information is associated with a Snap — like those saved to Memories or posted to Snap Map or Spotlight — we’ll retain that location as long as we store the Snap. Pro tip: You can see the location data we retain about you by downloading your data."
+      ],
+      "new": [
+        "- To do the things you expect from our Services and as we’ve described within this Privacy Policy. For example, we maintain your list of friends until you ask us to delete them since friends are key to expressing yourself. Similarly, we keep your shared list of contacts until you ask us to remove them in our app settings (note: updating your device permissions may not remove the contacts you’ve previously shared with Snapchat). Learn more. Conversely, Snaps and Chats sent in Snapchat will be deleted by default from our servers within 24 hours after we detect they’ve been opened by all recipients or have expired, unless you’ve changed your default settings or decide to save something, in which case we will honor your choices.",
+        "- The information itself. For example, we store <u>location information</u> (IP-address based or precise, depending on your permissions) for different lengths of time based on how precise it is and which Services you use. If <u>location information</u> is associated with a Snap — like those saved to Memories or posted to Snap Map or Spotlight — we’ll retain that location as long as we store the Snap. Pro tip: You can see the location data we retain about you by downloading your data."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "We may use age-assurance measures, including automated tools, to help determine whether users meet minimum age requirements or should receive age-appropriate protections."
+      ]
+    }
+  ]
+}

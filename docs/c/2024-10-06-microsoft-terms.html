@@ -1,0 +1,459 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Microsoft rewrote its Terms of Service — new wording on sharing your data · ToS Night Shift</title>
+<meta name="description" content="765 words added and 123 removed across 18 sections. New wording touches: Data sharing. Read the receipts below — this summary is automatic, not AI.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Microsoft rewrote its Terms of Service — new wording on sharing your data · ToS Night Shift">
+<meta property="og:description" content="765 words added and 123 removed across 18 sections. New wording touches: Data sharing. Read the receipts below — this summary is automatic, not AI.">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#09090d">
+<link rel="alternate" type="application/rss+xml" title="ToS Night Shift" href="../feed.xml">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👀</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,800&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#09090d; --panel:#111118; --panel-2:#16161f; --line:#24242f; --text:#ececf2; --muted:#8a8a99;
+  --acid:#c6ff2e; --red:#ff4d6d; --green:#38d996; --amber:#ffb020;
+  --del:rgba(255,77,109,.16); --ins:rgba(56,217,150,.16);
+  --display:"Bricolage Grotesque",system-ui,sans-serif; --body:"Instrument Sans",system-ui,sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,monospace;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 var(--body);
+  background-image:radial-gradient(1200px 500px at 85% -10%,rgba(198,255,46,.07),transparent 60%);}
+a{color:inherit}
+.wrap{max-width:920px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.demo-bar{background:var(--acid);color:#0b0d04;font:600 13px/1.4 var(--body);text-align:center;padding-block:8px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+nav.top{display:flex;align-items:center;justify-content:space-between;padding:20px 0;gap:12px;flex-wrap:wrap}
+.logo{font:800 18px/1 var(--display);letter-spacing:-.02em;text-decoration:none;display:flex;gap:8px;align-items:center}
+.logo .moon{width:22px;height:22px;border-radius:50%;background:var(--acid);box-shadow:inset -7px -2px 0 0 var(--bg)}
+nav.top .links{display:flex;gap:18px;font-size:14px;color:var(--muted)}
+nav.top .links a{text-decoration:none}
+nav.top .links a:hover{color:var(--text)}
+h1,h2,h3{font-family:var(--display);letter-spacing:-.025em;line-height:1.05;margin:0}
+.muted{color:var(--muted)}
+.mono{font-family:var(--mono)}
+.meter{display:inline-flex;align-items:center;gap:8px;font:500 12px/1 var(--mono);text-transform:uppercase;letter-spacing:.06em;
+  padding:6px 10px;border:1px solid var(--line);border-radius:999px;background:var(--panel-2);white-space:nowrap}
+.meter .dots{display:inline-flex;gap:3px}
+.meter .dots i{width:8px;height:8px;border-radius:50%;background:#2c2c38}
+.meter[data-score="2"] .dots i.on{background:var(--amber)}
+.meter[data-score="3"] .dots i.on{background:#ff8a3d}
+.meter[data-score="4"] .dots i.on,.meter[data-score="5"] .dots i.on{background:var(--red)}
+.meter[data-score="0"] .dots i.on,.meter[data-score="1"] .dots i.on{background:var(--muted)}
+.meter[data-score="5"]{border-color:rgba(255,77,109,.5);box-shadow:0 0 18px rgba(255,77,109,.25)}
+.tag{display:inline-block;font:500 12px/1 var(--mono);padding:5px 8px;border-radius:6px;background:var(--panel-2);border:1px solid var(--line);color:var(--muted)}
+.receipt{margin:14px 0 0;padding:12px 14px;border-left:3px solid var(--acid);background:rgba(198,255,46,.05);
+  font:14px/1.55 var(--mono);color:#dfe8c8;border-radius:0 8px 8px 0;overflow-wrap:anywhere}
+.receipt.old{border-left-color:var(--red);background:var(--del);color:#f3c9d1}
+.receipt .label{display:block;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+footer{margin:72px 0 40px;padding-top:24px;border-top:1px solid var(--line);font-size:14px;color:var(--muted);display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between}
+footer a{color:var(--muted)}
+.btn{display:inline-flex;align-items:center;gap:6px;font:600 14px/1 var(--body);padding:10px 14px;border-radius:10px;
+  border:1px solid var(--line);background:var(--panel);color:var(--text);text-decoration:none;cursor:pointer}
+.btn:hover{border-color:#3a3a48}
+.btn.primary{background:var(--acid);color:#0b0d04;border-color:var(--acid)}
+@media (max-width:600px){ nav.top .links{gap:14px} }
+
+.back{display:inline-block;margin:24px 0 28px;color:var(--muted);text-decoration:none;font-size:14px}
+.back:hover{color:var(--text)}
+.meta{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;color:var(--muted);font-size:14px}
+.meta b{color:var(--text);font-weight:600}
+h1.headline{font-size:clamp(32px,6vw,56px);font-weight:800;margin:18px 0 18px}
+.summary{font-size:19px;color:#d0d0da;max-width:720px;margin:0}
+.big-receipt{font-size:16px;margin-top:24px}
+.actions{display:flex;flex-wrap:wrap;gap:10px;margin:28px 0 8px}
+h2.section{font-size:26px;margin:56px 0 6px}
+.hint{color:var(--muted);font-size:14px;margin:0 0 18px}
+.block{border:1px solid var(--line);border-radius:12px;overflow:hidden;margin-bottom:14px;background:var(--panel)}
+.block .kind{font:500 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:10px 14px;border-bottom:1px solid var(--line);color:var(--muted);background:var(--panel-2)}
+.row{padding:12px 14px;font:14px/1.6 var(--mono);overflow-wrap:anywhere;border-top:1px solid var(--line)}
+.row:first-of-type{border-top:0}
+.row .line{display:block;padding:2px 0 2px 22px;position:relative}
+.row .line::before{position:absolute;left:0;top:2px;font-weight:700}
+.row .old{color:#c9a3ad}
+.row .old::before{content:"−";color:var(--red)}
+.row .new{color:#d8efe3}
+.row .new::before{content:"+";color:var(--green)}
+.row .solo-old{background:var(--del);border-radius:6px;padding-right:6px}
+.row .solo-new{background:var(--ins);border-radius:6px;padding-right:6px}
+del{background:var(--del);color:#ff9fb1;text-decoration:line-through;text-decoration-color:rgba(255,77,109,.7);border-radius:3px;padding:0 2px}
+ins{background:var(--ins);color:#8ff0c4;text-decoration:none;border-radius:3px;padding:0 2px}
+.statline{font:13px/1 var(--mono);color:var(--muted);margin-top:14px}
+.source-note{font-size:13px;color:var(--muted);margin-top:10px}
+
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <nav class="top">
+    <a class="logo" href="../index.html"><span class="moon"></span>ToS Night Shift</a>
+    <div class="links">
+      <a href="../index.html">Caught</a>
+      <a href="../watched.html">Watching</a>
+      <a href="../feed.xml">RSS</a>
+      <a href="https://github.com/monanyx/tos-night-shift">GitHub</a>
+    </div>
+  </nav>
+  
+<a class="back" href="../index.html">← All changes</a>
+<div class="meta">
+  <span><b>Microsoft</b> · Terms of Service · changed between Jul 7, 2024 and Oct 6, 2024, found in the Internet Archive</span>
+  <span class="meter" data-score="2" title="Side-eye 2 out of 5">side-eye <span class="dots"><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i><i class=""></i></span> 2/5</span>
+</div>
+<h1 class="headline">Microsoft rewrote its Terms of Service — new wording on sharing your data</h1>
+<p class="summary">765 words added and 123 removed across 18 sections. New wording touches: Data sharing. Read the receipts below — this summary is automatic, not AI.</p>
+<blockquote class="receipt big-receipt "><span class="label">New wording</span>“Many of our Services also help you find, make requests to, or interact with Third-Party Apps and Services and may allow or require you to share Your Content or Data with such Third-Party Apps and Services, and you understand that …”</blockquote>
+<p class="statline">+765 words · −123 words · 18 sections touched</p>
+<p class="source-note">Automatic keyword summary. The diff below is the source of truth.</p>
+
+<div class="actions">
+  <a class="btn primary" href="https://twitter.com/intent/tweet?text=%F0%9F%91%80%20Microsoft%20rewrote%20its%20Terms%20of%20Service%20%E2%80%94%20new%20wording%20on%20sharing%20your%20data&url=https%3A//monanyx.github.io/tos-night-shift/c/2024-10-06-microsoft-terms.html" target="_blank" rel="noopener">Post the side-eye</a>
+  <button class="btn" id="copy">Copy link</button>
+  <a class="btn" href="https://www.microsoft.com/en-us/servicesagreement" target="_blank" rel="noopener">Read the policy</a>
+  <a class="btn" href="https://web.archive.org/web/20240707003420/https://www.microsoft.com/en-us/servicesagreement/" target="_blank" rel="noopener">Archived before</a><a class="btn" href="https://web.archive.org/web/20241006045544/https://www.microsoft.com/en-us/servicesagreement/" target="_blank" rel="noopener">Archived after</a>
+  <a class="btn" href="https://github.com/monanyx/tos-night-shift/commits/main/snapshots/microsoft/terms.md" target="_blank" rel="noopener">Full history</a>
+</div>
+
+<h2 class="section">The receipts</h2>
+<p class="hint">Exactly what changed between the two archived copies. Red is gone, green is new.</p>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">Published: July 30, <del>2023</del></span>
+    <span class="line new ">Published: July 30, <ins>2024</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">Effective: September 30, <del>2023</del></span>
+    <span class="line new ">Effective: September 30, <ins>2024</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">i. Policies. Our Code of Conduct identifies what’s prohibited when using our Services. Specific Services have additional policies and community standards applicable to their users, which are available here <del>(https://aka.ms/trustandsafety).</del></span>
+    <span class="line new ">i. Policies. Our Code of Conduct identifies what’s prohibited when using our Services. <ins>Our content and conduct policies can be found here (https://www.microsoft.com/DigitalSafety/policies).</ins> Specific Services have additional policies and community standards applicable to their users, which are available here <ins>(https://www.microsoft.com/DigitalSafety/policies/additional-guidelines).</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">iv. Enforcement. We reserve the right to deny content if it exceeds limits on storage or file size allowed by the Service. We may block, remove or decline to display content if it appears to violate our Code of Conduct or another Service policy or where required by law. If you violate these terms or <del>Service-Specific Terms ,</del> we may take action against your account. This could include limiting access to certain features or Services, stopping providing Services, closing your Microsoft account immediately or blocking delivery of a communication (like email, file sharing or instant message) to or from the Services. Closure of your access to a Service or your account may result in forfeiture of content licenses, associated content, memberships, and Microsoft account balances associated with the account. When reviewing alleged violations of these Terms, Microsoft reserves the right to review content to resolve the issue. However, we cannot monitor the entire Services and make no attempt to do so. For more information about the moderation and enforcement <del>processes,</del> Service specific terms and <del>appeals,</del> see https://aka.ms/trustandsafety . Information about our policy relating to claims of intellectual property infringement may be found at NOTICES .</span>
+    <span class="line new ">iv. Enforcement. We reserve the right to deny content if it exceeds limits on storage or file size allowed by the Service. We may block, remove or decline to display content if it appears to violate our Code of Conduct or another Service policy or where required by law. If you violate these terms or <ins>Policies (https://aka.ms/trustandsafety),</ins> we may take action against your account. This could include limiting access to certain features or Services, stopping providing Services, closing your Microsoft account immediately or blocking delivery of a communication (like email, file sharing or instant message) to or from the Services. Closure of your access to a Service or your account may result in forfeiture of content licenses, associated content, memberships, and Microsoft account balances associated with the account. When reviewing alleged violations of these Terms, Microsoft reserves the right to review content to resolve the issue. However, we cannot monitor the entire Services and make no attempt to do so. For more information about the moderation and enforcement <ins>processes (https://www.microsoft.com/DigitalSafety/moderation-and-enforcement),</ins> Service specific terms <ins>, Additional policies</ins> and <ins>guidelines (https://www.microsoft.com/DigitalSafety/policies/additional-guidelines), and appeals (https://www.microsoft.com/DigitalSafety/moderation-and-enforcement/appeals),</ins> see https://aka.ms/trustandsafety . Information about our policy relating to claims of intellectual property infringement may be found at NOTICES .</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">5. Using Third-Party Apps and Services. The Services may allow you to access or acquire products, services, websites, links, content, material, games, skills, integrations, bots or applications from independent third parties (companies or people who aren’t Microsoft) ( &quot;Third-Party Apps and Services&quot; ). Many of our Services also help you find, make requests to, or interact with Third-Party Apps and Services or <del>allow</del> you to share Your Content or <del>Data,</del> and you understand that by using our Services you are directing them to make Third-Party Apps and Services available to you. The Third-Party Apps and Services may allow you to store Your Content or Data with the publisher, provider or operator of the Third-Party Apps and Services. The Third-Party Apps and Services may present you with a privacy policy or require you to accept their terms before you can install or use the Third-Party App or Service. See section <del>14.b</del> for additional terms for applications acquired through certain Stores owned or operated by Microsoft or its affiliates (including, but not limited to, the Office Store, the Microsoft Store on Xbox and the Microsoft Store on <del>Windows).</del> You should review the third-party terms and privacy policies before acquiring, using, requesting, or linking your Microsoft Account to any Third-Party Apps and Services. Any third-party terms do not modify <del>any of</del> these Terms. <del>You are responsible for your dealings with third parties.</del> Microsoft does not license any intellectual property to you as part of any Third-Party Apps and Services and is not responsible or liable to you or others for information or services provided by any Third-Party Apps and Services.</span>
+    <span class="line new ">5. Using Third-Party Apps and Services. The Services may allow you to access or acquire products, services, websites, links, content, material, games, skills, integrations, bots or applications from independent third parties (companies or people who aren’t Microsoft) ( &quot;Third-Party Apps and Services&quot; ). Many of our Services also help you find, make requests to, or interact with Third-Party Apps and Services <ins>and may allow</ins> or <ins>require</ins> you to share Your Content or <ins>Data with such Third-Party Apps and Services,</ins> and you understand that by using our Services you are directing them to make Third-Party Apps and Services available to you. The Third-Party Apps and Services may allow <ins>or require</ins> you to store Your Content or Data with the publisher, provider or operator of the Third-Party Apps and Services. The Third-Party Apps and Services may present you with a privacy policy or require you to accept their terms before you can install or use the Third-Party App or Service. See section <ins>13.b</ins> for additional terms for applications acquired through certain Stores owned or operated by Microsoft or its affiliates (including, but not limited to, the Office Store, the Microsoft Store on Xbox and the Microsoft Store on <ins>Windows.</ins> You should review the third-party terms and privacy policies before acquiring, using, requesting, or linking your Microsoft Account to any Third-Party Apps and Services. Any third-party terms do not modify these Terms. Microsoft does not license any intellectual property to you as part of any Third-Party Apps and <ins>Services. You agree to assume all risk and liability arising from your use of these Third-Party Apps and</ins> Services and <ins>that Microsoft is not responsible for any issues arising out of your use of them. Microsoft</ins> is not responsible or liable to you or others for information or services provided by any Third-Party Apps and Services.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old solo-old">iii. Your Content. As part of building the Xbox Services community, you grant to Microsoft, its affiliates and sublicensees a free and worldwide</span>
+    
+  </div>
+  
+  <div class="row">
+    <span class="line old solo-old">spokespersons. Their views do not necessarily reflect those of Microsoft.</span>
+    
+  </div>
+  
+  <div class="row">
+    <span class="line old ">ii. Xbox Services. When you sign up to receive Xbox Services, information about your game play, activities and usage of games and Xbox Services will be tracked and shared with applicable third-parties, including game <del>developers,</del> in order for Microsoft to deliver the Xbox Services and for the third-parties to operate non-Microsoft games and services. If you choose to link your Microsoft Xbox Services account with your account on a non-Microsoft service or sign in to your Xbox Services account to access a non-Microsoft Service (for example, a non-Microsoft game publisher of Third-Party Apps and Services), you agree that: (a) Microsoft may share limited account and usage-related information (including without limitation gamertag, gamerscore, game history, usage data and friends list), with that non-Microsoft party as stated in the Microsoft Privacy Statement, and (b) if allowed by your Xbox privacy settings, the non-Microsoft party may also have access to Your Content from in-game communications or other applications that you use when you are signed into your account with that non-Microsoft party. Also, if allowed by your Xbox privacy settings, Microsoft can publish your name, gamertag, gamerpic, motto, avatar, gameclips and games that you’ve played in communications to people you allow.</span>
+    <span class="line new ">ii. Xbox Services. When you sign up to receive Xbox Services, information about your game play, activities and usage of games and Xbox Services will be tracked and shared with applicable third-parties, including game <ins>developers and publishers,</ins> in order for Microsoft to deliver the Xbox Services and for the third-parties to operate non-Microsoft games and services. <ins>Additionally, if Xbox Services are accessed via third-party platforms, information about your game play, activities and usage of games and Xbox Services may be tracked and shared by such third-party platforms, subject to any third-party terms and privacy policies.</ins> If you choose to link your Microsoft Xbox Services account with your account on a non-Microsoft service or sign in to your Xbox Services account to access a non-Microsoft Service (for example, a non-Microsoft game publisher of Third-Party Apps and Services), you agree that: (a) Microsoft may share limited account and usage-related information (including without limitation gamertag, gamerscore, game history, usage data and friends list), with that non-Microsoft party as stated in the Microsoft Privacy Statement, and (b) if allowed by your Xbox privacy settings, the non-Microsoft party may also have access to Your Content from in-game communications or other applications that you use when you are signed into your account with that non-Microsoft party. Also, if allowed by your Xbox privacy settings, Microsoft can publish your name, gamertag, gamerpic, motto, avatar, gameclips and games that you’ve played in communications to people you allow.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>v. Kids on Xbox. If you are a minor using</del> the Xbox <del>Services,</del> your <del>parent</del> or <del>guardian may have control over many aspects of your account and may receive reports about your use of the</del> Xbox Services.</span>
+    <span class="line new "><ins>iii. Your Content. As part of building</ins> the Xbox <ins>Services community, you grant to Microsoft, its affiliates and sublicensees a free and worldwide right to use, modify, reproduce, distribute, broadcast, share and display Your Content or</ins> your <ins>name, gamertag, motto,</ins> or <ins>avatar that you posted for any</ins> Xbox Services.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">iv. Game Managers. Some games may use game managers, ambassadors, or hosts. Game managers and hosts are not authorized <del>Microsoft</del></span>
+    <span class="line new ">iv. Game Managers. Some games may use game managers, ambassadors, or hosts. Game managers and hosts are not authorized <ins>Microsoft spokespersons. Their views do not necessarily reflect those of Microsoft.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>right</del> to <del>use, modify, reproduce, distribute, broadcast, share</del> and <del>display Your Content or your name, gamertag, motto, or avatar that you posted for any Xbox Services.</del></span>
+    <span class="line new "><ins>v. Kids on Xbox. If you are a minor using the Xbox Services, your parent or guardian may have control over many aspects of your account on the Xbox platform and may receive reports about your use of the Xbox Services. These features are exclusive</ins> to <ins>Xbox Services</ins> and <ins>may not transfer to other platforms.</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old solo-old">vii. Software Updates. For any device that can connect to Xbox Services, we may automatically check your version of Xbox console</span>
+    
+  </div>
+  
+  <div class="row">
+    <span class="line old solo-old">software or the Xbox app software and download Xbox console or Xbox app software updates or configuration changes, including those that prevent</span>
+    
+  </div>
+  
+  <div class="row">
+    <span class="line old solo-old">viii. Cheating and Tampering Software. For any device that can connect to Xbox Services, we may automatically check your device for unauthorized</span>
+    
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>hardware</del> or software <del>that enables cheating or tampering in violation of the Code of Conduct or these Terms,</del> and download Xbox app software updates or configuration changes, including those that prevent you from accessing the Xbox Services, or <del>from</del> using unauthorized hardware <del>or software that enables cheating or tampering.</del></span>
+    <span class="line new "><ins>vii. Software Updates. For any device that can connect to Xbox Services, we may automatically check your version of Xbox console software</ins> or <ins>the Xbox app</ins> software and download <ins>Xbox console or</ins> Xbox app software updates or configuration changes, including those that prevent you from accessing the Xbox Services, <ins>using unauthorized Xbox games</ins> or <ins>Xbox apps, or</ins> using unauthorized hardware <ins>peripheral devices with an Xbox console.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">you from accessing the Xbox Services, <del>using unauthorized Xbox games</del> or <del>Xbox apps, or</del> using unauthorized hardware <del>peripheral devices with an Xbox console.</del></span>
+    <span class="line new "><ins>viii. Cheating and Tampering Software. For any device that can connect to Xbox Services, we may automatically check your device for unauthorized hardware or software that enables cheating or tampering in violation of the Code of Conduct or these Terms, and download Xbox app software updates or configuration changes, including those that prevent</ins> you from accessing the Xbox Services, or <ins>from</ins> using unauthorized hardware <ins>or software that enables cheating or tampering.</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">xi. Additional end-user license agreements and codes of conduct. Some Xbox Services may have their own usage terms and codes of conduct.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">c. Microsoft Family Features. Parents and kids can use Microsoft family features, including Microsoft Family Safety, to build trust based on a shared understanding of what behaviors, websites, apps, games, physical locations, and spending is right in their family. Parents can create a family by going to https://account.microsoft.com/family (or by following the instructions on their Windows device or Xbox console) and inviting kids or other parents to join. There are many features available to family members, so please carefully review the information provided when you agree to create or join a family and when you purchase Digital Goods for family access. By creating or joining a family, you agree to use the family in accordance with its purpose and won’t use it in an unauthorized way to unlawfully gain access to another person’s <del>information.</del></span>
+    <span class="line new ">c. Microsoft Family Features. Parents and kids can use Microsoft family features, including Microsoft Family Safety, to build trust based on a shared understanding of what behaviors, websites, apps, games, physical locations, and spending is right in their family. Parents can create a family by going to https://account.microsoft.com/family (or by following the instructions on their Windows device or Xbox console) and inviting kids or other parents to join. There are many features available to family members, so please carefully review the information provided when you agree to create or join a family and when you purchase Digital Goods for family access. By creating or joining a family, you agree to use the family in accordance with its purpose and won’t use it in an unauthorized way to unlawfully gain access to another person’s <ins>information. Microsoft Family Features are exclusive to Microsoft Services and are not transferable to other platforms. For example, Xbox-specific Family Safety settings will apply on Xbox console or via Xbox on PC or Mobile device but may not apply on other platforms.</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">## Microsoft Cashback</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">l. Microsoft Cashback. The Microsoft Cashback program (“Cashback”) allows Microsoft customers to earn cash back awards when shopping with participating retailers using certain Microsoft products and services like Bing.com and Microsoft Edge. By enrolling in Cashback or activating a Cashback offer, you accept and agree to the Cashback Terms &amp; Conditions (https://www.microsoft.com/bing/rebates-terms). Certain eligibility criteria, restrictions, and other limitations apply to your participation in Cashback; for more information, see the Cashback FAQ (https://www.bing.com/rebates/faq).</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">v. Earning Points. You may be presented with opportunities to earn Points for certain qualifying activities (&quot; Offers &quot;), such as Searches, Acquisitions, use of certain Microsoft products and services, and other opportunities from Microsoft. You must have an active Rewards Account to take advantage of such Offers. Eligible Offers may vary by Region and may only be available for a certain time or subject to other limitations. You must comply with all terms and conditions of a particular Offer to earn Points awarded with that Offer. You may be presented with Offers directly on the Rewards Dashboard or when you use certain Microsoft products and services.</span>
+    <span class="line new ">v. Earning Points. You may be presented with opportunities to earn Points for certain qualifying activities (&quot; Offers &quot;), such as Searches, Acquisitions, use of certain Microsoft products and services, and other opportunities from Microsoft. You must have an active Rewards Account to take advantage of such Offers. <ins>After completing requirements for certain Offers, you may be required to claim the Points on the Rewards Dashboard before the Points are earned and added to your Rewards Account. Failure to claim the Points within the time specified by Microsoft may result in the Points being forfeited.</ins> Eligible Offers may vary by Region and may only be available for a certain time or subject to other limitations. You must comply with all terms and conditions of a particular Offer to earn Points awarded with that Offer. You may be presented with Offers directly on the Rewards Dashboard or when you use certain Microsoft products and <ins>services. From time to time, Microsoft may offer or award you additional Points in its sole discretion and with or without prior notice, including for what Microsoft determines to be good-faith Searches and other interactions with Microsoft</ins> services.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">vi. For purposes of the Rewards Program, a &quot; Search &quot; is the act of an individual user manually entering text for the good faith purpose of obtaining Bing search results for such user’s own research <del>purposes and</del> does not include <del>any</del> query entered by a bot, macro, or other automated or fraudulent means of any <del>kind; and</del> an <del>&quot;</del> Acquisition <del>&quot;</del> is the process of purchasing goods or downloading and acquiring a license for digital content directly from Microsoft, whether free or paid. Points are not offered for every Acquisition from Microsoft, and certain restrictions may apply.</span>
+    <span class="line new ">vi. For purposes of the Rewards Program, a &quot; Search &quot; is the act of an individual user manually entering text for the good faith purpose of obtaining Bing search results for such user’s own research <ins>purposes; a “Search”</ins> does not include <ins>queries not intended or used for genuine good-faith personal research purposes or a</ins> query entered by a bot, macro, or other automated or fraudulent means of any <ins>kind. For purposes of the Rewards Program,</ins> an <ins>“</ins> Acquisition <ins>”</ins> is the process of purchasing goods or downloading and acquiring a license for digital content directly from Microsoft, whether free or paid. Points are not offered for every Acquisition from Microsoft, and certain restrictions may apply.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">viii. <del>Redemptions</del> Redemption Options will be made available to you on the Redemption Page and on certain other Microsoft sites and pages. You must earn and have available in your Rewards Account all of the Points required for a Redemption Option before you can redeem your Points for that Redemption Option. There may be a limited number of a particular Reward available, and those Rewards will be delivered on a first-come, first-served basis. You may be required to provide additional information, like your mailing address and a telephone number (other than a VOIP or toll-free number), and you may also be asked to enter a fraud-prevention code or sign additional legal documents to redeem Points for certain Redemption Options. Once you redeem your Points, you cannot cancel or return the Redemption Option for a refund of Points except in the case of defective products or as required by applicable law. If you select a Redemption Option that is out of stock or unavailable for other reasons, we may substitute a Redemption Option of comparable value or refund your points at our sole discretion.</span>
+    <span class="line new ">viii. <ins>Redemptions.</ins> Redemption Options will be made available to you on the Redemption Page and on certain other Microsoft sites and pages. You must earn and have available in your Rewards Account all of the Points required for a Redemption Option before you can redeem your Points for that Redemption Option. There may be a limited number of a particular Reward available, and those Rewards will be delivered on a first-come, first-served basis. You may be required to provide additional information, like your mailing address and a telephone number (other than a VOIP or toll-free number), and you may also be asked to enter a fraud-prevention code or sign additional legal documents to redeem Points for certain Redemption Options. Once you redeem your Points, you cannot cancel or return the Redemption Option for a refund of Points except in the case of defective products or as required by applicable law. If you select a Redemption Option that is out of stock or unavailable for other reasons, we may substitute a Redemption Option of comparable value or refund your points at our sole discretion.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>m.</del> Azure. Your use of the Azure service is governed by the terms and conditions of the separate agreement under which you obtained the services, as detailed on the Microsoft Azure Legal Information page at https://azure.microsoft.com/en-us/support/legal/ .</span>
+    <span class="line new "><ins>n.</ins> Azure. Your use of the Azure service is governed by the terms and conditions of the separate agreement under which you obtained the services, as detailed on the Microsoft Azure Legal Information page at https://azure.microsoft.com/en-us/support/legal/ .</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>n.</del> Microsoft Soundscape. You acknowledge that Microsoft Soundscape (1) is not designed, intended, or made available as a medical device, and (2) is not designed or intended to be a substitute for professional medical advice, diagnosis, treatment, or judgment and should not be used to replace or as a substitute for professional medical advice, diagnosis, treatment, or judgment.</span>
+    <span class="line new "><ins>o.</ins> Microsoft Soundscape. You acknowledge that Microsoft Soundscape (1) is not designed, intended, or made available as a medical device, and (2) is not designed or intended to be a substitute for professional medical advice, diagnosis, treatment, or judgment and should not be used to replace or as a substitute for professional medical advice, diagnosis, treatment, or judgment.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>o.</del> Power Platform. Your use of the Power Platform service is governed by the terms and conditions of the separate agreement under which you obtained the services, as detailed on the Power Platform Legal Information page at Microsoft Power Platform (https://powerplatform.microsoft.com/en-us/business-applications/legal/).</span>
+    <span class="line new "><ins>p.</ins> Power Platform. Your use of the Power Platform service is governed by the terms and conditions of the separate agreement under which you obtained the services, as detailed on the Power Platform Legal Information page at Microsoft Power Platform (https://powerplatform.microsoft.com/en-us/business-applications/legal/).</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>p.</del> Dynamics 365. Your use of the Dynamics 365 service is governed by the terms and conditions of the separate agreement under which you obtained the services, as detailed on the Dynamics 365 Legal Information page at Microsoft Dynamics 365 (https://dynamics.microsoft.com/business-applications/legal/).</span>
+    <span class="line new "><ins>q.</ins> Dynamics 365. Your use of the Dynamics 365 service is governed by the terms and conditions of the separate agreement under which you obtained the services, as detailed on the Dynamics 365 Legal Information page at Microsoft Dynamics 365 (https://dynamics.microsoft.com/business-applications/legal/).</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">## Copilot AI Experiences</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">r. Copilot AI Experiences. Your use of Copilot AI Experiences (except Copilot with commercial data protection) is governed by the supplemental terms and conditions under which you obtained those services as detailed at Copilot - Terms of Use (bing.com) (https://www.bing.com/new/termsofuse#content-policy) together with these Terms. If you are a Microsoft Copilot with commercial data protection user, please visit this page to review the terms of use that apply to you, together with these Terms: https://aka.ms/BCETermsOfUse .</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>ii. Extracting Data. Unless explicitly permitted, you may</del> not <del>use web scraping, web harvesting,</del> or <del>web data extraction methods</del> to <del>extract data from the AI services.</del></span>
+    <span class="line new "><ins>i. Assistive AI. AI services are</ins> not <ins>designed, intended,</ins> or to <ins>be used as substitutes for professional advice.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>i.</del> Reverse Engineering. You may not use the AI services to discover any underlying components of the models, algorithms, and systems. For example, you may not try to determine and remove the weights of <del>models.</del></span>
+    <span class="line new "><ins>ii.</ins> Reverse Engineering. You may not use the AI services to discover any underlying components of the models, algorithms, and systems. For example, you may not try to determine and remove the weights of <ins>models or extract any parts of the AI services from your device.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">iii. <del>Limits on</del> use <del>of</del> data from the AI <del>Services. You may not use the AI services, or data from the AI services, to create, train, or improve (directly or indirectly) any other AI service.</del></span>
+    <span class="line new ">iii. <ins>Extracting Data. Unless explicitly permitted, you may not</ins> use <ins>web scraping, web harvesting, or web data extraction methods to extract</ins> data from the AI <ins>services.</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">iv. <del>Use</del> of <del>Your Content. As part of providing</del> the AI services, <del>Microsoft will process and store your inputs to the service as well as output</del> from the <del>service, for purposes of monitoring for and preventing abusive</del> or <del>harmful uses</del> or <del>outputs of the</del> service.</span>
+    <span class="line new ">iv. <ins>Limits on use</ins> of <ins>data from the AI Services. You may not use</ins> the AI services, <ins>or data</ins> from the <ins>AI services, to create, train,</ins> or <ins>improve (directly</ins> or <ins>indirectly) any other AI</ins> service.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">v. <del>Third party claims. You are solely responsible</del> for <del>responding to any third-party claims regarding Your use</del> of the <del>AI services in compliance with applicable laws (including, but not limited to, copyright infringement or other claims relating to content output during Your use of the AI services).</del></span>
+    <span class="line new ">v. <ins>Use of Your Content. As part of providing the AI services, Microsoft will process and store your inputs to the service as well as output from the service,</ins> for <ins>purposes of monitoring for and preventing abusive or harmful uses or outputs</ins> of the <ins>service.</ins></span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">vi. Ownership of Content. Microsoft doesn&#x27;t claim ownership of any content you provide, post, input, or submit to, or receive from, the AI services (including feedback and suggestions). You&#x27;ll need to make your own determination regarding the intellectual property rights you have in output content and its usability, taking into account, among other things, your usage scenario(s) and the laws of the relevant jurisdiction. You warrant and represent that you own or otherwise control all of the rights to your content as described in these Terms including, without limitation, all the rights necessary for you to provide, post, upload, input, or submit the content.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">vii. Content credentials. When you use AI to generate certain content with our AI services, Microsoft stores information about its creation and associates this information and the content with a content credential. You may not create content with the purpose of removing or altering content credentials or other provenance methods, marks or signals that indicate that an output was generated by the AI services or otherwise use the AI services to create content for the purpose of misleading others about whether an output was generated by the AI services.</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">viii. Third-party claims. You are solely responsible for responding to any third-party claims regarding Your use of the AI services in compliance with applicable laws (including, but not limited to, copyright infringement or other claims relating to content output during Your use of the AI services).</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old solo-old">a. Disputes Covered—Everything Except IP. The term &quot;dispute&quot; is as broad as it can be. It includes any claim or controversy between</span>
+    
+  </div>
+  
+  <div class="row">
+    <span class="line old solo-old">you and us concerning the Services, the software related to the Services, the Services’ or software’s price, your Microsoft account, marketing,</span>
+    
+  </div>
+  
+  <div class="row">
+    <span class="line old solo-old">rights .</span>
+    
+  </div>
+  
+  <div class="row">
+    <span class="line old ">communications, your purchase transaction, billing, or these Terms, under any legal theory including contract, warranty, tort, statute, or regulation, except disputes relating to the enforcement or validity of your, your licensors’, our, or our licensors’ intellectual <del>property</del></span>
+    <span class="line new "><ins>a. Disputes Covered—Everything Except IP. The term &quot;dispute&quot; is as broad as it can be. It includes any claim or controversy between you and us concerning the Services, the software related to the Services, the Services’ or software’s price, your Microsoft account, marketing,</ins> communications, your purchase transaction, billing, or these Terms, under any legal theory including contract, warranty, tort, statute, or regulation, except disputes relating to the enforcement or validity of your, your licensors’, our, or our licensors’ intellectual <ins>property rights .</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old solo-old">ii. Disputes Involving $75,000 or More. The AAA rules will govern payment of filing fees and the AAA’s and arbitrator’s</span>
+    
+  </div>
+  
+  <div class="row">
+    <span class="line old solo-old">fees and expenses.</span>
+    
+  </div>
+  
+  <div class="row">
+    <span class="line old ">If your Notice of Dispute involves claims similar to those of at least 24 other customers, and if you and those other customers are represented by the same lawyers, or by lawyers who are coordinating with each other, you and we agree that these claims will be “Related Cases.” Related Cases may only be filed in batches of up to 50 individual arbitrations at a time, and those individual arbitrations will be resolved in the following manner: (i) for the first batch, each side may select up to 25 of these Related Cases to be filed and resolved in individual arbitrations under this section 15; (ii) none of the other Related Cases may be filed or prosecuted in arbitration until the first batch of up to 50 individual arbitrations is resolved; and (iii) if, after that first batch, the parties are unable to <del>informally</del> resolve the remaining Related Cases, a second batch of Related Cases may be filed, where each side may select up to 25 of the Related Cases to be resolved in individual arbitrations under this section 15. This process of batched individual arbitrations will continue until the parties resolve all Related Cases informally or through individual arbitrations. A court has exclusive authority to enforce this paragraph, including whether it applies to a given set of claims, and to enjoin the filing or prosecution of arbitrations that do not comply with this paragraph.</span>
+    <span class="line new ">If your Notice of Dispute involves claims similar to those of at least 24 other customers, and if you and those other customers are represented by the same lawyers, or by lawyers who are coordinating with each other, you and we agree that these claims will be “Related Cases.” <ins>You and we agree that the AAA’s Mass Arbitration Supplementary Rules in effect when the Demand for Arbitration is filed, as modified by this section 15, will apply to Related Cases.</ins> Related Cases may only be filed in batches of up to 50 individual arbitrations at a time, and those individual arbitrations will be resolved in the following manner: (i) for the first batch, each side may select up to 25 of these Related Cases to be filed and resolved in individual arbitrations under this section 15; (ii) none of the other Related Cases may be filed or prosecuted in arbitration until the first batch of up to 50 individual arbitrations is resolved; and (iii) if, after that first batch, the parties are unable to resolve the remaining Related Cases, a second batch of Related Cases may be filed, where each side may select up to 25 of the Related Cases to be resolved in individual arbitrations under this section 15. This process of batched individual arbitrations will continue until the parties resolve all Related Cases informally or through individual arbitrations. A court has exclusive authority to enforce this paragraph, including whether it applies to a given set of claims, and to enjoin the filing or prosecution of arbitrations that do not comply with this paragraph.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old "><del>i. Disputes Involving Less Than $75,000. We</del> will promptly reimburse your filing fees and pay the AAA’s and arbitrator’s fees and <del>expenses if: (i) the dispute involves less than $75,000;</del> and <del>before initiating arbitration (ii) you complied with all pre-arbitration requirements in this section 15, including, if applicable, the Related Cases paragraph. Otherwise, the AAA rules will govern payment of filing fees and the AAA’s and arbitrator’s fees and expenses. If,</del> at the conclusion of the arbitration, the arbitrator awards you more than our last written offer made before the arbitrator was appointed, we will: pay you (i) the amount of the award or $1,000 (whichever is more); and; (ii) for any reasonable attorney’s fees you incurred; and any reasonable expenses (including expert witness fees and costs) that your attorney accrued in connection with your individual arbitration.</span>
+    <span class="line new "><ins>In addition, if the dispute is not part of the Related Cases described above, the dispute involves less than $75,000, and before initiating arbitration you complied with all pre-arbitration requirements in this section 15, then (1) we</ins> will promptly reimburse your filing fees and pay the AAA’s and arbitrator’s fees and <ins>expenses;</ins> and <ins>(2) if,</ins> at the conclusion of the arbitration, the arbitrator awards you more than our last written offer made before the arbitrator was appointed, we will: pay you (i) the amount of the award or $1,000 (whichever is more); and; (ii) for any reasonable attorney’s fees you incurred; and any reasonable expenses (including expert witness fees and costs) that your attorney accrued in connection with your individual arbitration.</span>
+  </div>
+  
+</div>
+
+
+  <footer>
+    <span>Open source. Automatic. Not legal advice — just receipts.</span>
+    <span>45 policies watched · <a href="https://github.com/monanyx/tos-night-shift">Add one</a></span>
+  </footer>
+</div>
+
+<script>
+document.getElementById('copy').addEventListener('click', async e => {
+  try { await navigator.clipboard.writeText(location.href); e.target.textContent = 'Copied'; }
+  catch { e.target.textContent = 'Copy failed'; }
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,211 @@
+{
+  "id": "2024-04-26-temu-privacy",
+  "service": "temu",
+  "service_name": "Temu",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.temu.com/privacy-and-cookie-policy.html",
+  "detected_at": "2024-04-26T18:13:57+00:00",
+  "source": "wayback",
+  "window_start": "2024-02-09T04:14:30+00:00",
+  "archive_before": "https://web.archive.org/web/20240209041430/https://www.temu.com/privacy-and-cookie-policy.html",
+  "archive_after": "https://web.archive.org/web/20240426181357/https://www.temu.com/privacy-and-cookie-policy.html",
+  "flags": [
+    {
+      "tag": "data-sharing",
+      "label": "Data sharing",
+      "hits": 1
+    },
+    {
+      "tag": "minors",
+      "label": "Kids & teens",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 16,
+    "added_words": 786,
+    "removed_words": 594
+  },
+  "headline": "Temu rewrote its Privacy Policy — new wording on sharing your data and kids and teens",
+  "summary": "786 words added and 594 removed across 16 sections. New wording touches: Data sharing, Kids & teens. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "- We may share your information with service providers, partners and other parties described in the “How and Why We Share Your Information”, which can be located outside the EU, EEA, UK and Switzerland.",
+  "receipt_side": "new",
+  "sideeye": 3,
+  "tags": [
+    "data-sharing",
+    "minors"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "- Free returnsWithin 90 days",
+        "- Price adjustmentWithin 30 days",
+        "- Free returnsWithin 90 days",
+        "# Temu | Privacy Policy",
+        "Last updated: December 29, 2023",
+        "Click here for information about interest based advertising and your available choices."
+      ],
+      "new": [
+        "# Temu | Privacy & Cookie Policy",
+        "Last updated: April 2, 2024"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "In the course of providing and improving our products and services, we collect your personal information for the purposes described in this Privacy Notice. The following are the types of personal information that we collect:"
+      ],
+      "new": [
+        "In the course of providing and improving our products and services, we collect your personal information for the purposes described in this Privacy Policy. The following are the types of personal information that we collect:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Account and Profile. In order to create and manage your Temu account, we may collect your mobile phone number or email address as the login credentials for your account. If you choose to sign up or login in via external third-party services, such as Facebook or Google, you agree we may collect your profile photo, username, and email address associated with the relevant third-party service provider.",
+        "- Purchases. In order to complete transactions and fulfill orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number)."
+      ],
+      "new": [
+        "- Account and Profile. In order to create and manage your Temu account, we may collect your mobile phone number or email address as the login credentials for your account. If you choose to sign up or login in via external third-party services, such as Facebook or Google, you agree we may collect your profile photo, username, and email address associated with the relevant third-party service provider. We also collect your account settings and preferences.",
+        "- Purchases. In order to complete transactions and fulfil orders, we collect data related to your order on the Service (e.g. transaction history), payment information required to complete the transaction (e.g. payment card number or other third-party payment information required for payment), your shipping address (e.g. city, state, country of residence, postal code), and recipient contact information (e.g. name, mobile phone number). We also collect your region on a country basis."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We may combine the personal information that we receive from you with personal information that we obtain from other third-party sources, such as:"
+      ],
+      "new": [
+        "We may collect personal information from other third-party sources, such as:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Marketing partners. Such as joint marketing partners and event co-sponsors.",
+        "- U.S. public sources. Such as government agencies, public records, and other publicly available sources."
+      ],
+      "new": [
+        "- Marketing partners. Such as business partners with whom we collaborate on marketing events.",
+        "- Public authorities in the EEA, UK and Switzerland, public sources and rights holders. We may obtain information from third party sources for example, as necessary to comply with our obligations, prevent, investigate, detect an alleged claim or crime, or for a party to assert their legal rights."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Social media services - from which we may collect information including your username, profile picture, and email address associated with the relevant third-party service provider, if you choose to register or log in on the Service using said third-party service.",
+        "- Logistics service providers - to effectively complete order fulfillment, we will obtain your logistics information from logistics providers, such as delivery progress and delivery address."
+      ],
+      "new": [
+        "- Social media services - from which we may collect information such as your username, profile picture, and email address associated with the relevant third-party service provider, if you choose to register or log in on the Service using said third-party service.",
+        "- Logistics service providers - to effectively complete order fulfilment, we will obtain your logistics information from logistics providers, such as delivery progress and delivery address."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Location Data: We collect your approximate location data (e.g. IP address).",
+        "Cookies and Similar Technologies: We use cookies and similar technologies to measure and analyze how you use the Service, including the pages you view and how you interact with the content. Cookies and similar technologies are also used to enhance your experience with the Service, improve the Service, display advertisements to you, and measure the effectiveness of advertising and other content. We and our partners also use cookies to promote the Service on other websites. Web beacons are very small images or pieces of data embedded in an image, also known as \"pixel tags\" or \"clear GIFs\", that recognize cookies, the time and date the page was viewed, a description of the page on which the pixel tag was placed, and similar information from your computer or device. Some of these tools may enable us or third parties to collect information about how you act with our and other websites over time. To learn how to disable certain cookies, please read our Cookie and Similar Technologies Policy."
+      ],
+      "new": [
+        "- Location Data: We collect your approximate location based on your technical information (e.g. IP address).",
+        "Cookies and Similar Technologies: We use cookies and similar technologies to measure and analyse how you use the Service, including the pages you view and how you interact with the content. Cookies and similar technologies are also used to enhance your experience with the Service, improve the Service, display advertisements to you, and measure the effectiveness of advertising and other content. We and our partners also use cookies to promote the Service on other websites. To understand how cookies are used on other websites, please review their policies. Web beacons are very small images or pieces of data embedded in an image, also known as \"pixel tags\" or \"clear GIFs\", that recognize cookies, the time and date the page was viewed, a description of the page on which the pixel tag was placed, and similar information from your computer or device. Some of these tools may enable us or third parties to collect information about how you act with our and other websites over time. To learn more, including how to disable certain cookies, please read our Cookie and Similar Technologies Policy."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We use the personal information that we collect for various purposes, including to develop, improve, support, and provide the Service, allowing you to use its features while fulfilling and enforcing our Terms of Use. We may use your personal information for the following purposes:Create and maintain your account. We use your personal information to create and maintain your user profile on the Service, enable the Service's account security features (e.g. sending security codes via email or SMS). Orders and delivery of products and services. We use your personal information to receive and process orders, deliver products and services, process payments, and communicate with you regarding orders, products and services, and promotional offers.Improve and optimize services and troubleshooting. We use your personal information to optimize features, analyze performance metrics, fix errors, and improve the Service and our business. As part of these activities, we may create aggregated or otherwise deidentified data based on the personal information we collect.Deidentified information. We may deidentify your information such that it cannot reasonably be used to infer information about you or otherwise be linked to you, and we may use such deidentified information for any purpose. To the extent we possess or process any deidentified information, we will maintain and use such information in deidentified form and not attempt to re-identify the information, except solely for the purpose of determining whether our deidentification process satisfies legal requirements.Personalize your experience. We use your personal information to recommend features, products, and services that may be of interest to you. Personal information will also be used to determine your preferences and personalize your experience with the Service.Communicate with you and provide customer support. We use your personal information to communicate with you (e.g. announcements, updates, security alerts, support, and administrative messages) and provide customer support for your requests, questions, and feedback.Sweepstakes, contests, and other promotions and events. We may use your user profile picture and account information to identify you in related promotions and events, and facilitate your invitations to friends who you want to invite to join the Service.Marketing. We and our service providers may collect and use your personal information for marketing purposes. We may send you direct marketing communications and abandoned cart reminders (enabled as described via the use of cookies that we collect). You may opt out of our marketing communications or abandoned cart reminders as described in the “Your Controls and Choices” section below.Interest-based advertising. We, our service providers, and our third-party advertising partners may collect and use your personal information for interest-based advertising purposes. In providing interest-based advertising, we follow the Self-Regulatory Principles for Online Behavioral Advertising as set forth by the Digital Advertising Alliance (DAA), which is an advocacy organization for responsible digital marketing and consumer privacy. You can learn more about interest-based advertising and your opt-out choices here.Fraud prevention and security. We use your personal information to prevent, detect, investigate, and respond to fraud, unauthorized access to or use of the Service, violations of the Terms of Use and Policies, or other misconduct.Compliance and legal obligations: We may use your personal information for compliance purposes and to comply with the U.S. law, including any applicable laws, lawful requests, and legal processes (e.g. responding to subpoenas or requests from U.S. government authorities); to protect our, yours, and other users' rights, privacy, safety, or property (including introducing and defending legal claims); audit internal processes to ensure compliance with U.S. legal and contractual requirements and our internal policies; enforce the terms and conditions that govern the Service; prevent, identify, investigate, and deter fraudulent, harmful, unauthorized, unethical, or illegal activities, including cyberattacks and identity theft.Legal claims based on your consent. In some cases, we may specifically ask for your consent to collect, use, or share your personal information, where required by U.S. law.Cookies and similar technologies for technical operations, performance enhancement, advertising, analytics, etc. For more information about cookies and how we use them, please read our Cookie and Similar Technologies Policy."
+      ],
+      "new": [
+        "We use the personal information that we collect for various purposes, including to develop, improve, support, and provide the Service, allowing you to use its features while fulfilling and enforcing our Terms of Use. We may use your personal information for the following purposes:Create and maintain your account. We use your personal information to create and maintain your user profile on the Service, enable the Service's account security features (e.g. sending security codes via email or SMS). Orders and delivery of products and services. We use your personal information to receive and process orders, deliver products and services, process payments, and communicate with you regarding orders, products and services, and promotional offers.Improve and optimize services and troubleshooting. We use your personal information to optimise features, analyse performance metrics, fix errors, and improve the Service and our business. As part of these activities, we may create aggregated or otherwise deidentified data based on the personal information we collect.Deidentified information. We may deidentify your information such that it cannot reasonably be used to infer information about you or otherwise be linked to you. To the extent we possess or process any deidentified information, we will maintain and use such information in deidentified form and not attempt to re-identify the information, except solely for the purpose of determining whether our deidentification process satisfies legal requirements.Personalise your experience. We use your personal information to recommend features, products, and services that may be of interest to you. Personal information will also be used to determine your preferences and personalise your experience with the Service.Communicate with you and provide customer support. We use your personal information to communicate with you (e.g. announcements, updates, security alerts, support, and administrative messages) and provide customer support for your requests, questions, and feedback.Sweepstakes, contests, and other promotions and events. We may use your user profile picture and account information to identify you in related promotions and events, and facilitate your invitations to friends who you want to invite to join the Service.Marketing. We and our service providers may collect and use your personal information for marketing purposes in accordance with your stated preferences and applicable law. We may send you direct marketing communications and abandoned cart reminders (enabled as described via the use of cookies that we collect). You may opt out of our marketing communications or abandoned cart reminders as described in the “Your Rights and Choices” section below.Interest-based advertising. We, our service providers, and our third-party advertising partners may collect and use your personal information for interest-based advertising purposes. In providing interest-based advertising, we follow the Self-Regulatory Principles for Online Behavioural Advertising as set forth by the Digital Advertising Alliance (DAA), which is an advocacy organisation for responsible digital marketing and consumer privacy. You can learn more about interest-based advertising and your opt-out choices here.Fraud prevention and security. We use your personal information to prevent, detect, investigate, and respond to fraud, unauthorised access to or use of the Service, violations of the Terms of Use, or other misconduct.Compliance and legal obligations: We may use your personal information for compliance purposes and to comply with the applicable law, laws, lawful requests, and legal processes (e.g. responding to subpoenas or requests from government authorities) associated with your country of residence; to protect our, yours, and other users' rights, privacy, safety, or property (including introducing and defending legal claims); audit internal processes to ensure compliance with legal and contractual requirements and our internal policies; enforce the terms and conditions that govern the Service; prevent, identify, investigate, and deter fraudulent, harmful, unauthorised, unethical, or illegal activities, including cyberattacks and identity theft.With your consent. In some cases, we may specifically ask for your consent to collect, use, or share your personal information, where required by applicable law.Cookies and similar technologies for technical operations, performance enhancement, advertising, analytics, etc. For more information about cookies and how we use them, please read our Cookie and Similar Technologies Policy."
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "At Temu, we care deeply about privacy. While Temu shares your personal information for the purposes of targeted advertising, which may be considered a “sale” under applicable U.S. state privacy laws, as described further in the US Privacy Notice Addendum for US Residents, Temu does not “sell” personal information in the traditional sense. We may share your personal information with the following parties for the purpose of providing you with better services, providing you with personalized advertising and marketing communications, protecting your rights, and/or complying with U.S. legal requirements:Affiliates. For the purpose of order fulfillment, we may share your personal information related to order fulfillment, such as shipping address, contact information, with Whaleco Inc.'s subsidiaries and affiliates. Other unrelated personal information will not be shared. These subsidiaries and affiliates either follow the same practices described in this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy.Service providers. Third parties that provide services on our behalf or help us operate the Service or our business (such as hosting, information technology, customer support, email delivery, order fulfillment and delivery, marketing, consumer research and website analytics). These third-party service providers have only access to personal information needed to perform their functions and services, but shall not use such information for other purposes.Payment processors. Any payment card information you use to make a purchase on the Service is collected and processed by our payment processors.Advertising and analytics partners. Third-party advertising, marketing, and analytics companies for the interest-based advertising and analytics purposes described in our Cookie and Similar Technologies Policy. Certain of these disclosures to third parties are known as “sharing” or processing your personal information for targeted ads and but “sharing” may be considered “selling” your personal information under applicable law. For additional information and to learn about your right to opt out of such practices, see the"
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## Your Controls and Choices"
+      ],
+      "new": [
+        "## Your Rights and Choices"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Mobile Promotional Offers: When you provide us with your mobile phone number for marketing purposes, we may send you certain marketing alerts via text message and standard data and messaging rates will apply. If you no longer wish to receive mobile marketing alerts from us, you can follow the instructions provided in these messages or reply \"stop\" to any alerts we send. Rest assured that you can continue to use Temu even if you stop authorizing Mobile promotional offers."
+      ],
+      "new": [
+        "- Mobile Promotional Offers: When you provide us with your mobile phone number for marketing purposes, we may send you certain marketing alerts via text message and standard data and messaging rates will apply. If you no longer wish to receive mobile marketing alerts from us, you can follow the instructions provided in these messages or reply \"stop\" to any alerts we send. Rest assured that you can continue to use Temu even if you stop authorising Mobile promotional offers."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Change settings for cookies and similar technologies. Most browsers let you remove or reject cookies. To do this, follow the instructions in your browser settings. Many browsers accept cookies by default until you change your settings. Please note that if you set your browser to disable cookies, the Service may not work properly. For more information about cookies, including how to see what cookies have been set on your browser and how to manage and delete them, visit https://web.archive.org/web/20240209041430/http://www.allaboutcookies.org. You can also configure your device to prevent images from loading to prevent web beacons from functioning.Links to Third-Party Platforms. The Service may contain links to websites, mobile applications, and other online services operated by third parties. In addition, our content may be integrated into web pages or other online services that are not associated with us. If you choose to connect to the Service through your social media account or another third-party platform, you may be able to use your settings in your account with that platform to limit the information we receive from it. However, please note that these links and integrations are not an endorsement of, or representation that we are affiliated with, any third party. Moreover, we do not control websites, mobile applications or online services operated by third parties, and we are not responsible for their actions. Therefore, we encourage you to read the privacy policies of the other websites, mobile applications and online services you use. If you revoke our ability to access information from a third-party platform, that choice will not apply to information that we have already received from that third party.Do Not Track. Some Internet browsers may be configured to send “Do Not Track” signals to the online services that you visit. We currently do not respond to “Do Not Track” or similar signals. To find out more about “Do Not Track,” please visit https://web.archive.org/web/20240209041430/http://www.allaboutdnt.com.Declining to provide information. We need to collect personal information to provide certain services. If you do not provide the information we identify as required or mandatory, we may not be able to provide those services.Other Choices. Please see the US Privacy Notice Addendum for US Residents and the Cookie and Similar Technologies Policy for additional choices and rights you may have and how to exercise such choices and rights."
+      ],
+      "new": [
+        "Change settings for cookies and similar technologies. Most browsers let you remove or reject cookies. To do this, follow the instructions in your browser settings. Many browsers accept cookies by default until you change your settings. Please note that if you set your browser to disable cookies, the Service may not work properly. For more information about cookies, including how to see what cookies have been set on your browser and how to manage and delete them, visit https://web.archive.org/web/20240426181357/http://www.allaboutcookies.org. You can also configure your device to prevent images from loading to prevent web beacons from functioning.Links to Third-Party Platforms. The Service may contain links to websites, mobile applications, and other online services operated by third parties. In addition, our content may be integrated into web pages or other online services that are not associated with us. If you choose to connect to the Service through your social media account or another third-party platform, you may be able to use your settings in your account with that platform to limit the information we receive from it. However, please note that these links and integrations are not an endorsement of, or representation that we are affiliated with, any third party. Moreover, we do not control websites, mobile applications or online services operated by third parties, and we are not responsible for their actions. Therefore, we encourage you to read the privacy policies of the other websites, mobile applications and online services you use. If you revoke our ability to access information from a third-party platform, that choice will not apply to information that we have already received from that third party.Do Not Track. Some Internet browsers may be configured to send “Do Not Track” signals to the online services that you visit. We currently do not respond to “Do Not Track” or similar signals. To find out more about “Do Not Track,” please visit https://web.archive.org/web/20240426181357/http://www.allaboutdnt.com.Declining to provide information. We need to collect personal information to provide certain services. If you do not provide the information we identify as required or mandatory, we may not be able to provide those services.Other Choices. Please see the Cookie and Similar Technologies Policy for additional choices and rights you may have and how to exercise such choices and rights.",
+        "## Our Global Operations and Data Transfers",
+        "- We store the information described in the “What Information Do We Collect?” section in servers located in the European Economic Area (EEA).",
+        "- Certain of our subsidiaries and affiliates, located outside the EU, EEA, UK and Switzerland, are given limited remote access to your personal data. See the “How and Why we Share your Information” section above for more information.",
+        "- We may share your information with service providers, partners and other parties described in the “How and Why We Share Your Information”, which can be located outside the EU, EEA, UK and Switzerland.",
+        "- Adequacy decisions. These are decisions from the European Commission under Article 45 GDPR (or equivalent decisions under other laws) where they recognise that a country offers an adequate level of data protection. We transfer your information as described in “What Information Do We Collect?” to some countries with adequacy decisions, such as the countries listed here; or",
+        "- Standard contractual clauses. The European Commission has approved contractual clauses under Article 46 of the GDPR that allows companies in the EEA to transfer data outside the EEA. These (and their approved equivalent for the UK and Switzerland) are called standard contractual clauses. We rely on standard contractual clauses to transfer information as described in “What Information Do We Collect?” to certain affiliates and third parties in countries without an adequacy decision.",
+        "## EU General Data Protection Regulation and UK Data Protection Laws – Legal Basis",
+        "- Performance of a contract. when we provide our Services, or communicate with you about them. This includes when we use your personal information to develop, improve, support, and provide the Service, allowing you to use its features while fulfilling and enforcing our Terms of Use.",
+        "- Our legitimate business interests and the interests of third parties and/or our customers. when we optimize features, analyse performance metrics, fix errors, and improve the Service and our business, when we detect and prevent fraud and abuse in order to protect the security of our customers, ourselves, or others, and when we provide you with interest-based advertising.",
+        "- Your consent. when we ask for your consent to process your personal information for a specific purpose that we communicate to you. When you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time and we will stop processing of your data for that purpose.",
+        "- Compliance with a legal obligation. when we use your personal information for compliance purposes and to comply with the applicable law, laws, lawful requests, and legal processes (e.g. responding to subpoenas or requests from government authorities) associated with your country of residence; to protect our, yours, and other users' rights, privacy, safety, or property (including introducing and defending legal claims); audit internal processes to ensure compliance with legal and contractual requirements and our internal policies; enforce the terms and conditions that govern the Service; prevent, identify, investigate, and deter fraudulent, harmful, unauthorised, unethical, or illegal activities, including cyberattacks and identity theft.",
+        "- These and other legal bases depending on the purpose we described in the “How and Why We Use Your Information?”"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Temu does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use our Services only with the involvement of a parent or guardian. We do not knowingly collect personal data from users who are under the age of 13 through the Service. If we become aware that we have unintentionally collected personal data from a child under the age of 13 through the Service, we will delete the information from our records. If you believe that a child under the age of 13 may have provided us with personal data, contact us as specified in the “Contact Us” section of this Privacy Policy or through our online reporting form."
+      ],
+      "new": [
+        "The Service is not intended for use by anyone who is under the age of 18 or a minor (as defined by applicable law). If you are a parent or guardian of a child about whom you believe we have collected personal information, please contact us or through our online reporting form. If we learn that we have collected personal information through the Service from a child or without the knowledge of the child’s parent or guardian as required by law, we will comply with applicable legal requirements to delete the information."
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "## Privacy Notice Addendum for US Residents",
+        "Residents of certain US states may have additional privacy rights under applicable state privacy laws. US users can learn more about which rights may be available to them and how to exercise those rights by reviewing US Privacy Notice Addendum for US Residents."
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We reserve the right to modify this Privacy Policy at any time. If we make material changes to this Privacy Policy, we will notify you by updating the date of this Privacy Policy, posting it on the Service or providing any notice required by applicable laws. Any modifications to this Privacy Policy will be effective upon our posting the modified version (or as otherwise indicated at the time of posting). We recommend that you review the Privacy Policy each time you visit our Service to stay informed of our privacy practices."
+      ],
+      "new": [
+        "We reserve the right to modify this Privacy Policy. If we make material changes to this Privacy Policy, we will notify you by updating the date of this Privacy Policy, posting it on the Service and/or providing any notice required by applicable laws. Any modifications to this Privacy Policy will be effective upon our posting the modified version (or as otherwise indicated at the time of posting). We recommend that you review the Privacy Policy each time you visit our Service to stay informed of our privacy practices."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Send an email to Temu's Data Protection Office - privacy@temu.com",
+        "- Whaleco Inc., Suite 355, 31 St. James Avenue, Boston, Massachusetts 02116, USA"
+      ],
+      "new": [
+        "- Send an email to Temu's Data Protection Office - privacy@eur.temu.com for the EU or privacy@uk.temu.com for the UK.",
+        "- If you wish to contact the Data Protection Office by post, you can send mail to the following address of Temu's Data Protection Office by post - Whaleco Technology Limited., First Floor, 25 St, Stephens Green, Dublin 2, Ireland."
+      ]
+    }
+  ]
+}

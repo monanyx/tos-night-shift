@@ -1,0 +1,65 @@
+{
+  "id": "2026-10-13-zoom-privacy",
+  "service": "zoom",
+  "service_name": "Zoom",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.zoom.com/en/trust/privacy/privacy-statement/",
+  "detected_at": "2026-10-13T14:23:49+00:00",
+  "source": "wayback",
+  "window_start": "2026-09-14T00:53:02+00:00",
+  "archive_before": "https://web.archive.org/web/20260914005302/https://www.zoom.com/en/trust/privacy/privacy-statement/",
+  "archive_after": "https://web.archive.org/web/20261013142349/https://www.zoom.com/en/trust/privacy/privacy-statement/",
+  "flags": [],
+  "stats": {
+    "hunks": 3,
+    "added_words": 63,
+    "removed_words": 82
+  },
+  "headline": "Zoom edited its Privacy Policy",
+  "summary": "63 words added and 82 removed across 3 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Select a language",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Last updated: July 27, 2026"
+      ],
+      "new": [
+        "Select a language",
+        "Last updated: September 17, 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Opt out of the “sale” of personal data or “sharing” of personal data for targeted advertising purposes.** We do not sell your personal data in the conventional sense. However, like many companies, we may use advertising and analytics services that are intended to analyze your interactions with our website or app, based on information obtained from cookies and similar technologies, including for delivering advertising to you (such as interest-based, targeted, or cross-context behavioral advertising). You can get more information and opt out of the use of cookies and similar technologies on our website and app by clicking the Cookies Settings or Your Privacy Choices, also on our homepage, and setting your preferences. You will need to set your preferences from each device and each web browser from which you wish to opt out. This feature uses a cookie to remember your preference, so if you clear all cookies from your browser, you will need to re-select your preferred settings. Residents of California, Colorado, Connecticut, Montana, Nebraska, New Hampshire, and Texas may also set the Global Privacy Control (GPC) to opt out of the “sale” or “sharing” of your personal information for targeted advertising for each participating browser system that you use. Zoom does not have actual knowledge that it “sells” or “shares” the personal information of consumers under 16 years of age."
+      ],
+      "new": [
+        "- **Opt out of the “sale” of personal data or “sharing” of personal data for targeted advertising purposes.** We do not sell your personal data governed by this Privacy Statement in the conventional sense. Sales of business contact related data may occur through our Zoom Common Room offering. Please see Zoom Common Room Privacy Statement for more information. However, like many companies, we may use advertising and analytics services that are intended to analyze your interactions with our website or app, based on information obtained from cookies and similar technologies, including for delivering advertising to you (such as interest-based, targeted, or cross-context behavioral advertising). You can get more information and opt out of the use of cookies and similar technologies on our website and app by clicking the Cookies Settings or Your Privacy Choices, also on our homepage, and setting your preferences. You will need to set your preferences from each device and each web browser from which you wish to opt out. This feature uses a cookie to remember your preference, so if you clear all cookies from your browser, you will need to re-select your preferred settings. Residents of California, Colorado, Connecticut, Montana, Nebraska, New Hampshire, and Texas may also set the Global Privacy Control (GPC) to opt out of the “sale” or “sharing” of your personal information for targeted advertising for each participating browser system that you use. Zoom does not have actual knowledge that it “sells” or “shares” the personal information of consumers under 16 years of age."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Privacy Statement Update Notes (July 27, 2026):**",
+        "\\- Add statement for 10DLC Compliance that Zoom will not share opt-in or consent data related to messaging campaigns",
+        "- Update EU/UK Representatives",
+        "- Update data transfer mechanisms to include frameworks beyond the EU Standard Contractual Clauses (SCCs)",
+        "- Provide an option for data subjects to contact Zoom for information on how to reach their local data protection authorities",
+        "- Clarify that users may submit DSAR via phone",
+        "- Clarify that users may set privacy preferences for cookies as well as similar technologies"
+      ],
+      "new": [
+        "**Privacy Statement Update Notes (September 17, 2026):**",
+        "- Clarify that this Privacy Statement does not cover sales of business contact data, which may occur through our Zoom Common Room offering (see the Zoom Common Room Privacy Statement for details)."
+      ]
+    }
+  ]
+}

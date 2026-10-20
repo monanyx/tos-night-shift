@@ -1,0 +1,73 @@
+{
+  "id": "2023-04-04-spotify-privacy",
+  "service": "spotify",
+  "service_name": "Spotify",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.spotify.com/us/legal/privacy-policy/",
+  "detected_at": "2023-04-04T06:41:10+00:00",
+  "source": "wayback",
+  "window_start": "2023-01-01T00:51:46+00:00",
+  "archive_before": "https://web.archive.org/web/20230101005146/https://www.spotify.com/us/legal/privacy-policy/",
+  "archive_after": "https://web.archive.org/web/20230404064110/https://www.spotify.com/us/legal/privacy-policy/",
+  "flags": [],
+  "stats": {
+    "hunks": 5,
+    "added_words": 9,
+    "removed_words": 86
+  },
+  "headline": "Spotify edited its Privacy Policy",
+  "summary": "9 words added and 86 removed across 5 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Effective as of 22 February 2023",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "removed",
+      "old": [
+        "Your privacy is important. As of 30 December, we've updated our Privacy Policy to make it easier to read and comply with new U.S. laws."
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Effective as of 1 January 2023"
+      ],
+      "new": [
+        "Effective as of 22 February 2023"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| To provide the Spotify Service in accordance with our contract with you. See <u>Section 1 ‘About this Policy’</u> for what we mean by the Spotify Service. For example, when we use your personal data to: set up an account for you personalize your account, or provide the Spotify app when you download it onto your device | Performance of a Contract | User Data Street Address Data Usage Data Voice Data Payment and Purchase Data |"
+      ],
+      "new": [
+        "| To provide the Spotify Service in accordance with our contract with you. For example, when we use your personal data to: set up an account for you personalize your account, or provide the Spotify app when you download it onto your device | Performance of a Contract | User Data Street Address Data Usage Data Voice Data Payment and Purchase Data |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| To understand, diagnose, troubleshoot, and fix issues with the Spotify Service. For example, we use your personal data to: respond to your messages when you contact customer services spot unusual data or behavior in our logs which might indicate a bug or other issue, or check and verify accounts to find and prevent unauthorized users | Performance of a Contract | User Data Usage Data |"
+      ],
+      "new": [
+        "| To diagnose, troubleshoot, and fix issues with the Spotify Service. | Performance of a Contract | User Data Usage Data |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| To detect and prevent fraud. For example, when we analyze Usage Data to check for fraudulent use of the Spotify Service. | Legitimate Interest Our legitimate interests here include protecting the Spotify Service and our users against fraud and other illegal activity. | User Data Street Address Data Usage Data Payment and Purchase Data |"
+      ],
+      "new": [
+        "| To keep the Spotify Service secure and to detect and prevent fraud. For example, when we analyze Usage Data to check for fraudulent use of the Spotify Service. | Legitimate Interest Our legitimate interests here include protecting the Spotify Service and our users against fraud and other illegal activity. | User Data Street Address Data Usage Data Payment and Purchase Data |"
+      ]
+    }
+  ]
+}

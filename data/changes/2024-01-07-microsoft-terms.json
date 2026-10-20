@@ -1,0 +1,65 @@
+{
+  "id": "2024-01-07-microsoft-terms",
+  "service": "microsoft",
+  "service_name": "Microsoft",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.microsoft.com/en-us/servicesagreement",
+  "detected_at": "2024-01-07T02:28:54+00:00",
+  "source": "wayback",
+  "window_start": "2023-10-08T04:40:58+00:00",
+  "archive_before": "https://web.archive.org/web/20231008044058/https://www.microsoft.com/en-US/servicesagreement/",
+  "archive_after": "https://web.archive.org/web/20240107022854/https://www.microsoft.com/en-US/servicesagreement/",
+  "flags": [],
+  "stats": {
+    "hunks": 5,
+    "added_words": 12,
+    "removed_words": 6
+  },
+  "headline": "Microsoft edited its Terms of Service",
+  "summary": "12 words added and 6 removed across 5 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Image Creator from Microsoft Designer",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "removed",
+      "old": [
+        "Bing Conversational Experiences"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "Bing Image Creator"
+      ],
+      "new": []
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Image Creator from Microsoft Designer"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Microsoft Copilot"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Universal Human Relevance System (UHRS)"
+      ]
+    }
+  ]
+}

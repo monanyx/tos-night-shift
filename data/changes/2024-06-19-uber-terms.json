@@ -1,0 +1,363 @@
+{
+  "id": "2024-06-19-uber-terms",
+  "service": "uber",
+  "service_name": "Uber",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en",
+  "detected_at": "2024-06-19T00:35:09+00:00",
+  "source": "wayback",
+  "window_start": "2024-03-29T20:43:53+00:00",
+  "archive_before": "https://web.archive.org/web/20240329204353/https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en",
+  "archive_after": "https://web.archive.org/web/20240619003509/https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en",
+  "flags": [
+    {
+      "tag": "payments",
+      "label": "Money",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 32,
+    "added_words": 426,
+    "removed_words": 137
+  },
+  "headline": "Uber rewrote its Terms of Service — new wording on fees and billing",
+  "summary": "426 words added and 137 removed across 32 sections. New wording touches: Money. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "If you have a gross monthly income of less than 300% of the federal poverty guidelines, you are entitled to a waiver of arbitration fees and costs, exclusive of arbitrator fees.",
+  "receipt_side": "new",
+  "sideeye": 2,
+  "tags": [
+    "payments"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "# U.S. Terms of Use",
+        "1\\. <u>Contractual Relationship; Termination; and Modification</u>",
+        "3\\. <u>The Services</u>",
+        "4\\. <u>Third-Party Services (including Autonomous Vehicles) and Content</u>",
+        "6\\. <u>User Conduct and Requirements; Communications; and User Content</u>",
+        "7. <u>Payment</u>",
+        "8\\. <u>Disclaimers; Limitation of Liability; and Indemnity</u>"
+      ],
+      "new": [
+        "# **U.S. Terms of Use**",
+        "1\\. Contractual Relationship; Termination; and Modification",
+        "3\\. The Services",
+        "4\\. Third-Party Services (including Autonomous Vehicles) and Content",
+        "6\\. User Conduct and Requirements; Communications; and User Content",
+        "7\\. Payment",
+        "8\\. Disclaimers; Limitation of Liability; and Indemnity"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "PLEASE READ THESE TERMS OF SERVICE CAREFULLY AS THEY CONTAIN PROVISIONS THAT GOVERN HOW YOU CAN BRING CLAIMS BETWEEN YOU AND UBER, INCLUDING THE <u>ARBITRATION AGREEMENT</u> IN SECTION 2 BELOW. THE ARBITRATION AGREEMENT REQUIRES YOU TO RESOLVE ALL DISPUTES WITH UBER ON AN INDIVIDUAL BASIS AND, WITH LIMITED EXCEPTIONS, THROUGH FINAL AND BINDING ARBITRATION. THESE TERMS OF SERVICE OUTLINE HOW SUCH CLAIMS ARE RESOLVED, INCLUDING, WITHOUT LIMITATION, ANY CLAIMS THAT AROSE OR WERE ASSERTED BEFORE THE EFFECTIVE DATE OF THESE TERMS OF SERVICE. BY AGREEING TO THESE TERMS OF SERVICE, YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD ALL OF THEM AND HAVE TAKEN TIME TO CONSIDER THE CONSEQUENCES OF THIS IMPORTANT DECISION."
+      ],
+      "new": [
+        "PLEASE READ THESE TERMS OF SERVICE CAREFULLY AS THEY CONTAIN PROVISIONS THAT GOVERN HOW YOU CAN BRING CLAIMS BETWEEN YOU AND UBER, INCLUDING THE ARBITRATION AGREEMENT IN SECTION 2 BELOW. THE ARBITRATION AGREEMENT REQUIRES YOU TO RESOLVE ALL DISPUTES WITH UBER ON AN INDIVIDUAL BASIS AND, WITH LIMITED EXCEPTIONS, THROUGH FINAL AND BINDING ARBITRATION. THESE TERMS OF SERVICE OUTLINE HOW SUCH CLAIMS ARE RESOLVED, INCLUDING, WITHOUT LIMITATION, ANY CLAIMS THAT AROSE OR WERE ASSERTED BEFORE THE EFFECTIVE DATE OF THESE TERMS OF SERVICE. BY AGREEING TO THESE TERMS OF SERVICE, YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD ALL OF THEM AND HAVE TAKEN TIME TO CONSIDER THE CONSEQUENCES OF THIS IMPORTANT DECISION."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 1. Contractual Relationship; Termination; and Modification",
+        "In addition to these Terms of Service, your access to, and use of the Services is also governed by the applicable terms found on our website. These include but are not limited to: the <u>Privacy Notice</u>, which describes how we collect, use, and disclose your personal information; the <u>User Generated Content Terms; Community Guidelines</u>; <u>Referral Policies</u>; the <u>ADT Mobile Security Monitoring Terms</u> and Uber’s other applicable Uber standards and policies (including, without limitation, Uber’s safety standards, the <u>accessibility policies</u>, and the <u>U.S. Service Animal Policy</u>), which we refer to collectively as the “Supplemental Terms.”"
+      ],
+      "new": [
+        "### **1. Contractual Relationship; Termination; and Modification**",
+        "In addition to these Terms of Service, your access to, and use of the Services is also governed by the applicable terms found on our website. These include but are not limited to: the Privacy Notice, which describes how we collect, use, and disclose your personal information; the User Generated Content Terms; Community Guidelines; Referral Policies; the ADT Mobile Security Monitoring Terms and Uber’s other applicable Uber standards and policies (including, without limitation, Uber’s safety standards, the accessibility policies, and the U.S. Service Animal Policy), which we refer to collectively as the “Supplemental Terms.”"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Termination."
+      ],
+      "new": [
+        "**Termination.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Modification."
+      ],
+      "new": [
+        "**Modification.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 2. Arbitration Agreement"
+      ],
+      "new": [
+        "### **2. Arbitration Agreement**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If you have a gross monthly income of less than 300% of the federal poverty guidelines, you are entitled to a waiver of arbitration fees and costs, exclusive of arbitrator fees. If you believe that you meet the requirements to obtain a fee waiver, and your demand for arbitration arises outside of California, then you may request a fee waiver only by submitting to the arbitration provider AO 240, Application to Proceed in District Court Without Prepaying Fees or Costs (<u>found here</u>), or a declaration under oath containing all the information required by AO 240; if your demand for arbitration arises in California, then you must submit a declaration under oath providing your monthly income and the number of persons in your household."
+      ],
+      "new": [
+        "If you have a gross monthly income of less than 300% of the federal poverty guidelines, you are entitled to a waiver of arbitration fees and costs, exclusive of arbitrator fees. If you believe that you meet the requirements to obtain a fee waiver, and your demand for arbitration arises outside of California, then you may request a fee waiver only by submitting to the arbitration provider AO 240, Application to Proceed in District Court Without Prepaying Fees or Costs (found here), or a declaration under oath containing all the information required by AO 240; if your demand for arbitration arises in California, then you must submit a declaration under oath providing your monthly income and the number of persons in your household."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 3. The Services"
+      ],
+      "new": [
+        "### **3. The Services**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "App Stores."
+      ],
+      "new": [
+        "**App Stores.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Ownership; License; and Restrictions."
+      ],
+      "new": [
+        "**Ownership; License; and Restrictions.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 4. Third-Party Services (including Autonomous Vehicles) and Content"
+      ],
+      "new": [
+        "### **4. Third-Party Services (including Autonomous Vehicles) and Content**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Third-Party Services made available to you through the Uber App may be provided by an autonomous vehicle. An autonomous vehicle is a vehicle that is capable of operating at, or is equipped with an automated driving system that will enable the vehicle to operate at SAE Levels 3, 4 or 5 of driving automation as defined in the J3016 April 2021 SAE International specification (“Autonomous Vehicle” or “AV”). Autonomous Vehicles are operated by Third-Party Providers that operate a fleet of one or more AVs and may employ or contract with individuals to manage, monitor, or operate its AVs while such vehicles are in motion (such Third-Party Providers, \"Autonomous Vehicle Fleet Providers\"). Your access to Third-Party Services provided by AV may be subject to Autonomous Vehicle Fleet Providers' terms including <u>Motional’s Terms of Service</u> and <u>Waymo’s Terms of Service</u>, as applicable, each of which are incorporated herein by reference."
+      ],
+      "new": [
+        "Third-Party Services made available to you through the Uber App may be provided by an autonomous vehicle. An autonomous vehicle is a vehicle that is capable of operating at, or is equipped with an automated driving system that will enable the vehicle to operate at SAE Levels 3, 4 or 5 of driving automation as defined in the J3016 April 2021 SAE International specification (“Autonomous Vehicle” or “AV”). Autonomous Vehicles are operated by Third-Party Providers that operate a fleet of one or more AVs and may employ or contract with individuals to manage, monitor, or operate its AVs while such vehicles are in motion (such Third-Party Providers, \"Autonomous Vehicle Fleet Providers\"). Your access to Third-Party Services provided by AV may be subject to Autonomous Vehicle Fleet Providers' terms including Waymo’s Terms of Service, which are incorporated herein by reference."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 5. Accessing the Services",
+        "User Accounts."
+      ],
+      "new": [
+        "### **5. Accessing the Services**",
+        "**User Accounts.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "For more information regarding Uber’s use of your personal information, please see our <u>Privacy Notice</u>.",
+        "Minors."
+      ],
+      "new": [
+        "For more information regarding Uber’s use of your personal information, please see our Privacy Notice.",
+        "**Minors.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Network Access and Devices."
+      ],
+      "new": [
+        "**Network Access and Devices.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 6. User Conduct and Requirements; Communications; and User Content",
+        "User Conduct and Requirements."
+      ],
+      "new": [
+        "### **6. User Conduct and Requirements; Communications; and User Content**",
+        "**User Conduct and Requirements.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Subject to the discretion of a Third-Party Provider, you may be allowed to bring a small animal, such as a dog or cat, on a ride requested through the Services. For such trips, you are responsible for properly securing the animal with a leash, harness, crate / carrier, or through other means. You are also responsible for ensuring that the animal does not cause damage or a mess in the Third-Party Provider’s vehicle. You may be subject to a Charge for Repair or Cleaning under Section 6 below for any damage or mess caused by an animal that is transported during a ride requested under your Account. Please note, in accordance with Uber’s policies on <u>Service Animals and Assistive Devices</u>, Service Animals are generally permitted to accompany riders without extra charge, regardless of whether it is a Pet Friendly Trip."
+      ],
+      "new": [
+        "Subject to the discretion of a Third-Party Provider, you may be allowed to bring a small animal, such as a dog or cat, on a ride requested through the Services. For such trips, you are responsible for properly securing the animal with a leash, harness, crate / carrier, or through other means. You are also responsible for ensuring that the animal does not cause damage or a mess in the Third-Party Provider’s vehicle. You may be subject to a Charge for Repair or Cleaning under Section 6 below for any damage or mess caused by an animal that is transported during a ride requested under your Account. Please note, in accordance with Uber’s policies on Service Animals and Assistive Devices, Service Animals are generally permitted to accompany riders without extra charge, regardless of whether it is a Pet Friendly Trip."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Communications with Uber.",
+        "By creating an Account, you electronically agree to accept and receive communications from Uber, Third-Party Providers or third parties providing services to Uber including via email, text message, WhatsApp, calls, in-app communications, and push notifications to the telephone number(s) or email addresses you provided to Uber. You may also receive communications generated by automatic telephone dialing systems and/or which will deliver prerecorded or automated messages sent by or on behalf of Uber, and/or Third-Party Providers, including but not limited to communications concerning requests placed through your Account on the Services. Message and data rates may apply. You can learn more about how Uber may contact you by reading our <u>Privacy Notice</u>."
+      ],
+      "new": [
+        "**Communications with Uber.**",
+        "By creating an Account, you electronically agree to accept and receive communications from Uber, Third-Party Providers or third parties providing services to Uber including via email, text message, WhatsApp, calls, in-app communications, and push notifications to the telephone number(s) or email addresses you provided to Uber. You may also receive communications generated by automatic telephone dialing systems and/or which will deliver prerecorded or automated messages sent by or on behalf of Uber, and/or Third-Party Providers, including but not limited to communications concerning requests placed through your Account on the Services. Message and data rates may apply. You can learn more about how Uber may contact you by reading our Privacy Notice."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Use of Accounts Owned by Others."
+      ],
+      "new": [
+        "**Use of Accounts Owned by Others.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "User Provided Content; Feedback.",
+        "Content that you provide to Uber is governed by <u>Uber’s Generated Content Terms</u>, which are incorporated in these Terms by reference. Feedback that you provide to Uber is governed by <u>Uber’s Feedback Policy</u>, which are incorporated in these Terms by reference.",
+        "### 7. Payment",
+        "Prices & Charges."
+      ],
+      "new": [
+        "**User Provided Content; Feedback.**",
+        "Content that you provide to Uber is governed by Uber’s Generated Content Terms, which are incorporated in these Terms by reference. Feedback that you provide to Uber is governed by Uber’s Feedback Policy, which are incorporated in these Terms by reference.",
+        "### **7. Payment**",
+        "**Prices & Charges.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "All Charges and payments will be enabled by Uber using the preferred payment method designated in your Account, after which you will receive a receipt. If your primary Account payment method is determined to be expired, invalid or otherwise not able to be charged, you agree that Uber may use another available payment method in your Account."
+      ],
+      "new": [
+        "When you add a payment method to your account, you authorize us and our payment service providers to collect and store your payment method information. Any payment method added by you will be automatically saved to your Uber wallet. You can add multiple payment methods to your wallet, and you agree that Uber may charge any of these payment methods for any future transactions or Charges. Your default payment method is identified in your profile page within the Uber wallet. If your default payment method is expired, invalid or otherwise not able to be charged, you agree that Uber may charge any other available payment method saved in your wallet. You can change your default payment method at any time.",
+        "If your payment method’s account information changes (e.g., account number, routing number, expiration date) as a result of re-issuance, expiration or otherwise, we may automatically update your payment method on file, in accordance with applicable law, if we acquire that information from our financial services partners or your bank. We reserve the right to decline, refuse or limit the use of any payment methods that we believe may be unauthorized, fraudulent or illegal or may violate our policies or procedures or otherwise expose Uber to an unacceptable level of risk.",
+        "When you pay for any Charges using your bank account as your selected payment method, you authorize us to debit your bank account for the total cost of all Charges, including any applicable taxes and fees. You also authorize us to further debit or credit your bank account to correct any erroneous debits, make adjustments to your payment, or issue a refund back to your bank account. Your bank account must be able to accept debits denominated in USD.",
+        "Certain payment methods may involve the use of third-party payment service providers not affiliated with Uber. You may be subject to additional fees imposed by these payment service providers in connection with processing your payment. Uber is not responsible for any of these fees and disclaims all liability for such fees. You should review the payment service provider’s terms of use before using such payment method."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Refunds."
+      ],
+      "new": [
+        "**Refunds.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Promotional Offers."
+      ],
+      "new": [
+        "**Promotional Offers.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Gratuity."
+      ],
+      "new": [
+        "**Gratuity.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Damage, Cleaning, Lost and Found, and Charges for Violation of Terms."
+      ],
+      "new": [
+        "**Damage, Cleaning, Lost and Found, and Charges for Violation of Terms.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 8. Disclaimers; Limitation of Liability; and Indemnity",
+        "Disclaimers."
+      ],
+      "new": [
+        "### **8. Disclaimers; Limitation of Liability; and Indemnity**",
+        "**Disclaimers.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Limitation of Liability."
+      ],
+      "new": [
+        "**Limitation of Liability.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Indemnity."
+      ],
+      "new": [
+        "**Indemnity.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 9. Other Provisions",
+        "Choice of Law."
+      ],
+      "new": [
+        "### **9. Other Provisions**",
+        "**Choice of Law**."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Choice of Forum."
+      ],
+      "new": [
+        "**Choice of Forum.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Claims of Copyright and Trademark Infringement."
+      ],
+      "new": [
+        "**Claims of Copyright and Trademark Infringement.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Notice.",
+        "Uber may give notice by means of a general notice on or through the Services, electronic mail to the email address associated with your Account, telephone or text message to any phone number provided in connection with your Account, or by written communication sent by first class mail or pre-paid post to any address connected with your Account. Such notice shall be deemed to have been given upon the expiration of 48 hours after mailing or posting (if sent by first class mail or pre-paid post) or at the time of sending (if sent by email, telephone, or on or through the Services). Notwithstanding the foregoing, notice of any modifications to these Terms shall be effective upon posting an updated version of these Terms on Uber’s website or through the Services. You may give notice to Uber, with such notice deemed given when received by Uber, at any time by first class mail or pre-paid post to our registered agent for service of process, c/o Uber Technologies, Inc. The name and current contact information for the registered agent in each state are available online at <u>https://www.wolterskluwer.com/en/solutions/ct-corporation/sop-locations</u>. If another provision of these Terms addresses any specific notice (for example, notice of updates to these Terms, or notice of a dispute or arbitration demand), those specific notice provisions shall prevail to the extent there is any conflict or inconsistency between those provisions and this notice provision.",
+        "General."
+      ],
+      "new": [
+        "**Notice.**",
+        "Uber may give notice by means of a general notice on or through the Services, electronic mail to the email address associated with your Account, telephone or text message to any phone number provided in connection with your Account, or by written communication sent by first class mail or pre-paid post to any address connected with your Account. Such notice shall be deemed to have been given upon the expiration of 48 hours after mailing or posting (if sent by first class mail or pre-paid post) or at the time of sending (if sent by email, telephone, or on or through the Services). Notwithstanding the foregoing, notice of any modifications to these Terms shall be effective upon posting an updated version of these Terms on Uber’s website or through the Services. You may give notice to Uber, with such notice deemed given when received by Uber, at any time by first class mail or pre-paid post to our registered agent for service of process, c/o Uber Technologies, Inc. The name and current contact information for the registered agent in each state are available online at https://www.wolterskluwer.com/en/solutions/ct-corporation/sop-locations. If another provision of these Terms addresses any specific notice (for example, notice of updates to these Terms, or notice of a dispute or arbitration demand), those specific notice provisions shall prevail to the extent there is any conflict or inconsistency between those provisions and this notice provision.",
+        "**General.**"
+      ]
+    }
+  ]
+}

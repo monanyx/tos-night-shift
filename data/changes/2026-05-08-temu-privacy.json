@@ -1,0 +1,39 @@
+{
+  "id": "2026-05-08-temu-privacy",
+  "service": "temu",
+  "service_name": "Temu",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.temu.com/privacy-and-cookie-policy.html",
+  "detected_at": "2026-05-08T01:20:19+00:00",
+  "source": "wayback",
+  "window_start": "2026-02-20T03:45:57+00:00",
+  "archive_before": "https://web.archive.org/web/20260220034557/https://www.temu.com/privacy-and-cookie-policy.html",
+  "archive_after": "https://web.archive.org/web/20260508012019/https://www.temu.com/privacy-and-cookie-policy.html",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 2,
+    "removed_words": 1
+  },
+  "headline": "Temu edited its Privacy Policy",
+  "summary": "2 words added and 1 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "# Temu | United States | Privacy Policy",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "# Temu | U.S. | Privacy Policy"
+      ],
+      "new": [
+        "# Temu | United States | Privacy Policy"
+      ]
+    }
+  ]
+}

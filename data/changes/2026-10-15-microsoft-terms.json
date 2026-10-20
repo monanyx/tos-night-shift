@@ -1,0 +1,406 @@
+{
+  "id": "2026-10-15-microsoft-terms",
+  "service": "microsoft",
+  "service_name": "Microsoft",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.microsoft.com/en-us/servicesagreement",
+  "detected_at": "2026-10-15T04:40:25+00:00",
+  "source": "wayback",
+  "window_start": "2026-07-20T01:24:11+00:00",
+  "archive_before": "https://web.archive.org/web/20260720012411/https://www.microsoft.com/en-US/servicesagreement/",
+  "archive_after": "https://web.archive.org/web/20261015044025/https://www.microsoft.com/en-US/servicesagreement/",
+  "flags": [
+    {
+      "tag": "payments",
+      "label": "Money",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 28,
+    "added_words": 281,
+    "removed_words": 571
+  },
+  "headline": "Microsoft rewrote its Terms of Service — new wording on fees and billing",
+  "summary": "281 words added and 571 removed across 28 sections. New wording touches: Money. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "By registering or selecting your bank account as your payment method, you authorize Microsoft (or its agent) to initiate one or more debits for the total amount of your purchase or subscription charge (in accordance with the terms of your …",
+  "receipt_side": "new",
+  "sideeye": 2,
+  "tags": [
+    "payments"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Published: July 30, 2025",
+        "Effective: September 30, 2025"
+      ],
+      "new": [
+        "Published: July 30, 2026",
+        "Effective: September 30, 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "These terms (“ Terms ”) cover the use of those Microsoft consumer products, websites, related support, and services listed at the end of these Terms here (https://www.microsoft.com/servicesagreement#serviceslist) (the “ Services ”). You accept these Terms by creating a Microsoft account, through your use of the Services, or by continuing to use the Services after being notified of a change to these Terms."
+      ],
+      "new": [
+        "These terms (“ Terms ”) cover the use of those Microsoft consumer products, websites, related support, and services listed at the end of these Terms here (https://www.microsoft.com/servicesagreement/upcoming#serviceslist) and any other Microsoft consumer products, websites and services that reference these Terms (the “ Services ”). You accept these Terms by creating a Microsoft account, through your use of the Services, or by continuing to use the Services after being notified of a change to these Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "More information about our policies, moderation and enforcement processes and service specific terms is available at aka.ms/trustandsafety ."
+      ],
+      "new": [
+        "More information about our policies, moderation and enforcement processes and service specific terms is available at https://aka.ms/trustandsafety ."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "iii. Kids and Accounts. By creating a Microsoft account or using the Services, you accept and agree to be bound by these Terms and represent that you have either reached the age of \"majority\" where you live or your parent or legal guardian agrees to be bound by these Terms on your behalf. If you do not know whether you have reached the age of majority where you live, or do not understand this section, please ask your parent or legal guardian for help. If you are the parent or legal guardian of a minor, you and the minor accept and agree to be bound by these Terms and are responsible for all use of the Microsoft account or Services, including purchases, whether the minor’s account is now open or created later."
+      ],
+      "new": [
+        "iii. Kids and Accounts. By creating a Microsoft account or using the Services, you accept and agree to be bound by these Terms and represent that you have either reached the age of majority where you live or your parent or legal guardian agrees to be bound by these Terms on your behalf. If you do not know whether you have reached the age of majority where you live, or do not understand this section, please ask your parent or legal guardian for help. If you are the parent or legal guardian of a minor, you and the minor accept and agree to be bound by these Terms and are responsible for all use of the Microsoft account or Services, including purchases, whether the minor’s account is now open or created later."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "5. Using Third-Party Apps and Services. The Services may allow you to access or acquire products, services, websites, links, content, material, games, skills, integrations, bots or applications from independent third parties (companies or people who aren’t Microsoft) ( \"Third-Party Apps and Services\" ). Many of our Services also help you find, make requests to, or interact with Third-Party Apps and Services and may allow or require you to share Your Content or Data with such Third-Party Apps and Services, and you understand that by using our Services you are directing them to make Third-Party Apps and Services available to you. The Third-Party Apps and Services may allow or require you to store Your Content or Data with the publisher, provider or operator of the Third-Party Apps and Services. The Third-Party Apps and Services may present you with a privacy policy or require you to accept their terms before you can install or use the Third-Party App or Service. See section 13.b for additional terms for applications acquired through certain Stores owned or operated by Microsoft or its affiliates (including, but not limited to, the Office Store, the Microsoft Store on Xbox and the Microsoft Store on Windows. You should review the third-party terms and privacy policies before acquiring, using, requesting, or linking your Microsoft Account to any Third-Party Apps and Services. Any third-party terms do not modify these Terms. Microsoft does not license any intellectual property to you as part of any Third-Party Apps and Services. You agree to assume all risk and liability arising from your use of these Third-Party Apps and Services and that Microsoft is not responsible for any issues arising out of your use of them. Microsoft is not responsible or liable to you or others for information or services provided by any Third-Party Apps and Services."
+      ],
+      "new": [
+        "5. Using Third-Party Apps and Services. The Services may allow you to access or acquire products, services, websites, links, content, material, games, skills, integrations, bots or applications from independent third parties (companies or people who aren’t Microsoft) ( \"Third-Party Apps and Services\" ). Many of our Services also help you find, make requests to, or interact with Third-Party Apps and Services and may allow or require you to share Your Content or Data with such Third-Party Apps and Services, and you understand that by using our Services you are directing them to make Third-Party Apps and Services available to you. The Third-Party Apps and Services may allow or require you to store Your Content or Data with the publisher, provider or operator of the Third-Party Apps and Services. The Third-Party Apps and Services may present you with a privacy policy or require you to accept their terms before you can install or use the Third-Party App or Service. See section 13.b for additional terms for applications acquired through certain Stores owned or operated by Microsoft or its affiliates (including, but not limited to, the Office Store, the Microsoft Store on XBOX and the Microsoft Store on Windows. You should review the third-party terms and privacy policies before acquiring, using, requesting, or linking your Microsoft Account to any Third-Party Apps and Services. Any third-party terms do not modify these Terms. Microsoft does not license any intellectual property to you as part of any Third-Party Apps and Services. You agree to assume all risk and liability arising from your use of these Third-Party Apps and Services and that Microsoft is not responsible for any issues arising out of your use of them. Microsoft is not responsible or liable to you or others for information or services provided by any Third-Party Apps and Services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "8. Software License. Unless accompanied by a separate Microsoft license agreement (for example, if you are using a Microsoft application that is included with and a part of Windows, then the Microsoft Software License Terms for the Windows Operating System govern such software), any software provided by us to you as part of the Services is subject to these Terms. Applications acquired through certain Stores owned or operated by Microsoft or its affiliates (including, but not limited to the Office Store, Microsoft Store on Windows and Microsoft Store on Xbox) are subject to section 14.b.i below."
+      ],
+      "new": [
+        "8. Software License. Unless accompanied by a separate Microsoft license agreement (for example, if you are using a Microsoft application that is included with and a part of Windows, then the Microsoft Software License Terms for the Windows Operating System govern such software), any software provided by us to you as part of the Services is subject to these Terms. Applications acquired through certain Stores owned or operated by Microsoft or its affiliates (including, but not limited to the Office Store, Microsoft Store on Windows and Microsoft Store on XBOX) are subject to section 14.b.i below."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "vii. enable access to the Services or modify any Microsoft-authorized device (e.g., Xbox consoles, Microsoft Surface, etc.) by unauthorized third-party applications."
+      ],
+      "new": [
+        "vii. enable access to the Services or modify any Microsoft-authorized device (e.g., XBOX consoles, Microsoft Surface, etc.) by unauthorized third-party applications."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "m. Bank Account Payment Method. You may register an eligible bank account with your Microsoft account to use it as a payment method. Eligible bank accounts include accounts held at a financial institution capable of receiving direct debit entries (e.g., a United States-based financial institution that supports automated clearing house (\" ACH \") entries, a European financial institution that supports Single Euro Payments Area (\" SEPA \") or \"iDEAL\" in the Netherlands). Terms you agreed to when adding your bank account as a payment method in your Microsoft account (e.g., the “mandate” in the case of SEPA) also apply. You represent and warrant that your registered bank account is held in your name or you are authorized to register and use this bank account as a payment method. By registering or selecting your bank account as your payment method, you authorize Microsoft (or its agent) to initiate one or more debits for the total amount of your purchase or subscription charge (in accordance with the terms of your subscription service) from your bank account (and, if necessary, initiate one or more credits to your bank account to correct errors, issue a refund or similar purpose), and you authorize the financial institution that holds your bank account to deduct such debits or accept such credits. You understand that this authorization will remain in full force and effect until you remove your bank account information from your Microsoft account. Contact customer support as outlined above in section 4.e as soon as possible if you believe you have been charged in error. Laws applicable in your country may also limit your liability for any fraudulent, erroneous or unauthorized transactions from your bank account. By registering or selecting a bank account as your payment method, you acknowledge that you have read, understand and agree to these Terms."
+      ],
+      "new": [
+        "m. Bank Account Payment Method. You may register an eligible bank account with your Microsoft account to use it as a payment method. Eligible bank accounts include accounts held at a financial institution capable of receiving direct debit entries (e.g., a United States-based financial institution that supports automated clearing house (\" ACH \") entries, a European financial institution that supports Single Euro Payments Area (\" SEPA \") or \"iDEAL\" in the Netherlands). Terms you agreed to when adding your bank account as a payment method in your Microsoft account (e.g., the “mandate” in the case of SEPA) also apply. You represent and warrant that your registered bank account is held in your name or you are authorized to register and use this bank account as a payment method. By registering or selecting your bank account as your payment method, you authorize Microsoft (or its agent) to initiate one or more debits for the total amount of your purchase or subscription charge (in accordance with the terms of your subscription service) from your bank account (and, if necessary, initiate one or more credits to your bank account to correct errors, issue a refund or similar purpose), and you authorize the financial institution that holds your bank account to deduct such debits or accept such credits. You understand that this authorization will remain in full force and effect until you remove your bank account information from your Microsoft account. Contact customer support as outlined above in section 4.f as soon as possible if you believe you have been charged in error. Laws applicable in your country may also limit your liability for any fraudulent, erroneous or unauthorized transactions from your bank account. By registering or selecting a bank account as your payment method, you acknowledge that you have read, understand and agree to these Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## Xbox",
+        "i. Personal Noncommercial Use. The Xbox online service, (\"Xbox Network\"), Xbox Game Studios games (https://www.xbox.com/xbox-game-studios), applications, subscriptions (e.g., Xbox Game Pass subscription service offerings), services (e.g., Xbox Live and Xbox Cloud Gaming), and content provided by Microsoft (collectively, the \" Xbox Services \") are only for your personal and noncommercial use.",
+        "ii. Xbox Services. When you sign up to receive Xbox Services, information about your game play, activities and usage of games and Xbox Services will be tracked and shared with applicable third parties, including game developers and publishers, in order for Microsoft to deliver the Xbox Services and for the third parties to operate non-Microsoft games and services. Additionally, if Xbox Services are accessed via third-party devices or platforms, information about your game play, activities and usage of games and Xbox Services may be tracked and shared by such third-party devices and platforms, subject to any third-party terms and privacy policies. If you sign in to another platform or device with your Microsoft account or link your Microsoft account with such platforms or devices to access Xbox Services (for example, to access Xbox Game Studios games on other platforms or devices) or to access a non-Microsoft Service (for example, a non-Microsoft game publisher of Third-Party Apps and Services), you agree that: (a) Microsoft may share limited account and usage-related information (including without limitation gamertag, gamerscore, game history, usage data and friends list) with that party as stated in the Microsoft Privacy Statement, and (b) if allowed by your Xbox privacy settings, that party may also have access to Your Content from in-game communications or other applications that you use when you are signed into your account with that party. Also, if allowed by your Xbox privacy settings, Microsoft can publish your name, gamertag, gamerpic, motto, avatar, gameclips and games that you’ve played in communications to people you allow. If you have enabled Xbox-specific Family Safety settings, those settings apply on Xbox consoles, Xbox Cloud Gaming, and the Xbox app on PC or mobile devices, but many not apply to Xbox Game Studios games or services accessed or played on other devices or platforms. To ensure a safer gaming experience for your family, please check the parental settings on these devices and platforms.",
+        "iii. Your Content. As part of building the Xbox Services community, you grant to Microsoft, its affiliates and sublicensees a free and worldwide right to use, modify, reproduce, distribute, broadcast, share and display Your Content or your name, gamertag, motto, or avatar that you posted for any Xbox Services."
+      ],
+      "new": [
+        "## XBOX",
+        "i. Personal Noncommercial Use. The XBOX online service, (\"XBOX Network\"), XBOX Game Studios games (https://www.xbox.com/xbox-game-studios), applications, subscriptions (e.g., XBOX Game Pass subscription service offerings), services (e.g., XBOX Live and XBOX Cloud Gaming), and content provided by Microsoft (collectively, the \" XBOX Services \") are only for your personal and noncommercial use.",
+        "ii. XBOX Services. When you sign up to receive XBOX Services, information about your game play, activities and usage of games and XBOX Services will be tracked and shared with applicable third parties, including game developers and publishers, in order for Microsoft to deliver the XBOX Services and for the third parties to operate non-Microsoft games and services. Additionally, if XBOX Services are accessed via third-party devices or platforms, information about your game play, activities and usage of games and XBOX Services may be tracked and shared by such third-party devices and platforms, subject to any third-party terms and privacy policies. If you sign in to another platform or device with your Microsoft account or link your Microsoft account with such platforms or devices to access XBOX Services (for example, to access XBOX Game Studios games on other platforms or devices) or to access a non-Microsoft Service (for example, a non-Microsoft game publisher of Third-Party Apps and Services), you agree that: (a) Microsoft may share limited account and usage-related information (including without limitation gamertag, gamerscore, game history, usage data and friends list) with that party as stated in the Microsoft Privacy Statement, and (b) if allowed by your XBOX privacy settings, that party may also have access to Your Content from in-game communications or other applications that you use when you are signed into your account with that party. Also, if allowed by your XBOX privacy settings, Microsoft can publish your name, gamertag, gamerpic, motto, avatar, gameclips and games that you’ve played in communications to people you allow. If you have enabled XBOX-specific Family Safety settings, those settings apply on XBOX consoles, XBOX Cloud Gaming, and the XBOX app on PC or mobile devices, but many not apply to XBOX Game Studios games or services accessed or played on other devices or platforms. To ensure a safer gaming experience for your family, please check the parental settings on these devices and platforms.",
+        "iii. Your Content. As part of building the XBOX Services community, you grant to Microsoft, its affiliates and sublicensees a free and worldwide right to use, modify, reproduce, distribute, broadcast, share and display Your Content or your name, gamertag, motto, or avatar that you posted for any XBOX Services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "v. Kids and Xbox. If you are a minor using the Xbox Services, your parent or guardian may have control over many aspects of your account and may receive reports about your use of the Xbox Services. These features are exclusive to Xbox Services and may not transfer to other devices or platforms.",
+        "vi. Game Currency or Virtual Goods. The Xbox Services may include a virtual, game currency (like gold, coins or points) that may be purchased from or on behalf of Microsoft using actual monetary instruments if you have reached the age of \"majority\" where you live. The Xbox Services may also include virtual, digital items or goods that may be purchased from or on behalf of Microsoft using actual monetary instruments or using game currency. Game currency and virtual goods may never be redeemed for actual monetary instruments, goods or other items of monetary value from Microsoft or any other party. Other than a limited, personal, revocable, non-transferable, non-sublicensable license to use the game currency and virtual goods in the Xbox Services only, you have no right or title in or to any such game currency or virtual goods appearing or originating in the Xbox Services, or any other attributes associated with use of the Services or stored within the Xbox Services. Microsoft may at any time regulate, control, modify and/or eliminate the game currency and/or virtual goods associated with any one or more Xbox games or apps as it sees fit in its sole discretion.",
+        "vii. Software Updates. For any device that can connect to Xbox Services, we may automatically check your version of Xbox console software or the Xbox app software and download Xbox console or Xbox app software updates or configuration changes, including those that prevent you from accessing the Xbox Services, using unauthorized Xbox games or Xbox apps, or using unauthorized hardware peripheral devices with an Xbox console.",
+        "viii. Cheating and Tampering Software. For any device that can connect to Xbox Services, we may automatically check your device for unauthorized hardware or software that enables cheating or tampering in violation of the Code of Conduct or these Terms, and download Xbox app software updates or configuration changes, including those that prevent you from accessing the Xbox Services, or from using unauthorized hardware or software that enables cheating or tampering.",
+        "ix. Additional Subscription Terms and Conditions. Xbox Services subscriptions are subject to additional terms and conditions set forth in the Xbox Subscriptions Terms & Conditions | Xbox (https://www.xbox.com/en-us/legal/subscription-terms).",
+        "x. Inactive Xbox Service Subscriptions. Microsoft may turn off your recurring billing and stop recurring charges in select countries if you do not use your Xbox Services subscription for a period of time. Microsoft will provide notice to you before turning off recurring billing. For more information, including the applicable period of inactivity, see Subscription inactivity FAQ | Xbox Support (https://support.xbox.com/en-US/help/subscriptions-billing/manage-subscriptions/xbox-subscription-inactivity-policy)."
+      ],
+      "new": [
+        "v. Kids and XBOX. If you are a minor using the XBOX Services, your parent or guardian may have control over many aspects of your account and may receive reports about your use of the XBOX Services. These features are exclusive to XBOX Services and may not transfer to other devices or platforms.",
+        "vi. Game Currency or Virtual Goods. The XBOX Services may include a virtual, game currency (like gold, coins or points) that may be purchased from or on behalf of Microsoft using actual monetary instruments if you have reached the age of \"majority\" where you live. The XBOX Services may also include virtual, digital items or goods that may be purchased from or on behalf of Microsoft using actual monetary instruments or using game currency. Game currency and virtual goods may never be redeemed for actual monetary instruments, goods or other items of monetary value from Microsoft or any other party. Other than a limited, personal, revocable, non-transferable, non-sublicensable license to use the game currency and virtual goods in the XBOX Services only, you have no right or title in or to any such game currency or virtual goods appearing or originating in the XBOX Services, or any other attributes associated with use of the Services or stored within the XBOX Services. Microsoft may at any time regulate, control, modify and/or eliminate the game currency and/or virtual goods associated with any one or more XBOX games or apps as it sees fit in its sole discretion.",
+        "vii. Software Updates. For any device that can connect to XBOX Services, we may automatically check your version of XBOX console software or the XBOX app software and download XBOX console or XBOX app software updates or configuration changes, including those that prevent you from accessing the XBOX Services, using unauthorized XBOX games or XBOX apps, or using unauthorized hardware peripheral devices with an XBOX console.",
+        "viii. Cheating and Tampering Software. For any device that can connect to XBOX Services, we may automatically check your device for unauthorized hardware or software that enables cheating or tampering in violation of the Code of Conduct or these Terms, and download XBOX app software updates or configuration changes, including those that prevent you from accessing the XBOX Services, or from using unauthorized hardware or software that enables cheating or tampering.",
+        "ix. Additional Subscription Terms and Conditions. XBOX Services subscriptions are subject to additional terms and conditions set forth in the XBOX Subscriptions Terms & Conditions | XBOX (https://www.xbox.com/en-us/legal/subscription-terms).",
+        "x. Inactive XBOX Service Subscriptions. Microsoft may turn off your recurring billing and stop recurring charges in select countries if you do not use your XBOX Services subscription for a period of time. Microsoft will provide notice to you before turning off recurring billing. For more information, including the applicable period of inactivity, see Subscription inactivity FAQ | XBOX Support (https://support.xbox.com/en-US/help/subscriptions-billing/manage-subscriptions/xbox-subscription-inactivity-policy)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "xii. Additional end-user license agreements and codes of conduct. Some Xbox Services may have their own usage terms and codes of conduct."
+      ],
+      "new": [
+        "xii. Additional end-user license agreements and codes of conduct. Some XBOX Services may have their own usage terms and codes of conduct."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "ii. Updates. Microsoft will automatically check for and download updates to your applications, even if you’re not signed",
+        "into the relevant Store. You can change your Store or system settings if you prefer not to receive automatic updates to Store applications.",
+        "However, certain Office Store applications that are entirely or partly hosted online may be updated at any time by the application developer",
+        "and may not require your permission to update.",
+        "iii. Ratings and Reviews. If you rate or review an application or other Digital Good in the Store, you may receive email",
+        "from Microsoft containing content from the publisher of the application or Digital Good. Any such email comes from Microsoft; we do not share your email",
+        "address with publishers of applications or other Digital Goods you acquire through the Store.",
+        "iv. Safety Warning. To avoid possible injury, discomfort or eye strain, you should take periodic breaks from use of games or",
+        "other applications, especially if you feel any pain or fatigue resulting from usage. If you experience discomfort, take a break.",
+        "Discomfort might include feelings of nausea, motion sickness, dizziness, disorientation, headache, fatigue, eye strain, or dry eyes. Using",
+        "applications can distract you and obstruct your surroundings. Avoid trip hazards, stairs, low ceilings, fragile or valuable items that could",
+        "be damaged. A very small percentage of people may experience seizures when exposed to certain visual images like flashing lights or patterns",
+        "that may appear in applications. Even people with no history of seizures may have an undiagnosed condition that can cause these seizures.",
+        "Symptoms may include lightheadedness, altered vision, twitching, jerking or shaking of limbs, disorientation, confusion, loss of consciousness,",
+        "or convulsions. Immediately stop using and consult a doctor if you experience any of these symptoms, or consult a doctor before using the",
+        "applications if you’ve ever suffered symptoms linked to seizures. Parents should monitor their children’s use of applications for signs of symptoms."
+      ],
+      "new": [
+        "ii. Updates. Microsoft will automatically check for and download updates to your applications, even if you’re not signed into the relevant Store. You can change your Store or system settings if you prefer to pause automatic updates to Store applications. However, certain Office Store applications that are entirely or partly hosted online may be updated at any time by the application developer and may not require your permission to update. Some other apps may not be accessible until you accept an update. If you choose not to download or install updates, your applications may no longer be available, supported, or have previous functionality.",
+        "iii. Ratings and Reviews. If you rate or review an application or other Digital Good in the Store, you may receive email from Microsoft containing content from the publisher of the application or Digital Good. Any such email comes from Microsoft; we do not share your email address with publishers of applications or other Digital Goods you acquire through the Store.",
+        "iv. Safety Warning. To avoid possible injury, discomfort or eye strain, you should take periodic breaks from use of games or other applications, especially if you feel any pain or fatigue resulting from usage. If you experience discomfort, take a break. Discomfort might include feelings of nausea, motion sickness, dizziness, disorientation, headache, fatigue, eye strain, or dry eyes. Using applications can distract you and obstruct your surroundings. Avoid trip hazards, stairs, low ceilings, fragile or valuable items that could be damaged. A very small percentage of people may experience seizures when exposed to certain visual images like flashing lights or patterns that may appear in applications. Even people with no history of seizures may have an undiagnosed condition that can cause these seizures. Symptoms may include lightheadedness, altered vision, twitching, jerking or shaking of limbs, disorientation, confusion, loss of consciousness, or convulsions. Immediately stop using and consult a doctor if you experience any of these symptoms, or consult a doctor before using the applications if you’ve ever suffered symptoms linked to seizures. Parents should monitor their children’s use of applications for signs of symptoms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "c. Microsoft Family Features. Parents and kids can use Microsoft family features, including Microsoft Family Safety, to build trust based on a shared understanding of what behaviors, websites, apps, games, physical locations, and spending is right in their family. Parents can create a family by going to https://account.microsoft.com/family (or by following the instructions on their Windows device or Xbox console) and inviting kids or other parents to join. There are many features available to family members, so please carefully review the information provided when you agree to create or join a family and when you purchase Digital Goods for family access. By creating or joining a family, you agree to use the family in accordance with its purpose and won’t use it in an unauthorized way to unlawfully gain access to another person’s information. Microsoft Family Features are exclusive to Microsoft Services and are not transferable to other platforms. For example, Xbox-specific Family Safety settings apply on Xbox consoles, Xbox Cloud Gaming, and the Xbox app on PC or mobile devices, but may not extend to Xbox Game Studios games or services accessed or played on other devices or platforms. To ensure a safer gaming experience for your family, please check the parent settings on these other devices and platforms."
+      ],
+      "new": [
+        "c. Microsoft Family Features. Parents and kids can use Microsoft family features, including Microsoft Family Safety, to build trust based on a shared understanding of what behaviors, websites, apps, games, physical locations, and spending is right in their family. Parents can create a family by going to https://account.microsoft.com/family (or by following the instructions on their Windows device or XBOX console) and inviting kids or other parents to join. There are many features available to family members, so please carefully review the information provided when you agree to create or join a family and when you purchase Digital Goods for family access. By creating or joining a family, you agree to use the family in accordance with its purpose and won’t use it in an unauthorized way to unlawfully gain access to another person’s information. Microsoft Family Features are exclusive to Microsoft Services and are not transferable to other platforms. For example, XBOX-specific Family Safety settings apply on XBOX consoles, XBOX Cloud Gaming, and the XBOX app on PC or mobile devices, but may not extend to XBOX Game Studios games or services accessed or played on other devices or platforms. To ensure a safer gaming experience for your family, please check the parent settings on these other devices and platforms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "i. Personal Noncommercial Use. Cortana is Microsoft’s personal assistant Service. The features, services and content provided by Cortana (collectively \"Cortana Services\" ) are only for your personal and noncommercial use.",
+        "ii. Functionality and Content. Cortana provides a range of features, some of which are personalized. Cortana Services may allow you to access services, information or functionality provided by other Microsoft Services or Third-Party Apps and Services. The service-specific Terms of section 14 also apply to your use of applicable Microsoft Services accessed through Cortana Services. Cortana provides information for your planning purposes only and you should exercise your own independent judgment when reviewing and relying on this information. Microsoft does not guarantee the reliability, availability or timeliness of personalized experiences provided by Cortana. Microsoft is not responsible if a Cortana feature delays or prevents you from receiving, reviewing or sending a communication or notification, or obtaining a service.",
+        "iii. Third-Party Apps and Services. As part of delivering the Cortana Services, Cortana may suggest and help you interact with Third-Party Apps and Services (third-party skills or connected services). If you choose, Cortana may exchange information with Third-Party Apps and Services, such as your zip code and queries and responses returned by the Third-Party App and Services, to help you obtain requested services. Cortana may enable you to make purchases through Third-Party Apps and Services using the account preferences and settings you have established directly with those Third-Party Apps and Services. You can disconnect your Cortana Service from Third-Party Apps and Services at any time. Your use of Cortana Services to connect with Third-Party Apps and Services is subject to section 5 of these Terms. Publishers of Third-Party Apps and Services may change or discontinue the functionality or features of their Third-Party Apps and Services or integration with Cortana Services. Microsoft is not responsible or liable for manufacturer provided software or firmware.",
+        "iv. Cortana-Enabled Devices. Cortana-enabled devices are products or devices that are enabled to access Cortana Services,",
+        "or products or devices that are compatible with Cortana Services. Cortana-enabled devices include third-party devices or products that",
+        "Microsoft does not own, manufacture, or develop. Microsoft is not responsible or liable for these third-party devices or products.",
+        "v. Software Updates. We may automatically check your version of Cortana Services software and download software updates or configuration change or require any manufacturers of Cortana enabled devices to keep the Cortana Services software up to date."
+      ],
+      "new": [
+        "i. Personal Noncommercial Use. Cortana is Microsoft’s personal assistant Service. The features, services and content provided by Cortana (collectively \"Cortana Services\" ) are only for your personal and noncommercial use. As of 2024, Microsoft no longer supports Cortana Services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "i. Use Terms. Microsoft 365 Family, Microsoft 365 Personal, Microsoft 365 Basic, Sway, OneNote.com and any other Microsoft 365 app or Service or Office-branded Service is for your personal, noncommercial use, unless you have commercial use rights under a separate agreement with Microsoft. Use of apps such as Word, Excel, PowerPoint, Outlook, OneDrive, Access, and Publisher in Microsoft 365 Family, Microsoft 365 Personal, and any other Microsoft 365 app or subscription Service is governed by supplemental license terms located at https://aka.ms/useterms together with these Terms."
+      ],
+      "new": [
+        "i. Use Terms. Use of apps such as Word, Excel, PowerPoint, Outlook, OneDrive, Access, and Publisher in Microsoft 365 Personal, Microsoft 365 Family, Microsoft 365 Premium, and any other Microsoft 365 app or subscription Service is governed by supplemental license terms located at https://aka.ms/useterms together with these Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "j. Digital Goods. Through Microsoft Groove, Microsoft Movies & TV, Store, Xbox Services and any other related and future services, Microsoft may enable you to obtain, listen to, view, play or read (as the case may be) music, images, video, text, books, games or other material ( \"Digital Goods\" ) that you may get in digital form. The Digital Goods are only for your personal, noncommercial entertainment use. You agree not to redistribute, broadcast, publicly perform or publicly display or transfer any copies of the Digital Goods. Digital Goods may be owned by Microsoft or by third parties. In all circumstances, you understand and acknowledge that your rights with respect to Digital Goods are limited by these Terms, copyright law, and the Usage Rules located at https://go.microsoft.com/fwlink/p/?LinkId=723143 . You agree that you will not attempt to modify any Digital Goods obtained through any of the Services for any reason whatsoever, including for the purpose of disguising or changing ownership or source of the Digital Goods. Microsoft or the owners of the Digital Goods may, from time to time, remove Digital Goods from the Services without notice."
+      ],
+      "new": [
+        "j. Digital Goods. Through Microsoft Movies & TV, Store, XBOX Services and any other related and future services, Microsoft may enable you to obtain, listen to, view, play or read (as the case may be) music, images, video, text, books, games or other material ( \"Digital Goods\" ) that you may get in digital form. The Digital Goods are only for your personal, noncommercial entertainment use. You agree not to redistribute, broadcast, publicly perform or publicly display or transfer any copies of the Digital Goods. Digital Goods may be owned by Microsoft or by third parties. In all circumstances, you understand and acknowledge that your rights with respect to Digital Goods are limited by these Terms, copyright law, and the Usage Rules located at https://go.microsoft.com/fwlink/p/?LinkId=723143 . You agree that you will not attempt to modify any Digital Goods obtained through any of the Services for any reason whatsoever, including for the purpose of disguising or changing ownership or source of the Digital Goods. Microsoft or the owners of the Digital Goods may, from time to time, remove Digital Goods from the Services without notice."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "iii. Certain restrictions and limitations apply to earning, redeeming, and other uses of Points in the Rewards Program. For more information see the Rewards section at https://support.microsoft.com (\" FAQ \")."
+      ],
+      "new": [
+        "iii. Certain restrictions and limitations apply to earning, redeeming, and other uses of Points in the Rewards Program. For more information see the Microsoft Support Rewards section at https://go.microsoft.com/fwlink/?linkid=2132733 (\" FAQ \") and Rewards support page for XBOX at https://www.xbox.com/en-US/rewards ."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "ix. Microsoft may update or discontinue offering specific Redemption Options at any time for any reason. Some Redemption Options may have age or Region eligibility requirements, or other terms or conditions on their redemption or use. Any such requirements or conditions will be included in the relevant redemption offer. You are responsible for all federal, state, and local taxes and any other costs of accepting and using the Redemption Option. Rewards will be emailed to the email address associated with your Microsoft account, so keep your email address up to date. Rewards that are undeliverable will not be reissued and are therefore forfeited. Rewards may not be resold. You may redeem no more than 550,000 Points per calendar year in the Rewards Program."
+      ],
+      "new": [
+        "ix. Microsoft may update or discontinue offering specific Redemption Options at any time for any reason. Some Redemption Options may have age or Region eligibility requirements, or other terms or conditions on their redemption or use. Any such requirements or conditions will be included in the relevant redemption offer. You are responsible for all federal, state, and local taxes and any other costs of accepting and using the Redemption Option. Rewards will be emailed to the email address associated with your Microsoft account, so keep your email address up to date. Rewards that are undeliverable will not be reissued and are therefore forfeited. Rewards may not be resold. You may redeem (i) no more than 550,000 Rewards Program Points per calendar year for Redemption Options for products and services of Microsoft’s authorized third parties, and (ii) 1,550,000 Rewards Program Points per calendar year for Redemption Options for Microsoft’s own products and services, or such higher annual limits for (i) or (ii) as Microsoft may permit in its sole discretion."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## Copilot AI Experiences",
+        "r. Copilot AI Experiences. Your use of Copilot AI Experiences (except Copilot with commercial data protection) is governed by the supplemental terms and conditions under which you obtained those services as detailed at Copilot - Terms of Use (bing.com) (https://www.bing.com/new/termsofuse#content-policy) together with these Terms. If you are a Microsoft Copilot with commercial data protection user, please visit this page to review the terms of use that apply to you, together with these Terms: https://aka.ms/BCETermsOfUse ."
+      ],
+      "new": [
+        "## Copilot",
+        "r. Copilot. Your use of Copilot is governed by the supplemental terms and conditions under which you obtained those services, as detailed at Copilot - Terms of Use (https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse), together with these Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "15. Binding Arbitration and Class Action Waiver If You Live In (or, If a Business, Your Principal Place of Business Is In) the United States. We hope we never have a dispute, but if we do, you and we agree to try for 60 days, upon receipt of a Notice of Dispute, to resolve it informally. If we can’t, you and we agree to binding individual arbitration before the American Arbitration Association (\"AAA\") under the Federal Arbitration Act (\"FAA\"), and not to sue in court in front of a judge or jury . Instead, a neutral arbitrator will decide and the arbitrator’s decision will be final except for a limited right of review under the FAA. Class action lawsuits, class-wide arbitrations, private attorney-general actions, requests for public injunctions, and any other proceeding or request for relief where someone acts in a representative capacity aren’t allowed. Nor is combining individual proceedings without the consent of all parties. \"We,\" \"our,\" and \"us\" includes Microsoft and Microsoft’s affiliates."
+      ],
+      "new": [
+        "15. Binding Arbitration and Class Action Waiver If You Live In (or, If a Business, Your Principal Place of Business Is In) the United States. We hope we never have a dispute, but if we do, you and we agree to try for 60 days, upon receipt of a Notice of Dispute, to resolve it informally. If we can’t, you and we agree to binding individual arbitration before JAMS under the Federal Arbitration Act (\"FAA\"), and not to sue in court in front of a judge or jury . Instead, a neutral arbitrator will decide and the arbitrator’s decision will be final except for a limited right of review under the FAA. Class action lawsuits, class-wide arbitrations, private attorney-general actions, requests for public injunctions, and any other proceeding or request for relief where someone acts in a representative capacity aren’t allowed. Nor is combining individual proceedings without the consent of all parties. The procedural and substantive provisions of the FAA govern this Section 15, including its enforcement. \"We,\" \"our,\" and \"us\" includes Microsoft and Microsoft’s affiliates."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "b. Send a Notice of Dispute Before Arbitration. If you have a dispute that our customer service representatives can’t resolve and you wish to pursue arbitration, you must first send an individualized Notice of Dispute to Microsoft Corporation, ATTN: CELA Arbitration, One Microsoft Way, Redmond, WA 98052-6399, U.S.A., or submit the form electronically. The Notice of Dispute form is available at https://go.microsoft.com/fwlink/?LinkId=245499 . Complete that form in full, with all the information it requires. We’ll do the same if we have a dispute with you. This Notice of Dispute is a prerequisite to initiating any arbitration. Any applicable statute of limitations will be tolled from the date of a properly submitted individualized Notice of Dispute through the first date on which an arbitration may properly be filed under this section 15."
+      ],
+      "new": [
+        "b. Send a Notice of Dispute Before Arbitration. If you have a dispute that our customer service representatives can’t resolve and you wish to pursue arbitration, you must first send an individualized Notice of Dispute to Microsoft Corporation, ATTN: CELA Arbitration, One Microsoft Way, Redmond, WA 98052-6399, U.S.A., or submit the form electronically. The Notice of Dispute form is available at https://go.microsoft.com/fwlink/?LinkId=245499 . Complete that form in full, with all the information it requires. We’ll do the same if we have a dispute with you. This Notice of Dispute is a prerequisite to initiating any arbitration. Any applicable statute of limitations will be tolled from the date of an individualized Notice of Dispute through the first date on which an arbitration may properly be filed under this section 15."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If your Notice of Dispute involves claims similar to those of at least 24 other customers, and if you and those other customers are represented by the same lawyers, or by lawyers who are coordinating with each other, you and we agree that these claims will be “Related Cases.” You and we agree that the AAA’s Mass Arbitration Supplementary Rules in effect when the Demand for Arbitration is filed, as modified by this section 15, will apply to Related Cases. Related Cases may only be filed in batches of up to 50 individual arbitrations at a time, and those individual arbitrations will be resolved in the following manner: (i) for the first batch, each side may select up to 25 of these Related Cases to be filed and resolved in individual arbitrations under this section 15; (ii) none of the other Related Cases may be filed or prosecuted in arbitration until the first batch of up to 50 individual arbitrations is resolved; and (iii) if, after that first batch, the parties are unable to resolve the remaining Related Cases, a second batch of Related Cases may be filed, where each side may select up to 25 of the Related Cases to be resolved in individual arbitrations under this section 15. This process of batched individual arbitrations will continue until the parties resolve all Related Cases informally or through individual arbitrations. A court has exclusive authority to enforce this paragraph, including whether it applies to a given set of claims, and to enjoin the filing or prosecution of arbitrations that do not comply with this paragraph.",
+        "In addition, if the dispute is not part of the Related Cases described above, the dispute involves less than $75,000, and before initiating arbitration you complied with all pre-arbitration requirements in this section 15, then (1) we will promptly reimburse your filing fees and pay the AAA’s and arbitrator’s fees and expenses; and (2) if, at the conclusion of the arbitration, the arbitrator awards you more than our last written offer made before the arbitrator was appointed, we will: pay you (i) the amount of the award or $1,000 (whichever is more); and; (ii) for any reasonable attorney’s fees you incurred; and any reasonable expenses (including expert witness fees and costs) that your attorney accrued in connection with your individual arbitration."
+      ],
+      "new": [
+        "If your Notice of Dispute involves claims similar to those of at least 24 other customers, and if you and those other customers are represented by the same lawyers, or by lawyers who are coordinating with each other, you and we agree that these claims will be “Related Cases.” You and we agree that the JAMS Mass Arbitration Procedures and Guidelines in effect when the Demand for Arbitration is filed, as modified by this section 15, will apply to Related Cases. Related Cases may only be filed in batches of up to 50 individual arbitrations at a time, and those individual arbitrations will be resolved in the following manner: (i) for the first batch, each side may select up to 25 of these Related Cases to be filed and resolved in individual arbitrations under this section 15; (ii) none of the other Related Cases may be filed or prosecuted in arbitration until the first batch of up to 50 individual arbitrations is resolved; (iii) after the first batch is completed, the parties must engage in a single mediation of all remaining Related Cases, and we will pay the mediation fee; and (iv) if the mediation is unsuccessful at resolving the remaining Related Cases, a second batch of Related Cases may be filed, where each side may select up to 25 of the Related Cases to be resolved in individual arbitrations under this section 15, followed by a second mediation in which the parties must participate and for which we will pay the mediation fee. This staged process will continue until the parties resolve all Related Cases informally, through mediation, or through individual arbitrations. A court has exclusive authority to enforce this paragraph, including whether it applies to a given set of claims, and to enjoin the filing or prosecution of arbitrations that do not comply with this paragraph.",
+        "In addition, if the dispute is not part of the Related Cases described above, the dispute involves less than $75,000, and before initiating arbitration you complied with all pre-arbitration requirements in this section 15, then (1) we will promptly reimburse your filing fees and pay JAMS’s and the arbitrator’s fees and expenses; and (2) if, at the conclusion of the arbitration, the arbitrator awards you more than our last written offer made before the arbitrator was appointed, we will: pay you (i) the amount of the award or $1,000 (whichever is more); and (ii) for any reasonable attorney’s fees you incurred; and any reasonable expenses (including expert witness fees and costs) that your attorney accrued in connection with your individual arbitration."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "These license terms are an agreement between you and the application publisher. Please read them.",
+        "They apply to the software applications you download from the Microsoft Store, the Microsoft Store on Windows or the Microsoft Store on Xbox",
+        "(each of which is referred to in these license terms as the \" Store \"), including any updates or supplements for the application,",
+        "unless the application comes with separate terms, in which case those terms apply.",
+        "BY DOWNLOADING OR USING THE APPLICATION, OR ATTEMPTING TO DO ANY OF THESE, YOU ACCEPT THESE TERMS. IF YOU DO NOT ACCEPT",
+        "THEM, YOU HAVE NO RIGHT TO AND MUST NOT DOWNLOAD OR USE THE APPLICATION."
+      ],
+      "new": [
+        "These license terms are an agreement between you and the application publisher. Please read them. They apply to the software applications you download from the Microsoft Store, the Microsoft Store on Windows or the Microsoft Store on XBOX (each of which is referred to in these license terms as the \" Store \"), including any updates or supplements for the application, unless the application comes with separate terms, in which case those terms apply.",
+        "BY DOWNLOADING OR USING THE APPLICATION, OR ATTEMPTING TO DO ANY OF THESE, YOU ACCEPT THESE TERMS. IF YOU DO NOT ACCEPT THEM, YOU HAVE NO RIGHT TO AND MUST NOT DOWNLOAD OR USE THE APPLICATION."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "1. INSTALLATION AND USE RIGHTS; EXPIRATION. You may install and use the application on Windows devices or Xbox",
+        "consoles as described in Microsoft’s Usage Rules (https://go.microsoft.com/fwlink/p/?LinkId=723143). Microsoft reserves the right to modify Microsoft’s Usage Rules (https://go.microsoft.com/fwlink/p/?LinkId=723143) at any time.",
+        "a. Consent for Internet-based or wireless services. If the application connects to computer systems over the Internet, which",
+        "may include via a wireless network, using the application operates as your consent to the transmission of standard device",
+        "information (including but not limited to technical information about your device, system, and application software, and",
+        "peripherals) for Internet-based or wireless services. If other terms are presented in connection with your use of services",
+        "accessed using the application, those terms also apply.",
+        "b. Misuse of Internet-based services. You may not use any Internet-based service in any way that could harm it or impair",
+        "anyone else’s use of it or the wireless network. You may not use the service to try to gain unauthorized access to any service,",
+        "data, account, or network by any means."
+      ],
+      "new": [
+        "1. INSTALLATION AND USE RIGHTS; EXPIRATION. You may install and use the application on Windows devices or XBOX consoles as described in Microsoft’s Usage Rules (https://go.microsoft.com/fwlink/p/?LinkId=723143). Microsoft reserves the right to modify Microsoft’s Usage Rules (https://go.microsoft.com/fwlink/p/?LinkId=723143) at any time.",
+        "a. Consent for Internet-based or wireless services. If the application connects to computer systems over the Internet, which may include via a wireless network, using the application operates as your consent to the transmission of standard device information (including but not limited to technical information about your device, system, and application software, and peripherals) for Internet-based or wireless services. If other terms are presented in connection with your use of services accessed using the application, those terms also apply.",
+        "b. Misuse of Internet-based services. You may not use any Internet-based service in any way that could harm it or impair anyone else’s use of it or the wireless network. You may not use the service to try to gain unauthorized access to any service, data, account, or network by any means."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "b. Reverse engineer, decompile, or disassemble the application, except and only to the extent that applicable law expressly",
+        "permits, despite this limitation."
+      ],
+      "new": [
+        "b. Reverse engineer, decompile, or disassemble the application, except and only to the extent that applicable law expressly permits, despite this limitation."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "4. DOCUMENTATION. If documentation is provided with the application, you may copy and use the documentation for personal",
+        "reference purposes.",
+        "5. TECHNOLOGY AND EXPORT RESTRICTIONS. The application may be subject to United States or international technology",
+        "control or export laws and regulations. You must comply with all domestic and international export laws and regulations that",
+        "apply to the technology used or supported by the application. These laws include restrictions on destinations, end users,",
+        "and end use. For information on Microsoft branded products, go to the Microsoft exporting website (https://go.microsoft.com/fwlink/?LinkId=868967).",
+        "6. SUPPORT SERVICES. Contact the application publisher to determine if any support services are available. Microsoft,",
+        "your hardware manufacturer and your wireless carrier (unless one of them is the application publisher) aren’t responsible",
+        "for providing support services for the application.",
+        "7. ENTIRE AGREEMENT. This agreement, any applicable privacy policy, any additional terms that accompany the application,",
+        "and the terms for supplements and updates are the entire license agreement between you and application publisher for the application.",
+        "a. United States and Canada. If you acquired the application in the United States or Canada, the laws of the state or province",
+        "where you live (or, if a business, where your principal place of business is located) govern the interpretation of these",
+        "terms, claims for breach of them, and all other claims (including consumer protection, unfair competition, and tort claims),",
+        "regardless of conflict of laws principles.",
+        "b. Outside the United States and Canada. If you acquired the application in any other country, the laws of that country",
+        "apply.",
+        "9. LEGAL EFFECT . This agreement describes certain legal rights. You may have other rights under the laws of your state",
+        "or country. This agreement doesn’t change your rights under the laws of your state or country if the laws of your state or",
+        "country don’t permit it to do so.",
+        "10. DISCLAIMER OF WARRANTY. The application is licensed \"as is,\" \"with all faults,\" and \"as available.\"",
+        "You bear the entire risk as to its quality, safety, comfort, and performance. Should it prove defective, you assume the entire cost of all",
+        "necessary servicing or repair. The application publisher, on behalf of itself, Microsoft, wireless carriers over whose network",
+        "the application is provided, and each of our respective affiliates, vendors, agents, and suppliers (\"Covered Parties\"),",
+        "gives no express warranties, guarantees, or conditions in relation to the application. You may have additional consumer rights",
+        "under your local laws that this agreement can't change. To the extent permitted under your local laws, Covered Parties",
+        "exclude any implied warranties or conditions, including those of merchantability, fitness for a particular purpose, safety, comfort,",
+        "and non-infringement. If your local laws impose a warranty, guarantee or condition even though these terms do not, its duration is limited to 90",
+        "days from when you download the application.",
+        "11. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES. To the extent not prohibited by law, if you have any basis for recovering",
+        "damages, you can recover from the application publisher only direct damages up to the amount you paid for the application",
+        "or $1.00, whichever is greater. You will not, and waive any right to, seek to recover any other damages, including lost profits",
+        "and consequential, special, direct, indirect, or incidental damages, from the application publisher."
+      ],
+      "new": [
+        "4. DOCUMENTATION. If documentation is provided with the application, you may copy and use the documentation for personal reference purposes.",
+        "5. TECHNOLOGY AND EXPORT RESTRICTIONS. The application may be subject to United States or international technology control or export laws and regulations. You must comply with all domestic and international export laws and regulations that apply to the technology used or supported by the application. These laws include restrictions on destinations, end users, and end use. For information on Microsoft branded products, go to the Microsoft exporting website (https://go.microsoft.com/fwlink/?LinkId=868967).",
+        "6. SUPPORT SERVICES. Contact the application publisher to determine if any support services are available. Microsoft, your hardware manufacturer and your wireless carrier (unless one of them is the application publisher) aren’t responsible for providing support services for the application.",
+        "7. ENTIRE AGREEMENT. This agreement, any applicable privacy policy, any additional terms that accompany the application, and the terms for supplements and updates are the entire license agreement between you and application publisher for the application.",
+        "a. United States and Canada. If you acquired the application in the United States or Canada, the laws of the state or province where you live (or, if a business, where your principal place of business is located) govern the interpretation of these terms, claims for breach of them, and all other claims (including consumer protection, unfair competition, and tort claims), regardless of conflict of laws principles.",
+        "b. Outside the United States and Canada. If you acquired the application in any other country, the laws of that country apply.",
+        "9. LEGAL EFFECT . This agreement describes certain legal rights. You may have other rights under the laws of your state or country. This agreement doesn’t change your rights under the laws of your state or country if the laws of your state or country don’t permit it to do so.",
+        "10. DISCLAIMER OF WARRANTY. The application is licensed \"as is,\" \"with all faults,\" and \"as available.\" You bear the entire risk as to its quality, safety, comfort, and performance. Should it prove defective, you assume the entire cost of all necessary servicing or repair. The application publisher, on behalf of itself, Microsoft, wireless carriers over whose network the application is provided, and each of our respective affiliates, vendors, agents, and suppliers (\"Covered Parties\"), gives no express warranties, guarantees, or conditions in relation to the application. You may have additional consumer rights under your local laws that this agreement can't change. To the extent permitted under your local laws, Covered Parties exclude any implied warranties or conditions, including those of merchantability, fitness for a particular purpose, safety, comfort, and non-infringement. If your local laws impose a warranty, guarantee or condition even though these terms do not, its duration is limited to 90 days from when you download the application.",
+        "11. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES. To the extent not prohibited by law, if you have any basis for recovering damages, you can recover from the application publisher only direct damages up to the amount you paid for the application or $1.00, whichever is greater. You will not, and waive any right to, seek to recover any other damages, including lost profits and consequential, special, direct, indirect, or incidental damages, from the application publisher."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Claims for breach of contract, warranty, guarantee or condition; strict liability, negligence, or other tort; violation",
+        "of a statute or regulation; unjust enrichment; or under any other theory; all to the extent permitted by applicable law."
+      ],
+      "new": [
+        "Claims for breach of contract, warranty, guarantee or condition; strict liability, negligence, or other tort; violation of a statute or regulation; unjust enrichment; or under any other theory; all to the extent permitted by applicable law."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Xbox apps and websites",
+        "Xbox Cloud Gaming",
+        "Xbox Game Pass",
+        "Xbox Game Studios games, apps and websites",
+        "Xbox Live Gold",
+        "Xbox Live",
+        "Xbox Music",
+        "Xbox Store"
+      ],
+      "new": [
+        "XBOX apps and websites",
+        "XBOX Cloud Gaming",
+        "XBOX Game Pass",
+        "XBOX Game Studios games, apps and websites",
+        "XBOX Live Gold",
+        "XBOX Live",
+        "XBOX Music",
+        "XBOX Store"
+      ]
+    }
+  ]
+}

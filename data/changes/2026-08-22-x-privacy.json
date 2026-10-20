@@ -1,0 +1,39 @@
+{
+  "id": "2026-08-22-x-privacy",
+  "service": "x",
+  "service_name": "X (Twitter)",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://x.com/en/privacy",
+  "detected_at": "2026-08-22T08:03:55+00:00",
+  "source": "wayback",
+  "window_start": "2026-06-20T05:23:07+00:00",
+  "archive_before": "https://web.archive.org/web/20260620052307/https://x.com/en/privacy",
+  "archive_after": "https://web.archive.org/web/20260822080355/https://x.com/en/privacy",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 11,
+    "removed_words": 2
+  },
+  "headline": "X (Twitter) edited its Privacy Policy",
+  "summary": "11 words added and 2 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "If you wish to raise a concern about our <u>data processing practices</u>, you have the right to do so with your local supervisory authority.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "If you wish to raise a concern about our <u>data processing practices</u>, you have the right to do so with your local supervisory authority or X Internet Unlimited Company’s lead supervisory authority, the Irish Data Protection Commission, using the <u>contact details</u> listed on their website."
+      ],
+      "new": [
+        "If you wish to raise a concern about our <u>data processing practices</u>, you have the right to do so with your local supervisory authority. If you live in the European Union, you may contact X Internet Unlimited Company’s lead supervisory authority, the Irish Data Protection Commission, using the <u>contact details</u> listed on their website."
+      ]
+    }
+  ]
+}

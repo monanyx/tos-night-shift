@@ -1,0 +1,84 @@
+{
+  "id": "2026-04-19-google-privacy",
+  "service": "google",
+  "service_name": "Google",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://policies.google.com/privacy?hl=en",
+  "detected_at": "2026-04-19T07:40:16+00:00",
+  "source": "wayback",
+  "window_start": "2026-01-11T00:22:24+00:00",
+  "archive_before": "https://web.archive.org/web/20260111002224/https://policies.google.com/privacy?hl=en",
+  "archive_after": "https://web.archive.org/web/20260419074016/https://policies.google.com/privacy?hl=en",
+  "flags": [],
+  "stats": {
+    "hunks": 6,
+    "added_words": 60,
+    "removed_words": 68
+  },
+  "headline": "Google edited its Privacy Policy",
+  "summary": "60 words added and 68 removed across 6 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "You can visit your Google Account to find and manage activity information that’s saved by your activity controls.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "You can visit your Google Account to find and manage activity information that’s saved in your account."
+      ],
+      "new": [
+        "You can visit your Google Account to find and manage activity information that’s saved by your activity controls."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with, including your related Google Search activity, to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google to link information about your activity from that site or app with activity from other sites or apps that use our ad services."
+      ],
+      "new": [
+        "We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with, including your related Google Search activity, to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including ad and analytics services. When you visit sites or use apps that use Google’s ad or analytics services, those services may link information about your activity from that site or app with activity from other sites or apps that use our services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Decide what types of activity you’d like saved in your account. For example, if you have YouTube History turned on, the videos you watch and the things you search for are saved in your account so you can get better recommendations and remember where you left off. And if you have Web & App Activity turned on, your searches and activity from other Google services are saved in your account so you can get more personalized experiences like faster searches and more helpful app and content recommendations. Web & App Activity also has a subsetting that lets you control whether information about your activity on other sites, apps, and devices that use Google services, such as apps you install and use on Android, is saved in your Google Account and used to improve Google services."
+      ],
+      "new": [
+        "Decide what types of activity you’d like saved in your account. For example, if you have YouTube History turned on, the videos you watch and the things you search for are saved in your account so you can get better recommendations and remember where you left off. And if you have Web & App Activity turned on, your searches and activity from other Google services are saved in your account so you can get more personalized experiences like faster searches and more helpful app and content recommendations. Web & App Activity also has a subsetting that lets you control whether some information about your activity on other sites, apps, and devices that use Google services, such as apps you install and use on Android, is saved in your Google Account and used to improve Google services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "The Washington My Health My Data Act and Nevada Senate Bill 370 provide specific rights in addition to those rights above, that apply to health information. When you provide this information, Google only processes it with your consent and allows you to withdraw your consent."
+      ],
+      "new": [
+        "The Washington My Health My Data Act and Nevada Senate Bill 370 provide specific rights in addition to those rights above, that apply to health information. When you provide health information subject to these laws, Google processes it with your consent, which you may withdraw, or as otherwise permitted by these laws."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "This information is collected regardless of which browser or browser mode you use. For example, although Incognito mode in Chrome can help keep your browsing private from other people who use your device, third party sites and apps that integrate our services may still share information with Google when you visit them."
+      ],
+      "new": [
+        "This information is shared regardless of which browser or browser mode you use. For example, although Incognito mode in Chrome can help keep your browsing private from other people who use your device, third party sites and apps that integrate our services still share information with Google when you visit them."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Google Analytics relies on first-party cookies, which means the cookies are set by the Google Analytics customer. Using our systems, data generated through Google Analytics can be linked by the Google Analytics customer and by Google to third-party cookies that are related to visits to other websites. For example, an advertiser may want to use its Google Analytics data to create more relevant ads, or to further analyze its traffic. Learn more"
+      ],
+      "new": [
+        "For example, a customer may want to use its Google Analytics data to create more relevant ads, or to further analyze its traffic. Using our systems, data generated through Google Analytics can be linked by the Google Analytics customer and by Google to cookies and other technologies that are related to visits to other websites and apps. Learn more"
+      ]
+    }
+  ]
+}

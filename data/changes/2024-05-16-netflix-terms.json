@@ -1,0 +1,37 @@
+{
+  "id": "2024-05-16-netflix-terms",
+  "service": "netflix",
+  "service_name": "Netflix",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://help.netflix.com/legal/termsofuse",
+  "detected_at": "2024-05-16T02:26:04+00:00",
+  "source": "wayback",
+  "window_start": "2024-02-03T22:35:23+00:00",
+  "archive_before": "https://web.archive.org/web/20240203223523/https://help.netflix.com/legal/termsofuse",
+  "archive_after": "https://web.archive.org/web/20240516022604/https://help.netflix.com/legal/termsofuse",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 5,
+    "removed_words": 0
+  },
+  "headline": "Netflix edited its Terms of Service",
+  "summary": "5 words added and 0 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "# Netflix Terms of Use",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# Netflix Terms of Use"
+      ]
+    }
+  ]
+}

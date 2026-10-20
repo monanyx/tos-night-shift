@@ -1,0 +1,59 @@
+{
+  "id": "2025-11-02-x-terms",
+  "service": "x",
+  "service_name": "X (Twitter)",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://x.com/en/tos",
+  "detected_at": "2025-11-02T01:21:56+00:00",
+  "source": "wayback",
+  "window_start": "2025-05-08T13:09:49+00:00",
+  "archive_before": "https://web.archive.org/web/20250508130949/https://x.com/en/tos",
+  "archive_after": "https://web.archive.org/web/20251102012156/https://x.com/en/tos",
+  "flags": [],
+  "stats": {
+    "hunks": 3,
+    "added_words": 4,
+    "removed_words": 4
+  },
+  "headline": "X (Twitter) edited its Terms of Service",
+  "summary": "4 words added and 4 removed across 3 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "- **You have remedies and redress mechanisms, but our liability is limited:** You have a right to terminate this agreement at any time by deactivating your account and discontinuing use of the Services.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "- **You have remedies and redress mechanisms, but our liability is limited:** You have a right to terminate this agreement at any time by deactivating your account and discontinuing use of the Services. Note that we will not be liable for certain types of damages as described in the agreement, and in any event, our aggregate liability shall not exceed the greater of $100 USD or the amount you paid us, if any, in the past six months for the Services giving rise to the claim. Further, if you believe that your Content has been copied in a way that constitutes copyright infringement, the reporting process is detailed in these Terms. If you are a recipient of the X Service in the European Union, you may challenge certain decisions we make under the Digital Services Act (Regulation (EU) 2022/2065) via our internal process or via out-of-court dispute settlement as described <u>here</u>.",
+        "Please also note that these Terms incorporate our Privacy Policy (<u>https://x.com/privacy</u>) as well as other terms applicable to your use of the Services and your Content. Finally, these Terms may vary depending on where you live, but in any case, you must be at least 13 years old to use X."
+      ],
+      "new": [
+        "- **You have remedies and redress mechanisms, but our liability is limited:** You have a right to terminate this agreement at any time by deactivating your account and discontinuing use of the Services. Note that we will not be liable for certain types of damages as described in the agreement, and in any event, our aggregate liability shall not exceed the greater of $100 USD or the amount you paid us, if any, in the past six months for the Services giving rise to the claim. Further, if you believe that your Content has been copied in a way that constitutes copyright infringement, the reporting process is detailed in these Terms. If you are a recipient of the X Service in the European Union, you may challenge certain decisions we make under the Digital Services Act (Regulation (EU) 2022/2065) via our internal process or via out-of-court dispute settlement as described here.",
+        "Please also note that these Terms incorporate our Privacy Policy (https://x.com/privacy) as well as other terms applicable to your use of the Services and your Content. Finally, these Terms may vary depending on where you live, but in any case, you must be at least 13 years old to use X."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If you use developer features of the Services, including but not limited to X for Websites (https://developer.x.com/docs/x-for-websites), X Cards (https://developer.x.com/docs/x-for-websites/cards/overview/abouts-cards), Public API (https://developer.x.com/docs), or Sign in with X (https://developer.x.com/docs/authentication/guides/log-in-with-twitter), you agree to our Developer Agreement (https://developer.x.com/developer-terms/agreement) and Developer Policy (https://developer.x.com/developer-terms/policy). If you want to reproduce, modify, create derivative works, distribute, sell, transfer, publicly display, publicly perform, transmit, or otherwise use the Services or Content on the Services, you must use the interfaces and instructions we provide, except as permitted through the Services, these Terms, or the terms provided on https://developer.x.com/developer-terms. Otherwise, all such actions are strictly prohibited. If you are a security researcher, you are required to comply with the rules of our Vulnerability Reporting Program (https://hackerone.com/x). The requirements set out in the preceding paragraph may not apply to those participating in our Vulnerability Reporting Program."
+      ],
+      "new": [
+        "If you use developer features of the Services, including but not limited to X for Websites (https://developer.x.com/docs/x-for-websites), X Cards (https://developer.x.com/docs/x-for-websites/cards/overview/abouts-cards), Public API (https://developer.x.com/docs), or Sign in with X (https://docs.x.com/resources/fundamentals/authentication/guides/log-in-with-x), you agree to our Developer Agreement (https://developer.x.com/developer-terms/agreement) and Developer Policy (https://developer.x.com/developer-terms/policy). If you want to reproduce, modify, create derivative works, distribute, sell, transfer, publicly display, publicly perform, transmit, or otherwise use the Services or Content on the Services, you must use the interfaces and instructions we provide, except as permitted through the Services, these Terms, or the terms provided on https://developer.x.com/developer-terms. Otherwise, all such actions are strictly prohibited. If you are a security researcher, you are required to comply with the rules of our Vulnerability Reporting Program (https://hackerone.com/x). The requirements set out in the preceding paragraph may not apply to those participating in our Vulnerability Reporting Program."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If you use developer features of the Services, including but not limited to X for Websites (https://developer.x.com/docs/x-for-websites), X Cards (https://developer.x.com/docs/x-for-websites/cards/overview/abouts-card), Public API (https://developer.x.com/docs), or Sign in with X (https://developer.x.com/docs/authentication/guides/log-in-with-twitter), you agree to our Developer Agreement (https://developer.x.com/developer-terms/agreement) and Developer Policy (https://developer.x.com/developer-terms/policy). If you want to reproduce, modify, create derivative works, distribute, sell, transfer, publicly display, publicly perform, transmit, or otherwise use the Services or Content on the Services, you must use the interfaces and instructions we provide, except as permitted through the Services, these Terms, or the terms provided on https://developer.x.com/developer-terms. Otherwise, all such actions are strictly prohibited. If you are a security researcher, you are required to comply with the rules of our Vulnerability Reporting Program (https://hackerone.com/x). The requirements set out in the preceding paragraph may not apply to those participating in our Vulnerability Reporting Program."
+      ],
+      "new": [
+        "If you use developer features of the Services, including but not limited to X for Websites (https://developer.x.com/docs/x-for-websites), X Cards (https://developer.x.com/docs/x-for-websites/cards/overview/abouts-card), Public API (https://developer.x.com/docs), or Sign in with X (https://docs.x.com/resources/fundamentals/authentication/guides/log-in-with-x), you agree to our Developer Agreement (https://developer.x.com/developer-terms/agreement) and Developer Policy (https://developer.x.com/developer-terms/policy). If you want to reproduce, modify, create derivative works, distribute, sell, transfer, publicly display, publicly perform, transmit, or otherwise use the Services or Content on the Services, you must use the interfaces and instructions we provide, except as permitted through the Services, these Terms, or the terms provided on https://developer.x.com/developer-terms. Otherwise, all such actions are strictly prohibited. If you are a security researcher, you are required to comply with the rules of our Vulnerability Reporting Program (https://hackerone.com/x). The requirements set out in the preceding paragraph may not apply to those participating in our Vulnerability Reporting Program."
+      ]
+    }
+  ]
+}

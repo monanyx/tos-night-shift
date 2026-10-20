@@ -1,0 +1,65 @@
+{
+  "id": "2025-07-07-facebook-privacy",
+  "service": "facebook",
+  "service_name": "Facebook",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.facebook.com/privacy/policy/",
+  "detected_at": "2025-07-07T02:33:25+00:00",
+  "source": "wayback",
+  "window_start": "2025-04-07T07:36:04+00:00",
+  "archive_before": "https://web.archive.org/web/20250407073604/https://www.facebook.com/privacy/policy/",
+  "archive_after": "https://web.archive.org/web/20250707023325/https://www.facebook.com/privacy/policy/",
+  "flags": [],
+  "stats": {
+    "hunks": 4,
+    "added_words": 86,
+    "removed_words": 3
+  },
+  "headline": "Facebook edited its Privacy Policy",
+  "summary": "86 words added and 3 removed across 4 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "We updated our Privacy Policy on June 16, 2025.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "We updated our Privacy Policy on June 16, 2025. View our previous policy."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Effective November 14, 2024 | View printable version | See previous versions"
+      ],
+      "new": [
+        "Effective June 16, 2025 | View printable version | See previous versions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| Providing ads on the Meta Products: Our ads system automatically processes information that we’ve collected and stored associated with you. Our ads system uses this information to understand your interests and your preferences and personalize your ads across the Meta Products. Our ads system prioritizes what ad to show you based on what audience advertisers want to reach. Then we match the ad to people who might be interested. Learn more about how our ads system works | Age The gender you provide Information about ads we show you and how you engage with those ads Location information Device characteristics and device software |"
+      ],
+      "new": [
+        "| Providing ads on the Meta Company Products: Our ads system automatically processes information that we’ve collected and stored associated with you. Our ads system uses this information to understand your interests and your preferences and personalize your ads across the Meta Company Products. Our ads system prioritizes what ad to show you based on what audience advertisers want to reach. Then we match the ad to people who might be interested. Learn more about how our ads system works | Age The gender you provide Information about ads we show you and how you engage with those ads Location information Device characteristics and device software |",
+        "| If you decide to add a WhatsApp account to an Accounts Center with other accounts on Meta Company Products: To associate your accounts on Meta Company Products with your WhatsApp account in the same Accounts Center and share your information with WhatsApp. | Note: the list below is about information from Meta. For information that WhatsApp shares with Meta see the WhatsApp Help Center article. |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| Receiving and using information from third parties to tailor the ads you see: We’ll use information that advertisers, businesses and other partners provide us about activity off Meta Products that we have associated with you to personalize ads that we show you on Meta Products, and on websites, apps and devices that use our advertising services. We receive this information whether or not you’re logged in or have an account on our Products. See the Cookies Policy for more information. | Information and content you provide, such as your name or email address |"
+      ],
+      "new": [
+        "| Receiving and using information from third parties to tailor the ads you see: We’ll use information that advertisers, businesses and other partners provide us about activity off Meta Company Products that we have associated with you to personalize ads that we show you on Meta Products, and on websites, apps and devices that use our advertising services. We receive this information whether or not you’re logged in or have an account on our Products. See the Cookies Policy for more information. | Information and content you provide, such as your name or email address |"
+      ]
+    }
+  ]
+}

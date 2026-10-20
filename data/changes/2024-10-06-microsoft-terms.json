@@ -1,0 +1,232 @@
+{
+  "id": "2024-10-06-microsoft-terms",
+  "service": "microsoft",
+  "service_name": "Microsoft",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.microsoft.com/en-us/servicesagreement",
+  "detected_at": "2024-10-06T04:55:44+00:00",
+  "source": "wayback",
+  "window_start": "2024-07-07T00:34:20+00:00",
+  "archive_before": "https://web.archive.org/web/20240707003420/https://www.microsoft.com/en-us/servicesagreement/",
+  "archive_after": "https://web.archive.org/web/20241006045544/https://www.microsoft.com/en-us/servicesagreement/",
+  "flags": [
+    {
+      "tag": "data-sharing",
+      "label": "Data sharing",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 18,
+    "added_words": 765,
+    "removed_words": 123
+  },
+  "headline": "Microsoft rewrote its Terms of Service — new wording on sharing your data",
+  "summary": "765 words added and 123 removed across 18 sections. New wording touches: Data sharing. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Many of our Services also help you find, make requests to, or interact with Third-Party Apps and Services and may allow or require you to share Your Content or Data with such Third-Party Apps and Services, and you understand that …",
+  "receipt_side": "new",
+  "sideeye": 2,
+  "tags": [
+    "data-sharing"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Published: July 30, 2023",
+        "Effective: September 30, 2023"
+      ],
+      "new": [
+        "Published: July 30, 2024",
+        "Effective: September 30, 2024"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "i. Policies. Our Code of Conduct identifies what’s prohibited when using our Services. Specific Services have additional policies and community standards applicable to their users, which are available here (https://aka.ms/trustandsafety)."
+      ],
+      "new": [
+        "i. Policies. Our Code of Conduct identifies what’s prohibited when using our Services. Our content and conduct policies can be found here (https://www.microsoft.com/DigitalSafety/policies). Specific Services have additional policies and community standards applicable to their users, which are available here (https://www.microsoft.com/DigitalSafety/policies/additional-guidelines)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "iv. Enforcement. We reserve the right to deny content if it exceeds limits on storage or file size allowed by the Service. We may block, remove or decline to display content if it appears to violate our Code of Conduct or another Service policy or where required by law. If you violate these terms or Service-Specific Terms , we may take action against your account. This could include limiting access to certain features or Services, stopping providing Services, closing your Microsoft account immediately or blocking delivery of a communication (like email, file sharing or instant message) to or from the Services. Closure of your access to a Service or your account may result in forfeiture of content licenses, associated content, memberships, and Microsoft account balances associated with the account. When reviewing alleged violations of these Terms, Microsoft reserves the right to review content to resolve the issue. However, we cannot monitor the entire Services and make no attempt to do so. For more information about the moderation and enforcement processes, Service specific terms and appeals, see https://aka.ms/trustandsafety . Information about our policy relating to claims of intellectual property infringement may be found at NOTICES ."
+      ],
+      "new": [
+        "iv. Enforcement. We reserve the right to deny content if it exceeds limits on storage or file size allowed by the Service. We may block, remove or decline to display content if it appears to violate our Code of Conduct or another Service policy or where required by law. If you violate these terms or Policies (https://aka.ms/trustandsafety), we may take action against your account. This could include limiting access to certain features or Services, stopping providing Services, closing your Microsoft account immediately or blocking delivery of a communication (like email, file sharing or instant message) to or from the Services. Closure of your access to a Service or your account may result in forfeiture of content licenses, associated content, memberships, and Microsoft account balances associated with the account. When reviewing alleged violations of these Terms, Microsoft reserves the right to review content to resolve the issue. However, we cannot monitor the entire Services and make no attempt to do so. For more information about the moderation and enforcement processes (https://www.microsoft.com/DigitalSafety/moderation-and-enforcement), Service specific terms , Additional policies and guidelines (https://www.microsoft.com/DigitalSafety/policies/additional-guidelines), and appeals (https://www.microsoft.com/DigitalSafety/moderation-and-enforcement/appeals), see https://aka.ms/trustandsafety . Information about our policy relating to claims of intellectual property infringement may be found at NOTICES ."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "5. Using Third-Party Apps and Services. The Services may allow you to access or acquire products, services, websites, links, content, material, games, skills, integrations, bots or applications from independent third parties (companies or people who aren’t Microsoft) ( \"Third-Party Apps and Services\" ). Many of our Services also help you find, make requests to, or interact with Third-Party Apps and Services or allow you to share Your Content or Data, and you understand that by using our Services you are directing them to make Third-Party Apps and Services available to you. The Third-Party Apps and Services may allow you to store Your Content or Data with the publisher, provider or operator of the Third-Party Apps and Services. The Third-Party Apps and Services may present you with a privacy policy or require you to accept their terms before you can install or use the Third-Party App or Service. See section 14.b for additional terms for applications acquired through certain Stores owned or operated by Microsoft or its affiliates (including, but not limited to, the Office Store, the Microsoft Store on Xbox and the Microsoft Store on Windows). You should review the third-party terms and privacy policies before acquiring, using, requesting, or linking your Microsoft Account to any Third-Party Apps and Services. Any third-party terms do not modify any of these Terms. You are responsible for your dealings with third parties. Microsoft does not license any intellectual property to you as part of any Third-Party Apps and Services and is not responsible or liable to you or others for information or services provided by any Third-Party Apps and Services."
+      ],
+      "new": [
+        "5. Using Third-Party Apps and Services. The Services may allow you to access or acquire products, services, websites, links, content, material, games, skills, integrations, bots or applications from independent third parties (companies or people who aren’t Microsoft) ( \"Third-Party Apps and Services\" ). Many of our Services also help you find, make requests to, or interact with Third-Party Apps and Services and may allow or require you to share Your Content or Data with such Third-Party Apps and Services, and you understand that by using our Services you are directing them to make Third-Party Apps and Services available to you. The Third-Party Apps and Services may allow or require you to store Your Content or Data with the publisher, provider or operator of the Third-Party Apps and Services. The Third-Party Apps and Services may present you with a privacy policy or require you to accept their terms before you can install or use the Third-Party App or Service. See section 13.b for additional terms for applications acquired through certain Stores owned or operated by Microsoft or its affiliates (including, but not limited to, the Office Store, the Microsoft Store on Xbox and the Microsoft Store on Windows. You should review the third-party terms and privacy policies before acquiring, using, requesting, or linking your Microsoft Account to any Third-Party Apps and Services. Any third-party terms do not modify these Terms. Microsoft does not license any intellectual property to you as part of any Third-Party Apps and Services. You agree to assume all risk and liability arising from your use of these Third-Party Apps and Services and that Microsoft is not responsible for any issues arising out of your use of them. Microsoft is not responsible or liable to you or others for information or services provided by any Third-Party Apps and Services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "ii. Xbox Services. When you sign up to receive Xbox Services, information about your game play, activities and usage of games and Xbox Services will be tracked and shared with applicable third-parties, including game developers, in order for Microsoft to deliver the Xbox Services and for the third-parties to operate non-Microsoft games and services. If you choose to link your Microsoft Xbox Services account with your account on a non-Microsoft service or sign in to your Xbox Services account to access a non-Microsoft Service (for example, a non-Microsoft game publisher of Third-Party Apps and Services), you agree that: (a) Microsoft may share limited account and usage-related information (including without limitation gamertag, gamerscore, game history, usage data and friends list), with that non-Microsoft party as stated in the Microsoft Privacy Statement, and (b) if allowed by your Xbox privacy settings, the non-Microsoft party may also have access to Your Content from in-game communications or other applications that you use when you are signed into your account with that non-Microsoft party. Also, if allowed by your Xbox privacy settings, Microsoft can publish your name, gamertag, gamerpic, motto, avatar, gameclips and games that you’ve played in communications to people you allow.",
+        "iii. Your Content. As part of building the Xbox Services community, you grant to Microsoft, its affiliates and sublicensees a free and worldwide",
+        "right to use, modify, reproduce, distribute, broadcast, share and display Your Content or your name, gamertag, motto, or avatar that you posted for any Xbox Services.",
+        "iv. Game Managers. Some games may use game managers, ambassadors, or hosts. Game managers and hosts are not authorized Microsoft",
+        "spokespersons. Their views do not necessarily reflect those of Microsoft.",
+        "v. Kids on Xbox. If you are a minor using the Xbox Services, your parent or guardian may have control over many aspects of your account and may receive reports about your use of the Xbox Services."
+      ],
+      "new": [
+        "ii. Xbox Services. When you sign up to receive Xbox Services, information about your game play, activities and usage of games and Xbox Services will be tracked and shared with applicable third-parties, including game developers and publishers, in order for Microsoft to deliver the Xbox Services and for the third-parties to operate non-Microsoft games and services. Additionally, if Xbox Services are accessed via third-party platforms, information about your game play, activities and usage of games and Xbox Services may be tracked and shared by such third-party platforms, subject to any third-party terms and privacy policies. If you choose to link your Microsoft Xbox Services account with your account on a non-Microsoft service or sign in to your Xbox Services account to access a non-Microsoft Service (for example, a non-Microsoft game publisher of Third-Party Apps and Services), you agree that: (a) Microsoft may share limited account and usage-related information (including without limitation gamertag, gamerscore, game history, usage data and friends list), with that non-Microsoft party as stated in the Microsoft Privacy Statement, and (b) if allowed by your Xbox privacy settings, the non-Microsoft party may also have access to Your Content from in-game communications or other applications that you use when you are signed into your account with that non-Microsoft party. Also, if allowed by your Xbox privacy settings, Microsoft can publish your name, gamertag, gamerpic, motto, avatar, gameclips and games that you’ve played in communications to people you allow.",
+        "iii. Your Content. As part of building the Xbox Services community, you grant to Microsoft, its affiliates and sublicensees a free and worldwide right to use, modify, reproduce, distribute, broadcast, share and display Your Content or your name, gamertag, motto, or avatar that you posted for any Xbox Services.",
+        "iv. Game Managers. Some games may use game managers, ambassadors, or hosts. Game managers and hosts are not authorized Microsoft spokespersons. Their views do not necessarily reflect those of Microsoft.",
+        "v. Kids on Xbox. If you are a minor using the Xbox Services, your parent or guardian may have control over many aspects of your account on the Xbox platform and may receive reports about your use of the Xbox Services. These features are exclusive to Xbox Services and may not transfer to other platforms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "vii. Software Updates. For any device that can connect to Xbox Services, we may automatically check your version of Xbox console",
+        "software or the Xbox app software and download Xbox console or Xbox app software updates or configuration changes, including those that prevent",
+        "you from accessing the Xbox Services, using unauthorized Xbox games or Xbox apps, or using unauthorized hardware peripheral devices with an Xbox console.",
+        "viii. Cheating and Tampering Software. For any device that can connect to Xbox Services, we may automatically check your device for unauthorized",
+        "hardware or software that enables cheating or tampering in violation of the Code of Conduct or these Terms, and download Xbox app software updates or configuration changes, including those that prevent you from accessing the Xbox Services, or from using unauthorized hardware or software that enables cheating or tampering."
+      ],
+      "new": [
+        "vii. Software Updates. For any device that can connect to Xbox Services, we may automatically check your version of Xbox console software or the Xbox app software and download Xbox console or Xbox app software updates or configuration changes, including those that prevent you from accessing the Xbox Services, using unauthorized Xbox games or Xbox apps, or using unauthorized hardware peripheral devices with an Xbox console.",
+        "viii. Cheating and Tampering Software. For any device that can connect to Xbox Services, we may automatically check your device for unauthorized hardware or software that enables cheating or tampering in violation of the Code of Conduct or these Terms, and download Xbox app software updates or configuration changes, including those that prevent you from accessing the Xbox Services, or from using unauthorized hardware or software that enables cheating or tampering."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "xi. Additional end-user license agreements and codes of conduct. Some Xbox Services may have their own usage terms and codes of conduct."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "c. Microsoft Family Features. Parents and kids can use Microsoft family features, including Microsoft Family Safety, to build trust based on a shared understanding of what behaviors, websites, apps, games, physical locations, and spending is right in their family. Parents can create a family by going to https://account.microsoft.com/family (or by following the instructions on their Windows device or Xbox console) and inviting kids or other parents to join. There are many features available to family members, so please carefully review the information provided when you agree to create or join a family and when you purchase Digital Goods for family access. By creating or joining a family, you agree to use the family in accordance with its purpose and won’t use it in an unauthorized way to unlawfully gain access to another person’s information."
+      ],
+      "new": [
+        "c. Microsoft Family Features. Parents and kids can use Microsoft family features, including Microsoft Family Safety, to build trust based on a shared understanding of what behaviors, websites, apps, games, physical locations, and spending is right in their family. Parents can create a family by going to https://account.microsoft.com/family (or by following the instructions on their Windows device or Xbox console) and inviting kids or other parents to join. There are many features available to family members, so please carefully review the information provided when you agree to create or join a family and when you purchase Digital Goods for family access. By creating or joining a family, you agree to use the family in accordance with its purpose and won’t use it in an unauthorized way to unlawfully gain access to another person’s information. Microsoft Family Features are exclusive to Microsoft Services and are not transferable to other platforms. For example, Xbox-specific Family Safety settings will apply on Xbox console or via Xbox on PC or Mobile device but may not apply on other platforms."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## Microsoft Cashback",
+        "l. Microsoft Cashback. The Microsoft Cashback program (“Cashback”) allows Microsoft customers to earn cash back awards when shopping with participating retailers using certain Microsoft products and services like Bing.com and Microsoft Edge. By enrolling in Cashback or activating a Cashback offer, you accept and agree to the Cashback Terms & Conditions (https://www.microsoft.com/bing/rebates-terms). Certain eligibility criteria, restrictions, and other limitations apply to your participation in Cashback; for more information, see the Cashback FAQ (https://www.bing.com/rebates/faq)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "v. Earning Points. You may be presented with opportunities to earn Points for certain qualifying activities (\" Offers \"), such as Searches, Acquisitions, use of certain Microsoft products and services, and other opportunities from Microsoft. You must have an active Rewards Account to take advantage of such Offers. Eligible Offers may vary by Region and may only be available for a certain time or subject to other limitations. You must comply with all terms and conditions of a particular Offer to earn Points awarded with that Offer. You may be presented with Offers directly on the Rewards Dashboard or when you use certain Microsoft products and services.",
+        "vi. For purposes of the Rewards Program, a \" Search \" is the act of an individual user manually entering text for the good faith purpose of obtaining Bing search results for such user’s own research purposes and does not include any query entered by a bot, macro, or other automated or fraudulent means of any kind; and an \" Acquisition \" is the process of purchasing goods or downloading and acquiring a license for digital content directly from Microsoft, whether free or paid. Points are not offered for every Acquisition from Microsoft, and certain restrictions may apply."
+      ],
+      "new": [
+        "v. Earning Points. You may be presented with opportunities to earn Points for certain qualifying activities (\" Offers \"), such as Searches, Acquisitions, use of certain Microsoft products and services, and other opportunities from Microsoft. You must have an active Rewards Account to take advantage of such Offers. After completing requirements for certain Offers, you may be required to claim the Points on the Rewards Dashboard before the Points are earned and added to your Rewards Account. Failure to claim the Points within the time specified by Microsoft may result in the Points being forfeited. Eligible Offers may vary by Region and may only be available for a certain time or subject to other limitations. You must comply with all terms and conditions of a particular Offer to earn Points awarded with that Offer. You may be presented with Offers directly on the Rewards Dashboard or when you use certain Microsoft products and services. From time to time, Microsoft may offer or award you additional Points in its sole discretion and with or without prior notice, including for what Microsoft determines to be good-faith Searches and other interactions with Microsoft services.",
+        "vi. For purposes of the Rewards Program, a \" Search \" is the act of an individual user manually entering text for the good faith purpose of obtaining Bing search results for such user’s own research purposes; a “Search” does not include queries not intended or used for genuine good-faith personal research purposes or a query entered by a bot, macro, or other automated or fraudulent means of any kind. For purposes of the Rewards Program, an “ Acquisition ” is the process of purchasing goods or downloading and acquiring a license for digital content directly from Microsoft, whether free or paid. Points are not offered for every Acquisition from Microsoft, and certain restrictions may apply."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "viii. Redemptions Redemption Options will be made available to you on the Redemption Page and on certain other Microsoft sites and pages. You must earn and have available in your Rewards Account all of the Points required for a Redemption Option before you can redeem your Points for that Redemption Option. There may be a limited number of a particular Reward available, and those Rewards will be delivered on a first-come, first-served basis. You may be required to provide additional information, like your mailing address and a telephone number (other than a VOIP or toll-free number), and you may also be asked to enter a fraud-prevention code or sign additional legal documents to redeem Points for certain Redemption Options. Once you redeem your Points, you cannot cancel or return the Redemption Option for a refund of Points except in the case of defective products or as required by applicable law. If you select a Redemption Option that is out of stock or unavailable for other reasons, we may substitute a Redemption Option of comparable value or refund your points at our sole discretion."
+      ],
+      "new": [
+        "viii. Redemptions. Redemption Options will be made available to you on the Redemption Page and on certain other Microsoft sites and pages. You must earn and have available in your Rewards Account all of the Points required for a Redemption Option before you can redeem your Points for that Redemption Option. There may be a limited number of a particular Reward available, and those Rewards will be delivered on a first-come, first-served basis. You may be required to provide additional information, like your mailing address and a telephone number (other than a VOIP or toll-free number), and you may also be asked to enter a fraud-prevention code or sign additional legal documents to redeem Points for certain Redemption Options. Once you redeem your Points, you cannot cancel or return the Redemption Option for a refund of Points except in the case of defective products or as required by applicable law. If you select a Redemption Option that is out of stock or unavailable for other reasons, we may substitute a Redemption Option of comparable value or refund your points at our sole discretion."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "m. Azure. Your use of the Azure service is governed by the terms and conditions of the separate agreement under which you obtained the services, as detailed on the Microsoft Azure Legal Information page at https://azure.microsoft.com/en-us/support/legal/ ."
+      ],
+      "new": [
+        "n. Azure. Your use of the Azure service is governed by the terms and conditions of the separate agreement under which you obtained the services, as detailed on the Microsoft Azure Legal Information page at https://azure.microsoft.com/en-us/support/legal/ ."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "n. Microsoft Soundscape. You acknowledge that Microsoft Soundscape (1) is not designed, intended, or made available as a medical device, and (2) is not designed or intended to be a substitute for professional medical advice, diagnosis, treatment, or judgment and should not be used to replace or as a substitute for professional medical advice, diagnosis, treatment, or judgment."
+      ],
+      "new": [
+        "o. Microsoft Soundscape. You acknowledge that Microsoft Soundscape (1) is not designed, intended, or made available as a medical device, and (2) is not designed or intended to be a substitute for professional medical advice, diagnosis, treatment, or judgment and should not be used to replace or as a substitute for professional medical advice, diagnosis, treatment, or judgment."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "o. Power Platform. Your use of the Power Platform service is governed by the terms and conditions of the separate agreement under which you obtained the services, as detailed on the Power Platform Legal Information page at Microsoft Power Platform (https://powerplatform.microsoft.com/en-us/business-applications/legal/)."
+      ],
+      "new": [
+        "p. Power Platform. Your use of the Power Platform service is governed by the terms and conditions of the separate agreement under which you obtained the services, as detailed on the Power Platform Legal Information page at Microsoft Power Platform (https://powerplatform.microsoft.com/en-us/business-applications/legal/)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "p. Dynamics 365. Your use of the Dynamics 365 service is governed by the terms and conditions of the separate agreement under which you obtained the services, as detailed on the Dynamics 365 Legal Information page at Microsoft Dynamics 365 (https://dynamics.microsoft.com/business-applications/legal/)."
+      ],
+      "new": [
+        "q. Dynamics 365. Your use of the Dynamics 365 service is governed by the terms and conditions of the separate agreement under which you obtained the services, as detailed on the Dynamics 365 Legal Information page at Microsoft Dynamics 365 (https://dynamics.microsoft.com/business-applications/legal/).",
+        "## Copilot AI Experiences",
+        "r. Copilot AI Experiences. Your use of Copilot AI Experiences (except Copilot with commercial data protection) is governed by the supplemental terms and conditions under which you obtained those services as detailed at Copilot - Terms of Use (bing.com) (https://www.bing.com/new/termsofuse#content-policy) together with these Terms. If you are a Microsoft Copilot with commercial data protection user, please visit this page to review the terms of use that apply to you, together with these Terms: https://aka.ms/BCETermsOfUse ."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "i. Reverse Engineering. You may not use the AI services to discover any underlying components of the models, algorithms, and systems. For example, you may not try to determine and remove the weights of models.",
+        "ii. Extracting Data. Unless explicitly permitted, you may not use web scraping, web harvesting, or web data extraction methods to extract data from the AI services.",
+        "iii. Limits on use of data from the AI Services. You may not use the AI services, or data from the AI services, to create, train, or improve (directly or indirectly) any other AI service.",
+        "iv. Use of Your Content. As part of providing the AI services, Microsoft will process and store your inputs to the service as well as output from the service, for purposes of monitoring for and preventing abusive or harmful uses or outputs of the service.",
+        "v. Third party claims. You are solely responsible for responding to any third-party claims regarding Your use of the AI services in compliance with applicable laws (including, but not limited to, copyright infringement or other claims relating to content output during Your use of the AI services)."
+      ],
+      "new": [
+        "i. Assistive AI. AI services are not designed, intended, or to be used as substitutes for professional advice.",
+        "ii. Reverse Engineering. You may not use the AI services to discover any underlying components of the models, algorithms, and systems. For example, you may not try to determine and remove the weights of models or extract any parts of the AI services from your device.",
+        "iii. Extracting Data. Unless explicitly permitted, you may not use web scraping, web harvesting, or web data extraction methods to extract data from the AI services.",
+        "iv. Limits on use of data from the AI Services. You may not use the AI services, or data from the AI services, to create, train, or improve (directly or indirectly) any other AI service.",
+        "v. Use of Your Content. As part of providing the AI services, Microsoft will process and store your inputs to the service as well as output from the service, for purposes of monitoring for and preventing abusive or harmful uses or outputs of the service.",
+        "vi. Ownership of Content. Microsoft doesn't claim ownership of any content you provide, post, input, or submit to, or receive from, the AI services (including feedback and suggestions). You'll need to make your own determination regarding the intellectual property rights you have in output content and its usability, taking into account, among other things, your usage scenario(s) and the laws of the relevant jurisdiction. You warrant and represent that you own or otherwise control all of the rights to your content as described in these Terms including, without limitation, all the rights necessary for you to provide, post, upload, input, or submit the content.",
+        "vii. Content credentials. When you use AI to generate certain content with our AI services, Microsoft stores information about its creation and associates this information and the content with a content credential. You may not create content with the purpose of removing or altering content credentials or other provenance methods, marks or signals that indicate that an output was generated by the AI services or otherwise use the AI services to create content for the purpose of misleading others about whether an output was generated by the AI services.",
+        "viii. Third-party claims. You are solely responsible for responding to any third-party claims regarding Your use of the AI services in compliance with applicable laws (including, but not limited to, copyright infringement or other claims relating to content output during Your use of the AI services)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "a. Disputes Covered—Everything Except IP. The term \"dispute\" is as broad as it can be. It includes any claim or controversy between",
+        "you and us concerning the Services, the software related to the Services, the Services’ or software’s price, your Microsoft account, marketing,",
+        "communications, your purchase transaction, billing, or these Terms, under any legal theory including contract, warranty, tort, statute, or regulation, except disputes relating to the enforcement or validity of your, your licensors’, our, or our licensors’ intellectual property",
+        "rights ."
+      ],
+      "new": [
+        "a. Disputes Covered—Everything Except IP. The term \"dispute\" is as broad as it can be. It includes any claim or controversy between you and us concerning the Services, the software related to the Services, the Services’ or software’s price, your Microsoft account, marketing, communications, your purchase transaction, billing, or these Terms, under any legal theory including contract, warranty, tort, statute, or regulation, except disputes relating to the enforcement or validity of your, your licensors’, our, or our licensors’ intellectual property rights ."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If your Notice of Dispute involves claims similar to those of at least 24 other customers, and if you and those other customers are represented by the same lawyers, or by lawyers who are coordinating with each other, you and we agree that these claims will be “Related Cases.” Related Cases may only be filed in batches of up to 50 individual arbitrations at a time, and those individual arbitrations will be resolved in the following manner: (i) for the first batch, each side may select up to 25 of these Related Cases to be filed and resolved in individual arbitrations under this section 15; (ii) none of the other Related Cases may be filed or prosecuted in arbitration until the first batch of up to 50 individual arbitrations is resolved; and (iii) if, after that first batch, the parties are unable to informally resolve the remaining Related Cases, a second batch of Related Cases may be filed, where each side may select up to 25 of the Related Cases to be resolved in individual arbitrations under this section 15. This process of batched individual arbitrations will continue until the parties resolve all Related Cases informally or through individual arbitrations. A court has exclusive authority to enforce this paragraph, including whether it applies to a given set of claims, and to enjoin the filing or prosecution of arbitrations that do not comply with this paragraph.",
+        "i. Disputes Involving Less Than $75,000. We will promptly reimburse your filing fees and pay the AAA’s and arbitrator’s fees and expenses if: (i) the dispute involves less than $75,000; and before initiating arbitration (ii) you complied with all pre-arbitration requirements in this section 15, including, if applicable, the Related Cases paragraph. Otherwise, the AAA rules will govern payment of filing fees and the AAA’s and arbitrator’s fees and expenses. If, at the conclusion of the arbitration, the arbitrator awards you more than our last written offer made before the arbitrator was appointed, we will: pay you (i) the amount of the award or $1,000 (whichever is more); and; (ii) for any reasonable attorney’s fees you incurred; and any reasonable expenses (including expert witness fees and costs) that your attorney accrued in connection with your individual arbitration.",
+        "ii. Disputes Involving $75,000 or More. The AAA rules will govern payment of filing fees and the AAA’s and arbitrator’s",
+        "fees and expenses."
+      ],
+      "new": [
+        "If your Notice of Dispute involves claims similar to those of at least 24 other customers, and if you and those other customers are represented by the same lawyers, or by lawyers who are coordinating with each other, you and we agree that these claims will be “Related Cases.” You and we agree that the AAA’s Mass Arbitration Supplementary Rules in effect when the Demand for Arbitration is filed, as modified by this section 15, will apply to Related Cases. Related Cases may only be filed in batches of up to 50 individual arbitrations at a time, and those individual arbitrations will be resolved in the following manner: (i) for the first batch, each side may select up to 25 of these Related Cases to be filed and resolved in individual arbitrations under this section 15; (ii) none of the other Related Cases may be filed or prosecuted in arbitration until the first batch of up to 50 individual arbitrations is resolved; and (iii) if, after that first batch, the parties are unable to resolve the remaining Related Cases, a second batch of Related Cases may be filed, where each side may select up to 25 of the Related Cases to be resolved in individual arbitrations under this section 15. This process of batched individual arbitrations will continue until the parties resolve all Related Cases informally or through individual arbitrations. A court has exclusive authority to enforce this paragraph, including whether it applies to a given set of claims, and to enjoin the filing or prosecution of arbitrations that do not comply with this paragraph.",
+        "In addition, if the dispute is not part of the Related Cases described above, the dispute involves less than $75,000, and before initiating arbitration you complied with all pre-arbitration requirements in this section 15, then (1) we will promptly reimburse your filing fees and pay the AAA’s and arbitrator’s fees and expenses; and (2) if, at the conclusion of the arbitration, the arbitrator awards you more than our last written offer made before the arbitrator was appointed, we will: pay you (i) the amount of the award or $1,000 (whichever is more); and; (ii) for any reasonable attorney’s fees you incurred; and any reasonable expenses (including expert witness fees and costs) that your attorney accrued in connection with your individual arbitration."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2026-03-03-amazon-privacy",
+  "service": "amazon",
+  "service_name": "Amazon",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+  "detected_at": "2026-03-03T10:08:34+00:00",
+  "source": "wayback",
+  "window_start": "2025-10-29T15:58:46+00:00",
+  "archive_before": "https://web.archive.org/web/20251029155846/https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+  "archive_after": "https://web.archive.org/web/20260303100834/https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 2,
+    "removed_words": 2
+  },
+  "headline": "Amazon bumped the date on its Privacy Policy",
+  "summary": "Only the 'last updated' line changed in the text we can see. Either it's housekeeping, or the change is somewhere we can't read. Keeping an eye on it.",
+  "receipt": "**Last updated: December 31, 2025.** View the prior version of this Privacy Notice.",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "cosmetic"
+  ],
+  "summary_source": "date-only",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "**Last updated: June 30, 2025.** View the prior version of this Privacy Notice."
+      ],
+      "new": [
+        "**Last updated: December 31, 2025.** View the prior version of this Privacy Notice."
+      ]
+    }
+  ]
+}

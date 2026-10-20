@@ -1,0 +1,120 @@
+{
+  "id": "2024-09-02-microsoft-privacy",
+  "service": "microsoft",
+  "service_name": "Microsoft",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://privacy.microsoft.com/en-us/privacystatement",
+  "detected_at": "2024-09-02T00:03:20+00:00",
+  "source": "wayback",
+  "window_start": "2024-07-22T00:23:05+00:00",
+  "archive_before": "https://web.archive.org/web/20240722002305/https://privacy.microsoft.com/en-us/privacystatement",
+  "archive_after": "https://web.archive.org/web/20240902000320/https://privacy.microsoft.com/en-us/privacystatement",
+  "flags": [
+    {
+      "tag": "ai-training",
+      "label": "AI training",
+      "hits": 3
+    }
+  ],
+  "stats": {
+    "hunks": 9,
+    "added_words": 311,
+    "removed_words": 56
+  },
+  "headline": "Microsoft rewrote its Privacy Policy — new wording on AI training",
+  "summary": "311 words added and 56 removed across 9 sections. New wording touches: AI training. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "As part of our efforts to improve and develop our products, we may use your data to develop and train our AI models.",
+  "receipt_side": "new",
+  "sideeye": 2,
+  "tags": [
+    "ai-training"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "For individuals in the United States, please refer to our U.S. State Data Privacy Notice and the Washington State Consumer Health Data Privacy Policy for additional information about the processing of your personal data, and your rights under applicable U.S. State data privacy laws."
+      ],
+      "new": [
+        "For individuals in the United States, please refer to our U.S. State Data Privacy Notice and the Consumer Health Data Privacy Policy for additional information about the processing of your personal data, and your rights under applicable U.S. State data privacy laws."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "As part of our efforts to improve and develop our products, we may use your data to develop and train our AI models. Learn more here."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "When we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfill other legitimate interests of Microsoft as described in this section and in the Reasons we share personal data section of this privacy statement. When we transfer personal data from the European Economic Area, we do so based on a variety of legal mechanisms, as described in the Where we store and process personal data section of this privacy statement."
+      ],
+      "new": [
+        "As part of our efforts to improve and develop our products, we may use your data to develop and train our AI models. Learn more here.",
+        "**Purposes and legal bases for processing**",
+        "When we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security and safety of our systems and our customers, or fulfill other legitimate interests of Microsoft or third parties as described in this section and in the Reasons we share personal data section of this privacy statement. Our bases for processing your personal data may vary depending on how and across what products and services we process your data.",
+        "When we process personal data based on our or a third party’s legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests.",
+        "When we transfer personal data from the European Economic Area, we do so based on a variety of legal mechanisms, as described in the Where we store and process personal data section of this privacy statement."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Product development**. We use data to develop new products. For example, we use data, often de-identified, to better understand our customers’ computing and productivity needs which can shape the development of new products."
+      ],
+      "new": [
+        "- **Product development**. We use data to develop new products. For example, we use data, often de-identified, to better understand our customers’ computing and productivity needs, and to train and fine-tune AI models, which can shape the development of new products."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Legal compliance**. We process data to comply with law. For example, we use the age of our customers to assist us in meeting our obligations to protect children’s privacy. We also process contact information and credentials to help customers exercise their data protection rights."
+      ],
+      "new": [
+        "- **Legal compliance**. We process data to comply with applicable laws. For example, we use the age of our customers to assist us in meeting our obligations to protect children’s privacy. We also process contact information and credentials to help customers exercise their data protection rights."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Please note that recent changes to the CCPA and other state data privacy laws are set to take effect in 2023; however, the rules implementing some of these laws have not yet been finalized. We are continuously working to better comply with these laws, and we will update our processes and disclosures as these implementing rules are finalized."
+      ],
+      "new": [
+        "Please note that rules implementing some of these laws have not yet been finalized. We will update our processes, disclosures, and this notice as these implementing rules are finalized, and as otherwise necessary."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Rights**. You have the right to request that we (i) disclose what personal data we collect, use, disclose, share, and sell, (ii) delete your personal data, (iii) correct your personal data, (iv) restrict the use and disclosure of your sensitive data, and (v) opt-out of “sharing” your personal data with third parties for personalized advertising purposes on third party sites. You may make these requests yourself or through an authorized agent. If you use an authorized agent, we provide your agent with detailed guidance on how to exercise your privacy rights. Please see our U.S. State Data Privacy Laws Notice for additional information on how to exercise these rights. Please also see our Washington State Consumer Health Data Privacy Policy for information on the rights available under Washington law.",
+        "If you have a Microsoft account, you can exercise your rights through the Microsoft privacy dashboard, which requires you to log in to your Microsoft account. If you have an additional request or questions after using the dashboard, you may contact Microsoft at the address in the How to contact us section, use our web form, or call our US toll free number +1 (844) 931 2038. If you do not have an account, you may exercise your rights by contacting us as described above. We may ask for additional information, such as your country of residence, email address, and phone number to validate your request before honoring the request."
+      ],
+      "new": [
+        "**Rights**. You have the right to (i) know what personal data we collect, use, disclose, “share”, and sell, (ii) delete your personal data, (iii) correct your personal data, (iv) restrict the use and disclosure of your sensitive data, (v) receive a copy of your personal data, and (vi) opt-out of “sharing” your personal data with third parties for personalized advertising purposes on third party sites. You may make these requests yourself or through an authorized agent. If you use an authorized agent, we provide your agent with detailed guidance on how to exercise your privacy rights. Please see our U.S. State Data Privacy Laws Notice for additional information on how to exercise these rights.",
+        "You may have additional rights related to your consumer health data as defined by applicable state consumer health privacy laws. Please see our Consumer Health Data Privacy Policy for information on the rights available under Washington State’s My Health My Data Act (MHMDA) and other applicable U.S. consumer health privacy laws.",
+        "If you have a Microsoft account, you can exercise your rights through the Microsoft privacy dashboard, which requires you to log in to your Microsoft account. If you have an additional request or questions after using the dashboard, you may contact Microsoft at the address in the How to contact us section, use our web form, or call our US toll free number +1 (844) 931 2038. If you do not have an account, you may exercise your rights by contacting us as described above. To further protect your personal data, we may ask for additional information, such as your country of residence, email address, and phone number to validate your identity and request before honoring the request."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "If you have made a request to Microsoft to know, delete, correct, or receive your personal information and believe your request was denied by Microsoft, you can exercise your right to appeal the results of your request by contacting our privacy support team via our web form. If your appeal is unsuccessful and depending upon the state where you live, you may have the right to raise a concern or lodge a complaint with your state attorney general."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Microsoft allows advertising companies to collect information about your interactions with our websites in order to deliver personalized ads on Microsoft’s behalf. These companies include: Meta, LinkedIn, Google, and Adobe."
+      ],
+      "new": [
+        "Microsoft allows advertising companies to collect information about your interactions with our websites in order to deliver personalized ads on Microsoft’s behalf. You can view our third party ad partners on the U.S. State Data Privacy Laws Notice, and opt-out of data sharing with third parties at our opt-out page."
+      ]
+    }
+  ]
+}

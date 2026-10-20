@@ -1,0 +1,648 @@
+{
+  "id": "2026-10-17-reddit-terms",
+  "service": "reddit",
+  "service_name": "Reddit",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://redditinc.com/policies/user-agreement",
+  "detected_at": "2026-10-17T22:05:12+00:00",
+  "source": "wayback",
+  "window_start": "2026-07-21T22:07:28+00:00",
+  "archive_before": "https://web.archive.org/web/20260721220728/https://redditinc.com/policies/user-agreement",
+  "archive_after": "https://web.archive.org/web/20261017220512/https://redditinc.com/policies/user-agreement",
+  "flags": [],
+  "stats": {
+    "hunks": 40,
+    "added_words": 80,
+    "removed_words": 1070
+  },
+  "headline": "Reddit edited its Terms of Service",
+  "summary": "80 words added and 1070 removed across 40 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Advertising Platform Terms & Conditions",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Advertising Platform Terms",
+        "Reddit Business Tool Terms",
+        "Reddit Advertising Data Processing Agreement",
+        "Reddit Jurisdiction Specific Terms",
+        "Reddit Ads Subprocessors",
+        "Ads API Terms",
+        "Third Party Audience Targeting (Beta) Terms",
+        "Advertising Policies and Billing"
+      ],
+      "new": [
+        "Advertising Platform Terms & Conditions"
+      ]
+    }
+  ]
+}

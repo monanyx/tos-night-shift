@@ -1,0 +1,639 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Spotify rewrote its Privacy Policy — new wording on sharing your data · ToS Night Shift</title>
+<meta name="description" content="432 words added and 166 removed across 40 sections. New wording touches: Data sharing. Read the receipts below — this summary is automatic, not AI.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Spotify rewrote its Privacy Policy — new wording on sharing your data · ToS Night Shift">
+<meta property="og:description" content="432 words added and 166 removed across 40 sections. New wording touches: Data sharing. Read the receipts below — this summary is automatic, not AI.">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#09090d">
+<link rel="alternate" type="application/rss+xml" title="ToS Night Shift" href="../feed.xml">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👀</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,800&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#09090d; --panel:#111118; --panel-2:#16161f; --line:#24242f; --text:#ececf2; --muted:#8a8a99;
+  --acid:#c6ff2e; --red:#ff4d6d; --green:#38d996; --amber:#ffb020;
+  --del:rgba(255,77,109,.16); --ins:rgba(56,217,150,.16);
+  --display:"Bricolage Grotesque",system-ui,sans-serif; --body:"Instrument Sans",system-ui,sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,monospace;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 var(--body);
+  background-image:radial-gradient(1200px 500px at 85% -10%,rgba(198,255,46,.07),transparent 60%);}
+a{color:inherit}
+.wrap{max-width:920px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.demo-bar{background:var(--acid);color:#0b0d04;font:600 13px/1.4 var(--body);text-align:center;padding-block:8px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+nav.top{display:flex;align-items:center;justify-content:space-between;padding:20px 0;gap:12px;flex-wrap:wrap}
+.logo{font:800 18px/1 var(--display);letter-spacing:-.02em;text-decoration:none;display:flex;gap:8px;align-items:center}
+.logo .moon{width:22px;height:22px;border-radius:50%;background:var(--acid);box-shadow:inset -7px -2px 0 0 var(--bg)}
+nav.top .links{display:flex;gap:18px;font-size:14px;color:var(--muted)}
+nav.top .links a{text-decoration:none}
+nav.top .links a:hover{color:var(--text)}
+h1,h2,h3{font-family:var(--display);letter-spacing:-.025em;line-height:1.05;margin:0}
+.muted{color:var(--muted)}
+.mono{font-family:var(--mono)}
+.meter{display:inline-flex;align-items:center;gap:8px;font:500 12px/1 var(--mono);text-transform:uppercase;letter-spacing:.06em;
+  padding:6px 10px;border:1px solid var(--line);border-radius:999px;background:var(--panel-2);white-space:nowrap}
+.meter .dots{display:inline-flex;gap:3px}
+.meter .dots i{width:8px;height:8px;border-radius:50%;background:#2c2c38}
+.meter[data-score="2"] .dots i.on{background:var(--amber)}
+.meter[data-score="3"] .dots i.on{background:#ff8a3d}
+.meter[data-score="4"] .dots i.on,.meter[data-score="5"] .dots i.on{background:var(--red)}
+.meter[data-score="0"] .dots i.on,.meter[data-score="1"] .dots i.on{background:var(--muted)}
+.meter[data-score="5"]{border-color:rgba(255,77,109,.5);box-shadow:0 0 18px rgba(255,77,109,.25)}
+.tag{display:inline-block;font:500 12px/1 var(--mono);padding:5px 8px;border-radius:6px;background:var(--panel-2);border:1px solid var(--line);color:var(--muted)}
+.receipt{margin:14px 0 0;padding:12px 14px;border-left:3px solid var(--acid);background:rgba(198,255,46,.05);
+  font:14px/1.55 var(--mono);color:#dfe8c8;border-radius:0 8px 8px 0;overflow-wrap:anywhere}
+.receipt.old{border-left-color:var(--red);background:var(--del);color:#f3c9d1}
+.receipt .label{display:block;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+footer{margin:72px 0 40px;padding-top:24px;border-top:1px solid var(--line);font-size:14px;color:var(--muted);display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between}
+footer a{color:var(--muted)}
+.btn{display:inline-flex;align-items:center;gap:6px;font:600 14px/1 var(--body);padding:10px 14px;border-radius:10px;
+  border:1px solid var(--line);background:var(--panel);color:var(--text);text-decoration:none;cursor:pointer}
+.btn:hover{border-color:#3a3a48}
+.btn.primary{background:var(--acid);color:#0b0d04;border-color:var(--acid)}
+@media (max-width:600px){ nav.top .links{gap:14px} }
+
+.back{display:inline-block;margin:24px 0 28px;color:var(--muted);text-decoration:none;font-size:14px}
+.back:hover{color:var(--text)}
+.meta{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;color:var(--muted);font-size:14px}
+.meta b{color:var(--text);font-weight:600}
+h1.headline{font-size:clamp(32px,6vw,56px);font-weight:800;margin:18px 0 18px}
+.summary{font-size:19px;color:#d0d0da;max-width:720px;margin:0}
+.big-receipt{font-size:16px;margin-top:24px}
+.actions{display:flex;flex-wrap:wrap;gap:10px;margin:28px 0 8px}
+h2.section{font-size:26px;margin:56px 0 6px}
+.hint{color:var(--muted);font-size:14px;margin:0 0 18px}
+.block{border:1px solid var(--line);border-radius:12px;overflow:hidden;margin-bottom:14px;background:var(--panel)}
+.block .kind{font:500 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:10px 14px;border-bottom:1px solid var(--line);color:var(--muted);background:var(--panel-2)}
+.row{padding:12px 14px;font:14px/1.6 var(--mono);overflow-wrap:anywhere;border-top:1px solid var(--line)}
+.row:first-of-type{border-top:0}
+.row .line{display:block;padding:2px 0 2px 22px;position:relative}
+.row .line::before{position:absolute;left:0;top:2px;font-weight:700}
+.row .old{color:#c9a3ad}
+.row .old::before{content:"−";color:var(--red)}
+.row .new{color:#d8efe3}
+.row .new::before{content:"+";color:var(--green)}
+.row .solo-old{background:var(--del);border-radius:6px;padding-right:6px}
+.row .solo-new{background:var(--ins);border-radius:6px;padding-right:6px}
+del{background:var(--del);color:#ff9fb1;text-decoration:line-through;text-decoration-color:rgba(255,77,109,.7);border-radius:3px;padding:0 2px}
+ins{background:var(--ins);color:#8ff0c4;text-decoration:none;border-radius:3px;padding:0 2px}
+.statline{font:13px/1 var(--mono);color:var(--muted);margin-top:14px}
+.source-note{font-size:13px;color:var(--muted);margin-top:10px}
+
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <nav class="top">
+    <a class="logo" href="../index.html"><span class="moon"></span>ToS Night Shift</a>
+    <div class="links">
+      <a href="../index.html">Caught</a>
+      <a href="../watched.html">Watching</a>
+      <a href="../feed.xml">RSS</a>
+      <a href="https://github.com/monanyx/tos-night-shift">GitHub</a>
+    </div>
+  </nav>
+  
+<a class="back" href="../index.html">← All changes</a>
+<div class="meta">
+  <span><b>Spotify</b> · Privacy Policy · changed between Apr 20, 2026 and Jul 20, 2026, found in the Internet Archive</span>
+  <span class="meter" data-score="2" title="Side-eye 2 out of 5">side-eye <span class="dots"><i class="on"></i><i class="on"></i><i class=""></i><i class=""></i><i class=""></i></span> 2/5</span>
+</div>
+<h1 class="headline">Spotify rewrote its Privacy Policy — new wording on sharing your data</h1>
+<p class="summary">432 words added and 166 removed across 40 sections. New wording touches: Data sharing. Read the receipts below — this summary is automatic, not AI.</p>
+<blockquote class="receipt big-receipt "><span class="label">New wording</span>“Effective as of July 1, 2026”</blockquote>
+<p class="statline">+432 words · −166 words · 40 sections touched</p>
+<p class="source-note">Automatic keyword summary. The diff below is the source of truth.</p>
+
+<div class="actions">
+  <a class="btn primary" href="https://twitter.com/intent/tweet?text=%F0%9F%91%80%20Spotify%20rewrote%20its%20Privacy%20Policy%20%E2%80%94%20new%20wording%20on%20sharing%20your%20data&url=https%3A//monanyx.github.io/tos-night-shift/c/2026-07-20-spotify-privacy.html" target="_blank" rel="noopener">Post the side-eye</a>
+  <button class="btn" id="copy">Copy link</button>
+  <a class="btn" href="https://www.spotify.com/us/legal/privacy-policy/" target="_blank" rel="noopener">Read the policy</a>
+  <a class="btn" href="https://web.archive.org/web/20260420053258/https://www.spotify.com/us/legal/privacy-policy/" target="_blank" rel="noopener">Archived before</a><a class="btn" href="https://web.archive.org/web/20260720034020/https://www.spotify.com/us/legal/privacy-policy/" target="_blank" rel="noopener">Archived after</a>
+  <a class="btn" href="https://github.com/monanyx/tos-night-shift/commits/main/snapshots/spotify/privacy.md" target="_blank" rel="noopener">Full history</a>
+</div>
+
+<h2 class="section">The receipts</h2>
+<p class="hint">Exactly what changed between the two archived copies. Red is gone, green is new.</p>
+
+<div class="block">
+  <div class="kind">Removed</div>
+  
+  <div class="row">
+    <span class="line old solo-old">Your privacy is important. As of 13 April 2026 we’ve updated our Privacy Policy to include additional detail about our data processing.</span>
+    
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">Effective as of <del>13 April</del> 2026</span>
+    <span class="line new ">Effective as of <ins>July 1,</ins> 2026</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">## <del>**1.</del> About this <del>Policy**</del></span>
+    <span class="line new ">## <ins>1.</ins> About this <ins>Policy</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">- <del>both</del> our free or paid streaming options (each a ‘**Service Option**’)</span>
+    <span class="line new ">- our free or paid streaming options (each a ‘**Service Option**’)</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">- other Spotify services which include a link to this Policy. These include Spotify websites, Customer <del>Service</del> and the Community Site.</span>
+    <span class="line new ">- other Spotify services which include a link to this Policy. These include Spotify websites, Customer <ins>Service,</ins> and the Community Site.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">- the Spotify Terms of Use, which is a separate document. The Terms of Use outline the legal contract between you and Spotify for using the Spotify Service. It also describes the rules of Spotify and your <del>user rights</del></span>
+    <span class="line new ">- the Spotify Terms of Use, which is a separate document. The Terms of Use outline the legal contract between you and Spotify for using the Spotify Service. It also describes the rules of Spotify and your <ins>rights under your agreement.</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">## <del>**2.</del> Your personal data rights and <del>controls**</del></span>
+    <span class="line new ">## <ins>2.</ins> Your personal data rights and <ins>controls</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">| **It’s your right <del>to..**</del> | | **How?** |</span>
+    <span class="line new ">| **It’s your right <ins>to...**</ins> | | **How?** |</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">| **Know/Access** | **Request to know and access the personal data we process about you.** | To request a copy of your personal data from Spotify, either: use the ‘Download your data’ tool on your Account Privacy page, or contact us When you download your data you will receive the information about your data that Spotify has to provide under applicable laws. If you would like more <del>information</del> about how we process your personal data, you can contact us. |</span>
+    <span class="line new ">| **Know/Access** | **Request to know and access the personal data we process about you.** | To request a copy of your personal data from Spotify, either: use the ‘Download your data’ tool on your Account Privacy page, or contact us When you download your data you will receive the information about your data that Spotify has to provide under applicable laws. If you would like more <ins>details</ins> about how we process your personal data, you can contact us. |</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">| **Deletion** | **Request that we delete certain of your personal data.** Please note there are situations where Spotify is unable to delete your data, for example when: it’s still necessary to process the data for the purpose we collected it for we have an overriding interest in continuing to process the data, for example where we need the data to protect our services from fraud Spotify has a legal obligation to keep the data, or Spotify needs the data to establish, exercise or defend legal claims. For example, if there’s an unresolved issue relating to your account | There are several ways you can delete personal data from Spotify: to remove audio content you have saved, select the relevant content and choose to remove it. For example you can remove a track from your playlist or remove an artist you’ve saved to your library to request deletion of your account data from Spotify and close your account, follow the steps on our support page. This data includes your User Data, Usage Data and other data listed in Section 3 ‘Personal data we collect about you’ for any other deletion requests, you can contact us <del>or reach out to customer support via our chat bot</del> |</span>
+    <span class="line new ">| **Deletion** | **Request that we delete certain of your personal data.** Please note there are situations where Spotify is unable to delete your data, for example when: it’s still necessary to process the data for the purpose we collected it for we have an overriding interest in continuing to process the data, for example where we need the data to protect our services from fraud Spotify has a legal obligation to keep the data, or Spotify needs the data to establish, exercise or defend legal claims. For example, if there’s an unresolved issue relating to your account | There are several ways you can delete personal data from Spotify: to remove audio content you have saved, select the relevant content and choose to remove it. For example you can remove a track from your playlist or remove an artist you’ve saved to your library to request deletion of your account data from Spotify and close your account, follow the steps on our support page. This data includes your User Data, Usage Data and other data listed in Section 3 ‘Personal data we collect about you’ for any other deletion requests, you can contact us |</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">You may designate, in writing or through a power of attorney (in accordance with local law), an authorized agent to make requests on your behalf to exercise your rights. Before accepting such a <del>request from an agent,</del> we will require the agent to provide proof you have authorized it to act on your behalf, and we may need you to verify your identity directly with us.</span>
+    <span class="line new ">You may designate, in writing or through a power of attorney (in accordance with local law), an authorized agent to make requests on your behalf to exercise your rights. Before accepting such a <ins>request,</ins> we will require the agent to provide proof you have authorized it to act on your behalf, and we may need you to verify your identity directly with us.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>####</del> **Tailored advertising controls**</span>
+    <span class="line new ">**Tailored advertising controls**</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">- This is when we use information about <del>your use of our services and other websites and mobile apps</del> to <del>tailor</del> ads to be more <del>relevant to you.</del> This is also known as interest based advertising, targeted advertising, or <del>‘sharing’</del> for purposes of cross-context <del>behavioral</del> advertising.</span>
+    <span class="line new ">- This is when we use information about <ins>you</ins> to <ins>personalize</ins> ads to be more <ins>relevant.</ins> This is also known as interest based advertising, targeted advertising, or <ins>what some states may define as, ‘sharing or selling’</ins> for purposes of cross-context <ins>behavioural</ins> advertising.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">- An example of tailored advertising is when an advertising partner provides us with information <del>indicating that</del> you may be interested <del>in cars.</del> This could enable us to show you ads about <del>cars.</del></span>
+    <span class="line new ">- An example of tailored advertising is when an advertising partner provides us with information <ins>about topics</ins> you may be interested <ins>in, such as suggesting you might enjoy cooking.</ins> This could enable us to show you ads about <ins>blenders.</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">If you are ‘opted out’ of tailored advertising, you will receive less relevant advertising, including on our free Service Option, as well as our paid Service Option, as applicable (for example, advertising in podcasts). This type of advertising is based on your registration information and what you are currently listening to on our services. For example, if you are listening to a cooking podcast, you may hear an ad for a food processor.</span>
+    <span class="line new ">If you are ‘opted out’ of tailored advertising, you will receive less relevant advertising, including on our free Service Option, as well as our paid Service Option, as applicable (for example, advertising in podcasts). This type of advertising is based on your registration information and <ins>information about your real-time usage of Spotify, such as</ins> what you are currently listening to on our services. For example, if you are listening to a cooking podcast, you may hear an ad for a food processor.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">## <del>**3.</del> Personal data we collect about <del>you**</del></span>
+    <span class="line new ">## <ins>3.</ins> Personal data we collect about <ins>you</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">| Precise Location Data | Spotify will only use your precise location data with your permission. You can grant this access through the in-app pop-up and in your device settings. This information allows Spotify to offer a number of features such as better recommendations for nearby concerts and events. |</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">| Customer Service Data | Information about your contacts with our Customer Service, such as chat conversations and email correspondence. |</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">audio (e.g. speakers and headphones) smart <del>watches</del> televisions mobile phones and tablets automotive (e.g. cars) games consoles services or platforms such as voice assistants or content platforms We’ll ask your permission before we collect your information from certain third parties. | User Data Usage Data |</span>
+    <span class="line new ">audio (e.g. speakers and headphones) <ins>wearables (e.g.,</ins> smart <ins>watches)</ins> televisions mobile phones and tablets automotive (e.g. cars) games consoles services or platforms such as voice assistants or content platforms We’ll ask your permission before we collect your information from certain third parties. | User Data Usage Data |</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">| Technical service partners | We work with technical service partners that give us certain data. This includes mapping IP addresses to non-precise location data (e.g., country or region, city, state). This makes it possible for Spotify to provide the Spotify Service, content, and features. We also work with <del>security</del> service <del>providers</del> who help us protect user accounts. | User Data Usage Data |</span>
+    <span class="line new ">| Technical service partners | We work with technical service partners that give us certain data. This includes mapping IP addresses to non-precise location data (e.g., country or region, city, state). This makes it possible for Spotify to provide the Spotify Service, content, and features. We also work with <ins>technical</ins> service <ins>partners</ins> who help us protect user accounts. | User Data Usage Data |</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">| Payment partners and Merchants | If you choose to pay through third parties <del>(e.g. telco carriers)</del> or by invoice, we may get data from our payment partners. This allows us to: send you invoices process your payment give you what you’ve purchased If we direct you to a merchant, we receive data from the merchant that is related to your purchase. For example, we might direct you to an artist’s merchandise store on a third party platform or to a third party ticketing website. Receiving this data allows us to: calculate any commissions owed to us analyze the effectiveness of our partnership with these merchant partners understand your interests | Payment and Purchase Data |</span>
+    <span class="line new ">| Payment partners and Merchants | If you choose to pay through third parties or by invoice, we may get data from our payment partners. This allows us to: send you invoices process your payment give you what you’ve purchased If we direct you to a merchant, we receive data from the merchant that is related to your purchase. For example, we might direct you to an artist’s merchandise store on a third party platform or to a third party ticketing website. Receiving this data allows us to: calculate any commissions owed to us analyze the effectiveness of our partnership with these merchant partners understand your interests | Payment and Purchase Data |</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">| Advertising and marketing partners | We receive data about you from certain advertising or marketing partners, including device identifiers such as hashed contact information. They also provide us with inferences, which are the partners’ understanding of your interests and preferences. This allows us to deliver more relevant ads and <del>marketing,</del> and measure their performance. | Usage Data |</span>
+    <span class="line new ">| Advertising and marketing partners | We receive data about you from certain advertising or marketing partners, including device identifiers such as hashed contact information. They also provide us with inferences, which are the partners’ understanding of your interests and preferences. This allows us to deliver more relevant ads and <ins>marketing</ins> and measure their performance. | Usage Data |</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">## <del>**4.</del> Our purpose for using your personal <del>data**</del></span>
+    <span class="line new ">## <ins>4.</ins> Our purpose for using your personal <ins>data</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">| To <del>evaluate and develop new features, technologies, and improvements to the Spotify Service. This includes development and training of algorithmic and machine learning models, which help us to keep our service safe and enhance our users’ experience. For example: For example: to help us develop and</del> improve our personalized recommendations to <del>help analyze how our users react to a particular new feature</del> and <del>see whether we should make any changes so</del> we can <del>build AI features such as AI DJ</del> and <del>AI playlist</del> to <del>help us enforce our User Guidelines, Platform Rules and Spotify for Creators Community Guidelines.</del> | <del>User Data Usage Data Voice Data Survey and Research</del> Data |</span>
+    <span class="line new ">| To improve our personalized recommendations <ins>and</ins> to <ins>improve the Spotify experience for all users, based on precise location data (where available</ins> and <ins>explicitly permitted by you). For example,</ins> we can <ins>provide better personalized concert</ins> and <ins>event recommendations or let you know what is trending at your specific location. What we learn from your streaming at one location, could be used</ins> to <ins>suggest similar content to other users close to that location.</ins> | <ins>Precise Location</ins> Data |</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">| To diagnose, troubleshoot, and fix issues with the Spotify Service. | User Data Usage Data Voice Data Message Data |</span>
+    <span class="line new ">| To diagnose, troubleshoot, and fix issues with the Spotify Service. | User Data Usage Data Voice Data Message Data <ins>Customer Service Data</ins> |</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">| To evaluate and develop new features, technologies, and improvements to the Spotify Service. This includes development and training of algorithmic and machine learning models, which help us to keep our service safe and enhance our users’ experience. For example: For example: to help us develop and improve our personalized recommendations to help analyze how our users react to a particular new feature and see whether we should make any changes so we can build AI features such as AI DJ and AI playlist to help us enforce our User Guidelines, Platform Rules and Spotify for Creators Community Guidelines. | User Data Usage Data Voice Data Survey and Research Data Customer Service Data |</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">| To comply with a legal obligation that we are subject to. This might be: an obligation under the law of the country/region you are in Swedish law (because of our headquarters in Sweden), or EU law that applies to us For example, when we use your date of birth when required for age assurance purposes. | User Data Street Address Data Usage Data Voice Data Message Data Payment and Purchase Data Survey and Research Data |</span>
+    <span class="line new ">| To comply with a legal obligation that we are subject to. This might be: an obligation under the law of the country/region you are in Swedish law (because of our headquarters in Sweden), or EU law that applies to us For example, when we use your date of birth when required for age assurance purposes. | User Data Street Address Data Usage Data Voice Data Message Data Payment and Purchase Data Survey and Research Data <ins>Precise Location Data Customer Service Data</ins> |</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">| To <del>establish, exercise,</del> or <del>defend legal claims. For example, if we are involved in litigation, we need to provide information to</del> our <del>lawyers in relation to that legal case.</del> | User <del>Data Street Address</del> Data Usage Data Voice Data Message Data Payment and Purchase Data <del>Survey and Research</del> Data |</span>
+    <span class="line new ">| To <ins>detect, investigate and take appropriate action on reports of possible inappropriate content</ins> or <ins>violation of</ins> our <ins>Terms of Use or other Spotify terms, policies, rules or guidelines.</ins> | User Data Usage Data Voice Data Message Data Payment and Purchase Data <ins>Customer Service</ins> Data |</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">| To <del>take appropriate action with reports of intellectual property infringement and inappropriate content.</del> | User Data Usage Data Voice Data Message Data Payment and Purchase Data |</span>
+    <span class="line new ">| To <ins>establish, exercise, or defend legal claims. For example, if we are involved in litigation, we need to provide information to our lawyers in relation to that legal case.</ins> | User <ins>Data Street Address</ins> Data Usage Data Voice Data Message Data Payment and Purchase Data <ins>Survey and Research Data Customer Service Data</ins> |</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">| To keep the Spotify Service secure and to detect and prevent fraud. For example, when we analyze Usage Data to check for fraudulent use of the Spotify Service. | User Data Street Address Data Message Data Usage Data Payment and Purchase Data |</span>
+    <span class="line new ">| To keep the Spotify Service secure and to detect and prevent fraud. For example, when we analyze Usage Data to check for fraudulent use of the Spotify Service. | User Data Street Address Data Message Data Usage Data Payment and Purchase Data <ins>Customer Service Data</ins> |</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">## <del>**5.</del> Disclosing your personal <del>data**</del></span>
+    <span class="line new ">## <ins>5.</ins> Disclosing your personal <ins>data</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>**Publicly</del> available <del>information**</del></span>
+    <span class="line new "><ins>**Information</ins> available <ins>to other Spotify users**</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">The following personal data <del>will always be publicly</del> available <del>on the</del> Spotify <del>Service (except to any user you have blocked):</del></span>
+    <span class="line new ">The following personal data <ins>is</ins> available <ins>to other</ins> Spotify <ins>users:</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">- your profile <del>photo</del></span>
+    <span class="line new ">- your profile <ins>photo, if you choose to upload one</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">- your public <del>playlists</del></span>
+    <span class="line new ">- your public <ins>playlists, and any associated titles, descriptions and images</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Added</div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">- the number of people who you follow and the number of people who follow you on the Spotify Service (the profiles of those people may be visible depending on your settings)</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">| Service providers | User Data Street Address Data Usage Data Voice Data Message Data Payment and Purchase Data Survey and Research Data Age Check Data | So they can provide their services to Spotify. <del>These</del> service providers include those we hire to: give customer support operate the technical infrastructure we need to provide the Spotify Service assist in protecting and securing our systems and services (e.g. Google’s reCAPTCHA) help market Spotify’s (and our partners’) products, services, events and promotions verify your eligibility for certain types of Service Options (e.g., Spotify Premium Student) |</span>
+    <span class="line new ">| Service providers | User Data Street Address Data Usage Data Voice Data Message Data Payment and Purchase Data Survey and Research Data Age Check Data | So they can provide their services to Spotify. <ins>Examples of such</ins> service providers include those we hire to: give customer support operate the technical infrastructure we need to provide the Spotify Service assist in protecting and securing our systems and services (e.g. Google’s reCAPTCHA) help market Spotify’s (and our partners’) products, services, events and promotions verify your eligibility for certain types of Service Options (e.g., Spotify Premium Student) |</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">| Advertising partners | User Data Usage Data | So <del>they</del> can <del>help us</del> deliver more relevant advertising to you on the Spotify <del>Service,</del> and help measure the effectiveness of ads. <del>For example, our ad</del> partners <del>help us facilitate tailored advertising.</del> |</span>
+    <span class="line new ">| Advertising partners | User Data Usage Data | So <ins>Spotify and our advertising partners</ins> can deliver more relevant advertising to you on the Spotify <ins>Service and online,</ins> and help measure the effectiveness of ads. <ins>We do not disclose personal data to advertising</ins> partners <ins>for users under the age of 18.</ins> |</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">| Purchasers of our business | User Data Street Address Data Usage Data Voice Data Message Data Message Data Payment and Purchase Data Survey and Research Data | If we were to sell or negotiate to sell our business to a buyer or possible buyer. In this case, we may transfer your personal data to a successor or affiliate as part of that transaction. |</span>
+    <span class="line new ">| Purchasers of our business | User Data Street Address Data Usage Data Voice Data Message Data Message Data Payment and Purchase Data Survey and Research Data | If we were to sell or negotiate to sell <ins>any part of</ins> our business to a buyer or possible buyer. In this case, we may transfer your personal data to a successor or affiliate as part of that transaction. |</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">## <del>**6.</del> Data <del>retention**</del></span>
+    <span class="line new ">## <ins>6.</ins> Data <ins>retention</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old "><del>We</del> have set certain retention periods so that <del>some</del> data expires after a specific period of time. For example, personal data you may input as part of search queries is <del>generally</del> deleted after 90 days.</span>
+    <span class="line new "><ins>Subject to other applicable retention rules listed in this Section 6, we</ins> have set certain retention periods so that data expires after a specific period of time. For example, personal data you may input as part of search queries is deleted after 90 days.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">We keep some data until your Spotify account is deleted. Examples of this include your Spotify username and profile information. We also <del>typically</del> keep streaming history for the life of an account, for example, to provide retrospective playlists that users enjoy and personalized recommendations that take listening habits into account (for example, Your Time Capsule or Your Summer Rewind). When your Spotify account is deleted, this category of data is deleted or de-identified.</span>
+    <span class="line new ">We keep some data until your Spotify account is deleted. Examples of this include your Spotify username and profile information. We also keep streaming history for the life of an account, for example, to provide retrospective playlists that users enjoy and personalized recommendations that take listening habits into account (for example, Your Time Capsule or Your Summer Rewind). When your Spotify account is deleted, this category of data is deleted or de-identified.</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">## <del>**7.</del> Transfer to other <del>countries**</del></span>
+    <span class="line new ">## <ins>7.</ins> Transfer to other <ins>countries</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">## <del>**8.</del> Keeping your personal data <del>safe**</del></span>
+    <span class="line new ">## <ins>8.</ins> Keeping your personal data <ins>safe</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">If other individuals have access to your Spotify account, then they can access personal data, controls and the Spotify Service available in your account. For example, <del>you</del> might <del>have allowed someone to</del> use your account on a shared device.</span>
+    <span class="line new ">If other individuals have access to your Spotify account, then they can access personal data, controls and the Spotify Service available in your account. For example, <ins>someone</ins> might use your account on a shared device.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">It’s your responsibility to only allow <del>individuals</del> to <del>use your account where</del> you’re comfortable sharing <del>this</del> personal data with them. Anyone else’s use of your Spotify account may impact your personalized recommendations.</span>
+    <span class="line new ">It’s your responsibility to only allow <ins>this</ins> to <ins>happen if</ins> you’re comfortable sharing <ins>your</ins> personal data with them. Anyone else’s use of your Spotify account may impact your personalized recommendations.</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">## <del>**9. Children**</del></span>
+    <span class="line new ">## <ins>9. Children</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">## <del>**10. Privacy Request Metrics**</del></span>
+    <span class="line new ">## <ins>10. Third-Party Links</ins></span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">The <del>following chart contains statistics</del> about <del>global requests we received from users between 1 January</del> and <del>31 December 2024:</del></span>
+    <span class="line new ">The <ins>Spotify Service may include links to third-party websites, plug-ins and applications. Clicking on such links may allow third parties to collect or share data</ins> about <ins>you. Spotify does not control these third-party websites</ins> and <ins>is not responsible for their privacy practices.</ins></span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">## 11. Privacy Request Metrics</span>
+  </div>
+  
+  <div class="row">
+    
+    <span class="line new solo-new">The following chart contains statistics about global requests we received from users between 1 January and 31 December 2025:</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">| Right to Know / Access | <del>2,284,441</del> | <del>2,284,441</del> | <del>0</del> | <del>8.83</del> days |</span>
+    <span class="line new ">| Right to Know / Access | <ins>1,498,726</ins> | <ins>1,498,724</ins> | <ins>2</ins> | <ins>3.89</ins> days |</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">| Request to Delete | <del>7,542,315</del> | <del>7,542,315</del> | 0 | <del>15.5</del> days |</span>
+    <span class="line new ">| Request to Delete | <ins>8,260,593</ins> | <ins>8,260,593</ins> | 0 | <ins>15.47</ins> days |</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">| Request to Correct\* | <del>34</del> | <del>4</del> | <del>30</del> | <del>12.32</del> days |</span>
+    <span class="line new ">| Request to Correct\* | <ins>512</ins> | <ins>428</ins> | <ins>84</ins> | <ins>23.4</ins> days |</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">| Request to Opt-Out of Data Sharing for Tailored Ads | <del>29,213,601</del> | <del>29,213,601</del> | 0 | 1 day |</span>
+    <span class="line new ">| Request to Opt-Out of Data Sharing for Tailored Ads | <ins>3,379,178</ins> | <ins>3,379,178</ins> | 0 | 1 day |</span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">## <del>**11.</del> Changes to this <del>Policy**</del></span>
+    <span class="line new ">## <ins>12.</ins> Changes to this <ins>Policy</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">## <del>**12.</del> How to contact <del>us**</del></span>
+    <span class="line new ">## <ins>13.</ins> How to contact <ins>us</ins></span>
+  </div>
+  
+</div>
+
+<div class="block">
+  <div class="kind">Rewritten</div>
+  
+  <div class="row">
+    <span class="line old ">- <del>email</del> privacy@spotify.com</span>
+    <span class="line new ">- <ins>Email us at</ins> privacy@spotify.com</span>
+  </div>
+  
+  <div class="row">
+    <span class="line old ">- write to us at: Spotify USA Inc., 150 Greenwich Street, Floor 62, New York, NY 10007, <del>USA</del></span>
+    <span class="line new ">- write to us at: Spotify USA Inc., 150 Greenwich Street, Floor 62, New York, NY 10007, <ins>USA, Attn: Data Protection Officer</ins></span>
+  </div>
+  
+</div>
+
+
+  <footer>
+    <span>Open source. Automatic. Not legal advice — just receipts.</span>
+    <span>45 policies watched · <a href="https://github.com/monanyx/tos-night-shift">Add one</a></span>
+  </footer>
+</div>
+
+<script>
+document.getElementById('copy').addEventListener('click', async e => {
+  try { await navigator.clipboard.writeText(location.href); e.target.textContent = 'Copied'; }
+  catch { e.target.textContent = 'Copy failed'; }
+});
+</script>
+
+</body>
+</html>

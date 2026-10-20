@@ -1,0 +1,166 @@
+{
+  "id": "2023-07-03-reddit-terms",
+  "service": "reddit",
+  "service_name": "Reddit",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://redditinc.com/policies/user-agreement",
+  "detected_at": "2023-07-03T02:00:39+00:00",
+  "source": "wayback",
+  "window_start": "2023-04-03T04:48:34+00:00",
+  "archive_before": "https://web.archive.org/web/20230403044834/https://www.redditinc.com/policies/user-agreement",
+  "archive_after": "https://web.archive.org/web/20230703020039/https://www.redditinc.com/policies/user-agreement",
+  "flags": [],
+  "stats": {
+    "hunks": 14,
+    "added_words": 49,
+    "removed_words": 119
+  },
+  "headline": "Reddit edited its Terms of Service",
+  "summary": "49 words added and 119 removed across 14 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "- access the Services or Content in order to build a similar or competitive website, product, or service, except as permitted under any Additional Terms (as defined below).",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "- access the Services or Content in order to build a similar or competitive website, product, or service, except as permitted under the Reddit API Terms of Use."
+      ],
+      "new": [
+        "- access the Services or Content in order to build a similar or competitive website, product, or service, except as permitted under any Additional Terms (as defined below)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "When using or accessing Reddit, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Content Policy (and, where applicable, the Broadcasting Content Policy), which are incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the Content Policy, you may not do any of the following:",
+        "- Use the Services in any manner that could interfere with, disable, disrupt, overburden, or otherwise impair the Service;"
+      ],
+      "new": [
+        "When using or accessing Reddit, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Content Policy, which are incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the Content Policy, you may not do any of the following:",
+        "- Use the Services in any manner that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Access, search, or collect data from the Services by any means (automated or otherwise) except as permitted in these Terms or in a separate agreement with Reddit (we conditionally grant permission to crawl the Services in accordance with the parameters set forth in our robots.txt file, but scraping the Services without Reddit’s prior consent is prohibited); or"
+      ],
+      "new": [
+        "- Access, search, or collect data from the Services by any means (automated or otherwise) except as permitted in these Terms or in a separate agreement with Reddit (we conditionally grant permission to crawl the Services in accordance with the parameters set forth in our robots.txt file, but scraping the Services without Reddit’s prior written consent is prohibited); or"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- You agree to follow the Moderator Guidelines for Healthy Communities;"
+      ],
+      "new": [
+        "- You agree to follow the Moderator Code of Conduct;"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the Content Policy, or the Moderator Guidelines for Healthy Communities."
+      ],
+      "new": [
+        "- You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the Content Policy, or the Moderator Code of Conduct."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Also, please note that if you knowingly misrepresent that any activity or material on our Service is infringing, you may be liable to Reddit for certain costs and damages."
+      ],
+      "new": [
+        "Also, please note that if you knowingly misrepresent that any activity or material on our Services is infringing, you may be liable to Reddit for certain costs and damages."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- If you use the self-service platform for advertising, you must also agree to our Reddit Advertising Platform Terms.",
+        "- If you use our public API, you must also agree to our Reddit API Terms of Use.",
+        "- If you use Reddit Gifts, you must agree to the Reddit Gifts User Agreement.",
+        "- If you use Reddit Embeds, you must agree to the Embeds Terms of Use."
+      ],
+      "new": [
+        "- If you use the self-service platform for advertising, you must also agree to the Reddit Advertising Platform Terms.",
+        "- If you use any of our Developer Services (including our APIs), you must also agree to the Reddit Developer Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- access the Services or Content in order to build a similar or competitive website, product, or service, except as permitted under the Reddit API Terms of Use."
+      ],
+      "new": [
+        "- access the Services or Content in order to build a similar or competitive website, product, or service, except as permitted under any Additional Terms (as defined below)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "When using or accessing Reddit, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Content Policy (and, where applicable, the Broadcasting Content Policy), which are incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the Content Policy, you may not do any of the following:"
+      ],
+      "new": [
+        "When using or accessing Reddit, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Content Policy, which are incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the Content Policy, you may not do any of the following:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Access, search, or collect data from the Services by any means (automated or otherwise) except as permitted in these Terms or in a separate agreement with Reddit (we conditionally grant permission to crawl the Services in accordance with the parameters set forth in our robots.txt file, but scraping the Services without Reddit’s prior consent is prohibited); or"
+      ],
+      "new": [
+        "- Access, search, or collect data from the Services by any means (automated or otherwise) except as permitted in these Terms or in a separate agreement with Reddit (we conditionally grant permission to crawl the Services in accordance with the parameters set forth in our robots.txt file, but scraping the Services without Reddit’s prior written consent is prohibited); or"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- You agree to follow the Moderator Guidelines for Healthy Communities;"
+      ],
+      "new": [
+        "- You agree to follow the Moderator Code of Conduct;"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the Content Policy, or the Moderator Guidelines for Healthy Communities."
+      ],
+      "new": [
+        "- You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the Content Policy, or the Moderator Code of Conduct."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Also, please note that if you knowingly misrepresent that any activity or material on our Service is infringing, you may be liable to Reddit for certain costs and damages."
+      ],
+      "new": [
+        "Also, please note that if you knowingly misrepresent that any activity or material on our Services is infringing, you may be liable to Reddit for certain costs and damages."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- If you use the self-service platform for advertising, you must also agree to our Reddit Advertising Platform Terms.",
+        "- If you use our public API, you must also agree to our Reddit API Terms of Use.",
+        "- If you use Reddit Gifts, you must agree to the Reddit Gifts User Agreement.",
+        "- If you use Reddit Embeds, you must agree to the Embeds Terms of Use."
+      ],
+      "new": [
+        "- If you use the self-service platform for advertising, you must also agree to the Reddit Advertising Platform Terms.",
+        "- If you use any of our Developer Services (including our APIs), you must also agree to the Reddit Developer Terms."
+      ]
+    }
+  ]
+}

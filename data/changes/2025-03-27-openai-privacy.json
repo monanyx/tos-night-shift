@@ -1,0 +1,46 @@
+{
+  "id": "2025-03-27-openai-privacy",
+  "service": "openai",
+  "service_name": "OpenAI (ChatGPT)",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://openai.com/policies/privacy-policy/",
+  "detected_at": "2025-03-27T18:17:05+00:00",
+  "source": "wayback",
+  "window_start": "2024-12-11T19:03:29+00:00",
+  "archive_before": "https://web.archive.org/web/20241211190329/https://openai.com/policies/privacy-policy/",
+  "archive_after": "https://web.archive.org/web/20250327181705/https://openai.com/policies/privacy-policy/",
+  "flags": [],
+  "stats": {
+    "hunks": 2,
+    "added_words": 2,
+    "removed_words": 1
+  },
+  "headline": "OpenAI (ChatGPT) edited its Privacy Policy",
+  "summary": "2 words added and 1 removed across 2 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "OpenAI",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "OpenAI"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- To provide analyze, and maintain our Services, for example to respond to your questions for ChatGPT;"
+      ],
+      "new": [
+        "- To provide, analyze, and maintain our Services, for example to respond to your questions for ChatGPT;"
+      ]
+    }
+  ]
+}

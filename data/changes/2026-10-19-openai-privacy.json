@@ -1,0 +1,121 @@
+{
+  "id": "2026-10-19-openai-privacy",
+  "service": "openai",
+  "service_name": "OpenAI (ChatGPT)",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://openai.com/policies/privacy-policy/",
+  "detected_at": "2026-10-19T20:34:49+00:00",
+  "source": "wayback",
+  "window_start": "2026-08-01T00:42:18+00:00",
+  "archive_before": "https://web.archive.org/web/20260801004218/https://openai.com/policies/privacy-policy/",
+  "archive_after": "https://web.archive.org/web/20261019203449/https://openai.com/policies/privacy-policy/",
+  "flags": [],
+  "stats": {
+    "hunks": 10,
+    "added_words": 61,
+    "removed_words": 605
+  },
+  "headline": "OpenAI (ChatGPT) edited its Privacy Policy",
+  "summary": "61 words added and 605 removed across 10 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "At OpenAI, our mission is to ensure that artificial general intelligence benefits everyone.",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "At OpenAI, our mission is to ensure that artificial general intelligence benefits everyone. We build tools like ChatGPT and Sora to help people learn, create, and solve problems. We at OpenAI (together with our affiliates, “OpenAI”, “we”, “our” or “us”) are committed to respecting your privacy and are strongly committed to keeping secure any information we obtain from you or about you. This Privacy Policy describes our practices with respect to personal data that we collect from or about you, and how we use it when you use our website, applications, and services (collectively, “Services”)."
+      ],
+      "new": [
+        "At OpenAI, our mission is to ensure that artificial general intelligence benefits everyone. We build tools like ChatGPT to help people learn, create, and solve problems. We at OpenAI (together with our affiliates, “OpenAI”, “we”, “our” or “us”) are committed to respecting your privacy and are strongly committed to keeping secure any information we obtain from you or about you. This Privacy Policy describes our practices with respect to personal data that we collect from or about you, and how we use it when you use our website, applications, and services (collectively, “Services”)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- *User Content:* We collect Personal Data that you provide in the input to our Services (“Content”), including your prompts and other content you upload, such as <u>files</u>(opens in a new window), <u>images</u>(opens in a new window), <u>audio and video</u>(opens in a new window), <u>Sora characters</u>(opens in a new window), and data from <u>connected services</u>(opens in a new window), depending on the features you use. Some of our Services allow you to interact with other users, such as post, comment, or send messages, and we treat those interactions as Content, too."
+      ],
+      "new": [
+        "- *User Content:* We collect Personal Data that you provide in the input to our Services (“Content”), including your prompts and other content you upload, such as <u>files</u>(opens in a new window), <u>images</u>(opens in a new window), <u>audio and video</u>(opens in a new window), and data from <u>connected services</u>(opens in a new window), depending on the features you use. Some of our Services allow you to interact with other users, such as post, comment, or send messages, and we treat those interactions as Content, too."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- *Usage Data*: We collect information about your use and activity across the Services, such as the types of content that you view or engage with, the features you use and the actions you take, when you submit feedback to a model response, the people with whom you interact, as well as your time zone, country, the dates and times of access, user agent and version, type of computer or mobile device, and your computer connection. If you use the Atlas browser we may also collect your browser data according to <u>your controls</u>(opens in a new window) and use of the service."
+      ],
+      "new": [
+        "- *Usage Data*: We collect information about your use and activity across the Services, such as the types of content that you view or engage with, the features you use and the actions you take, when you submit feedback to a model response, the people with whom you interact, as well as your time zone, country, the dates and times of access, user agent and version, type of computer or mobile device, and your computer connection. For <u>Free</u>(opens in a new window) and <u>Go</u>(opens in a new window) users, we also collect information about your ads history and interests, such as the types of ad content that you view or engage with. If you use the in-app browser we may also collect your browser data according to your controls and use of the service."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We may receive information from advertisers and other data partners, which we use for purposes including to help us measure and improve the effectiveness of ads shown to Free and Go users on our Services. For example, we could receive information about purchases you make from these advertisers."
+      ],
+      "new": [
+        "We receive information from advertisers and other data partners, which we use for purposes described in this Policy including to help us measure and improve the effectiveness of our Services, including ads shown to Free and Go users on our Services. For example, we could receive information about purchases you make from these advertisers."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- *Other Users and Third Parties You Interact or Share Information With*: Certain Services allow you to interact or share information with other users or third parties. For example, you can share content like <u>ChatGPT conversations</u>(opens in a new window) or Sora <u>videos</u>(opens in a new window) and <u>characters</u>(opens in a new window), or share information with third-party <u>search</u>(opens in a new window) and <u>shopping</u>(opens in a new window) partners. Information you share with third-party partners is governed by their own terms and privacy policies, and you should make sure you understand those terms and policies before sharing information with them."
+      ],
+      "new": [
+        "- *Other Users and Third Parties You Interact or Share Information With*: Certain Services allow you to interact or share information with other users or third parties. For example, you can share content like <u>ChatGPT conversations</u>(opens in a new window), or share information with third-party <u>search</u>(opens in a new window) and <u>shopping</u>(opens in a new window) partners. Information you share with third-party partners is governed by their own terms and privacy policies, and you should make sure you understand those terms and policies before sharing information with them."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Information we retain until you delete it:** Some of our Services allow you to delete Personal Data stored in your account. For example, you can delete specific, or all, of your ChatGPT conversations, delete specific <u>Saved Memories</u>(opens in a new window), or delete your account. Once you choose to delete Personal Data, we will remove it from our systems within 30 days unless we need to retain it for longer as described below, or it has already been de-identified and disassociated from your account when you allow us to use your Content to <u>improve our models</u>(opens in a new window).",
+        "- **Information we delete automatically:** In some cases, Personal Data will be deleted automatically. For example, <u>Temporary Chats</u>(opens in a new window) will be automatically deleted within 30 days (unless we have to retain them for safety or legal reasons, as described further below), and your <u>Atlas incognito browsing history</u>(opens in a new window) won’t be saved after you end your session."
+      ],
+      "new": [
+        "- **Information we retain until you delete it:** Some of our Services allow you to delete Personal Data stored in your account. For example, you can delete specific, or all, of your ChatGPT conversations, delete specific <u>Memories</u>(opens in a new window), or delete your account. Once you choose to delete Personal Data, we will remove it from our systems within 30 days unless we need to retain it for longer as described below, or it has already been de-identified and disassociated from your account when you allow us to use your Content to <u>improve our models</u>(opens in a new window).",
+        "- **Information we delete automatically:** In some cases, Personal Data will be deleted automatically. For example, <u>Temporary Chats</u>(opens in a new window) will be automatically deleted within 30 days (unless we have to retain them for safety or legal reasons, as described further below)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- You can export your ChatGPT history and data in your account’s data controls.",
+        "- You can delete or archive chats in ChatGPT, or delete your account entirely."
+      ],
+      "new": [
+        "- You can <u>export your ChatGPT history and data</u>(opens in a new window) in your account’s data controls.",
+        "- You can delete or archive chats in ChatGPT, or <u>delete your account</u>(opens in a new window) entirely."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Depending on applicable law, you may be able to choose which cookies are used when you use our Services, and you can make choices about the use of your information for purposes of promoting our products and services to you on third-party properties (l<u>earn more</u>(opens in a new window))."
+      ],
+      "new": [
+        "- Depending on applicable law, you may be able to choose which cookies are used when you use our Services."
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "- If you use the Atlas browser, you can delete your browsing history or choose to browse the web in incognito mode, which helps keep your browsing private from other people who use your device."
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "| **Category of Personal Data** | **Use of Personal Data** | **Disclosure of Personal Data** |",
+        "| We collect the following information, as described above: Identifiers, such as your name, contact details, IP address, and other device identifiers Commercial information, such as your transaction history Network activity information, such as how you interact with our Services, including Log Data, Usage Data, and information about the device you use to access the Services Content, including your prompts and content you upload to the Services and interactions and messages with other users Communication Information, such as your contact information when you send us email Contact Data if you choose to connect your device contacts Geolocation data, such as the general area from which your device accesses our Services based on information like its IP address, or precise location information you choose to provide Other Account Information, such as your account credentials, and payment information, date of birth, and profile picture Other Information You Provide, such as if you choose to participate in our events or surveys or when you provide us or a vendor operating on our behalf with information to establish your identity or age. | We use this information for the following purposes, as described above: Provide, analyze, and maintain our Services Improve and develop our Services and conduct research, including using your Content to train our models (subject to your control) To personalize and customize your experience across our Services For Free and Go users, subject to your controls, to personalize the ads you see on our Services and measure the effectiveness of ads shown on our Services. Learn more. Communicate with you, including to respond to your questions, and send you information about our Services and events, for example about changes or improvements to the Services or offers or information that may interest you To identify your contacts who use our Services when you choose to connect your contacts and update you if they join our Services later. Prevent fraud, illegal activity, or misuses of our Services, and to protect the security of our systems and Services, including by monitoring any Content submitted or exchanged on our platforms (learn more here) Comply with legal obligations and protect the rights, privacy, safety, or property of our users, OpenAI, or third parties, for instance to prevent harm to you or others, and to estimate your age to give you an age-appropriate experience | We may disclose this information in the following circumstances, as described above: Vendors, service providers, and affiliates to assist us in meeting business operations needs and to perform certain services and functions described above Government authorities or other third parties for the legal reasons described above Parties involved in Transactions Business account administrators for the reasons described above Parents or guardians of teen users for account linking purposes described above Other users and third parties you interact or share information with |"
+      ],
+      "new": []
+    }
+  ]
+}

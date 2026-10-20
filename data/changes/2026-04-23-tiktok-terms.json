@@ -1,0 +1,120 @@
+{
+  "id": "2026-04-23-tiktok-terms",
+  "service": "tiktok",
+  "service_name": "TikTok",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.tiktok.com/legal/page/eea/terms-of-service/en",
+  "detected_at": "2026-04-23T19:38:45+00:00",
+  "source": "wayback",
+  "window_start": "2026-01-16T01:49:43+00:00",
+  "archive_before": "https://web.archive.org/web/20260116014943/https://www.tiktok.com/legal/page/eea/terms-of-service/en",
+  "archive_after": "https://web.archive.org/web/20260423193845/https://www.tiktok.com/legal/page/eea/terms-of-service/en",
+  "flags": [],
+  "stats": {
+    "hunks": 10,
+    "added_words": 10,
+    "removed_words": 0
+  },
+  "headline": "TikTok edited its Terms of Service",
+  "summary": "10 words added and 0 removed across 10 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "## **1.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "**1. Who your contract is with**"
+      ],
+      "new": [
+        "## **1. Who your contract is with**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**2. The services covered by these Terms**"
+      ],
+      "new": [
+        "## **2. The services covered by these Terms**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**3. Additional terms that apply if you use certain features**"
+      ],
+      "new": [
+        "## **3. Additional terms that apply if you use certain features**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**4. Using the Platform**"
+      ],
+      "new": [
+        "## **4. Using the Platform**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**5. What we promise to you**"
+      ],
+      "new": [
+        "## **5. What we promise to you**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**6. Restricting, suspending or ending our relationship**"
+      ],
+      "new": [
+        "## **6. Restricting, suspending or ending our relationship**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**7. Changes to these Terms or the Platform**"
+      ],
+      "new": [
+        "## **7. Changes to these Terms or the Platform**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**8. Resolving disputes**"
+      ],
+      "new": [
+        "## **8. Resolving disputes**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**9. Other**"
+      ],
+      "new": [
+        "## **9. Other**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**10. Contacting TikTok**"
+      ],
+      "new": [
+        "## **10. Contacting TikTok**"
+      ]
+    }
+  ]
+}

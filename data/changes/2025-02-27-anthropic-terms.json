@@ -1,0 +1,139 @@
+{
+  "id": "2025-02-27-anthropic-terms",
+  "service": "anthropic",
+  "service_name": "Anthropic (Claude)",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.anthropic.com/legal/consumer-terms",
+  "detected_at": "2025-02-27T11:50:57+00:00",
+  "source": "wayback",
+  "window_start": "2024-12-29T12:40:40+00:00",
+  "archive_before": "https://web.archive.org/web/20241229124040/https://www.anthropic.com/legal/consumer-terms",
+  "archive_after": "https://web.archive.org/web/20250227115057/https://www.anthropic.com/legal/consumer-terms",
+  "flags": [],
+  "stats": {
+    "hunks": 11,
+    "added_words": 121,
+    "removed_words": 33
+  },
+  "headline": "Anthropic (Claude) edited its Terms of Service",
+  "summary": "121 words added and 33 removed across 11 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "You may access and use our Services only in compliance with our Terms, including our Acceptable Use Policy, the policy governing the countries and regions Anthropic currently supports (\"Supported Regions Policy\"), and any guidelines or supplemental terms we may post …",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "You may access and use our Services only in compliance with our Terms, our Acceptable Use Policy, and any guidelines or supplemental terms we may post on the Services (the “**Permitted Use**”)."
+      ],
+      "new": [
+        "You may access and use our Services only in compliance with our Terms, including our Acceptable Use Policy, the policy governing the countries and regions Anthropic currently supports (\"Supported Regions Policy\"), and any guidelines or supplemental terms we may post on the Services (the “**Permitted Use**”). You are responsible for all activity under the account through which you access the Services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "2. To develop any products or services that compete with our Services, including to develop or train any artificial intelligence or machine learning algorithms or models."
+      ],
+      "new": [
+        "2. To develop any products or services that compete with our Services, including to develop or train any artificial intelligence or machine learning algorithms or models or resell the Services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 4. Prompts, Outputs, and Materials.",
+        "You may be allowed to submit text, documents, or other materials to our Services for processing (we call these “**Prompts**”). Our Services may generate responses based on your Prompts (we call these “**Outputs**”). Prompts and Outputs collectively are “**Materials**.”",
+        "**Rights to Materials.** You are responsible for all Prompts you submit to our Services. By submitting Prompts to our Services, you represent and warrant that you have all rights, licenses, and permissions that are necessary for us to process the Prompts under our Terms. You also represent and warrant that your submitting Prompts to us will not violate our Terms, our Acceptable Use Policy, or any laws or regulations applicable to those Prompts. As between you and Anthropic, and to the extent permitted by applicable law, you retain any right, title, and interest that you have in the Prompts you submit. Subject to your compliance with our Terms, we assign to you all of our right, title, and interest—if any—in Outputs."
+      ],
+      "new": [
+        "### 4. Inputs, Outputs, and Materials.",
+        "You may be allowed to interact with our Services in a variety of formats (we call these “**Inputs**”). Our Services may generate responses based on your Inputs (we call these “**Outputs**”). Inputs and Outputs collectively are “**Materials**.”",
+        "**Rights to Materials.** You are responsible for all Inputs you submit to our Services. By submitting Inputs to our Services, you represent and warrant that you have all rights, licenses, and permissions that are necessary for us to process the Inputs under our Terms and to provide the Services to you, including for example, to integrate with third-party services and to share Materials with others at your direction. You also represent and warrant that your submitting Inputs to us will not violate our Terms, our Acceptable Use Policy, or any laws or regulations applicable to those Inputs. As between you and Anthropic, and to the extent permitted by applicable law, you retain any right, title, and interest that you have in the Inputs you submit. Subject to your compliance with our Terms, we assign to you all of our right, title, and interest—if any—in Outputs."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We appreciate feedback, including ideas and suggestions for improvement or rating an Output in response to a Prompt (“**Feedback**”). If you rate an Output in response to a Prompt—for example, by using the thumbs up/thumbs down icon—we will store the related conversation as part of your Feedback. You have no obligation to give us Feedback, but if you do, you agree that we may use the Feedback however we choose without any obligation or other payment to you.",
+        "### 6. Subscriptions, fees and payment.",
+        "**Fees and billing.** You may be required to pay us fees to access or use our Services or certain features of our Services. You are responsible for paying any applicable fees listed for the Services."
+      ],
+      "new": [
+        "We appreciate feedback, including ideas and suggestions for improvement or rating an Output in response to an Input (“**Feedback**”). If you rate an Output in response to an Input—for example, by using the thumbs up/thumbs down icon—we will store the related conversation as part of your Feedback. You have no obligation to give us Feedback, but if you do, you agree that we may use the Feedback however we choose without any obligation or other payment to you.",
+        "### 6. Removals",
+        "To submit a request to remove any content in the Materials, follow our process described here.",
+        "### 7. Subscriptions, fees and payment.",
+        "**Fees and billing.** You may be required to pay us fees to access or use our Services or certain features of our Services. You are responsible for paying any applicable fees listed for the Services on the Model Pricing Page unless otherwise communicated to you by Anthropic in writing."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 7. Third-party services and links"
+      ],
+      "new": [
+        "### 8. Third-party services and links"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 8. Software"
+      ],
+      "new": [
+        "### 9. Software"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 9. Ownership of the Services"
+      ],
+      "new": [
+        "### 10. Ownership of the Services"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 10. Disclaimer of warranties, limitations of liability, and indemnity"
+      ],
+      "new": [
+        "### 11. Disclaimer of warranties, limitations of liability, and indemnity"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 11. General terms"
+      ],
+      "new": [
+        "### 12. General terms"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Legal Compliance.** We may comply with governmental, court, and law enforcement requests or requirements relating to provision or use of the Services, or to information provided to or collected under our Terms. We reserve the right, at our sole discretion, to report information from or about you, including but not limited to Prompts or Outputs, to law enforcement."
+      ],
+      "new": [
+        "**Legal Compliance.** We may comply with governmental, court, and law enforcement requests or requirements relating to provision or use of the Services, or to information provided to or collected under our Terms. We reserve the right, at our sole discretion, to report information from or about you, including but not limited to Inputs or Outputs, to law enforcement."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 12. In case of disputes"
+      ],
+      "new": [
+        "### 13. In case of disputes"
+      ]
+    }
+  ]
+}

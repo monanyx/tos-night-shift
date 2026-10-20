@@ -1,0 +1,54 @@
+{
+  "id": "2023-12-16-spotify-terms",
+  "service": "spotify",
+  "service_name": "Spotify",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.spotify.com/us/legal/end-user-agreement/",
+  "detected_at": "2023-12-16T21:02:07+00:00",
+  "source": "wayback",
+  "window_start": "2023-08-31T10:58:54+00:00",
+  "archive_before": "https://web.archive.org/web/20230831105854/https://www.spotify.com/us/legal/end-user-agreement/",
+  "archive_after": "https://web.archive.org/web/20231216210207/https://www.spotify.com/us/legal/end-user-agreement/",
+  "flags": [
+    {
+      "tag": "payments",
+      "label": "Money",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 2,
+    "added_words": 6,
+    "removed_words": 8
+  },
+  "headline": "Spotify rewrote its Terms of Service — new wording on fees and billing",
+  "summary": "6 words added and 8 removed across 2 sections. New wording touches: Money. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "By using a Spotify Service via a Trial, you agree to the Spotify Paid Subscription Terms.",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "payments"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "From time to time, we or others on our behalf may offer trials of Paid Subscriptions for a specified period without payment or at a reduced rate (\"**Trial**\"). By using a Spotify Service via a Trial, you agree to the <u>Spotify Premium Promotional Offer Terms</u>."
+      ],
+      "new": [
+        "From time to time, we or others on our behalf may offer trials of Paid Subscriptions for a specified period without payment or at a reduced rate (\"**Trial**\"). By using a Spotify Service via a Trial, you agree to the Spotify Paid Subscription Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Other than as stated in this section or as explicitly agreed upon in writing between you and Spotify, these Terms constitute all the terms and conditions agreed upon between you and Spotify and supersede any prior agreements in relation to the subject matter of these Terms, whether written or oral. As noted above, other terms and conditions governing use of the Spotify Service are incorporated herein by reference, including the following terms and conditions: <u>Spotify Premium Promotional Offer Terms</u>; <u>Spotify Audiobook Purchase Terms and Conditions</u>; <u>Spotify's Card Terms</u>; <u>Spotify User Guidelines</u>; <u>Spotify Copyright Policy</u>; and <u>Spotify Support Community Terms</u>."
+      ],
+      "new": [
+        "Other than as stated in this section or as explicitly agreed upon in writing between you and Spotify, these Terms constitute all the terms and conditions agreed upon between you and Spotify and supersede any prior agreements in relation to the subject matter of these Terms, whether written or oral. As noted above, other terms and conditions governing use of the Spotify Service are incorporated herein by reference, including the following terms and conditions: <u>Spotify Paid Subscription Terms</u>; <u>Spotify Audiobook Purchase Terms and Conditions</u>; <u>Spotify's Card Terms</u>; <u>Spotify User Guidelines</u>; <u>Spotify Copyright Policy</u>; and <u>Spotify Support Community Terms</u>."
+      ]
+    }
+  ]
+}

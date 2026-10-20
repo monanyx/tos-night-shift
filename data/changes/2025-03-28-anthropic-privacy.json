@@ -1,0 +1,80 @@
+{
+  "id": "2025-03-28-anthropic-privacy",
+  "service": "anthropic",
+  "service_name": "Anthropic (Claude)",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.anthropic.com/legal/privacy",
+  "detected_at": "2025-03-28T10:12:55+00:00",
+  "source": "wayback",
+  "window_start": "2025-01-28T19:12:20+00:00",
+  "archive_before": "https://web.archive.org/web/20250128191220/https://www.anthropic.com/legal/privacy",
+  "archive_after": "https://web.archive.org/web/20250328101255/https://www.anthropic.com/legal/privacy",
+  "flags": [],
+  "stats": {
+    "hunks": 6,
+    "added_words": 113,
+    "removed_words": 3
+  },
+  "headline": "Anthropic (Claude) edited its Privacy Policy",
+  "summary": "113 words added and 3 removed across 6 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "For information about how we collect and use personal data to develop our language models that power our Services, when we may receive and process personal data of non-users, and your choices with respect to that information, please see our …",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "For information about how we collect and use personal data to develop our language models that power our Services, and your choices with respect to that information, please see our Notice on Model Training."
+      ],
+      "new": [
+        "For information about how we collect and use personal data to develop our language models that power our Services, when we may receive and process personal data of non-users, and your choices with respect to that information, please see our Notice on Model Training."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Inputs and Outputs:** Our AI services allow you to interact with the Services in a variety of formats (**“Prompts”** or **\"Inputs\"**), which generate responses (**“Outputs”**) based on your Inputs. If you include personal data in your Inputs, we will collect that information and this information may be reproduced in your Outputs."
+      ],
+      "new": [
+        "- **Inputs and Outputs:** Our AI services allow you to interact with the Services in a variety of formats (**“Prompts”** or **\"Inputs\"**), which generate responses (**“Outputs”**) based on your Inputs. This includes where you choose to integrate third-party applications with our services. If you include personal data or reference external content in your Inputs, we will collect that information and this information may be reproduced in your Outputs."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- To provide, maintain and facilitate optional services and features that enhance platform functionality and user experience;"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Service providers & business partners.** Anthropic may disclose the categories of personal data described above with service providers and business partners for a variety of business purposes, including website and data hosting, ensuring compliance with industry standards, research, auditing, and data processing."
+      ],
+      "new": [
+        "- **Service providers & business partners.** Anthropic may disclose the categories of personal data described above with service providers and business partners for a variety of business purposes, including website and data hosting, ensuring compliance with industry standards, research, auditing, data processing, and providing you with the services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **With an individual's consent.** Anthropic will otherwise disclose personal data when an individual gives us permission or directs us to disclose this information."
+      ],
+      "new": [
+        "- **With an individual's consent.** Anthropic will otherwise disclose personal data when an individual gives us permission or directs us to disclose this information, including as a part of our Services."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "| To provide, maintain and facilitate optional services and features that enhance platform functionality and user experience | Identity and Contact Data Feedback Inputs and Outputs | Legitimate interests It is in our and our users' legitimate interests to expand our product features and deliver additional services that enhance platform functionality and user experience. |"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "id": "2025-10-12-microsoft-terms",
+  "service": "microsoft",
+  "service_name": "Microsoft",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.microsoft.com/en-us/servicesagreement",
+  "detected_at": "2025-10-12T00:41:10+00:00",
+  "source": "wayback",
+  "window_start": "2025-07-13T02:20:47+00:00",
+  "archive_before": "https://web.archive.org/web/20250713022047/https://www.microsoft.com/en-us/servicesagreement/",
+  "archive_after": "https://web.archive.org/web/20251012004110/https://www.microsoft.com/en-us/servicesagreement/",
+  "flags": [
+    {
+      "tag": "biometrics",
+      "label": "Biometrics",
+      "hits": 1
+    },
+    {
+      "tag": "payments",
+      "label": "Money",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 22,
+    "added_words": 927,
+    "removed_words": 268
+  },
+  "headline": "Microsoft rewrote its Terms of Service — new wording on biometrics and fees and billing",
+  "summary": "927 words added and 268 removed across 22 sections. New wording touches: Biometrics, Money. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "We may bill you (a) in advance; (b) at the time of purchase; (c) shortly after purchase; or (d) on a recurring basis for subscription Services.",
+  "receipt_side": "new",
+  "sideeye": 4,
+  "tags": [
+    "biometrics",
+    "payments"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Published: July 30, 2024",
+        "Effective: September 30, 2024"
+      ],
+      "new": [
+        "Published: July 30, 2025",
+        "Effective: September 30, 2025"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "These terms (“ Terms ”) cover the use of those Microsoft consumer products, websites, and services listed at the end of these Terms here (https://www.microsoft.com/servicesagreement#serviceslist) (the “ Services ”). You accept these Terms by creating a Microsoft account, through your use of the Services, or by continuing to use the Services after being notified of a change to these Terms."
+      ],
+      "new": [
+        "These terms (“ Terms ”) cover the use of those Microsoft consumer products, websites, related support, and services listed at the end of these Terms here (https://www.microsoft.com/servicesagreement#serviceslist) (the “ Services ”). You accept these Terms by creating a Microsoft account, through your use of the Services, or by continuing to use the Services after being notified of a change to these Terms."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "c. Microsoft provides you with the ability to access your exportable data through the Microsoft privacy dashboard (https://account.microsoft.com/privacy) or the product user interface, when authenticated with your Microsoft account. This exportable data can be used to switch to third-party provider services. Microsoft reserves the right to restrict the export of data that may compromise the security of the services or Microsoft's intellectual property. If you are unable to export your data through these mechanisms, contact Microsoft at the address in the How to contact us section (https://privacy.microsoft.com/privacystatement#mainhowtocontactusmodule) or by using our web form (https://go.microsoft.com/fwlink/?linkid=2126612)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "ii. Account Use. You must use your Microsoft account to keep it active. This means you must sign in at least once in a two-year period to keep your Microsoft account, and associated Services, active, unless a longer period is provided in the Microsoft account activity policy at https://go.microsoft.com/fwlink/p/?linkid=2086738 or in an offer for a paid portion of the Services. If you don’t sign in during this time, we will assume your Microsoft account is inactive and will close it for you. Please see section 4.a.iv.2 for the consequences of a closed Microsoft account. You must sign into your Outlook.com inbox and your OneDrive (separately) at least once in a one-year period, otherwise we will close your Outlook.com inbox and your OneDrive for you. If we reasonably suspect that your Microsoft account is at risk of being used by a third party fraudulently (for example, as a result of an account compromise), Microsoft may suspend your account until you can reclaim ownership. Based on the nature of the compromise, we may be required to disable access to some or all of Your Content. If you are having trouble accessing your Microsoft account, please visit this website: https://go.microsoft.com/fwlink/?LinkId=238656 ."
+      ],
+      "new": [
+        "ii. Account Use. You must use your Microsoft account to keep it active. This means you must sign in at least once in a two-year period to keep your Microsoft account, and associated Services (unless specified otherwise), active, unless a longer period is provided in the Microsoft account activity policy at https://go.microsoft.com/fwlink/p/?linkid=2086738 or in an offer for a paid portion of the Services. If you don’t sign in during this time, we will assume your Microsoft account is inactive and will close it for you. Please see section 4.a.iv.2 for the consequences of a closed Microsoft account. You must sign into your Outlook.com inbox and your OneDrive (separately) at least once in a one-year period, otherwise we will close your Outlook.com inbox and your OneDrive for you. If we reasonably suspect that your Microsoft account is at risk of being used by a third party fraudulently (for example, as a result of an account compromise), Microsoft may suspend your account until you can reclaim ownership. Based on the nature of the compromise, we may be required to disable access to some or all of Your Content. If you are having trouble accessing your Microsoft account, please visit this website: https://go.microsoft.com/fwlink/?LinkId=238656 ."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "f. Support. Customer support for some Services is available at https://support.microsoft.com . Certain Services may offer separate or additional customer support, subject to the terms available at https://microsoft.com/support-service-agreement , unless otherwise specified. Support may not be available for preview or beta versions of features or Services."
+      ],
+      "new": [
+        "f. Support. Support for some Services is available at https://support.microsoft.com and certain Services may offer separate or additional customer support, subject to additional terms. Support may not be available for preview or beta versions of features or Services. Availability of Support may vary based on the stage of the product lifecycle and you must have an eligible and validly licensed Service(s) that meet(s) the applicable minimum requirements for supportability described in the Microsoft Lifecyle (https://learn.microsoft.com/en-us/lifecycle/)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "a. Charges. If there is a charge associated with a portion of the Services, you agree to pay that charge.",
+        "The price stated for the Services excludes all applicable taxes and currency exchange settlements, unless stated otherwise.",
+        "The price for Skype paid products includes a charge for the product and a charge for taxes. You are solely responsible for paying such taxes or other charges.",
+        "Taxes are calculated based on your location at the time your Microsoft account was registered. We may suspend or cancel the Services if we do not receive an on time,",
+        "full payment from you. Suspension or cancellation of the Services for non-payment could result in a loss of access to and use of your account and its content.",
+        "Connecting to the Internet via a corporate or other private network that masks your location may cause charges to be different from those displayed for your actual location.",
+        "b. Your Billing Account. To pay the charges for a Service, you will be asked to provide a payment method at the time",
+        "you sign up for that Service. You can access and change your billing information and payment method on the Microsoft account management website (https://go.microsoft.com/fwlink/p/?linkid=618281) and for Skype by signing",
+        "into your account portal at https://skype.com/go/myaccount . Additionally, you agree to permit Microsoft",
+        "to use any updated account information regarding your selected payment method provided by your issuing bank or the applicable",
+        "payment network. You agree to promptly update your account and other information, including your email address and payment method details,",
+        "so we can complete your transactions and contact you as needed in connection with your transactions. Changes made to your",
+        "billing account will not affect charges we submit to your billing account before we could reasonably act on your changes",
+        "to your billing account.",
+        "c. Billing. By providing Microsoft with a payment method, you (i) represent that you are authorized to use the payment",
+        "method you provided and that any payment information you provide is true and accurate; (ii) authorize Microsoft to charge",
+        "you for the Services or available content using your payment method; and (iii) authorize Microsoft to charge you for any",
+        "paid feature of the Services you choose to sign up for or use while these Terms are in force. We may bill you (a) in",
+        "advance; (b) at the time of purchase; (c) shortly after purchase; or (d) on a recurring basis for subscription Services.",
+        "Also, we may charge you up to the amount you have approved, and we will notify you in advance of any change in the amount",
+        "to be charged for recurring subscription Services. We may bill you at the same time for more than one of your prior billing",
+        "periods for amounts that haven't previously been processed."
+      ],
+      "new": [
+        "a. Charges. If there is a charge associated with a portion of the Services, you agree to pay that charge. The price stated for the Services excludes all applicable taxes and currency exchange settlements, unless stated otherwise. The price for Skype paid products includes a charge for the product and a charge for taxes. You are solely responsible for paying such taxes or other charges. Taxes are calculated based on your location at the time your Microsoft account was registered. We may suspend or cancel the Services if we do not receive an on time, full payment from you. Suspension or cancellation of the Services for non-payment could result in a loss of access to and use of your account and its content. Connecting to the Internet via a corporate or other private network that masks your location may cause charges to be different from those displayed for your actual location.",
+        "b. Your Billing Account. To pay the charges for a Service, you will be asked to provide a payment method at the time you sign up for that Service. You can access and change your billing information and payment method on the Microsoft account management website (https://go.microsoft.com/fwlink/p/?linkid=618281) and for Skype by signing into your account portal at https://skype.com/go/myaccount . Additionally, you agree to permit Microsoft to use any updated account information regarding your selected payment method provided by your issuing bank or the applicable payment network. You agree to promptly update your account and other information, including your email address and payment method details, so we can complete your transactions and contact you as needed in connection with your transactions. Changes made to your billing account will not affect charges we submit to your billing account before we could reasonably act on your changes to your billing account.",
+        "c. Billing. By providing Microsoft with a payment method, you (i) represent that you are authorized to use the payment method you provided and that any payment information you provide is true and accurate; (ii) authorize Microsoft to charge you for the Services or available content using your payment method; and (iii) authorize Microsoft to charge you for any paid feature of the Services you choose to sign up for or use while these Terms are in force. We may bill you (a) in advance; (b) at the time of purchase; (c) shortly after purchase; or (d) on a recurring basis for subscription Services. Also, we may charge you up to the amount you have approved, and we will notify you in advance of any change in the amount to be charged for recurring subscription Services. We may bill you at the same time for more than one of your prior billing periods for amounts that haven't previously been processed."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "e. Online Statement and Errors. Microsoft will provide you with an online billing statement on the Microsoft account management website (https://go.microsoft.com/fwlink/p/?linkid=618282), where you can view and print your statement. For Skype, you can access your online statement by signing into your",
+        "account at www.skype.com (https://www.skype.com). This is the only billing statement that we provide. If we make an error on your bill, you must",
+        "tell us within 90 days after the error first appears on your bill. We will then promptly investigate the charge. If you do",
+        "not tell us within that time, you release us from all liability and claims of loss resulting from the error and we won't",
+        "be required to correct the error or provide a refund. If Microsoft has identified a billing error, we will correct that error",
+        "within 90 days.",
+        "f. Refund Policy. Unless otherwise provided by law or by a particular Service offer, all purchases are final and non-refundable.",
+        "If you believe that Microsoft has charged you in error, you must contact us within 90 days of such charge. No refunds will",
+        "be given for any charges more than 90 days old. We reserve the right to issue refunds or credits at our sole discretion.",
+        "If we issue a refund or credit, we are under no obligation to issue the same or similar refund in the future. This refund",
+        "policy does not affect any statutory rights that may apply. For more refund information, please visit our help topic (https://go.microsoft.com/fwlink/p/?linkid=618283)."
+      ],
+      "new": [
+        "e. Online Statement and Errors. Microsoft will provide you with an online billing statement on the Microsoft account management website (https://go.microsoft.com/fwlink/p/?linkid=618282), where you can view and print your statement. For Skype, you can access your online statement by signing into your account at www.skype.com (https://www.skype.com). This is the only billing statement that we provide. If we make an error on your bill, you must tell us within 90 days after the error first appears on your bill. We will then promptly investigate the charge. If you do not tell us within that time, you release us from all liability and claims of loss resulting from the error and we won't be required to correct the error or provide a refund. If Microsoft has identified a billing error, we will correct that error within 90 days.",
+        "f. Refund Policy. Unless otherwise provided by law or by a particular Service offer, all purchases are final and non-refundable. If you believe that Microsoft has charged you in error, you must contact us within 90 days of such charge. No refunds will be given for any charges more than 90 days old. We reserve the right to issue refunds or credits at our sole discretion. If we issue a refund or credit, we are under no obligation to issue the same or similar refund in the future. This refund policy does not affect any statutory rights that may apply. For more refund information, please visit our help topic (https://go.microsoft.com/fwlink/p/?linkid=618283)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "h. Trial-Period Offers. If you are taking part in any trial-period offer, you may be required to cancel the trial Service(s) within the timeframe communicated to you when you accepted the offer in order to avoid being charged to continue the Service(s) at the end of the trial period.",
+        "i. Promotional Offers. From time to time, Microsoft may offer Services for a trial period during which Microsoft will",
+        "not charge you for the Services. Microsoft reserves the right to charge you for such Services (at the normal rate) if Microsoft determines",
+        "(in its reasonable discretion) that you are breaching the terms and conditions of the offer.",
+        "j. Price Changes. We may change the price of the Services at any time and if you have a recurring purchase, we will",
+        "notify you by email, or other reasonable manner, at least 15 days before the price change. If you do not agree to the price change, you must cancel and",
+        "stop using the Services before the price change takes effect. If there is a fixed term and price for your Service offer,",
+        "that price will remain in force for the fixed term.",
+        "k. Payments to You. If we owe you a payment, then you agree to timely and accurately provide us with any information",
+        "we need to get that payment to you. You are responsible for any taxes and charges you may incur as a result of this payment",
+        "to you. You must also comply with any other conditions we place on your right to any payment. If you receive a payment in",
+        "error, we may reverse or require return of the payment. You agree to cooperate with us in our efforts to do this. We may",
+        "reduce the payment to you without notice to adjust for any previous overpayment."
+      ],
+      "new": [
+        "h. Trial-Period Offers. If you are taking part in any trial-period offer, you may be required to cancel the trial Service(s) within the timeframe communicated to you when you accepted the offer in order to avoid being charged to continue the Service(s) at the end of the trial period. For certain trial-period offers, we may require auto-renewal to be turned on.",
+        "i. Promotional Offers. From time to time, Microsoft may offer Services for a trial period during which Microsoft will not charge you for the Services. Microsoft reserves the right to charge you for such Services (at the normal rate) if Microsoft determines (in its reasonable discretion) that you are breaching the terms and conditions of the offer.",
+        "j. Price Changes. We may change the price of the Services at any time and if you have a recurring purchase, we will notify you by email, or other reasonable manner, at least 15 days before the price change. If you do not agree to the price change, you must cancel and stop using the Services before the price change takes effect. If there is a fixed term and price for your Service offer, that price will remain in force for the fixed term.",
+        "k. Payments to You. If we owe you a payment, then you agree to timely and accurately provide us with any information we need to get that payment to you. You are responsible for any taxes and charges you may incur as a result of this payment to you. You must also comply with any other conditions we place on your right to any payment. If you receive a payment in error, we may reverse or require return of the payment. You agree to cooperate with us in our efforts to do this. We may reduce the payment to you without notice to adjust for any previous overpayment."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "m. Bank Account Payment Method. You may register an eligible bank account with your Microsoft account to use it as a payment method.",
+        "Eligible bank accounts include accounts held at a financial institution capable of receiving direct debit entries (e.g., a United States-based",
+        "financial institution that supports automated clearing house (\" ACH \") entries, a European financial institution that supports Single Euro Payments Area",
+        "(\" SEPA \") or \"iDEAL\" in the Netherlands). Terms you agreed to when adding your bank account as a payment method in your Microsoft account",
+        "(e.g., the “mandate” in the case of SEPA) also apply. You represent and warrant that your registered bank account is held in your name",
+        "or you are authorized to register and use this bank account as a payment method. By registering or selecting your bank account as your payment method,",
+        "you authorize Microsoft (or its agent) to initiate one or more debits for the total amount of your purchase or subscription charge",
+        "(in accordance with the terms of your subscription service) from your bank account (and, if necessary, initiate one or more credits to your bank account to correct errors,",
+        "issue a refund or similar purpose), and you authorize the financial institution that holds your bank account to deduct such debits or accept such credits.",
+        "You understand that this authorization will remain in full force and effect until you remove your bank account information from your Microsoft account.",
+        "Contact customer support as outlined above in section 4.e as soon as possible if you believe you have been charged in error. Laws applicable in your country may also limit",
+        "your liability for any fraudulent, erroneous or unauthorized transactions from your bank account. By registering or selecting a bank account as your payment method, you acknowledge",
+        "that you have read, understand and agree to these Terms."
+      ],
+      "new": [
+        "m. Bank Account Payment Method. You may register an eligible bank account with your Microsoft account to use it as a payment method. Eligible bank accounts include accounts held at a financial institution capable of receiving direct debit entries (e.g., a United States-based financial institution that supports automated clearing house (\" ACH \") entries, a European financial institution that supports Single Euro Payments Area (\" SEPA \") or \"iDEAL\" in the Netherlands). Terms you agreed to when adding your bank account as a payment method in your Microsoft account (e.g., the “mandate” in the case of SEPA) also apply. You represent and warrant that your registered bank account is held in your name or you are authorized to register and use this bank account as a payment method. By registering or selecting your bank account as your payment method, you authorize Microsoft (or its agent) to initiate one or more debits for the total amount of your purchase or subscription charge (in accordance with the terms of your subscription service) from your bank account (and, if necessary, initiate one or more credits to your bank account to correct errors, issue a refund or similar purpose), and you authorize the financial institution that holds your bank account to deduct such debits or accept such credits. You understand that this authorization will remain in full force and effect until you remove your bank account information from your Microsoft account. Contact customer support as outlined above in section 4.e as soon as possible if you believe you have been charged in error. Laws applicable in your country may also limit your liability for any fraudulent, erroneous or unauthorized transactions from your bank account. By registering or selecting a bank account as your payment method, you acknowledge that you have read, understand and agree to these Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "i. Personal Noncommercial Use. The Xbox online service, Xbox Game Studios games (including Mojang Games) (https://www.xbox.com/xbox-game-studios), applications, subscriptions (e.g., Xbox Game Pass subscription service offerings), services (e.g., Xbox Cloud Gaming), and content provided by Microsoft (collectively, the \" Xbox Services \") are only for your personal and noncommercial use.",
+        "ii. Xbox Services. When you sign up to receive Xbox Services, information about your game play, activities and usage of games and Xbox Services will be tracked and shared with applicable third-parties, including game developers and publishers, in order for Microsoft to deliver the Xbox Services and for the third-parties to operate non-Microsoft games and services. Additionally, if Xbox Services are accessed via third-party platforms, information about your game play, activities and usage of games and Xbox Services may be tracked and shared by such third-party platforms, subject to any third-party terms and privacy policies. If you choose to link your Microsoft Xbox Services account with your account on a non-Microsoft service or sign in to your Xbox Services account to access a non-Microsoft Service (for example, a non-Microsoft game publisher of Third-Party Apps and Services), you agree that: (a) Microsoft may share limited account and usage-related information (including without limitation gamertag, gamerscore, game history, usage data and friends list), with that non-Microsoft party as stated in the Microsoft Privacy Statement, and (b) if allowed by your Xbox privacy settings, the non-Microsoft party may also have access to Your Content from in-game communications or other applications that you use when you are signed into your account with that non-Microsoft party. Also, if allowed by your Xbox privacy settings, Microsoft can publish your name, gamertag, gamerpic, motto, avatar, gameclips and games that you’ve played in communications to people you allow."
+      ],
+      "new": [
+        "i. Personal Noncommercial Use. The Xbox online service, (\"Xbox Network\"), Xbox Game Studios games (https://www.xbox.com/xbox-game-studios), applications, subscriptions (e.g., Xbox Game Pass subscription service offerings), services (e.g., Xbox Live and Xbox Cloud Gaming), and content provided by Microsoft (collectively, the \" Xbox Services \") are only for your personal and noncommercial use.",
+        "ii. Xbox Services. When you sign up to receive Xbox Services, information about your game play, activities and usage of games and Xbox Services will be tracked and shared with applicable third parties, including game developers and publishers, in order for Microsoft to deliver the Xbox Services and for the third parties to operate non-Microsoft games and services. Additionally, if Xbox Services are accessed via third-party devices or platforms, information about your game play, activities and usage of games and Xbox Services may be tracked and shared by such third-party devices and platforms, subject to any third-party terms and privacy policies. If you sign in to another platform or device with your Microsoft account or link your Microsoft account with such platforms or devices to access Xbox Services (for example, to access Xbox Game Studios games on other platforms or devices) or to access a non-Microsoft Service (for example, a non-Microsoft game publisher of Third-Party Apps and Services), you agree that: (a) Microsoft may share limited account and usage-related information (including without limitation gamertag, gamerscore, game history, usage data and friends list) with that party as stated in the Microsoft Privacy Statement, and (b) if allowed by your Xbox privacy settings, that party may also have access to Your Content from in-game communications or other applications that you use when you are signed into your account with that party. Also, if allowed by your Xbox privacy settings, Microsoft can publish your name, gamertag, gamerpic, motto, avatar, gameclips and games that you’ve played in communications to people you allow. If you have enabled Xbox-specific Family Safety settings, those settings apply on Xbox consoles, Xbox Cloud Gaming, and the Xbox app on PC or mobile devices, but many not apply to Xbox Game Studios games or services accessed or played on other devices or platforms. To ensure a safer gaming experience for your family, please check the parental settings on these devices and platforms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "v. Kids on Xbox. If you are a minor using the Xbox Services, your parent or guardian may have control over many aspects of your account on the Xbox platform and may receive reports about your use of the Xbox Services. These features are exclusive to Xbox Services and may not transfer to other platforms.",
+        "vi. Game Currency or Virtual Goods. The Xbox Services may include a virtual, game currency (like gold, coins or points) that may be purchased from or on behalf of Microsoft using actual monetary instruments if you have reached the age of “majority” where you live. The Xbox Services may also include virtual, digital items or goods that may be purchased from or on behalf of Microsoft using actual monetary instruments or using game currency. Game currency and virtual goods may never be redeemed for actual monetary instruments, goods or other items of monetary value from Microsoft or any other party. Other than a limited, personal, revocable, non-transferable, non-sublicensable license to use the game currency and virtual goods in the Xbox Services only, you have no right or title in or to any such game currency or virtual goods appearing or originating in the Xbox Services, or any other attributes associated with use of the Services or stored within the Xbox Services. Microsoft may at any time regulate, control, modify and/or eliminate the game currency and/or virtual goods associated with any one or more Xbox games or apps as it sees fit in its sole discretion."
+      ],
+      "new": [
+        "v. Kids and Xbox. If you are a minor using the Xbox Services, your parent or guardian may have control over many aspects of your account and may receive reports about your use of the Xbox Services. These features are exclusive to Xbox Services and may not transfer to other devices or platforms.",
+        "vi. Game Currency or Virtual Goods. The Xbox Services may include a virtual, game currency (like gold, coins or points) that may be purchased from or on behalf of Microsoft using actual monetary instruments if you have reached the age of \"majority\" where you live. The Xbox Services may also include virtual, digital items or goods that may be purchased from or on behalf of Microsoft using actual monetary instruments or using game currency. Game currency and virtual goods may never be redeemed for actual monetary instruments, goods or other items of monetary value from Microsoft or any other party. Other than a limited, personal, revocable, non-transferable, non-sublicensable license to use the game currency and virtual goods in the Xbox Services only, you have no right or title in or to any such game currency or virtual goods appearing or originating in the Xbox Services, or any other attributes associated with use of the Services or stored within the Xbox Services. Microsoft may at any time regulate, control, modify and/or eliminate the game currency and/or virtual goods associated with any one or more Xbox games or apps as it sees fit in its sole discretion."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "xi. Additional end-user license agreements and codes of conduct. Some Xbox Services may have their own usage terms and codes of conduct."
+      ],
+      "new": [
+        "xi. Mojang services. The Minecraft EULA (https://www.minecraft.net/eula) supplements these Terms and applies to your use of Minecraft websites, services, software and games.",
+        "xii. Additional end-user license agreements and codes of conduct. Some Xbox Services may have their own usage terms and codes of conduct."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "c. Microsoft Family Features. Parents and kids can use Microsoft family features, including Microsoft Family Safety, to build trust based on a shared understanding of what behaviors, websites, apps, games, physical locations, and spending is right in their family. Parents can create a family by going to https://account.microsoft.com/family (or by following the instructions on their Windows device or Xbox console) and inviting kids or other parents to join. There are many features available to family members, so please carefully review the information provided when you agree to create or join a family and when you purchase Digital Goods for family access. By creating or joining a family, you agree to use the family in accordance with its purpose and won’t use it in an unauthorized way to unlawfully gain access to another person’s information. Microsoft Family Features are exclusive to Microsoft Services and are not transferable to other platforms. For example, Xbox-specific Family Safety settings will apply on Xbox console or via Xbox on PC or Mobile device but may not apply on other platforms."
+      ],
+      "new": [
+        "c. Microsoft Family Features. Parents and kids can use Microsoft family features, including Microsoft Family Safety, to build trust based on a shared understanding of what behaviors, websites, apps, games, physical locations, and spending is right in their family. Parents can create a family by going to https://account.microsoft.com/family (or by following the instructions on their Windows device or Xbox console) and inviting kids or other parents to join. There are many features available to family members, so please carefully review the information provided when you agree to create or join a family and when you purchase Digital Goods for family access. By creating or joining a family, you agree to use the family in accordance with its purpose and won’t use it in an unauthorized way to unlawfully gain access to another person’s information. Microsoft Family Features are exclusive to Microsoft Services and are not transferable to other platforms. For example, Xbox-specific Family Safety settings apply on Xbox consoles, Xbox Cloud Gaming, and the Xbox app on PC or mobile devices, but may not extend to Xbox Game Studios games or services accessed or played on other devices or platforms. To ensure a safer gaming experience for your family, please check the parent settings on these other devices and platforms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "ii.",
+        "Only limited software versions of the Skype to Phone feature of Skype may support calls to Emergency Services in a very limited number of countries, and depending on the platform used. You can find details about availability and how to configure this feature here: https://www.skype.com/go/emergency. If your Skype to Phone emergency call is connected, you will need to provide the details of your physical location to enable the emergency services to respond to you.",
+        "iii. APIs or Broadcasting. If you want to use Skype in connection with any broadcast, you must comply with the \"Broadcast",
+        "TOS\" at https://www.skype.com/go/legal.broadcast . If you want to use any application program interface ( \"API\" ) exposed or made available by Skype you must comply",
+        "with the applicable licensing terms, which are available at www.skype.com/go/legal .",
+        "iv. Fair Use Policies. Fair usage policies may apply to your use of Skype. Please review these policies which are designed",
+        "to protect against fraud and abuse and may place limits on the type, duration or volume of calls or messages that you are",
+        "able to make. These policies are incorporated in these Terms by reference. You can find these policies at: https://www.skype.com/en/legal/fair-usage/ .",
+        "v. Mapping. Skype contains features that allow you to submit information to, or plot yourself on a map using, a mapping",
+        "service. By using those features, you agree to these Terms and the Google Maps terms available at https://www.google.com/intl/en_ALL/help/terms_maps.html .",
+        "vi. Personal/Noncommercial Use. The use of Skype is for your personal and noncommercial use. You are permitted to use",
+        "Skype at work for your own business communications.",
+        "vii. Skype Number/Skype To Go. If Skype provides you with a Skype Number or Skype To Go number, you agree that you do",
+        "not own the number or have a right to retain that number forever. For more details on Skype Number see https://secure.skype.com/en/skype-number/ .",
+        "viii. Skype Manager. A \"Skype Manager Admin Account\" is created and managed by you, acting",
+        "as an individual administrator of a Skype Manager group and not as a business entity. You may link your individual Microsoft account to a",
+        "Skype Manager group ( \"Linked Account\" ). You may appoint additional administrators to your Skype Manager group subject to their",
+        "acceptance of these Terms. If you allocate Skype Numbers to a Linked Account, you are responsible for compliance with any requirements",
+        "related to the residency or location of your Linked Account users. If you choose to unlink a Linked Account from a Skype Manager group,",
+        "any allocated subscriptions, Skype Credit or Skype Numbers will not be retrievable and Your Content or material associated with the",
+        "unlinked account will no longer be accessible by you. You agree to process any personal information of your Linked Account users",
+        "in accordance with all applicable data protection laws.",
+        "ix. Skype Charges. Skype paid products are sold to you by Skype Communications S.à.r.l, however the seller-of-record",
+        "accountable for taxes is Skype Communications US Corporation. Taxes means the amount of taxes, regulatory fees, surcharges",
+        "or other fees that we are required to collect from you and must pay to any United States (federal, state or local) or foreign",
+        "government, agency, commission or quasi-governmental body as a result of our provision of Skype paid products to you. These",
+        "taxes are listed at www.skype.com/go/ustax . All prices for Skype paid products are inclusive of a charge for your product",
+        "and a charge for taxes, unless otherwise stated. The charges payable for calling phones outside of a subscription consist",
+        "of a connection fee (charged once per call) and a per-minute rate as set out at www.skype.com/go/allrates . Call charges will",
+        "be deducted from your Skype Credit balance. Skype may change its calling rates at any time by posting",
+        "such change at www.skype.com/go/allrates . The new rate will apply to your next call after publication of the new rates. Please",
+        "check the latest rates before you make your call. Fractional call minutes and fractional cent charges will be rounded up",
+        "to the next whole unit. Notwithstanding the foregoing, you may be entitled, under applicable law, to a refund, upon request,",
+        "of any pre-paid subscription balance in the event you switch your Skype Number to another provider.",
+        "x. Skype Credit. Skype does not guarantee that you will be able to use your Skype Credit balance to purchase all Skype",
+        "paid products. If you do not use your Skype Credit for a period of 180 days, Skype will place your Skype Credit on inactive",
+        "status. You can reactivate the Skype Credit by following the reactivation link at https://www.skype.com/go/store.reactivate.credit .",
+        "You can enable the Auto Recharge feature when you buy Skype Credit by ticking the appropriate box. If enabled, your Skype Credit",
+        "balance will be recharged with the same amount and by your chosen payment method every time your Skype balance goes below the threshold set by Skype from time to time.",
+        "If you purchased a subscription with a payment method other than credit card, PayPal or Moneybookers (Skrill), and you have enabled Auto-Recharge,",
+        "your Skype Credit balance will be recharged with the amount necessary to purchase your next recurring subscription. You can disable Auto-Recharge at any time by accessing",
+        "and changing your settings in your account portal in Skype.",
+        "If your Microsoft Account is closed, for any reason, any unused Skype credit associated with your Microsoft account will be lost and cannot be retrieved."
+      ],
+      "new": [
+        "ii. Only limited software versions of the Skype to Phone feature of Skype may support calls to Emergency Services in a very limited number of countries, and depending on the platform used. You can find details about availability and how to configure this feature here: https://www.skype.com/go/emergency. If your Skype to Phone emergency call is connected, you will need to provide the details of your physical location to enable the emergency services to respond to you.",
+        "iii. APIs or Broadcasting. If you want to use Skype in connection with any broadcast, you must comply with the \"Broadcast TOS\" at https://www.skype.com/go/legal.broadcast . If you want to use any application program interface ( \"API\" ) exposed or made available by Skype you must comply with the applicable licensing terms, which are available at www.skype.com/go/legal .",
+        "iv. Fair Use Policies. Fair usage policies may apply to your use of Skype. Please review these policies which are designed to protect against fraud and abuse and may place limits on the type, duration or volume of calls or messages that you are able to make. These policies are incorporated in these Terms by reference. You can find these policies at: https://www.skype.com/en/legal/fair-usage/ .",
+        "v. Personal/Noncommercial Use. The use of Skype is for your personal and noncommercial use. You are permitted to use Skype at work for your own business communications.",
+        "vi. Skype Number/Skype To Go. If Skype provides you with a Skype Number or Skype To Go number, you agree that you do not own the number or have a right to retain that number forever. For more details on Skype Number see https://secure.skype.com/en/skype-number/ .",
+        "vii. Skype Manager. A \"Skype Manager Admin Account\" is created and managed by you, acting as an individual administrator of a Skype Manager group and not as a business entity. You may link your individual Microsoft account to a Skype Manager group ( \"Linked Account\" ). You may appoint additional administrators to your Skype Manager group subject to their acceptance of these Terms. If you allocate Skype Numbers to a Linked Account, you are responsible for compliance with any requirements related to the residency or location of your Linked Account users. If you choose to unlink a Linked Account from a Skype Manager group, any allocated subscriptions, Skype Credit or Skype Numbers will not be retrievable and Your Content or material associated with the unlinked account will no longer be accessible by you. You agree to process any personal information of your Linked Account users in accordance with all applicable data protection laws. Your Skype Manager may be suspended if group members fail to adhere to the Code of Conduct contained in this MSA.",
+        "viii. Skype Charges. Skype paid products are sold to you by Skype Communications S.à.r.l, however the seller-of-record accountable for taxes is Skype Communications US Corporation. Taxes means the amount of taxes, regulatory fees, surcharges or other fees that we are required to collect from you and must pay to any United States (federal, state or local) or foreign government, agency, commission or quasi-governmental body as a result of our provision of Skype paid products to you. These taxes are listed at www.skype.com/go/ustax . All prices for Skype paid products are inclusive of a charge for your product and a charge for taxes, unless otherwise stated. The charges payable for calling phones outside of a subscription consist of a connection fee (charged once per call) and a per-minute rate as set out at www.skype.com/go/allrates . Call charges will be deducted from your Skype Credit balance. Skype may change its calling rates at any time by posting such change at www.skype.com/go/allrates . The new rate will apply to your next call after publication of the new rates. Please check the latest rates before you make your call. Fractional call minutes and fractional cent charges will be rounded up to the next whole unit. Notwithstanding the foregoing, you may be entitled, under applicable law, to a refund, upon request, of any pre-paid subscription balance in the event you switch your Skype Number to another provider.",
+        "ix. Skype Credit. Skype does not guarantee that you will be able to use your Skype Credit balance to purchase all Skype paid products, as paid products may change from time to time. If you do not use your Skype Credit for a period of 180 days, Skype will place your Skype Credit on inactive status. You can reactivate the Skype Credit by following the reactivation link at http://www.skype.com/go/store.reactivate.credit . Available calling destinations may change from time to time. If your Microsoft account is closed, for any reason, any unused Skype Credit associated with your Microsoft account will be lost and cannot be retrieved. Skype Credits may not be transferred to others.",
+        "x. Skype Dial Pad. You can use the Skype Dial Pad with an active subscription or Skype Credits after the retirement of the Skype desktop and mobile applications. The Skype Dial Pad is a Skype product you can access from within Microsoft Teams or on the web."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "i. Bing and Microsoft Start Materials. The articles, text, photos, maps, videos, video players, and third-party material available on Bing and Microsoft Start, including through Microsoft bots, applications and programs,",
+        "are for your noncommercial, personal use only.",
+        "Other uses, including downloading, copying, or redistributing these materials, or using these materials or products to build your own products,",
+        "are permitted only to the extent specifically authorized by Microsoft or rights holders, or allowed by applicable copyright law.",
+        "Microsoft or other rights holders reserve all rights to the material not expressly granted by Microsoft under the license terms, whether by implication, estoppel, or otherwise.",
+        "ii. Bing Maps. You may not use Bird’s eye imagery of the United States, Canada, Mexico, New Zealand, Australia or Japan",
+        "for governmental use without our separate written approval."
+      ],
+      "new": [
+        "i. Bing and MSN Materials. The articles, text, photos, maps, videos, video players, and third-party material available on Bing and MSN, including through Microsoft bots, applications and programs, are for your noncommercial, personal use only. Other uses, including downloading, copying, or redistributing these materials, or using these materials or products to build your own products, are permitted only to the extent specifically authorized by Microsoft or rights holders, or allowed by applicable copyright law. Microsoft or other rights holders reserve all rights to the material not expressly granted by Microsoft under the license terms, whether by implication, estoppel, or otherwise.",
+        "ii. Bing Maps. You may not use Bird’s eye imagery of the United States, Canada, Mexico, New Zealand, Australia or Japan for governmental use without our separate written approval."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "vii. Restrictions & Limitations on Points. Points are awarded by Microsoft to individual Rewards Accounts and cannot be transferred to any other person or entity. Notwithstanding the foregoing, Microsoft may from time to time in its sole discretion permit you (i) to share your Points within your household (limits may apply), (ii) to contribute your Points to support a nonprofit organization listed on the Redemption Page, or (iii) depending on your Region and subject to other terms and conditions, to redeem all or some of your Points for points in certain other rewards or loyalty programs, including programs operated by Microsoft or authorized third parties. Points are and remain at all times the property of Microsoft, and do not constitute your personal property; they have no cash value, and you may not obtain any cash or money in exchange for them. Points are awarded to you on a promotional basis only. You cannot purchase Points. Microsoft may limit the quantity of Points or Rewards that can be earned or redeemed per person, per household, or over a set period (e.g., a day) provided that you are not disadvantaged in breach of good faith; please refer to the FAQ for currently applicable limitations. Unless an Offer or Redemption Option explicitly states otherwise, Points earned in the Program are not valid in, and may not be used in combination with, any other program offered by Microsoft or third parties. Unredeemed Points associated with your Rewards Account expire if you do not earn or redeem any Points in your Rewards Account for 18 consecutive months."
+      ],
+      "new": [
+        "vii. Restrictions & Limitations on Points. Points are awarded by Microsoft to individual Rewards Accounts and cannot be transferred to any other person or entity. Notwithstanding the foregoing, Microsoft may from time to time in its sole discretion permit you (i) to share your Points within your household (limits may apply), (ii) to contribute your Points to support a nonprofit organization listed on the Redemption Page, or (iii) depending on your Region and subject to other terms and conditions, to redeem all or some of your Points for points in certain other rewards or loyalty programs, including programs operated by Microsoft or authorized third parties. Points are and remain at all times the property of Microsoft, and do not constitute your personal property; they have no cash value, and you may not obtain any cash or money in exchange for them. Points are awarded to you on a promotional basis only. You cannot purchase Points. Microsoft may limit the quantity of Points or Rewards that can be earned or redeemed per person, per household, or over a set period (e.g., a day) provided that you are not disadvantaged in breach of good faith; please refer to the FAQ for currently applicable limitations. Unless an Offer or Redemption Option explicitly states otherwise, Points earned in the Program are not valid in, and may not be used in combination with, any other program offered by Microsoft or third parties. Unredeemed Points associated with your Rewards Account expire if you do not earn or redeem any Points in your Rewards Account for 12 consecutive months."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "x. Cancelling Your Rewards Account. If you no longer wish to participate in the Rewards Program, follow the instructions on the opt out page (https://account.microsoft.com/rewards/optout?confirm=false) to cancel your Rewards Account. If you cancel your Rewards Account, you will immediately forfeit all of your earned Points and will lose your ability to earn new Points in the future. To begin earning Points again, you must open a new Rewards Account (but Microsoft will not reinstate any previously forfeited Points). Your Rewards Account may be cancelled (and your Points forfeited) if you do not log in to your Microsoft account for 18 consecutive months."
+      ],
+      "new": [
+        "x. Cancelling Your Rewards Account. If you no longer wish to participate in the Rewards Program, follow the instructions on the opt out page (https://rewards.microsoft.com/optout) to cancel your Rewards Account. If you cancel your Rewards Account, you will immediately forfeit all of your earned Points and will lose your ability to earn new Points in the future. To begin earning Points again, you must open a new Rewards Account (but Microsoft will not reinstate any previously forfeited Points). Your Rewards Account may be cancelled (and your Points forfeited) if you do not log in to your Microsoft account for 12 consecutive months."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "i. Assistive AI. AI services are not designed, intended, or to be used as substitutes for professional advice."
+      ],
+      "new": [
+        "i. No Professional Advice. AI services are not designed, intended, or to be used as substitutes for professional advice."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "iv. Limits on use of data from the AI Services. You may not use the AI services, or data from the AI services, to create, train, or improve (directly or indirectly) any other AI service."
+      ],
+      "new": [
+        "iv. Limits on use of data from the AI Services. You may not use the AI services, or data from the AI services, to create, train, or improve (directly or indirectly) any AI technology."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "vii. Content credentials. When you use AI to generate certain content with our AI services, Microsoft stores information about its creation and associates this information and the content with a content credential. You may not create content with the purpose of removing or altering content credentials or other provenance methods, marks or signals that indicate that an output was generated by the AI services or otherwise use the AI services to create content for the purpose of misleading others about whether an output was generated by the AI services."
+      ],
+      "new": [
+        "vii. Content credentials. When you use the AI services to generate content, Microsoft may store information about the content and associate this information and the content with content credentials. You may not use the AI services or create content with the purpose of removing, altering, obscuring, or hiding content credentials or other provenance methods, marks or signals or otherwise use the AI services to generate content for the purpose of misleading others about whether content was generated by using the AI services."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "1. To make decisions or take actions without appropriate human oversight that may have a consequential impact on any person’s legal position, financial position, life opportunities, employment opportunities, or human rights, or may result in physical or psychological harm to a person or group of persons;",
+        "2. To deceive or intentionally misinform (e.g., false advertising), or deploy subliminal techniques (e.g., visual, auditory, or other signals beyond a normal person’s range of perception) with the intent to manipulate or distort the behavior of a person in a way that causes harm;",
+        "3. To exploit any of the vulnerabilities of a person due to their age, disability, or a specific socio- or economic situation, with the objective, or the effect, of materially distorting the behavior of that person or a person belonging to that group in a manner that causes or is reasonably likely to cause that person or another person significant harm;",
+        "4. For social scoring or predictive profiling that would lead to discriminatory, unfair, biased, detrimental, unfavorable, or harmful treatment of certain persons or groups of persons;",
+        "5. For the assessment of criminality risk of natural persons based solely on the profiling of a natural person or on assessing their personality traits and characteristics. This prohibition shall not apply to AI services used to support the human assessment of the involvement of a person in a criminal activity, which is already based on objective and verifiable facts directly linked to a criminal activity;",
+        "6. Based on their biometric data, to categorize people or to deduce or infer their race, political opinions, trade union membership, religious or philosophical beliefs, or sex life or sexual orientation, except for any labelling or filtering of lawfully acquired biometric datasets, such as images, based on biometric data or categorizing of biometric data in the area of law enforcement;",
+        "7. To create or expand facial recognition databases through the untargeted scraping of facial images from the internet or CCTV footage;",
+        "8. For any real-time facial recognition technology on mobile cameras used by any law enforcement globally to attempt to identify individuals in uncontrolled, \"in the wild\" environments, which includes (without limitation) police officers on patrol using body-worn or dash-mounted cameras using facial recognition technology to attempt to identify individuals present in a database of suspects or prior inmates; or",
+        "9. To attempt to infer people’s emotional states from their physical, physiological, or behavioral characteristics (e.g., facial expressions, facial movements, or speech patterns), including inferring emotions such as anger, disgust, happiness, sadness, surprise, fear, or other terms commonly used to describe a person’s emotional state.",
+        "## Communications Services",
+        "t. Communications Services. Services that enable communication between individuals, including but not limited to Skype, Teams, Outlook, and GroupMe, are governed by supplemental use terms located at https://aka.ms/useterms together with these Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Copyright and trademark notices. The Services are copyright © Microsoft Corporation and/or its suppliers, One Microsoft Way, Redmond, WA 98052, U.S.A. All rights reserved. The Terms incorporate Microsoft Trademark & Brand Guidelines (https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general.aspx) (as amended from time to time). Microsoft and the names, logos, and icons of all Microsoft products, software, and services may be either unregistered or registered trademarks of the Microsoft group of companies in the United States and/or other jurisdictions. The following is a non-exhaustive list of Microsoft’s trademarks (https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/en-us.aspx). The names of actual companies and products may be the trademarks of their respective owners. Any rights not expressly granted in these Terms are reserved. Certain software used in certain Microsoft website servers is based in part on the work of the Independent JPEG Group. Copyright © 1991-1996 Thomas G. Lane. All rights reserved. \"gnuplot\" software used in certain Microsoft website servers is copyright © 1986-1993 Thomas Williams, Colin Kelley. All rights reserved.",
+        "Medical notice. Microsoft does not provide medical or any other health care advice, diagnosis, or treatment. Always seek",
+        "the advice of your physician or other qualified health care provider with any questions you may have regarding a medical",
+        "condition, diet, fitness, or wellness program. Never disregard professional medical advice or delay in seeking it because",
+        "of information you accessed on or through the Services.",
+        "Stock quotes and index data (including index values). Financial information provided through the Services is for your personal, noncommercial use only.",
+        "You may not use any of the finance data or marks of any third-party licensor in connection with the issuance, creation, sponsorship, trading, marketing,",
+        "or promotion of any financial instruments or investment products (for example, indices, derivatives, structured products, investment",
+        "funds, exchange-traded funds, investment portfolios, etc., where the price, return and/or performance of the instrument or",
+        "investment product is based on, related to, or intended to track any of the finance data) without",
+        "a separate written agreement with the third-party licensor.",
+        "Financial notice. Microsoft isn't a broker/dealer or registered investment advisor under United States federal",
+        "securities law or securities laws of other jurisdictions and doesn't advise individuals as to the advisability of investing",
+        "in, purchasing, or selling securities or other financial products or services. Nothing contained in the Services is an offer",
+        "or solicitation to buy or sell any security. Neither Microsoft nor its licensors of stock quotes or index data endorse or",
+        "recommend any particular financial products or services. Nothing in the Services is intended to be professional advice,",
+        "including without limitation, investment or tax advice.",
+        "Tax Notices. Please review our tax notification page ( https://aka.ms/taxservice ) for U.S. state and local sales/use tax information.",
+        "Notice about the H.264/AVC and VC-1 Video Standards. The software may include H.264/AVC and/or VC-1 codec technology that is",
+        "licensed by MPEG LA, L.L.C. This technology is a format for data compression of video information. MPEG LA, L.L.C. requires this notice:",
+        "THIS PRODUCT IS LICENSED UNDER THE H.264/AVC, AND THE VC-1 PATENT PORTFOLIO LICENSES FOR THE PERSONAL AND",
+        "NONCOMMERCIAL USE OF A CONSUMER TO (A) ENCODE VIDEO IN COMPLIANCE WITH THE STANDARDS (\"VIDEO STANDARDS\") AND/OR",
+        "(B) DECODE H.264/AVC, AND VC-1 VIDEO THAT WAS ENCODED BY A CONSUMER ENGAGED IN A PERSONAL AND NONCOMMERCIAL",
+        "ACTIVITY AND/OR WAS OBTAINED FROM A VIDEO PROVIDER LICENSED TO PROVIDE SUCH VIDEO. NO LICENSE IS GRANTED OR SHALL",
+        "BE IMPLIED FOR ANY OTHER USE. ADDITIONAL INFORMATION MAY BE OBTAINED FROM MPEG LA, L.L.C. SEE THE MPEG LA WEBSITE (https://www.mpegla.com).",
+        "For clarification purposes only, this notice does not limit or inhibit the use of the software provided under these Terms",
+        "for normal business uses that are personal to that business which do not include (i) redistribution of the software to third",
+        "parties, or (ii) creation of material with the VIDEO STANDARDS compliant technologies for distribution to third parties."
+      ],
+      "new": [
+        "Copyright and trademark notices. The Services are copyright © Microsoft Corporation and/or its suppliers, One Microsoft Way, Redmond, WA 98052, U.S.A. All rights reserved. The Terms incorporate Microsoft Trademark & Brand Guidelines (https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks) (as amended from time to time). Microsoft and the names, logos, and icons of all Microsoft products, software, and services may be either unregistered or registered trademarks of the Microsoft group of companies in the United States and/or other jurisdictions. The following is a non-exhaustive list of Microsoft’s trademarks (https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mscle/documents/presentations/TrademarksListFY25Q3.pdf). The names of actual companies and products may be the trademarks of their respective owners. Any rights not expressly granted in these Terms are reserved. Certain software used in certain Microsoft website servers is based in part on the work of the Independent JPEG Group. Copyright © 1991-1996 Thomas G. Lane. All rights reserved. \"gnuplot\" software used in certain Microsoft website servers is copyright © 1986-1993 Thomas Williams, Colin Kelley. All rights reserved.",
+        "Medical notice. Microsoft does not provide medical or any other health care advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health care provider with any questions you may have regarding a medical condition, diet, fitness, or wellness program. Never disregard professional medical advice or delay in seeking it because of information you accessed on or through the Services.",
+        "Stock quotes and index data (including index values). Financial information provided through the Services is for your personal, noncommercial use only. You may not use any of the finance data or marks of any third-party licensor in connection with the issuance, creation, sponsorship, trading, marketing, or promotion of any financial instruments or investment products (for example, indices, derivatives, structured products, investment funds, exchange-traded funds, investment portfolios, etc., where the price, return and/or performance of the instrument or investment product is based on, related to, or intended to track any of the finance data) without a separate written agreement with the third-party licensor.",
+        "Financial notice. Microsoft isn't a broker/dealer or registered investment advisor under United States federal securities law or securities laws of other jurisdictions and doesn't advise individuals as to the advisability of investing in, purchasing, or selling securities or other financial products or services. Nothing contained in the Services is an offer or solicitation to buy or sell any security. Neither Microsoft nor its licensors of stock quotes or index data endorse or recommend any particular financial products or services. Nothing in the Services is intended to be professional advice, including without limitation, investment or tax advice.",
+        "Notice about the H.264/AVC and VC-1 Video Standards. The software may include H.264/AVC and/or VC-1 codec technology that is licensed by MPEG LA, L.L.C. This technology is a format for data compression of video information. MPEG LA, L.L.C. requires this notice:",
+        "THIS PRODUCT IS LICENSED UNDER THE H.264/AVC, AND THE VC-1 PATENT PORTFOLIO LICENSES FOR THE PERSONAL AND NONCOMMERCIAL USE OF A CONSUMER TO (A) ENCODE VIDEO IN COMPLIANCE WITH THE STANDARDS (\"VIDEO STANDARDS\") AND/OR (B) DECODE H.264/AVC, AND VC-1 VIDEO THAT WAS ENCODED BY A CONSUMER ENGAGED IN A PERSONAL AND NONCOMMERCIAL ACTIVITY AND/OR WAS OBTAINED FROM A VIDEO PROVIDER LICENSED TO PROVIDE SUCH VIDEO. NO LICENSE IS GRANTED OR SHALL BE IMPLIED FOR ANY OTHER USE. ADDITIONAL INFORMATION MAY BE OBTAINED FROM MPEG LA, L.L.C. SEE THE MPEG LA WEBSITE (https://www.mpegla.com).",
+        "For clarification purposes only, this notice does not limit or inhibit the use of the software provided under these Terms for normal business uses that are personal to that business which do not include (i) redistribution of the software to third parties, or (ii) creation of material with the VIDEO STANDARDS compliant technologies for distribution to third parties."
+      ]
+    }
+  ]
+}

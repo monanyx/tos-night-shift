@@ -1,0 +1,37 @@
+{
+  "id": "2026-10-06-pinterest-terms",
+  "service": "pinterest",
+  "service_name": "Pinterest",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://policy.pinterest.com/en/terms-of-service",
+  "detected_at": "2026-10-06T14:35:33+00:00",
+  "source": "wayback",
+  "window_start": "2026-04-19T17:19:55+00:00",
+  "archive_before": "https://web.archive.org/web/20260419171955/https://policy.pinterest.com/en/terms-of-service",
+  "archive_after": "https://web.archive.org/web/20261006143533/https://policy.pinterest.com/en/terms-of-service",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 19,
+    "removed_words": 0
+  },
+  "headline": "Pinterest bumped the date on its Terms of Service",
+  "summary": "Only the 'last updated' line changed in the text we can see. Either it's housekeeping, or the change is somewhere we can't read. Keeping an eye on it.",
+  "receipt": "*We're updating our Terms of Service, effective November 12, 2026. You can preview the updated Terms of Service here.*",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "cosmetic"
+  ],
+  "summary_source": "date-only",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "*We're updating our Terms of Service, effective November 12, 2026. You can preview the updated Terms of Service here.*"
+      ]
+    }
+  ]
+}

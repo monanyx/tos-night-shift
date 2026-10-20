@@ -1,0 +1,186 @@
+{
+  "id": "2024-07-01-pinterest-terms",
+  "service": "pinterest",
+  "service_name": "Pinterest",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://policy.pinterest.com/en/terms-of-service",
+  "detected_at": "2024-07-01T03:09:54+00:00",
+  "source": "wayback",
+  "window_start": "2024-04-15T00:26:39+00:00",
+  "archive_before": "https://web.archive.org/web/20240415002639/https://policy.pinterest.com/en/terms-of-service",
+  "archive_after": "https://web.archive.org/web/20240701030954/https://policy.pinterest.com/en/terms-of-service",
+  "flags": [],
+  "stats": {
+    "hunks": 21,
+    "added_words": 117,
+    "removed_words": 44
+  },
+  "headline": "Pinterest edited its Terms of Service",
+  "summary": "117 words added and 44 removed across 21 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "- Our Community Guidelines, which explain what is and isn’t allowed on Pinterest;",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "removed",
+      "old": [
+        "If you are located in the EEA, UK, and Switzerland, you can view your current Terms of Service here. The Terms of Service below will be effective for the EEA, UK, and Switzerland on April 30, 2024."
+      ],
+      "new": []
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- Our Community Guidelines, which explain what is and isn’t allowed on Pinterest;",
+        "- Our Advertising Guidelines and Merchant Guidelines, which explain additional policies that apply to ads and merchants on Pinterest; and",
+        "- Our Enforcement practices, which explain how we put our policies into practice, including restrictions we may impose on your content on or use of Pinterest."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "More simply put"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "More simply put"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "More simply put"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "More simply put"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "More simply put"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "More simply put"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "More simply put"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "More simply put"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "More simply put"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "More simply put"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "More simply put"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "More simply put"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "More simply put"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "More simply put"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "A party with a dispute must first send us a Notice of Dispute, which must include your full name; your Pinterest profile name (which begins @); the email address associated with your Pinterest account; your country of residence and, if you are a U.S. resident, your state of residence; your counsel, if you are represented by counsel; a detailed description of both the dispute and the alleged harm; and your signature. That information should be emailed to litigation \\[at\\] pinterest.com (litigation\\[at\\]pinterest\\[dot\\]com). The notice can only be sent on behalf of an individual party; a Notice of Dispute that asserts the rights of more than one party is ineffective. After receiving the Notice of Dispute, Pinterest will respond within 60 days to attempt to resolve the dispute amicably. After the 60-day period has elapsed, either party may initiate arbitration.",
+        "<u>**Arbitration**</u>: If we haven’t been able to resolve the dispute through the mandatory processes above, you and we each agree to resolve any claim, dispute, or controversy arising out of or relating to these Terms or the Service through binding arbitration or, for qualifying claims, in small claims court."
+      ],
+      "new": [
+        "A party with a dispute must first send us a Notice of Dispute, which must include your full name; your Pinterest profile name (which begins @); the email address associated with your Pinterest account; your country of residence and, if you are a U.S. resident, your state of residence; your counsel, if you are represented by counsel; a detailed description of both the dispute and the alleged harm; and your signature. That information should be emailed to litigation@pinterest.com. The notice can only be sent on behalf of an individual party; a Notice of Dispute that asserts the rights of more than one party is ineffective. After receiving the Notice of Dispute, Pinterest will respond within 60 days to attempt to resolve the dispute amicably. After the 60-day period has elapsed, either party may initiate arbitration.",
+        "**Arbitration**: If we haven’t been able to resolve the dispute through the mandatory processes above, you and we each agree to resolve any claim, dispute, or controversy arising out of or relating to these Terms or the Service through binding arbitration or, for qualifying claims, in small claims court."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "<u>**Batched Arbitration**</u>: To provide a more efficient arbitration process, you and we each agree that if 50 or more similar arbitration demands are filed within a 60-day period or with the assistance of the same law firm or group of law firms, AAA will consolidate the arbitration demands. For each batch, AAA will administer one set of filing and administrative fees per side, per batch, and AAA will appoint one arbitrator to resolve each batch as a single consolidated arbitration. Arbitration demands are similar if they arise from similar facts and raise similar legal issues while seeking similar relief. Any dispute about similarity will be submitted to a single arbitrator, whose fees will be paid by us."
+      ],
+      "new": [
+        "**Batched Arbitration**: To provide a more efficient arbitration process, you and we each agree that if 50 or more similar arbitration demands are filed within a 60-day period or with the assistance of the same law firm or group of law firms, AAA will consolidate the arbitration demands. For each batch, AAA will administer one set of filing and administrative fees per side, per batch, and AAA will appoint one arbitrator to resolve each batch as a single consolidated arbitration. Arbitration demands are similar if they arise from similar facts and raise similar legal issues while seeking similar relief. Any dispute about similarity will be submitted to a single arbitrator, whose fees will be paid by us.",
+        "More simply put"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "More simply put"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "More simply put"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "More simply put"
+      ]
+    }
+  ]
+}

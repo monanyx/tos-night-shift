@@ -1,0 +1,156 @@
+{
+  "id": "2025-07-17-reddit-terms",
+  "service": "reddit",
+  "service_name": "Reddit",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://redditinc.com/policies/user-agreement",
+  "detected_at": "2025-07-17T02:08:46+00:00",
+  "source": "wayback",
+  "window_start": "2025-04-17T15:05:52+00:00",
+  "archive_before": "https://web.archive.org/web/20250417150552/https://redditinc.com/policies/user-agreement",
+  "archive_after": "https://web.archive.org/web/20250717020846/https://redditinc.com/policies/user-agreement",
+  "flags": [],
+  "stats": {
+    "hunks": 14,
+    "added_words": 66,
+    "removed_words": 60
+  },
+  "headline": "Reddit edited its Terms of Service",
+  "summary": "66 words added and 60 removed across 14 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Effective June 28, 2025.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Effective September 24, 2024. Last Revised September 24, 2024"
+      ],
+      "new": [
+        "Effective June 28, 2025. Last Revised May 29, 2025"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "No one under 13 is allowed to use or access the Services. We may offer additional Services that require you to be older to use them, so please read all notices and any Additional Terms carefully when you access the Services."
+      ],
+      "new": [
+        "No one under 13 is allowed to use or access the Services. Parts of our Services require you to be older to use them. For example, you must be at least 18 years old to view mature content on Reddit. Please read all notices and any Additional Terms carefully when you access the Services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "When using or accessing the Services, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Reddit Rules, which is incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the Reddit Rules, you may not do any of the following:"
+      ],
+      "new": [
+        "When using or accessing the Services, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Reddit Rules, which are incorporated by this reference into, and made a part of, these Terms and contain our rules about prohibited content and conduct. In addition to what is prohibited in the Reddit Rules, you may not do any of the following:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If we remove Your Content in response to a copyright or trademark notice, we will notify you via Reddit’s private messaging system. If you believe Your Content was wrongly removed due to a mistake or misidentification in a copyright notice, you can send a counter notification via our Copyright Counter Notice Form or to our Copyright Agent (contact information provided above). Please see 17 U.S.C. § 512(g)(3) for the requirements of a proper counter notification."
+      ],
+      "new": [
+        "If we remove Your Content in response to a copyright or trademark notice, we will notify you. If you believe Your Content was wrongly removed due to a mistake or misidentification in a copyright notice, you can send a counter notification via our Copyright Counter Notice Form or to our Copyright Agent (contact information provided above). Please see 17 U.S.C. § 512(g)(3) for the requirements of a proper counter notification."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "To the fullest extent permitted by applicable law, any claims arising out of or relating to these Terms or the Services will be governed by the laws of the State of California, without regard to its conflict of laws rules; all disputes related to these Terms or the Services will be brought solely in the federal or state courts located in San Francisco, California, and you and Reddit consent to personal jurisdiction in these courts."
+      ],
+      "new": [
+        "To the fullest extent permitted by applicable law, any claims you bring arising out of or relating to these Terms or the Services will be governed by the laws of the State of California, without regard to its conflict of laws rules; all disputes related to these Terms or the Services will be brought solely in the federal or state courts located in San Francisco, California, and you and Reddit consent to personal jurisdiction in these courts."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our sole discretion, are material, we may also notify you by sending an email to the address associated with your Account (if you have chosen to provide an email address) or by otherwise providing you with notice through our Services. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective."
+      ],
+      "new": [
+        "We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our sole discretion, are material, we may also notify you by sending an email to the address associated with your Account or by otherwise providing you with notice through our Services. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- If you use any Paid Services, you must also agree to the Reddit Econ Terms."
+      ],
+      "new": [
+        "- If you use any Paid Services or Digital Goods, you must also agree to the Reddit Econ Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You may terminate these Terms at any time and for any reason by deleting your Account and discontinuing use of all Services. If you stop using the Services without deactivating your Account, your Account may be deactivated due to prolonged inactivity."
+      ],
+      "new": [
+        "You may terminate these Terms at any time and for any reason by deleting your Account and discontinuing use of all Services. If you stop using the Services without deleting your Account, your Account may be deactivated due to prolonged inactivity."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "No one under 13 is allowed to use or access the Services. We may offer additional Services that require you to be older to use them, so please read all notices and any Additional Terms carefully when you access the Services."
+      ],
+      "new": [
+        "No one under 13 is allowed to use or access the Services. Parts of our Services require you to be older to use them. For example, you must be at least 18 years old to view mature content on Reddit. Please read all notices and any Additional Terms carefully when you access the Services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "When using or accessing Reddit, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Reddit Rules, which is incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the Reddit Rules, you may not do any of the following:"
+      ],
+      "new": [
+        "When using or accessing Reddit, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the Reddit Rules, which are incorporated by this reference into, and made a part of, these Terms and contain our rules about prohibited content and conduct. In addition to what is prohibited in the Reddit Rules, you may not do any of the following:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If we remove Your Content in response to a copyright or trademark notice, we will notify you via Reddit’s private messaging system. If you believe Your Content was wrongly removed due to a mistake or misidentification in a copyright notice, you can send a counter notification via our Copyright Counter Notice Form or to our Copyright Agent (contact information provided above). Please see 17 U.S.C. § 512(g)(3) for the requirements of a proper counter notification."
+      ],
+      "new": [
+        "If we remove Your Content in response to a copyright or trademark notice, we will notify you. If you believe Your Content was wrongly removed due to a mistake or misidentification in a copyright notice, you can send a counter notification via our Copyright Counter Notice Form or to our Copyright Agent (contact information provided above). Please see 17 U.S.C. § 512(g)(3) for the requirements of a proper counter notification."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our reasonable discretion, are material, we will notify you by sending an email to the address associated with your Account (if you have chosen to provide an email address) or by otherwise providing you with notice through our Services at least 30 days before the date they become effective. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective."
+      ],
+      "new": [
+        "We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our reasonable discretion, are material, we will notify you by sending an email to the address associated with your Account or by otherwise providing you with notice through our Services at least 30 days before the date they become effective. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- If you use any Paid Services, you must also agree to the Reddit Econ Terms."
+      ],
+      "new": [
+        "- If you use any Paid Services or Digital Goods, you must also agree to the Reddit Econ Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You may terminate these Terms at any time and for any reason by deleting your Account and discontinuing use of all Services. If you stop using the Services without deactivating your Account, your Account may be deactivated due to prolonged inactivity."
+      ],
+      "new": [
+        "You may terminate these Terms at any time and for any reason by deleting your Account and discontinuing use of all Services. If you stop using the Services without deleting your Account, your Account may be deactivated due to prolonged inactivity."
+      ]
+    }
+  ]
+}

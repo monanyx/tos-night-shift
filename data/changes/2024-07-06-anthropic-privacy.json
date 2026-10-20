@@ -1,0 +1,271 @@
+{
+  "id": "2024-07-06-anthropic-privacy",
+  "service": "anthropic",
+  "service_name": "Anthropic (Claude)",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.anthropic.com/legal/privacy",
+  "detected_at": "2024-07-06T08:22:06+00:00",
+  "source": "wayback",
+  "window_start": "2024-05-01T10:58:40+00:00",
+  "archive_before": "https://web.archive.org/web/20240501105840/https://www.anthropic.com/legal/privacy",
+  "archive_after": "https://web.archive.org/web/20240706082206/https://www.anthropic.com/legal/privacy",
+  "flags": [
+    {
+      "tag": "ai-training",
+      "label": "AI training",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 22,
+    "added_words": 838,
+    "removed_words": 197
+  },
+  "headline": "Anthropic (Claude) rewrote its Privacy Policy — new wording on AI training",
+  "summary": "838 words added and 197 removed across 22 sections. New wording touches: AI training. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "### Personal data we collect or receive to train our models",
+  "receipt_side": "new",
+  "sideeye": 3,
+  "tags": [
+    "ai-training"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "This Privacy Policy explains how we collect, use, disclose, and process your personal data when you use our website and other places where Anthropic may act as a data controller and link to this Privacy Policy—for example, when you interact with Claude.ai or other products as a consumer for personal use (\"**Services**\")."
+      ],
+      "new": [
+        "This Privacy Policy explains how we collect, use, disclose, and process your personal data when you use our website and other places where Anthropic may act as a *data controller* and link to this Privacy Policy—for example, when you interact with Claude.ai or other products as a consumer for personal use (\"**Services**\") or when Anthropic operates and provides our commercial customers and their end users with access to our commercial products, such as the Claude Team plan (“**Commercial Services**”).",
+        "This Privacy Policy does not apply where Anthropic acts as a *data processor* and processes personal data on behalf of commercial customers using Anthropic’s Commercial Services – for example, when a commercial customer or their end user includes personal data in Inputs (defined below). In those cases, the commercial customer is the controller, and you can review their policies for more information about how they handle your personal data."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "If you are located in Canada, please read section 8 of the Privacy Policy which applies to you."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Identity and Contact Data:** Anthropic collects identifiers, such as your name, email address, and phone number when you sign up for an Anthropic account, or to receive information on our Services. We may also collect indirect identifiers (e.g., “USER12345”)."
+      ],
+      "new": [
+        "- **Identity and Contact Data:** Anthropic collects identifiers, such as your name, email address, and phone number when you sign up for an Anthropic account, or to receive information on our Services. We may also collect or generate indirect identifiers (e.g., “USER12345”)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Feedback on your use of our Services:** We appreciate feedback, including ideas and suggestions for improvement or rating an Output in response to an Input. If you rate an Output in response to an Input—for example, by using the thumbs up/thumbs down icon—we will store the related conversation as part of your Feedback.",
+        "- **Communication Information:** If you communicate with us, we collect your name, contact information, and the contents of any messages you send."
+      ],
+      "new": [
+        "- **Feedback on your use of our Services:** We appreciate feedback, including ideas and suggestions for improvement or rating an Output in response to an Input (\"**Feedback**\"). If you rate an Output in response to an Input—for example, by using the thumbs up/thumbs down icon—we will store the related conversation as part of your Feedback.",
+        "- **Communication Information:** If you communicate with us, including via our social media accounts, we collect your name, contact information, and the contents of any messages you send."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Cookies & Similar Technologies.** We and our service providers use cookies, scripts, or similar technologies (“cookies”) to manage the Services and to collect information about you and your use of the Services. These technologies help us to recognize you, customize or personalize your experience, market additional products or services to you, and analyze the use of our Services to make it more useful to you. For more details about how we use these technologies, and your opt-out controls and other options, please visit our Cookie Policy.",
+        "### Personal data we receive indirectly to train our models",
+        "Anthropic obtains personal data from third party sources in order to train our models. We take steps to minimize the privacy impact on individuals through the training process. Learn more here.",
+        "## 2. Uses of Personal Data and our Legal Bases under European data protection laws",
+        "We will only use your personal data when the law allows us to. Usually, we rely on the following grounds under European data protection laws (our “**Legal Bases**”):",
+        "- Where we need it to perform a **contract** with you. For example, we process Identity and Contact Data, Inputs, Outputs and Payment Information in order to provide Services to you."
+      ],
+      "new": [
+        "- **Cookies & Similar Technologies.** We and our service providers use cookies, scripts, or similar technologies (“**Cookies**”) to manage the Services and to collect information about you and your use of the Services. These technologies help us to recognize you, customize or personalize your experience, market additional products or services to you, and analyze the use of our Services to make them safer and more useful to you. For more details about how we use these technologies, and your opt-out controls and other options, please visit our Cookie Policy.",
+        "### Personal data we collect or receive to train our models",
+        "Anthropic obtains personal data from third party sources in order to train our models. Specifically, we train our models using data from three sources:",
+        "- Publicly available information via the Internet",
+        "- Datasets that we license from third party businesses",
+        "- Data that our users or crowd workers provide",
+        "We take steps to minimize the privacy impact on individuals through the training process. Learn more here.",
+        "## 2. Uses of Personal Data Permitted Under Applicable Data Protection Laws",
+        "We will only use your personal data in accordance with applicable laws. We rely on the following grounds where permitted under and in accordance with data protection laws, such as in the European Union (our “**Legal Bases**”):",
+        "- Where we need it to perform a **contract** with you. For example, we process Identity and Contact Data, Inputs, Outputs and Payment Information in order to provide Services to you. In circumstances where we do not have a contract with you, such as where you are an end user of our Commercial Services, we instead rely on our legitimate interests."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- research and developing, including developing new products and features;"
+      ],
+      "new": [
+        "- research and development, including developing new products and features;"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We will not use your Inputs or Outputs to train our models, unless: (1) your conversations are flagged for Trust & Safety review (in which case we may use or analyze them to improve our ability to detect and enforce our Acceptable Use Policy, including training models for use by our Trust and Safety team, consistent with Anthropic’s safety mission), or (2) you’ve explicitly reported the materials to us (for example via our feedback mechanisms), or (3) by otherwise explicitly opting in to training."
+      ],
+      "new": [
+        "We will not use your Inputs or Outputs to train our models, unless: (1) your conversations are flagged for Trust & Safety review (in which case we may use or analyze them to improve our ability to detect and enforce our Usage Policy, including training models for use by our Trust and Safety team, consistent with Anthropic’s safety mission), or (2) you’ve explicitly reported the materials to us (for example via our feedback mechanisms), or (3) you've otherwise explicitly opted in to the use of your Inputs and Outputs for training purposes."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| To provide and facilitate the Services with you with respect to your Anthropic account, which are governed by our Terms of Service | Identity and Contact Data Payment Information Feedback | Contract |"
+      ],
+      "new": [
+        "| To provide, maintain and facilitate any products and services offered to you with respect to your Anthropic account, which are governed by our Terms of Service | Identity and Contact Data Payment Information Feedback Inputs and Outputs | Contract |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| To prevent and investigate fraud, unlawful or criminal activity, unauthorized access to or use of personal data or Anthropic systems and networks, and to meet governmental and institutional policy obligations | Identity and Contact Data Payment Information Inputs and Outputs Technical Information | Legitimate interests Legal obligation It is our legitimate interest to protect our business, employees and users from illegal activities, inappropriate behavior or violations of terms that would be detrimental. We also have a duty to cooperate with authorities. |"
+      ],
+      "new": [
+        "| To prevent and investigate fraud, abuse, and violations of our Usage Policy, unlawful or criminal activity, unauthorized access to or use of personal data or Anthropic systems and networks, to protect our rights and the rights of others, and to meet legal, governmental and institutional policy obligations | Identity and Contact Data Payment Information Inputs and Outputs Technical Information | Legitimate interests Legal obligation It is our legitimate interest to protect our business, employees and users from illegal activities, inappropriate behavior or violations of terms that would be detrimental. We also have a duty to cooperate with authorities. |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| To investigate and resolve security issues | Identity and Contact Data Feedback Technical Information | Legal obligation Legitimate interests It is our legitimate interest to protect user data and our systems from intrusion or compromise through monitoring and swift response. We also have a legal obligation to provide adequate security safeguards. |"
+      ],
+      "new": [
+        "| To investigate and resolve security issues | Identity and Contact Data Feedback Technical Information Inputs and Outputs | Legal obligation Legitimate interests It is our legitimate interest to protect user data and our systems from intrusion or compromise through monitoring and swift response. We also have a legal obligation to provide adequate security safeguards. |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| To de-identify it and train our AI models | Inputs and Outputs Feedback Technical Information | Legitimate interests It is our legitimate interest to utilize de-identified data to improve our AI models. This enables us to provide more accurate and helpful services over time based on real-world usage. |",
+        "| To enforce our Terms of Service and similar terms and agreements, including our Acceptable Use Policy. | Identity and Contact Data Inputs and Outputs Technical Information | Contract In certain circumstances outside of the performance of our contract with you, we may rely on legitimate interests.It is our legitimate interest to enforce the rules and policies governing use of our services, to maintain intended functionality and value for users. We aim to provide a safe, useful platform. |"
+      ],
+      "new": [
+        "| To de-identify personal data and train our AI models | Inputs and Outputs Feedback Technical Information | Legitimate interests It is our legitimate interest to utilize de-identified data to improve our AI models. This enables us to provide more accurate and helpful services over time based on real-world usage. |",
+        "| To enforce our Terms of Service and similar terms and agreements, including our Usage Policy. | Identity and Contact Data Inputs and Outputs Technical Information | Contract Legitimate interests In certain circumstances outside of the performance of our contract with you, we may rely on legitimate interests.It is our legitimate interest to enforce the rules and policies governing use of our services, to maintain intended functionality and value for users. We aim to provide a safe, useful platform. |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **To comply with regulatory or legal requirements, safety and to enforce our terms.** We may disclose personal data to governmental regulatory authorities as required by law, including for tax or accounting purposes, in response to their requests for such information or to assist in investigations. We may also disclose personal data to third parties in connection with claims, disputes or litigation, when otherwise required by law, or if we determine its disclosure is necessary to protect the health and safety of you or any other person, to protect against fraud or credit risk, or to enforce our legal rights or contractual commitments that you have made.",
+        "- **With an individuals’ consent.** Anthropic will otherwise disclose personal data when an individual gives us permission or directs us to disclose this information."
+      ],
+      "new": [
+        "- **Pursuant to regulatory or legal requirements, safety, rights of others, and to enforce our rights or our terms.** We may disclose personal data to governmental regulatory authorities as required by law, including for legal, tax or accounting purposes, in response to their requests for such information or to assist in investigations. We may also disclose personal data to third parties in connection with claims, disputes or litigation, when otherwise permitted or required by law, or if we determine its disclosure is necessary to protect the health and safety of you or any other person, to protect against fraud or credit risk, to enforce our legal rights or the legal rights of others, to enforce contractual commitments that you have made, or as otherwise permitted or required by applicable law.",
+        "- **With an individual's consent.** Anthropic will otherwise disclose personal data when an individual gives us permission or directs us to disclose this information.",
+        "You can find information on our Subprocessor List about the third parties Anthropic engages to help us process personal data provided to us where Anthropic acts as a data processor, such as with respect to personal data we receive, process, store, or host when you use Anthropic's commercial services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Subject to applicable law and depending on where you reside, you may have some rights regarding your personal data, as described further below. Anthropic will not discriminate based on the exercising of privacy rights you may have."
+      ],
+      "new": [
+        "Subject to applicable law and depending on where you reside, you may have some rights regarding your personal data, as described further below. We make efforts to respond to such requests. However, please be aware that these rights are limited, and that the process by which we may need to action your requests regarding our training dataset are complex. Anthropic will not discriminate based on the exercising of privacy rights you may have."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Access & data portability.** You may have the right to request a copy of the personal data Anthropic processes about you, subject to certain exceptions. In certain cases and subject to applicable law, you have the right to port your information.",
+        "- **Deletion.** You may have the right to request that we delete personal data collected from you and retained, subject to certain exceptions. Learn more here."
+      ],
+      "new": [
+        "- **Access & data portability.** You may have the right to request a copy of the personal data Anthropic processes about you, subject to certain exceptions and conditions. In certain cases and subject to applicable law, you have the right to port your information.",
+        "- **Deletion.** You may have the right to request that we delete personal data collected from you when you use our Services, subject to certain exceptions. You also are able to delete individual conversations, which will be removed immediately from your conversation history and automatically deleted from our back-end within 30 days. Learn more here."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Objection.** You may have a right to object to processing of your personal data, including profiling conducted on grounds of public or legitimate interest. We will no longer process the personal data in case of such objection unless we demonstrate compelling legitimate grounds for the processing which override your interests, rights, and freedoms, or for the establishment, exercise or defense of legal claims. If we use your information for direct marketing, you can object and opt out of future direct marketing messages using the unsubscribe link in such communications."
+      ],
+      "new": [
+        "- **Objection.** You may have a right to object to processing of your personal data, including profiling conducted on grounds of public or legitimate interest. In places where such a right applies, we will no longer process the personal data in case of such objection unless we demonstrate compelling legitimate grounds for the processing which override your interests, rights, and freedoms, or for the establishment, exercise or defense of legal claims. If we use your information for direct marketing, you can object and opt out of future direct marketing messages using the unsubscribe link in such communications."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Withdrawal of consent.** Where Anthropic’s processing of your personal data is based on consent, per the table in Section 2 above, you have the right to withdraw your consent. The withdrawal of consent will not affect the lawfulness of processing based on consent before its withdrawal."
+      ],
+      "new": [
+        "- **Withdrawal of consent.** Where Anthropic’s processing of your personal data is based on consent, you have the right to withdraw your consent. The withdrawal of consent will not affect the lawfulness of processing based on consent before its withdrawal."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "When the personal data collected is no longer required by us, we and our service providers will perform the necessary procedures for destroying, deleting, erasing, or converting it into an anonymous form as permitted or required under applicable laws."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We may process personal data in an aggregated or de-identified form to analyze the effectiveness of our Services, conduct research, study user behavior, and train our AI models. For instance:"
+      ],
+      "new": [
+        "We may process personal data in an aggregated or de-identified form to analyze the effectiveness of our Services, conduct research, study user behavior, and train our AI models as permitted under applicable laws. For instance:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- If our systems flag Inputs or Outputs for potentially violating our Acceptable Use Policy, we disassociate the content from your user ID to train our trust and safety classification models and internal generative models. However, we may re-identify the materials to enforce our Acceptable Use Policy with the responsible user if necessary."
+      ],
+      "new": [
+        "- If our systems flag Inputs or Outputs for potentially violating our Usage Policy, we disassociate the content from your user ID to train our trust and safety classification models and internal generative models. However, we may re-identify the materials to enforce our Usage Policy with the responsible user if necessary."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Our Services are not directed towards, and we do not knowingly collect, sell, or share any information about, children under the age of 18. If you become aware that a child under the age of 18 has provided any personal data to us while using our Services, please email us at privacy@anthropic.com and we will investigate the matter and, if appropriate, delete the personal data.",
+        "## 8. Changes to Our Privacy Policy"
+      ],
+      "new": [
+        "Our Services are not directed towards, and we do not knowingly collect, use, disclose, sell, or share any information about, children under the age of 18. If you become aware that a child under the age of 18 has provided any personal data to us while using our Services, please email us at privacy@anthropic.com and we will investigate the matter and, if appropriate, delete the personal data.",
+        "## 8. Supplemental Disclosures for Residents of Canada",
+        "These supplemental disclosures contain additional information relevant to residents of Canada. This content should be read in conjunction with the rest of our Privacy Policy. In case of conflict between our Privacy Policy and these supplemental disclosures, the supplemental disclosures shall prevail in relation to residents of Canada.",
+        "**Consent.** By expressly consenting to this Privacy Policy, you confirm you have read, understand, and consent to the collection, use, processing, and disclosure of your personal data in accordance with this Privacy Policy and understand that, in jurisdictions where it is available, Anthropic also relies on other lawful bases for the foregoing as more fully set out in this policy. We will only collect, use and disclose your personal data with your consent, unless otherwise permitted or required by law. Your consent may be given expressly or implied, depending on the circumstances and the sensitivity of the information involved. You may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice.",
+        "**Cross-jurisdictional Transfers.** By providing us with personal data, you acknowledge and agree that your personal data may be transferred or disclosed to other jurisdictions for processing and storage outside of Canada, including to the United States and the countries listed on our Subprocessor List, where laws regarding the protection of personal data may be less stringent than the laws in your jurisdiction. Furthermore, we may disclose your personal data in these jurisdictions in response to legal processes or where we believe in good faith that disclosure is required or permitted by law.",
+        "**Contact.** If you have any questions or comments about our processing of your personal data, or to exercise your rights as outlined in Section 4. (“Rights and Choices”), please contact us at privacy@anthropic.com.",
+        "## 9. Changes to Our Privacy Policy"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 9. Contact Information",
+        "The data controller responsible for your personal data is Anthropic PBC. If you have any questions about this Privacy Policy, or have any questions, complaints or requests regarding your personal data, you can contact us as described below:"
+      ],
+      "new": [
+        "## 10. Contact Information",
+        "If you live in the European Economic Area (EEA), UK or Switzerland (the “**European Region**”), the data controller responsible for your personal data is Anthropic Ireland, Limited. If you live outside the European Region, the data controller responsible for your personal data is Anthropic PBC.",
+        "If you have any questions about this Privacy Policy, or have any questions, complaints or requests regarding your personal data, you can contact us as described below:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Anthropic Limited with a registered address at 9th Floor 107 Cheapside, London EC2V 6DN (United Kingdom).",
+        "You can email us at privacy@anthropic.com.",
+        "Please note that you have the right to lodge a complaint with the supervisory authority in the EU country in which you live or work. A full list of EU supervisory authorities’ contact details is available here. If you live or work in the UK, you have the right to lodge a complaint with the UK Information Commissioner’s Office.",
+        "## 10. When This Privacy Policy Applies",
+        "This Privacy Policy does not apply where Anthropic acts as a data processor and processes personal data on behalf of commercial customers of Anthropic’s AI services, unless otherwise specified in this Privacy Policy. In those cases, the commercial customer is the controller, and you can review their privacy policy for more information about how they handle your personal data.",
+        "You can find information on our Subprocessor List about the third parties Anthropic engages to help us process personal data provided to us where Anthropic acts as a data processor, such as with respect to personal data we receive, process, store, or host when you use Anthropic's AI services as or through a commercial customer."
+      ],
+      "new": [
+        "- Anthropic Ireland, Limited with a registered address at 6th Floor, South Bank House, Barrow Street. Dublin 4, D04 TR29 (Ireland).",
+        "You can email us at privacy@anthropic.com and contact our Data Protection Officer at dpo@anthropic.com.",
+        "Please note that under many countries' laws, you have the right to lodge a complaint with the supervisory authority in the place in which you live or work. A full list of EU supervisory authorities’ contact details is available here. If you live or work in the UK, you have the right to lodge a complaint with the UK Information Commissioner’s Office."
+      ]
+    }
+  ]
+}

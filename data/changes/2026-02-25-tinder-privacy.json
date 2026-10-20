@@ -1,0 +1,48 @@
+{
+  "id": "2026-02-25-tinder-privacy",
+  "service": "tinder",
+  "service_name": "Tinder",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://policies.tinder.com/privacy/intl/en",
+  "detected_at": "2026-02-25T18:20:57+00:00",
+  "source": "wayback",
+  "window_start": "2025-09-30T09:36:55+00:00",
+  "archive_before": "https://web.archive.org/web/20250930093655/https://policies.tinder.com/privacy/intl/en/",
+  "archive_after": "https://web.archive.org/web/20260225182057/https://policies.tinder.com/privacy/intl/en/",
+  "flags": [],
+  "stats": {
+    "hunks": 2,
+    "added_words": 9,
+    "removed_words": 2
+  },
+  "headline": "Tinder edited its Privacy Policy",
+  "summary": "9 words added and 2 removed across 2 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "This Privacy Policy applies from October 10, 2025.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "This Privacy Policy applies from May 21, 2025. The previous version, available <u>here</u>, applies until then."
+      ],
+      "new": [
+        "This Privacy Policy applies from October 10, 2025. The previous version, available <u>here</u>, applies until then."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If you are a resident of Delaware, Iowa, Nebraska, New Hampshire, New Jersey, Texas, Oregon, Montana, Virginia, Colorado, or Connecticut, USA, if we deny your privacy request, you may be able to appeal by contacting us, and explicitly referencing “Privacy Request Appeal.” If you have concerns about the result of your appeal, you may contact the attorney general for your state."
+      ],
+      "new": [
+        "If you are a resident of Indiana, Kentucky, Rhode Island, Maryland, Tennessee, Minnesota, Delaware, Iowa, Nebraska, New Hampshire, New Jersey, Texas, Oregon, Montana, Virginia, Colorado, or Connecticut, USA, if we deny your privacy request, you may be able to appeal by contacting us, and explicitly referencing “Privacy Request Appeal.” If you have concerns about the result of your appeal, you may contact the attorney general for your state."
+      ]
+    }
+  ]
+}

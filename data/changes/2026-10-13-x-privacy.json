@@ -1,0 +1,39 @@
+{
+  "id": "2026-10-13-x-privacy",
+  "service": "x",
+  "service_name": "X (Twitter)",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://x.com/en/privacy",
+  "detected_at": "2026-10-13T18:24:37+00:00",
+  "source": "wayback",
+  "window_start": "2026-08-22T08:03:55+00:00",
+  "archive_before": "https://web.archive.org/web/20260822080355/https://x.com/en/privacy",
+  "archive_after": "https://web.archive.org/web/20261013182437/https://x.com/en/privacy",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 7,
+    "removed_words": 7
+  },
+  "headline": "X (Twitter) edited its Privacy Policy",
+  "summary": "7 words added and 7 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "**X Corp.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "**X Corp. Attn: Privacy Policy Inquiry 865 FM 1209, Building 2 Bastrop, TX 78602**"
+      ],
+      "new": [
+        "**X Corp. Attn: Privacy Policy Inquiry 800 W Cesar Chavez St. Austin, TX 78701**"
+      ]
+    }
+  ]
+}

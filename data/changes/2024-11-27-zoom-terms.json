@@ -1,0 +1,59 @@
+{
+  "id": "2024-11-27-zoom-terms",
+  "service": "zoom",
+  "service_name": "Zoom",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.zoom.com/en/trust/terms/",
+  "detected_at": "2024-11-27T11:23:04+00:00",
+  "source": "wayback",
+  "window_start": "2024-09-22T04:34:26+00:00",
+  "archive_before": "https://web.archive.org/web/20240922043426/https://www.zoom.com/en/trust/terms/",
+  "archive_after": "https://web.archive.org/web/20241127112304/https://www.zoom.com/en/trust/terms/",
+  "flags": [],
+  "stats": {
+    "hunks": 3,
+    "added_words": 0,
+    "removed_words": 4
+  },
+  "headline": "Zoom edited its Terms of Service",
+  "summary": "0 words added and 4 removed across 3 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Please read these terms of service (“**Terms of Service**”) and the Zoom Services Description (collectively, this “**Agreement**”) carefully.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Please read these terms of service (“**Terms of Service**”) and the Zoom Services Description (collectively, this “**Agreement**”) carefully. This Agreement is between you and Zoom Video Communications, Inc. and its affiliates (“**Zoom**,” “**we**,” “**us**,” or “**our**”) and governs your access to and use of our Services and Software, unless you and Zoom have entered into a written Master Subscription Agreement (**MSA**), in which case such MSA will govern your access to and use of the Services and Software and not these Terms of Service. You may enter into this Agreement on behalf of yourself or on behalf of a legal entity. If you enter into this Agreement on behalf of a legal entity, you represent that you are a duly authorized representative with the authority to bind that legal entity to this Agreement. All references to “**you**” and “**your**” in this Agreement mean the person accepting this Agreement as an individual or the legal entity for which the representative is acting. Capitalized terms in this Agreement will have definitions as set forth in the applicable section where they are defined, in the Zoom Services Description, or in Section 34 below.",
+        "We may provide the Services and Software through Zoom Video Communications, Inc., our affiliate(s), or both. You may only use the Services and Software in accordance with the terms and subject to the conditions of this Agreement."
+      ],
+      "new": [
+        "Please read these terms of service (“**Terms of Service**”) and the Zoom Services Description (collectively, this “**Agreement**”) carefully. This Agreement is between you and Zoom Communications, Inc. and its affiliates (“**Zoom**,” “**we**,” “**us**,” or “**our**”) and governs your access to and use of our Services and Software, unless you and Zoom have entered into a written Master Subscription Agreement (**MSA**), in which case such MSA will govern your access to and use of the Services and Software and not these Terms of Service. You may enter into this Agreement on behalf of yourself or on behalf of a legal entity. If you enter into this Agreement on behalf of a legal entity, you represent that you are a duly authorized representative with the authority to bind that legal entity to this Agreement. All references to “**you**” and “**your**” in this Agreement mean the person accepting this Agreement as an individual or the legal entity for which the representative is acting. Capitalized terms in this Agreement will have definitions as set forth in the applicable section where they are defined, in the Zoom Services Description, or in Section 34 below.",
+        "We may provide the Services and Software through Zoom Communications, Inc., our affiliate(s), or both. You may only use the Services and Software in accordance with the terms and subject to the conditions of this Agreement."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**27.3 Informal Dispute Resolution First**. We want to address any Disputes without needing arbitration. If you have a Dispute with Zoom, prior to initiating arbitration, you agree to mail an individualized request (“**Pre-Arbitration Demand**”) to ATTN: Litigation Department, Zoom Video Communications, Inc., 55 Almaden Blvd., San Jose, CA 95113 so that we can work together to resolve the Dispute. A Pre-Arbitration Demand is only valid when it pertains to, and is on behalf of, a single individual. A Pre-Arbitration Demand brought on behalf of multiple individuals is invalid as to all. The Pre-Arbitration Demand must include: (i) your name, telephone number, mailing address, and email address associated with your account; (ii) the name, telephone number, mailing address and email address of your counsel, if any; (iii) a description of your Dispute; and (iv) your signature. Likewise, if Zoom has a Dispute with you, Zoom will send an email with its individualized Pre-Arbitration Demand, including the requirements listed above, to the email address associated with your Zoom account. If the Dispute is not resolved within sixty (60) calendar days of when either you or Zoom submitted a Pre-Arbitration Demand, an arbitration can be brought. If you or Zoom have a Dispute involving claims under the exception to arbitration in Section 27.2(2), then this Section 27.3 does not apply to such Dispute. You agree that compliance with this Section 27.3 is a condition precedent to commencing arbitration, and that the arbitrator shall dismiss any arbitration filed without fully and completely complying with these informal dispute resolution procedures."
+      ],
+      "new": [
+        "**27.3 Informal Dispute Resolution First**. We want to address any Disputes without needing arbitration. If you have a Dispute with Zoom, prior to initiating arbitration, you agree to mail an individualized request (“**Pre-Arbitration Demand**”) to ATTN: Litigation Department, Zoom Communications, Inc., 55 Almaden Blvd., San Jose, CA 95113 so that we can work together to resolve the Dispute. A Pre-Arbitration Demand is only valid when it pertains to, and is on behalf of, a single individual. A Pre-Arbitration Demand brought on behalf of multiple individuals is invalid as to all. The Pre-Arbitration Demand must include: (i) your name, telephone number, mailing address, and email address associated with your account; (ii) the name, telephone number, mailing address and email address of your counsel, if any; (iii) a description of your Dispute; and (iv) your signature. Likewise, if Zoom has a Dispute with you, Zoom will send an email with its individualized Pre-Arbitration Demand, including the requirements listed above, to the email address associated with your Zoom account. If the Dispute is not resolved within sixty (60) calendar days of when either you or Zoom submitted a Pre-Arbitration Demand, an arbitration can be brought. If you or Zoom have a Dispute involving claims under the exception to arbitration in Section 27.2(2), then this Section 27.3 does not apply to such Dispute. You agree that compliance with this Section 27.3 is a condition precedent to commencing arbitration, and that the arbitrator shall dismiss any arbitration filed without fully and completely complying with these informal dispute resolution procedures."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**33.8 Notice**. We may give notice to you by (i) electronic mail to your email address on record in your account information, (ii) written communication sent by letter delivered by a nationally recognized overnight delivery service, or (iii) first-class postage prepaid mail to your address on record in your account information. You are responsible for ensuring that your email address and property address on record are current. You agree that any notice sent to the then-current email or property address in our systems is adequate and binding notice upon you. You will provide notice to us (such notice is deemed given when received by Zoom) by letter delivered by a nationally recognized overnight delivery service or first-class postage prepaid mail to Zoom at **“Attention Legal Dept., Zoom Video Communications, Inc., 55 Almaden Blvd, San Jose, CA, 95113, Suite 600, USA.”**"
+      ],
+      "new": [
+        "**33.8 Notice**. We may give notice to you by (i) electronic mail to your email address on record in your account information, (ii) written communication sent by letter delivered by a nationally recognized overnight delivery service, or (iii) first-class postage prepaid mail to your address on record in your account information. You are responsible for ensuring that your email address and property address on record are current. You agree that any notice sent to the then-current email or property address in our systems is adequate and binding notice upon you. You will provide notice to us (such notice is deemed given when received by Zoom) by letter delivered by a nationally recognized overnight delivery service or first-class postage prepaid mail to Zoom at **“Attention Legal Dept., Zoom Communications, Inc., 55 Almaden Blvd, San Jose, CA, 95113, Suite 600, USA.”**"
+      ]
+    }
+  ]
+}

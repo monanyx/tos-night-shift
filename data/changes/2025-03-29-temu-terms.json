@@ -1,0 +1,209 @@
+{
+  "id": "2025-03-29-temu-terms",
+  "service": "temu",
+  "service_name": "Temu",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.temu.com/terms-of-use.html",
+  "detected_at": "2025-03-29T20:44:25+00:00",
+  "source": "wayback",
+  "window_start": "2024-11-03T09:58:31+00:00",
+  "archive_before": "https://web.archive.org/web/20241103095831/https://www.temu.com/terms-of-use.html",
+  "archive_after": "https://web.archive.org/web/20250329204425/https://www.temu.com/terms-of-use.html",
+  "flags": [],
+  "stats": {
+    "hunks": 19,
+    "added_words": 283,
+    "removed_words": 175
+  },
+  "headline": "Temu edited its Terms of Service",
+  "summary": "283 words added and 175 removed across 19 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Effective Date: February 26, 2025",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Last updated: June 6, 2024",
+        "Thank you for using Temu! These Terms of Use (“Terms”) contain the rules and restrictions that govern your use of our applications, products, services and websites (“Services”). These Terms form a binding agreement between you and us. By completing the registration process and/or browsing the Services, you represent that (1) you have read, understand and agree to be bound by the Terms; (2) you are of legal age to form a binding contract with us; (3) you have the authority to enter into the Terms personally; and (4) if you are using the Services on behalf of a company or other entity, (a) you agree that “you” includes you and that entity, (b) you are an authorized representative of the entity with the authority to bind the entity to these Terms, and (c) you agree to these Terms on the entity’s behalf. You should not access or use the Services unless you agree to be bound by all of these Terms."
+      ],
+      "new": [
+        "Effective Date: February 26, 2025",
+        "Thank you for using Temu! These Terms of Use (“Terms”) contain the rules and restrictions that govern your use of our applications, products, services and websites (“Services”). These Terms form a binding agreement between you and us. By completing the registration process and/or browsing the Services, you represent that (1) you have read, understand and agree to be bound by the Terms; (2) you are of legal age and have the capacity to form a binding contract with us; (3) you have the authority to enter into the Terms personally; and (4) if you are using the Services on behalf of a company or other entity, (a) you agree that “you” includes you and that entity, (b) you are an authorized representative of the entity with the authority to bind the entity to these Terms, and (c) you agree to these Terms on the entity’s behalf. You should not access or use the Services unless you agree to be bound by all of these Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**1.6** PLEASE NOTE THAT THESE TERMS ARE SUBJECT TO CHANGE BY US IN OUR SOLE DISCRETION AT ANY TIME. When changes are made, we will publish a copy of the current Terms and any updated Policies available on Temu, and we will also update the “Last Updated” date at the top of the Terms. We encourage you to periodically review Terms and Policies for the latest version. Unless otherwise stated in such update, any changes to the Terms will be effective immediately for users of the Services without an Account and thirty (30) days after posting for users with Accounts. We may require you to provide consent to the updated Terms in a specified manner before further use of the Services is permitted. If you do not agree to any change(s) after receiving notice of such change(s), you shall stop using the Services. Otherwise, your continued use of the Services constitutes your acceptance of such change(s). PLEASE REGULARLY CHECK THE WEBSITE OR APPLICATION TO VIEW THE THEN-CURRENT TERMS."
+      ],
+      "new": [
+        "**1.6** PLEASE NOTE THAT THESE TERMS ARE SUBJECT TO CHANGE BY US IN OUR SOLE DISCRETION AT ANY TIME. When change(s) are made, we will publish a copy of the updated Terms and Policies available on Temu, and we will also update the “Last Updated” date or “Effective Date” at the top of the page. We encourage you to periodically review Terms and Policies for the latest version. We may provide notice to you of such changes via email or other channels. If you do not agree to any change(s), you shall stop using the Services. Otherwise, you agree that your continued use of the Services after the changes take effect constitutes your acceptance of such change(s). PLEASE REGULARLY CHECK THE WEBSITE OR APPLICATION TO VIEW THE THEN-CURRENT TERMS."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**2.1** To use the Services, you represent that you are at least eighteen (18) years old and of legal age to form a binding contract. Minors under 18 and at least 13 years of age are only permitted to use our Services through an Account owned by a parent or legal guardian with their appropriate permission and under their direct supervision. Children under 13 years are not permitted to use Temu or the Services. Products for children’s use may be sold on Temu. However, these products are intended for sale to adults. Certain products may be intended for individuals of certain ages or “mature audiences” only. By ordering such products, you certify that you are old enough to view, use, own, or receive them. We are not responsible for third-party content that you may find offensive, indecent, or objectionable."
+      ],
+      "new": [
+        "**2.1** To register an account and use the Services, you represent that you are at least eighteen (18) years old and of legal age to form a binding contract. Individuals under 18 and at least 13 years of age are only permitted to use our Services through an Account owned by a parent or legal guardian with their appropriate permission and under their direct supervision. Individuals under 13 years are not permitted to use Temu or the Services. Products for children’s use may be sold on Temu. However, these products are intended for sale to adults or under adult supervision. Certain products may be intended for individuals of certain ages or “mature audiences” only. By ordering such products, you certify that you are old enough to view, use, own, or receive them. We are not responsible for third-party content that you may find offensive, indecent, or objectionable."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**2.4** You may also register an Account by connecting through a social networking service (“SNS”) account and its credentials (an “SNS Account”). If you access the Services through a SNS as part of the functionality of the Services, you may link your Account with SNS Accounts by allowing us to access your SNS Account, as is permitted under the applicable terms and conditions that govern your SNS Account. You represent that you are entitled to grant us access to your SNS Account (including, but not limited to, for use for the purposes described herein) without breach by you of any of the terms and conditions that govern your SNS Account and without obligating us to pay any fees or making us subject to any usage limitations imposed by such SNS. By granting us access to any SNS Accounts, you understand that we may access, make available and store (if applicable) any Content (as defined below) that you have provided to and stored in your SNS Account (“SNS Content”) so that it is available on and through the Services via your Account. Unless otherwise specified in the Agreement, all SNS Content shall be considered to be User Submissions for all purposes of the Terms. Depending on the SNS Accounts you choose and subject to the privacy settings that you have set in such SNS Accounts, personal information that you post to your SNS Accounts may be available on and through your Account on the Services. Please note that if a SNS Account or associated service becomes unavailable, or our access to such SNS Account is terminated by the SNS, then SNS Content will no longer be available on and through the Services. You have the ability to disable the connection between your Account and your SNS Accounts at any time by accessing the “Settings” section of the Services. PLEASE NOTE THAT YOUR RELATIONSHIP WITH THE SNS PROVIDERS ASSOCIATED WITH YOUR SNS ACCOUNTS IS GOVERNED SOLELY BY YOUR AGREEMENT(S) WITH SUCH SNS PROVIDERS, AND WE DISCLAIM ANY LIABILITY FOR PERSONAL INFORMATION THAT MAY BE PROVIDED TO US BY SUCH SNS PROVIDERS IN VIOLATION OF THE PRIVACY SETTINGS THAT YOU HAVE SET IN SUCH SNS ACCOUNTS. We make no effort to review any SNS Content for any purpose, including but not limited to, for accuracy, legality or noninfringement, and we are not responsible for any SNS Content."
+      ],
+      "new": [
+        "**2.4** You may also register an Account by connecting through a social networking service (“SNS”) account and its credentials (an “SNS Account”). If you access the Services through a SNS as part of the functionality of the Services, you may link your Account with SNS Accounts by allowing us to access your SNS Account, as is permitted under the applicable terms and conditions that govern your SNS Account. You represent that you are entitled to grant us access to your SNS Account (including, but not limited to, for use for the purposes described herein) without breach by you of any of the terms and conditions that govern your SNS Account and without obligating us to pay any fees or making us subject to any usage limitations imposed by such SNS. “SNS Content” is any Content (as defined below) that you have provided to and stored in your SNS Account. Unless otherwise specified in the Terms, all SNS Content shall be considered to be User Submissions for all purposes of the Terms. Depending on the SNS Accounts you choose and subject to the privacy settings that you have set in such SNS Accounts, personal information that you post to your SNS Accounts may be available on and through your Account on the Services. Please note that if a SNS Account or associated service becomes unavailable, or our access to such SNS Account is terminated by the SNS, then SNS Content will no longer be available on and through the Services. You have the ability to disable the connection between your Account and your SNS Accounts at any time by accessing the “Settings” section of the Temu application or the “Orders & Account” section of the Temu website. PLEASE NOTE THAT YOUR RELATIONSHIP WITH THE SNS PROVIDERS ASSOCIATED WITH YOUR SNS ACCOUNTS IS GOVERNED SOLELY BY YOUR AGREEMENT(S) WITH SUCH SNS PROVIDERS, AND WE DISCLAIM ANY LIABILITY FOR PERSONAL INFORMATION THAT MAY BE PROVIDED TO US BY SUCH SNS PROVIDERS IN VIOLATION OF THE PRIVACY SETTINGS THAT YOU HAVE SET IN SUCH SNS ACCOUNTS. We make no effort to review any SNS Content for any purpose, including but not limited to, for accuracy, legality or noninfringement, and we are not responsible for any SNS Content."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**3.4** Any sweepstakes, contests, raffles, surveys, games, or similar promotions (collectively, “Promotions”) made available through the Services may be governed by separate rules. If the rules for a Promotion conflict with these Terms, the Promotion rules will govern."
+      ],
+      "new": [
+        "**3.4** Any sweepstakes, contests, raffles, surveys, games, or similar promotions (collectively, “Promotions”) made available through the Services, to the extent permitted by applicable laws, may be governed by separate rules. If the rules for a Promotion conflict with these Terms, the Promotion rules will govern."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**5.3** If you would like to receive our marketing materials via mobile texts and alerts, you may sign up to do so. By signing up, you acknowledge that we may send you promotional messages or other mobile messages from or on behalf of us, including one-time passcodes, notifications regarding your orders, our promotional messages, and abandoned cart reminders (enabled by using cookies we collect as described in these Terms) at the mobile number you provide us. Opting in for a program does not entail automatic opt-in for another. Message frequency varies and carriers are not liable for any delays or undelivered messages. Message and Data Rates may apply. You acknowledge that you are not required to consent to receive marketing texts as a condition of using the Services. If you wish to opt out of SMS texts from us, you can reply STOP to the corresponding number from your mobile device receiving the messages. However, you acknowledge that opting out of receiving texts may impact your use of the Services. If you would like to resume the subscription, reply UNSTOP to the corresponding number. We will not share your consent, opt-in and opt-out records with any third parties other than text messaging service providers and aggregators. You may also reply “HELP” for assistance. For further assistance, please contact us (1) if you are using a Temu website, at the appropriate email address on the “Contact us” page linked in the website footer, and (2) if you are using a Temu application, through the “Customer support” section in the “You” menu at the bottom of the home page."
+      ],
+      "new": [
+        "**5.3** If you would like to receive our marketing materials via mobile texts and alerts, you may sign up to do so. By signing up, you acknowledge that we may send you promotional messages or other mobile messages from or on behalf of us, including one-time passcodes, notifications regarding your orders, and our promotional messages at the mobile number you provide us. Opting in for a program does not entail automatic opt-in for another. Message frequency varies and carriers are not liable for any delays or undelivered messages. Message and Data Rates may apply. You acknowledge that you are not required to consent to receive marketing texts as a condition of using the Services. If you wish to opt out of SMS texts from us, you can reply STOP to the corresponding number from your mobile device receiving the messages. However, you acknowledge that opting out of receiving texts may impact your use of the Services. If you would like to resume the subscription, reply UNSTOP to the corresponding number. We will not share your consent, opt-in and opt-out records with any third parties other than text messaging service providers and aggregators. You may also reply “HELP” for assistance. For further assistance, please contact us (1) if you are using a Temu website, at the appropriate email address on the “Contact us” page linked in the website footer, and (2) if you are using a Temu application, through the “Customer support” section in the “You” menu at the bottom of the home page."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**5.5** Our communications with you may be through a third-party service provider. You acknowledge and consent that, subject to our Privacy Policy, your communications with us and our agents may be recorded, monitored and stored for quality control and training purposes, or to protect your and our interests."
+      ],
+      "new": [
+        "**5.5** Our communications with you may be through a third-party service provider. You acknowledge and consent that, subject to our Privacy Policy, your communications with us, the merchandise partners, or our agents may be recorded, monitored and stored for quality control and training purposes, or to protect your, our and/or our merchandise partners’ interests."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "IN ENTERING INTO THIS RELEASE, YOU EXPRESSLY WAIVE ANY PROTECTIONS (WHETHER STATUTORY OR OTHERWISE) THAT WOULD LIMIT THE COVERAGE OF THIS RELEASE TO INCLUDE ONLY THOSE CLAIMS WHICH YOU MAY KNOW OR SUSPECT TO EXIST IN YOUR FAVOR AT THE TIME OF AGREEING TO THIS RELEASE."
+      ],
+      "new": [
+        "IN ENTERING INTO THIS RELEASE, YOU EXPRESSLY WAIVE ANY PROTECTIONS, WHETHER STATUTORY (E.G., CALIFORNIA CIVIL CODE SECTION 1542) OR OTHERWISE, THAT WOULD LIMIT THE COVERAGE OF THIS RELEASE TO INCLUDE ONLY THOSE CLAIMS WHICH YOU MAY KNOW OR SUSPECT TO EXIST IN YOUR FAVOR AT THE TIME OF AGREEING TO THIS RELEASE."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**17.1 Application License.** Subject to your compliance with the Terms, we grant you a limited non-exclusive, non-transferable, non-sublicensable, revocable license to download, install and use a copy of the Temu mobile application (“Application”) on a single mobile device or computer that you own or control and to run such copy of the Application solely for your own personal or internal business purposes. Furthermore, with respect to any Application accessed through or downloaded from the Apple App Store (an “App Store Sourced Application”), you will only use the App Store Sourced Application (a) on an Apple-branded product that runs the iOS (Apple’s proprietary operating system) and (b) as permitted by the “Usage Rules” set forth in the Apple App Store Terms of Service. Notwithstanding the first sentence in this section, with respect to any Application accessed through or downloaded from the Google Play store (a “Google Play Sourced Application”), you may have additional license rights with respect to use of the Application on a shared basis within your designated family group."
+      ],
+      "new": [
+        "**17.1 Application License.** Subject to your compliance with the Terms, we grant you a limited non-exclusive, non-transferable, non-sublicensable, revocable license to download, install and use a copy of the Temu mobile application (“Application”) on a device or computer that you own or control solely for your personal or non-commercial use. Furthermore, with respect to any Application accessed through or downloaded from the Apple App Store (an “App Store Sourced Application”), you will only use the App Store Sourced Application (a) on an Apple-branded product that runs the iOS (Apple’s proprietary operating system) and (b) as permitted by the “Usage Rules” set forth in the Apple App Store Terms of Service. Notwithstanding the first sentence in this section, with respect to any App Store Sourced Application or any Application accessed through or downloaded from the Google Play store (a “Google Play Sourced Application”), you may have additional rights with respect to access to and use of the Application applicable to volume purchasing or via Family Sharing on Apple-branded Products or a shared basis within your designated family group subject to the applicable Apple or Google terms and your associated settings."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**17.3 Accessing and Downloading the Application from iTunes.** The following applies to any App Store Sourced Application accessed through or downloaded from the Apple App Store:"
+      ],
+      "new": [
+        "**17.3 Accessing and Downloading the Application from the Apple App Store.** The following applies to any App Store Sourced Application accessed through or downloaded from the Apple App Store:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**17.3.4** You and we acknowledge that, as between Apple and us, Apple is not responsible for addressing any claims you have or any claims of any third party relating to the App Store Sourced Application or your possession and use of the App Store Sourced Application, including, but not limited to: (i) product liability claims; (ii) any claim that the App Store Sourced Application fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation."
+      ],
+      "new": [
+        "**17.3.4** You and we acknowledge that, as between Apple and us, Apple is not responsible for addressing any claims you have or any claims of any third party relating to the App Store Sourced Application or your possession and use of the App Store Sourced Application, including, but not limited to: (i) product liability claims; (ii) any claim that the App Store Sourced Application fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection, privacy, or similar legislation."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**18.1 Assignment.** You may not assign, delegate, or transfer these Terms, or your rights and obligations hereunder, to any other person in any way (by operation of law or otherwise) without our prior written consent, and any attempted assignment, subcontract, delegation, or transfer in violation of the foregoing will be null and void. We may transfer, assign, or delegate these Terms and its rights and obligations hereunder to any other person without your consent."
+      ],
+      "new": [
+        "**18.1 Assignment.** You may not assign, delegate, or transfer these Terms, or your rights and obligations hereunder, to any other person in any way (by operation of law or otherwise) without our prior written consent, and any attempted assignment, subcontract, delegation, or transfer in violation of the foregoing will be null and void. To the extent permitted by applicable laws, we may transfer, assign, or delegate these Terms and its rights and obligations hereunder to any other person without your consent."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**18.3 Choice of Law.** These Terms and any dispute of any sort that might arise between you and us hereunder will be governed by the laws of the State of New York and applicable federal laws of the United States of America, consistent with the Federal Arbitration Act, without regard to any principle of conflict-of-laws. The United Nations Convention on Contracts for the International Sale of Goods does not apply to these Terms."
+      ],
+      "new": [
+        "**18.3 Choice of Law.** To the fullest extent permitted by applicable laws, these Terms and any dispute of any sort that might arise between you and us hereunder will be governed by the laws of the State of New York and applicable federal laws of the United States of America, consistent with the Federal Arbitration Act, without regard to any principle of conflict-of-laws. The United Nations Convention on Contracts for the International Sale of Goods does not apply to these Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**18.6 Export Control.** You undertake to use the Services and products purchased on or through the Services in compliance with all applicable US or other export and re-export restrictions of relevant jurisdictions. In particular, you acknowledge and agree that the Services, including any products purchased on or through the Services, may not be exported or re-exported (a) into any countries or territories subject to sanctions by your country of residence or other relevant countries, or (b) to anyone on the U.S. Treasury Department's Specially Designated Nationals and Blocked Persons List (“SDN List”) or the U.S. Department of Commerce's Denied Person's List or Entity List. You represent and warrant that (i) you are not located in a country, region, or territory that is subject to U.S. Government sanctions, or that has been designated by the U.S. Government as a “terrorist supporting” country, and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties, including, but not limited to the SDN List. You also will not use the Services nor the products purchased on the Services for any purpose prohibited by any applicable law."
+      ],
+      "new": [
+        "**18.6 Export Control.** You undertake to use the Services and products purchased on or through the Services in compliance with all applicable U.S. or other export and re-export restrictions of relevant jurisdictions. In particular, you acknowledge and agree that the Services, including any products purchased on or through the Services, may not be exported or re-exported (a) into any countries or territories subject to sanctions by your country of residence or other relevant countries, or (b) to anyone on the U.S. Treasury Department's Specially Designated Nationals and Blocked Persons List (“SDN List”) or the U.S. Department of Commerce's Denied Person's List or Entity List. You represent and warrant that (i) you are not located in a country, region, or territory that is subject to U.S. Government sanctions, or that has been designated by the U.S. Government as a “terrorist supporting” country, and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties, including, but not limited to the SDN List. You also will not use the Services nor the products purchased on the Services for any purpose prohibited by any applicable law."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**18.10 Third-Party Beneficiaries.** There are no third-party beneficiaries intended under these Terms."
+      ],
+      "new": [
+        "**18.10 Third-Party Beneficiaries.** Except as provided in Section 17, there are no third-party beneficiaries intended under these Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**18.12 Translation.** The translated versions of these Terms of Use, Privacy Policy, Cookie and Similar Technologies Policy, Intellectual Property Policy or any other terms or policies, are provided for your reference only. If there are any discrepancies between the English version and versions in other languages, the English version shall always prevail."
+      ],
+      "new": [
+        "**18.12 Translation.** The translated versions of these Terms of Use, Privacy Policy, Cookie and Similar Technologies Policy, Intellectual Property Policy or any other terms, policies, disclosures, or representations on Temu are provided for your convenience only. If there are any discrepancies between the English version and versions in other languages, the English version shall always prevail and govern your relationship with Temu."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**19.2 Informal Dispute Resolution.** There may be instances when a Dispute arises between you and us. If that occurs, we are committed to working with you to reach a reasonable resolution. You and we agree that good faith informal efforts to resolve Disputes can result in a prompt, low‐cost and mutually beneficial outcome. You and we therefore agree that before either party commences arbitration against the other (or initiates an action in small claims court if a party so elects), we will personally meet and confer telephonically or via videoconference, in a good faith effort to resolve informally any Dispute covered by this Arbitration Agreement (“Informal Dispute Resolution Conference”). If you are represented by counsel, your counsel may participate in the conference, but you also agree to participate in the conference. The party initiating a Dispute must give notice to the other party in writing of its intent to initiate an Informal Dispute Resolution Conference (“Notice”), which shall occur within forty-five (45) days after the other party receives such Notice, unless an extension is mutually agreed upon by the parties in writing. Notice to us that you intend to initiate an Informal Dispute Resolution Conference should be sent by email to dispute@temu.com, or by regular mail to the applicable address set forth in Section 18.5. The Notice must include: (1) your name, telephone number, mailing address, email address associated with your Account (if you have one); (2) the name, telephone number, mailing address and e‐mail address of your counsel, if any; and (3) a description of your Dispute.",
+        "The Informal Dispute Resolution Conference shall be individualized such that a separate conference must be held each time either party initiates a Dispute, even if the same law firm or group of law firms represents multiple users in similar cases, unless all parties agree; multiple individuals initiating a Dispute cannot participate in the same Informal Dispute Resolution Conference unless all parties agree. In the time between a party receiving the Notice and the Informal Dispute Resolution Conference, nothing in this Arbitration Agreement shall prohibit the parties from engaging in informal communications to resolve the initiating party’s Dispute. Engaging in the Informal Dispute Resolution Conference is a condition precedent and requirement that must be fulfilled before commencing arbitration. The statute of limitations and any filing fee deadlines shall be tolled while the parties engage in the Informal Dispute Resolution Conference process required by this section."
+      ],
+      "new": [
+        "**19.2 Informal Dispute Resolution.** There may be instances when a Dispute arises between you and us. If that occurs, we are committed to working with you to reach a reasonable resolution. You and we agree that good faith informal efforts to resolve Disputes can result in a prompt, low‐cost and mutually beneficial outcome. You and we therefore agree that before either party commences arbitration against the other (or initiates an action in small claims court if a party so elects), we will personally meet and confer telephonically or via videoconference, in a good faith effort to resolve informally any Dispute covered by this Arbitration Agreement (“Informal Dispute Resolution Conference”). If you are represented by counsel, your counsel may participate in the conference, but you also agree to participate in the conference. The party initiating a Dispute must give notice to the other party in writing of its intent to initiate an Informal Dispute Resolution Conference (“Notice”), which shall occur within forty-five (45) days after the other party receives such Notice, unless an extension is mutually agreed upon by the parties in writing. Notice to us that you intend to initiate an Informal Dispute Resolution Conference should be sent by email to dispute@temu.com, or by regular mail to the applicable address set forth in Section 18.5. The Notice must include: (1) your name, telephone number, mailing address, email address associated with your Account (if you have one); (2) the name, telephone number, mailing address and e‐mail address of your counsel, if any; and (3) a description of your Dispute. The notice must specify a proposed date and time when you are available for an Informal Dispute Resolution Conference; however, you agree to cooperate with Temu in scheduling a mutually agreeable date and time if your proposed date and time is not convenient for Temu.",
+        "The Informal Dispute Resolution Conference shall be individualized such that a separate conference must be held each time either party initiates a Dispute, even if the same law firm or group of law firms represents multiple users in similar cases, unless all parties agree; multiple individuals initiating a Dispute cannot participate in the same Informal Dispute Resolution Conference unless all parties agree. In the time between a party receiving the Notice and the Informal Dispute Resolution Conference, nothing in this Arbitration Agreement shall prohibit the parties from engaging in informal communications to resolve the initiating party’s Dispute. Engaging in the Informal Dispute Resolution Conference is a condition precedent and requirement that must be fulfilled before commencing arbitration. The statute of limitations and any filing fee deadlines shall be tolled while the parties engage in the Informal Dispute Resolution Conference process required by this section. Failure to appear for the Informal Dispute Resolution Conference without prior notice or extenuating circumstances will be deemed a failure to participate in good faith."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**19.5 Rules and Forum.** The Terms evidence a transaction involving interstate commerce; and notwithstanding any other provision herein with respect to the applicable substantive law, the Federal Arbitration Act, 9 U.S.C. § 1 et seq., will govern the interpretation and enforcement of this Arbitration Agreement and any arbitration proceedings. If the informal dispute resolution process described above does not resolve satisfactorily within sixty (60) days after receipt of Notice, you and we agree that either party shall have the right to finally resolve the Dispute through binding arbitration. The arbitration will be conducted by American Arbitration Association (the “AAA”), an established alternative dispute resolution provider, under its rules, including Consumer Arbitration Rules (the “AAA Rules”), then in effect, unless otherwise required by law. AAA’s rules are also available at https://adr.org/consumer, or by calling 1-800-778-7879. For all actions under the AAA Rules, the proceedings may be filed where your residence is, or in New York, New York, and any in-person hearings will be conducted at a location which is reasonably convenient to both parties taking into account their ability to travel and other pertinent circumstances. If AAA is not available to arbitrate, the parties will select an alternative arbitral forum. Your responsibility to pay any AAA fees and costs will be solely as set forth in the applicable AAA rules."
+      ],
+      "new": [
+        "**19.5 Rules and Forum.** The Terms evidence a transaction involving interstate commerce; and notwithstanding any other provision herein with respect to the applicable substantive law, the Federal Arbitration Act, 9 U.S.C. § 1 et seq., will govern the interpretation and enforcement of this Arbitration Agreement and any arbitration proceedings. If the informal dispute resolution process described above does not resolve satisfactorily within sixty (60) days after receipt of Notice, you and we agree that either party shall have the right to finally resolve the Dispute through binding arbitration. The arbitration will be conducted by American Arbitration Association (the “AAA”), an established alternative dispute resolution provider, under its rules, including Consumer Arbitration Rules (the “AAA Rules”), then in effect, unless otherwise required by law. AAA’s rules are also available at https://adr.org/consumer. For all actions under the AAA Rules, the proceedings may be filed where your residence is, or in New York, New York, and any in-person hearings will be conducted at a location which is reasonably convenient to both parties taking into account their ability to travel and other pertinent circumstances. If AAA is not available to arbitrate, the parties will select an alternative arbitral forum. Your responsibility to pay any AAA fees and costs will be solely as set forth in the applicable AAA rules."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "1\\. If you are using a Temu website, please contact Temu customer service on the “Contact us” page linked in the website footer or email us at legal@temu.com.",
+        "2\\. If you are using a Temu application, through the “Customer support” section in the “You” menu at the bottom of the home page or email us at legal@temu.com."
+      ],
+      "new": [
+        "If you have any feedback, request or complaint in connection with your use of the Services, please contact us using the following channels:",
+        "- If you are using a Temu website, please contact Temu customer service via the “Contact us” page linked in the website footer.",
+        "- If you are using a Temu application, please contact Temu customer service via the “Customer support” section in the “You” menu at the bottom of the home page.",
+        "If you have any legal questions or concerns, please contact us at legal@temu.com."
+      ]
+    }
+  ]
+}

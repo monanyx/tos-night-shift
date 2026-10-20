@@ -1,0 +1,273 @@
+{
+  "id": "2025-08-25-temu-terms",
+  "service": "temu",
+  "service_name": "Temu",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.temu.com/terms-of-use.html",
+  "detected_at": "2025-08-25T12:09:22+00:00",
+  "source": "wayback",
+  "window_start": "2025-03-29T20:44:25+00:00",
+  "archive_before": "https://web.archive.org/web/20250329204425/https://www.temu.com/terms-of-use.html",
+  "archive_after": "https://web.archive.org/web/20250825120922/https://www.temu.com/terms-of-use.html",
+  "flags": [],
+  "stats": {
+    "hunks": 23,
+    "added_words": 263,
+    "removed_words": 381
+  },
+  "headline": "Temu edited its Terms of Service",
+  "summary": "263 words added and 381 removed across 23 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Last Updated: July 25, 2025",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Effective Date: February 26, 2025"
+      ],
+      "new": [
+        "Last Updated: July 25, 2025"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**1.2** Whaleco Inc. is referred to in these Terms and Policies (as defined below) as “we” or “us”. For purposes of these Terms and Policies, we also refer to:",
+        "- Our website and mobile apps, which may offer features, products, services or content, including exchanges of information, as “Temu” or “our app”;"
+      ],
+      "new": [
+        "**1.2** Whaleco Inc. is referred to in these Terms and Policies (as defined below) as “we” or “us”. For the purposes of these Terms and Policies, we also refer to:",
+        "- Our website and mobile apps, which may offer features, products, services or content, including exchanges of information, as “Temu” or “our app”; and"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**1.4** Your use of, and participation in, certain Services are also subject to additional policies we may publish from time to time (“Policies”), including our Privacy Policy and our Cookie and Similar Technologies Policy. If the Terms are inconsistent with the Policies, the Policies shall control with respect to the relevant subject matter."
+      ],
+      "new": [
+        "**1.4** Your use of, and participation in, certain Services are also subject to additional policies we may publish from time to time, including the Privacy Policy and Cookie and Similar Technologies Policy describing how we process your personal data (collectively, the “Policies”). If the Terms are inconsistent with the Policies, the Policies shall prevail with respect to their relevant subject matter."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**1.6** PLEASE NOTE THAT THESE TERMS ARE SUBJECT TO CHANGE BY US IN OUR SOLE DISCRETION AT ANY TIME. When change(s) are made, we will publish a copy of the updated Terms and Policies available on Temu, and we will also update the “Last Updated” date or “Effective Date” at the top of the page. We encourage you to periodically review Terms and Policies for the latest version. We may provide notice to you of such changes via email or other channels. If you do not agree to any change(s), you shall stop using the Services. Otherwise, you agree that your continued use of the Services after the changes take effect constitutes your acceptance of such change(s). PLEASE REGULARLY CHECK THE WEBSITE OR APPLICATION TO VIEW THE THEN-CURRENT TERMS."
+      ],
+      "new": [
+        "**1.6** PLEASE NOTE THAT THESE TERMS ARE SUBJECT TO CHANGE BY US IN OUR SOLE DISCRETION AT ANY TIME. When changes are made, we will publish a copy of the updated Terms and/or Policies available on Temu, and we will also update the “Last Updated” date or “Effective Date” at the top of the page. We encourage you to periodically review Terms and Policies for the latest version. We may provide notice to you of such changes via email or other channels. If you do not agree to any change(s), you shall stop using the Services. Otherwise, you agree that your continued use of the Services after the changes take effect constitutes your acceptance of such change(s). PLEASE REGULARLY CHECK THE WEBSITE OR APPLICATION TO VIEW THE THEN-CURRENT TERMS."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**2.3** To access or use some of our Services, you may be required to create an account with us. When creating your account on Temu (“Account”), you agree to provide true, accurate, complete, and updated information about yourself, including contact details. You are responsible for keeping your registration information with us up to date. You are responsible for all activities that occur under your Account. You agree that you shall monitor your Account to restrict use by minors, and you will accept full responsibility for any unauthorized use of the Services by minors. You may not select as your user name a name that you don't have the right to use, or another person's name with the intent to impersonate that person. You may not transfer your Account to anyone else without our prior written permission. You agree not to create an Account or use the Services if you have been permanently banned from any of the Services. You may not share your Account or password with anyone, and you agree to notify us immediately of any unauthorized use of your password or any other breach of security and to exit from your Account at the end of each session.",
+        "**2.4** You may also register an Account by connecting through a social networking service (“SNS”) account and its credentials (an “SNS Account”). If you access the Services through a SNS as part of the functionality of the Services, you may link your Account with SNS Accounts by allowing us to access your SNS Account, as is permitted under the applicable terms and conditions that govern your SNS Account. You represent that you are entitled to grant us access to your SNS Account (including, but not limited to, for use for the purposes described herein) without breach by you of any of the terms and conditions that govern your SNS Account and without obligating us to pay any fees or making us subject to any usage limitations imposed by such SNS. “SNS Content” is any Content (as defined below) that you have provided to and stored in your SNS Account. Unless otherwise specified in the Terms, all SNS Content shall be considered to be User Submissions for all purposes of the Terms. Depending on the SNS Accounts you choose and subject to the privacy settings that you have set in such SNS Accounts, personal information that you post to your SNS Accounts may be available on and through your Account on the Services. Please note that if a SNS Account or associated service becomes unavailable, or our access to such SNS Account is terminated by the SNS, then SNS Content will no longer be available on and through the Services. You have the ability to disable the connection between your Account and your SNS Accounts at any time by accessing the “Settings” section of the Temu application or the “Orders & Account” section of the Temu website. PLEASE NOTE THAT YOUR RELATIONSHIP WITH THE SNS PROVIDERS ASSOCIATED WITH YOUR SNS ACCOUNTS IS GOVERNED SOLELY BY YOUR AGREEMENT(S) WITH SUCH SNS PROVIDERS, AND WE DISCLAIM ANY LIABILITY FOR PERSONAL INFORMATION THAT MAY BE PROVIDED TO US BY SUCH SNS PROVIDERS IN VIOLATION OF THE PRIVACY SETTINGS THAT YOU HAVE SET IN SUCH SNS ACCOUNTS. We make no effort to review any SNS Content for any purpose, including but not limited to, for accuracy, legality or noninfringement, and we are not responsible for any SNS Content."
+      ],
+      "new": [
+        "**2.3** To access or use some of our Services, you may be required to create an account with us. When creating your account on Temu (“Account”), you agree to provide true, accurate, complete, and updated information about yourself, including contact details. You are responsible for keeping your registration information with us up to date. You are responsible for all activities that occur under your Account. You agree that you shall monitor your Account to restrict use by minors, and you will accept full responsibility for any unauthorized use of the Services by minors. You may not select as your username a name that you don't have the right to use, or another person's name with the intent to impersonate that person. You may not transfer your Account to anyone else without our prior written permission. You agree not to create an Account or use the Services if you have been permanently banned from any of the Services. You may not share your Account or password with anyone, and you agree to notify us immediately of any unauthorized use of your password or any other breach of security and to exit from your Account at the end of each session.",
+        "**2.4** You may also register an Account by connecting through a social networking service (“SNS”) account and its credentials (an “SNS Account”) as permitted by Temu. If you access the Services through a SNS as part of the functionality of the Services, you may link your Account with SNS Accounts by allowing us to access limited information of your SNS Account, as permitted under the applicable terms and conditions that govern your SNS Account (“SNS Content”). You represent that you are entitled to grant us access to your SNS Account to use the Services without breach by you of any of the terms and conditions that govern your SNS Account and without obligating us to pay any fees or making us subject to any usage limitations imposed by such SNS. Please note that if a SNS Account or associated service becomes unavailable, or our access to such SNS Account is terminated by the SNS, then SNS Content will no longer be available on and through the Services. You have the ability to disable the connection between your Account and your SNS Accounts at any time by accessing the “Settings” section of the Temu application or the “Orders & Account” section of the Temu website. PLEASE NOTE THAT YOUR RELATIONSHIP WITH THE SNS PROVIDERS ASSOCIATED WITH YOUR SNS ACCOUNTS IS GOVERNED SOLELY BY YOUR AGREEMENT(S) WITH SUCH SNS PROVIDERS, AND WE DISCLAIM ANY LIABILITY FOR PERSONAL INFORMATION THAT MAY BE PROVIDED TO US BY SUCH SNS PROVIDERS IN VIOLATION OF THE PRIVACY SETTINGS THAT YOU HAVE SET IN SUCH SNS ACCOUNTS. We make no effort to review any SNS Content for any purpose, including but not limited to, for accuracy, legality or noninfringement, and we are not responsible for any SNS Content."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**3.1** You agree to use the Services for your own use, and not on behalf of or for the benefit of any third party, and only in a manner that complies with these Terms, the Policies, and all laws and regulations applicable to you. If your use of the Services is prohibited by any applicable laws, then you are not authorized to use the Services. We are not responsible if you use the Services in a way that breaks the law."
+      ],
+      "new": [
+        "**3.1** You agree to use the Services for your own use, and not on behalf of or for the benefit of any third party, and only in a manner that complies with these Terms, the Policies, and all laws and regulations applicable to you. If your use of the Services is prohibited by any applicable laws, then you are not authorized to use the Services. We are not responsible for any use of the Services that is in breach of any applicable laws."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**5.1** You consent to receive communications from us electronically, such as emails, texts, mobile push notices, and notices and messages on or through the Services (“Push Messages”), and where required by law, we will obtain your opt-in consent to deliver such Push Messages. You acknowledge that, when you use the App, your wireless service provider may charge you fees for data, text messaging and/or other wireless access, including in connection with Push Messages. Please check with your wireless service provider to determine what fees apply to your access to and use of the Services, including your receipt of Push Messages from us. You are solely responsible for any fee, cost or expense that you incur to download, install and/or use the Services on your mobile device, including for your receipt of Push Messages. You also acknowledge and agree that all terms and conditions, agreements, notices, disclosures, and other communications and documents that we provide to you electronically constitute and shall have the same legal effect as “in writing.” The foregoing does not affect your statutory rights, including but not limited to the Electronic Signatures in Global and National Commerce Act at 15 U.S.C. §7001 et seq. (“E-Sign”).",
+        "**5.2** You agree that we may communicate with you at any email address or telephone number that you provide us, to: (i) notify you regarding your Account; (ii) troubleshoot problems with your Account; (iii) resolve a dispute; (iv) collect a debt; (v) poll your opinions through surveys or questionnaires; (vi) notify you regarding order, payment and delivery updates; (vii) send you authentication texts; or (viii) as otherwise necessary to service your Account or enforce these Terms, the Policies, applicable laws and regulations, or any other agreement we may have with you. Standard text messaging charges applied by your cell phone carrier will apply to text messages that we send.",
+        "**5.3** If you would like to receive our marketing materials via mobile texts and alerts, you may sign up to do so. By signing up, you acknowledge that we may send you promotional messages or other mobile messages from or on behalf of us, including one-time passcodes, notifications regarding your orders, and our promotional messages at the mobile number you provide us. Opting in for a program does not entail automatic opt-in for another. Message frequency varies and carriers are not liable for any delays or undelivered messages. Message and Data Rates may apply. You acknowledge that you are not required to consent to receive marketing texts as a condition of using the Services. If you wish to opt out of SMS texts from us, you can reply STOP to the corresponding number from your mobile device receiving the messages. However, you acknowledge that opting out of receiving texts may impact your use of the Services. If you would like to resume the subscription, reply UNSTOP to the corresponding number. We will not share your consent, opt-in and opt-out records with any third parties other than text messaging service providers and aggregators. You may also reply “HELP” for assistance. For further assistance, please contact us (1) if you are using a Temu website, at the appropriate email address on the “Contact us” page linked in the website footer, and (2) if you are using a Temu application, through the “Customer support” section in the “You” menu at the bottom of the home page."
+      ],
+      "new": [
+        "**5.1** You acknowledge that you may receive communications from us electronically, such as emails, texts, mobile push notices, and notices and messages on or through the Services (“Push Messages”), and where required by law, we will obtain your permission to deliver such Push Messages. You acknowledge that, when you use the App, your wireless service provider may charge you fees for data, text messaging and/or other wireless access, including in connection with Push Messages. Please check with your wireless service provider to determine what fees apply to your access to and use of the Services, including your receipt of Push Messages from us. You are solely responsible for any fee, cost or expense that you incur to download, install and/or use the Services on your mobile device, including for your receipt of Push Messages. You also acknowledge and agree that all terms and conditions, agreements, notices, disclosures, and other communications and documents that we provide to you electronically constitute and shall have the same legal effect as “in writing.” The foregoing does not affect your statutory rights, including but not limited to the Electronic Signatures in Global and National Commerce Act at 15 U.S.C. §7001 et seq. (“E-Sign”).",
+        "**5.2** You acknowledge that we may communicate with you at any email address or telephone number that you provide us, to: (i) notify you regarding your Account; (ii) troubleshoot problems with your Account; (iii) resolve a dispute; (iv) collect a debt; (v) poll your opinions through surveys or questionnaires; (vi) notify you regarding your orders, payment and delivery updates; (vii) send you authentication texts, including one-time passcodes; or (viii) as otherwise necessary to service your Account or enforce these Terms, the Policies, applicable laws and regulations, or any other agreement we may have with you. Standard text messaging charges applied by your cell phone carrier will apply to text messages that we send.",
+        "**5.3** If you would like to receive our marketing materials via mobile texts and alerts, you may sign up to do so. By signing up, you acknowledge that we may send you promotional messages at the mobile number you provide us. Message frequency varies and carriers are not liable for any delays or undelivered messages. Message and data rates may apply. You acknowledge that you are not required to consent to receive marketing texts as a condition of using the Services. If you wish to opt out of SMS texts from us, you can reply STOP to the corresponding number from your mobile device receiving the messages and/or follow the instructions provided in these messages."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**5.5** Our communications with you may be through a third-party service provider. You acknowledge and consent that, subject to our Privacy Policy, your communications with us, the merchandise partners, or our agents may be recorded, monitored and stored for quality control and training purposes, or to protect your, our and/or our merchandise partners’ interests."
+      ],
+      "new": [
+        "**5.5** Our communications with you may be through a third-party service provider. Subject to our Privacy Policy, your communications with us, the merchandise partners, or our agents may be recorded, monitored and stored for quality control and training purposes, or to protect your, our and/or our merchandise partners’ interests."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**6.1** “User Submission” means anything posted, uploaded, shared, submitted, stored, or otherwise provided by you through the Services, including suggestions, comments, reviews, ratings, photos, videos, or other feedback or materials, and may be viewable by other users. Any User Submission posted by you in your Account may not contain nudity, violence, sexually explicit, or offensive subject matter as determined by us in our sole discretion."
+      ],
+      "new": [
+        "**6.1** “User Submission” means anything posted, uploaded, shared, submitted, stored, or otherwise provided by you through the Services, including suggestions, comments, reviews, ratings, photos, videos, other feedback or materials, or SNS Content and may be viewable by other users. Any User Submission posted by you in your Account may not contain nudity, violence, sexually explicit, or offensive subject matter as determined by us in our sole discretion."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**6.3** You acknowledge and agree that all User Submissions (including the user name under which you made them) are non-confidential and non-proprietary. We may freely display, disclose, reproduce, modify, license, transfer, distribute and otherwise use the User Submissions in any manner, without any restriction or compensation to you."
+      ],
+      "new": [
+        "**6.3** You acknowledge and agree that all User Submissions (including the username under which you made them) are non-confidential and non-proprietary. We may freely display, disclose, reproduce, modify, license, transfer, distribute and otherwise use the User Submissions in any manner, without any restriction or compensation to you."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**6.5** We do not endorse User Submissions, and they do not represent our views. We expressly disclaim any liability for User Submissions or damages resulting from them. We expect users to maintain a high level of integrity when submitting User Submissions that are viewable by other users, especially with respect to ratings and reviews of products. You undertake that the User Submissions that are viewable by other users are made truthfully in good faith and based only on your first-hand experience. You further undertake that you will prominently indicate if a User Submission was sponsored or paid for in any way. You acknowledge that we have no obligation to pre-screen User Submissions, although we reserve the right to pre-screen, refuse, exclude or remove any User Submission for any reason or no reason, at our discretion and without notice to you. By entering into these Terms, you hereby provide your irrevocable consent to such monitoring. You acknowledge and agree that you have no expectation of privacy concerning the transmission of your User Submissions. In the event that we pre-screen, refuse, exclude or remove any User Submissions, you acknowledge that we will do so for our benefit, not yours. Without limiting the foregoing, we shall have the right to remove any User Submissions that violate the Terms or are otherwise objectionable."
+      ],
+      "new": [
+        "**6.5** We do not endorse User Submissions, and they do not represent our views. We expressly disclaim any liability for User Submissions or damages resulting from them. We expect users to maintain a high level of integrity when submitting User Submissions that are viewable by other users, especially with respect to ratings and reviews of products. You undertake that the User Submissions that are viewable by other users are made truthfully in good faith and based only on your first-hand experience. You further undertake that you will prominently indicate if a User Submission was sponsored or paid for in any way. You acknowledge that we have no obligation to pre-screen User Submissions, although we reserve the right to pre-screen, refuse, exclude or remove any User Submission for any reason or no reason, at our discretion and without notice to you. By entering into these Terms, you hereby provide your irrevocable consent to such monitoring. In the event that we pre-screen, refuse, exclude or remove any User Submissions, you acknowledge that we will do so to maintain the safety and integrity of our Services. Without limiting the foregoing, we shall have the right to remove any User Submissions that violate the Terms or are otherwise objectionable."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**8.4** Your interactions with other users, other entities or individuals as a result of your use of the Services, including communications, payments, performances and deliveries, are solely between you and such third parties; provided, however, that we reserve the right, but has no obligation, to intercede in such interactions. You should make whatever investigation and/or seek whatever professional advice as you feel necessary or appropriate before proceeding with any interaction with any of these third parties. You acknowledge and agree that we are not responsible for any loss or damage incurred as the result of such interactions. You agree that we will not be responsible for any liability incurred as the result of such interactions."
+      ],
+      "new": [
+        "**8.4** Your interactions with other users, other entities or individuals as a result of your use of the Services, including communications, payments, performances and deliveries, are solely between you and such third parties; provided, however, that we reserve the right, but have no obligation, to intercede in such interactions. You should make whatever investigation and/or seek whatever professional advice as you feel necessary or appropriate before proceeding with any interaction with any of these third parties. You acknowledge and agree that we are not responsible for any loss or damage incurred as the result of such interactions. You agree that we will not be responsible for any liability incurred as the result of such interactions."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "When you place an order fulfilled outside the United States, the title to the purchased product and risk of loss pass to you upon delivery of the product to the international carrier outside the United States. In addition, you agree that, where applicable and unless otherwise specified, you may act as the importer of record for certain products purchased and you hereby authorize us to appoint a freight forwarder/customs broker to act as your direct representative and pay any sales tax and customs duties on your behalf. Note that for customers located in the U.S., customs duties may be imposed on products that you purchase if the total value of imported products exceeds the threshold amount as specified by applicable laws.",
+        "When you place an order fulfilled inside the United States, the title to the purchased product and risk of loss pass to you upon delivery of the product to the domestic carrier inside the United States."
+      ],
+      "new": [
+        "The title to purchased products and risk of loss pass to you from the respective seller(s) upon delivery of the product to the domestic carrier inside the United States. Unless otherwise expressly indicated on the Services, products identified as local warehouse products will be sold by third-party merchandise partners, and products not identified as such will be procured by us from third-party merchandise partners.",
+        "In addition, you agree that, where applicable and unless otherwise specified, you may act as the importer of record for certain products purchased and you hereby authorize us to appoint a freight forwarder/customs broker to act as your direct representative and pay any sales tax and customs duties on your behalf. Note that for customers located in the U.S., additional customs duties may be imposed on products that you purchase if the total value of imported products exceeds the threshold amount as specified by applicable laws."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**10.5** You acknowledge that the products are in conformity with the transaction or intended purchase if they: (i) comply with the description provided on Temu and possess the qualities presented on Temu; (ii) are fit for the purposes for which goods of such kind are normally used; and (iii) are of the quality and performance which are normal in goods of the same type and which can reasonably be expected.",
+        "**10.6** In order to make purchases, you must provide accurate and complete information for a valid payment method, such as a credit card, that you are authorized to use. You must promptly update your account with any changes related to your payment method. BY PROVIDING INFORMATION FOR A PAYMENT METHOD, YOU AUTHORIZE US OR OUR AFFILIATES OR OUR AGENTS OR PAYMENT SERVICE PROCESSORS TO CHARGE THE PAYMENT METHOD FOR: (A) AMOUNTS DUE FOR PURCHASED PRODUCTS; (B) ANY AND ALL APPLICABLE CUSTOMS DUTIES, TAXES, AND SHIPPING COSTS; AND (C) ANY OTHER CHARGES INCURRED IN CONNECTION WITH YOUR USE OF THE SERVICES. YOUR PAYMENTS ARE NON-REFUNDABLE EXCEPT AS EXPRESSLY PROVIDED IN APPLICABLE POLICIES. We may decline, freeze or hold your transaction for any reason, including for suspected fraud, anti-money laundering and sanctions compliance, or if we believe your transaction poses a risk to us or any third party.",
+        "**10.7** Payment Processors may charge you fees for your purchases made through Temu. Such processing fees will be disclosed to you via Temu. Your use of the Services and the payment processing provided by the Payment Processor is subject to your agreement with the Payment Processor, as may be modified from time to time. As a condition of using the payment services, you must provide accurate and complete information, and you authorize us to share this information with the Payment Processor."
+      ],
+      "new": [
+        "**10.5** For products procured by us from third-party merchandise partners, we are required to deliver such products in conformity with the mutually intended transaction or intended purchase and in accordance with commercial reasonable expectations, being liable to you for any lack of conformity which exists at the time of delivery. You acknowledge that the products are in conformity with the transaction or intended purchase if they: (i) comply with the description provided on Temu and possess the qualities presented on Temu; (ii) are fit for the purposes for which goods of such kind are normally used; and (iii) are of the quality and performance which are normal in goods of the same type and which can reasonably be expected.",
+        "**10.6** In order to make purchases, you must provide accurate and complete information for a valid payment method, such as a credit card, that you are authorized to use. You must promptly update your account with any changes related to your payment method. BY PROVIDING INFORMATION FOR A PAYMENT METHOD, YOU AUTHORIZE US OR OUR AFFILIATES OR OUR AGENTS OR PAYMENT SERVICE PROCESSORS TO CHARGE THE PAYMENT METHOD FOR: (A) AMOUNTS DUE FOR PURCHASED PRODUCTS; (B) ANY AND ALL APPLICABLE CUSTOMS DUTIES, TAXES AND SHIPPING COSTS; AND (C) ANY OTHER CHARGES INCURRED IN CONNECTION WITH YOUR USE OF THE SERVICES. YOUR PAYMENTS ARE NON-REFUNDABLE EXCEPT AS EXPRESSLY PROVIDED IN APPLICABLE POLICIES. We may decline, freeze or hold your transaction for any reason, including for suspected fraud, anti-money laundering and sanctions compliance, or if we believe your transaction poses a risk to us or any third party.",
+        "**10.7** Payment processors may charge you fees for your purchases made through Temu. Such processing fees will be disclosed to you via Temu. Your use of the Services and the payment processing provided by the payment processor is subject to your agreement with the payment processor, as may be modified from time to time. As a condition of using the payment services, you must provide accurate and complete information, and you authorize us to share this information with the payment processor."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**11.2** We want you to be satisfied with your purchases through the Services. For all the products purchased on Temu, you may be entitled to a return and refund. For details of return and refund, please visit our Return and Refund Policy. Please follow the instructions in the policy If you want to request a refund. You acknowledge and agree that we may issue a refund to you in accordance with the Return and Refund Policy."
+      ],
+      "new": [
+        "**11.2** We want you to be satisfied with your purchases through the Services. For all the products purchased on Temu, you may be entitled to a return and refund. For details of return and refund, please visit our Return and Refund Policy. Please follow the instructions in the policy if you want to request a refund. You acknowledge and agree that we may issue a refund to you in accordance with the Return and Refund Policy."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**12.1** You may receive credits, coupons, cash, gifts or other kinds of reward by use of the Services (collectively, “Rewards”). Some rewards may only be used for discounts on or payment for eligible purchases on or through the Services (but note that not all products may be eligible) and cannot be redeemed for cash, except in jurisdictions where required by law. You should read carefully the information and applicable rules regarding different kinds of rewards."
+      ],
+      "new": [
+        "**12.1** You may receive credits, coupons, cash, gifts or other kinds of reward by use of the Services (collectively, “Rewards”). Some rewards may only be used for discounts on or payment for eligible purchases on or through the Services (but note that not all products may be eligible) and cannot be redeemed for cash, except in jurisdictions where required by law. You should read carefully the information and applicable rules regarding different kinds of rewards. In the event of any inconsistency between the conditions governing the Rewards and these Terms, the specific conditions of the Rewards shall prevail."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**14.1** TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW WE EXPRESSLY DISCLAIM ALL REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, RELATING TO THE SERVICES, ANY CONTENT OR ANY PRODUCT OFFERED OR PURCHASED ON OR THROUGH THE SERVICES, INCLUDING WITHOUT LIMITATION ANY WARRANTIES OF PRODUCTS’ CONDITION, QUALITY, DURABILITY, PERFORMANCE, ACCURACY, RELIABILITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, OR ANY WARRANTIES OF THE CONTENT’S ACCURACY, CORRECTNESS, COMPLETENESS, OR LEGALITY. ALL SUCH WARRANTIES, REPRESENTATIONS, CONDITIONS, AND UNDERTAKINGS ARE HEREBY EXPRESSLY EXCLUDED. NO COMMUNICATION OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM OR THROUGH THE SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED HEREIN. IN ADDITION, WE MAKE NO REPRESENTATIONS OR WARRANTIES REGARDING SUGGESTIONS OR RECOMMENDATIONS OF PRODUCTS OFFERED OR PURCHASED ON OR THROUGH THE SERVICES. THIS SECTION 14 DOES NOT AFFECT IN ANY WAY OUR RETURN AND REFUND POLICY FOR PRODUCTS PURCHASED ON THE SERVICES."
+      ],
+      "new": [
+        "**14.1** TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW AND EXCEPT AND ONLY TO THE EXTENT AS EXPRESSLY STATED IN SECTION 10.5 OF THESE TERMS, WE EXPRESSLY DISCLAIM ALL REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, RELATING TO THE SERVICES, ANY CONTENT OR ANY PRODUCT OFFERED OR PURCHASED ON OR THROUGH THE SERVICES, INCLUDING WITHOUT LIMITATION ANY WARRANTIES OF PRODUCTS’ CONDITION, QUALITY, DURABILITY, PERFORMANCE, ACCURACY, RELIABILITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, OR ANY WARRANTIES OF THE CONTENT’S ACCURACY, CORRECTNESS, COMPLETENESS, OR LEGALITY. ALL SUCH WARRANTIES, REPRESENTATIONS, CONDITIONS, AND UNDERTAKINGS ARE HEREBY EXPRESSLY EXCLUDED. NO COMMUNICATION OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM OR THROUGH THE SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED HEREIN. IN ADDITION, WE MAKE NO REPRESENTATIONS OR WARRANTIES REGARDING SUGGESTIONS OR RECOMMENDATIONS OF PRODUCTS OFFERED OR PURCHASED ON OR THROUGH THE SERVICES. THIS SECTION 14 DOES NOT AFFECT IN ANY WAY OUR RETURN AND REFUND POLICY FOR PRODUCTS PURCHASED ON THE SERVICES."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**16.1** To the fullest extent permitted by applicable law, you agree to indemnify and hold us, our parents, subsidiaries, affiliates, directors, officers, agents, employees, suppliers, licensors and partners (each, a “Temu Party” and collectively, the “Temu Parties”) harmless from and against any and all claims, liabilities, damages, losses, and expenses (including reasonable attorneys' fees) arising from or in connection with any third-party claims relating to: (a) your use of the Services, including without limitation, User Submissions or any actions taken by a third party using your Account; (b) your violation of these Terms; (c) your violation of any rights of another party, including without limitation any copyright, property, or privacy right or any third-party agreement; or (d) your violation of any applicable laws, rules, or regulations. In the event of such a claim, suit, or action (“Claim”), we will attempt to provide notice of the Claim to the contact information we have for your Account (provided that failure to deliver such notice shall not eliminate or reduce your indemnification obligations under these Terms)."
+      ],
+      "new": [
+        "**16.1** To the fullest extent permitted by applicable law, you agree to indemnify and hold us, our parents, subsidiaries, affiliates, directors, officers, agents, employees, suppliers, licensors and partners (each, a “Temu Party” and collectively, the “Temu Parties”) harmless from and against any and all claims, liabilities, damages, losses, and expenses (including reasonable attorneys' fees) arising from or in connection with any third-party claims relating to: (a) your use of the Services, including without limitation, User Submissions or any actions taken by a third party using your Account; (b) your violation of these Terms; (c) your violation of any rights of another party, including without limitation any copyright, property, or privacy right or any third-party agreement; or (d) your violation of any applicable laws, rules, or regulations. In the event of such a claim, suit, or action (each, a “Claim”), we will attempt to provide notice of the Claim to the contact information we have for your Account (provided that failure to deliver such notice shall not eliminate or reduce your indemnification obligations under these Terms)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**17.1 Application License.** Subject to your compliance with the Terms, we grant you a limited non-exclusive, non-transferable, non-sublicensable, revocable license to download, install and use a copy of the Temu mobile application (“Application”) on a device or computer that you own or control solely for your personal or non-commercial use. Furthermore, with respect to any Application accessed through or downloaded from the Apple App Store (an “App Store Sourced Application”), you will only use the App Store Sourced Application (a) on an Apple-branded product that runs the iOS (Apple’s proprietary operating system) and (b) as permitted by the “Usage Rules” set forth in the Apple App Store Terms of Service. Notwithstanding the first sentence in this section, with respect to any App Store Sourced Application or any Application accessed through or downloaded from the Google Play store (a “Google Play Sourced Application”), you may have additional rights with respect to access to and use of the Application applicable to volume purchasing or via Family Sharing on Apple-branded Products or a shared basis within your designated family group subject to the applicable Apple or Google terms and your associated settings.",
+        "**17.2 App Stores.** You acknowledge and agree that the availability of the Application and the Services is dependent on the third party from whom you received the Application license, e.g., the Apple App Store or Google Play (each, an “App Store”). You acknowledge that the Terms are between you and us and not with the App Store. We, not the App Store, are solely responsible for the Services, including the Application, the content thereof, maintenance, support services, and warranty therefor, and addressing any claims relating thereto (e.g., product liability, legal compliance or intellectual property infringement). In order to use the Application, you must have access to a wireless network, and you agree to pay all fees associated with such access. You also agree to pay all fees (if any) and applicable taxes charged by the App Store in connection with the Services, including the Application. You agree to comply with, and your license to use the Application is conditioned upon your compliance with all terms of agreement imposed by the applicable App Store when using any Service, including the Application. You acknowledge that the App Store (and its subsidiaries) are third-party beneficiaries of the Terms and will have the right to enforce it.",
+        "**17.3 Accessing and Downloading the Application from the Apple App Store.** The following applies to any App Store Sourced Application accessed through or downloaded from the Apple App Store:",
+        "**17.3.1** You acknowledge and agree that (i) the Terms are concluded between you and us only, and not Apple, and (ii) we, not Apple, are solely responsible for the App Store Sourced Application and content thereof. Your use of the App Store Sourced Application must comply with the App Store Terms of Service.",
+        "**17.3.2** You acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the App Store Sourced Application.",
+        "**17.3.3** In the event of any failure of the App Store Sourced Application to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the App Store Sourced Application to you and to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the App Store Sourced Application. As between Apple and us, any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be our sole responsibility.",
+        "**17.3.4** You and we acknowledge that, as between Apple and us, Apple is not responsible for addressing any claims you have or any claims of any third party relating to the App Store Sourced Application or your possession and use of the App Store Sourced Application, including, but not limited to: (i) product liability claims; (ii) any claim that the App Store Sourced Application fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection, privacy, or similar legislation.",
+        "**17.3.5** You and we acknowledge that, in the event of any third-party claim that the App Store Sourced Application or your possession and use of that App Store Sourced Application infringes that third party’s intellectual property rights, as between Apple and us, we, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim to the extent required by the Terms.",
+        "**17.3.6** You and we acknowledge and agree that Apple, and Apple’s subsidiaries, are third-party beneficiaries of the Terms as related to your license of the App Store Sourced Application, and that, upon your acceptance of the terms and conditions of the Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce the Terms as related to your license of the App Store Sourced Application against you as a third-party beneficiary thereof.",
+        "**17.3.7** Without limiting any other terms of the Terms, you must comply with all applicable third-party terms of agreement when using the App Store Sourced Application."
+      ],
+      "new": [
+        "**17.1 Application License.** Subject to your compliance with the Terms, we grant you a limited non-exclusive, non-transferable, non-sublicensable, revocable license to download, install and use a copy of the Temu mobile application (“Application”) on a device or computer that you own or control solely for your personal or non-commercial use. Furthermore, with respect to any Application accessed through or downloaded from the Apple App Store (an “Apple App Store Sourced Application”), you will only use the Apple App Store Sourced Application (a) on an Apple-branded product that runs the iOS (Apple’s proprietary operating system) and (b) as permitted by the “Usage Rules” set forth in the Apple App Store Terms of Service. Notwithstanding the first sentence in this section, with respect to any Apple App Store Sourced Application or any Application accessed through or downloaded from the Google Play Store (a “Google Play Sourced Application”), you may have additional rights with respect to access to and use of the Application applicable to volume purchasing or via family sharing on Apple-branded Products or a shared basis within your designated family group subject to the applicable Apple or Google terms and your associated settings.",
+        "**17.2 App Stores.** You acknowledge and agree that the availability of the Application and the Services is dependent on the third party from whom you received the Application license, e.g., the Apple App Store or Google Play Store (each, an “App Store”). You acknowledge that the Terms are between you and us and not with the App Store. We, not the App Store, are solely responsible for the Services, including the Application, the content thereof, maintenance, support services, and warranty therefor, and addressing any claims relating thereto (e.g., product liability, legal compliance or intellectual property infringement). In order to use the Application, you must have access to a wireless network, and you agree to pay all fees associated with such access. You also agree to pay all fees (if any) and applicable taxes charged by the App Store in connection with the Services, including the Application. You agree to comply with, and your license to use the Application is conditioned upon your compliance with all terms of agreement imposed by the applicable App Store when using any Service, including the Application. You acknowledge that the App Store (and its subsidiaries) are third-party beneficiaries of the Terms and will have the right to enforce it.",
+        "**17.3 Accessing and Downloading the Application from the Apple App Store.** The following applies to any Apple App Store Sourced Application accessed through or downloaded from the Apple App Store:",
+        "**17.3.1** You acknowledge and agree that (i) the Terms are concluded between you and us only, and not Apple, and (ii) we, not Apple, are solely responsible for the Apple App Store Sourced Application and content thereof. Your use of the Apple App Store Sourced Application must comply with the Apple App Store Terms of Service.",
+        "**17.3.2** You acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Apple App Store Sourced Application.",
+        "**17.3.3** In the event of any failure of the Apple App Store Sourced Application to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the Apple App Store Sourced Application to you and to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Apple App Store Sourced Application. As between Apple and us, any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be our sole responsibility.",
+        "**17.3.4** You and we acknowledge that, as between Apple and us, Apple is not responsible for addressing any claims you have or any claims of any third party relating to the Apple App Store Sourced Application or your possession and use of the Apple App Store Sourced Application, including, but not limited to: (i) product liability claims; (ii) any claim that the Apple App Store Sourced Application fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection, privacy, or similar legislation.",
+        "**17.3.5** You and we acknowledge that, in the event of any third-party claim that the Apple App Store Sourced Application or your possession and use of that Apple App Store Sourced Application infringes that third party’s intellectual property rights, as between Apple and us, we, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim to the extent required by the Terms.",
+        "**17.3.6** You and we acknowledge and agree that Apple, and Apple’s subsidiaries, are third-party beneficiaries of the Terms as related to your license of the Apple App Store Sourced Application, and that, upon your acceptance of the terms and conditions of the Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce the Terms as related to your license of the Apple App Store Sourced Application against you as a third-party beneficiary thereof.",
+        "**17.3.7** Without limiting any other terms of the Terms, you must comply with all applicable third-party terms of agreement when using the Apple App Store Sourced Application."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**18.5 Notice.** You acknowledge and agree that we may give notice to you through email using the latest email address you provided to us, which constitutes effective notice. Therefore, you are responsible for keeping your email address information with us up to date. You may give notice to us at the following addresses:"
+      ],
+      "new": [
+        "**18.5 Notice.** You acknowledge and agree that we may give notice to you through email using the latest email address you provided to us, which constitutes effective notice. Therefore, you are responsible for keeping your email address information with us up to date. You may give notice to us at the following address:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**18.12 Translation.** The translated versions of these Terms of Use, Privacy Policy, Cookie and Similar Technologies Policy, Intellectual Property Policy or any other terms, policies, disclosures, or representations on Temu are provided for your convenience only. If there are any discrepancies between the English version and versions in other languages, the English version shall always prevail and govern your relationship with Temu."
+      ],
+      "new": [
+        "**18.12 Translation.** The translated versions of these Terms, Privacy Policy, Cookie and Similar Technologies Policy, Intellectual Property Policy or any other terms, policies, disclosures, or representations on Temu are provided for your convenience only. If there are any discrepancies between the English version and versions in other languages, the English version shall always prevail and govern your relationship with us."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## Contact us"
+      ],
+      "new": [
+        "## Contact Us"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- If you are using a Temu website, please contact Temu customer service via the “Contact us” page linked in the website footer.",
+        "- If you are using a Temu application, please contact Temu customer service via the “Customer support” section in the “You” menu at the bottom of the home page.",
+        "If you have any legal questions or concerns, please contact us at legal@temu.com."
+      ],
+      "new": [
+        "- if you are using a Temu website, please contact Temu customer service via the “Contact us” page linked in the website footer; or",
+        "- if you are using a Temu application, please contact Temu customer service via the “Customer support” section in the “You” menu at the bottom of the home page.",
+        "If you have any legal questions or concerns, please contact us through this web form."
+      ]
+    }
+  ]
+}

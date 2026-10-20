@@ -1,0 +1,118 @@
+{
+  "id": "2025-01-13-spotify-privacy",
+  "service": "spotify",
+  "service_name": "Spotify",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.spotify.com/us/legal/privacy-policy/",
+  "detected_at": "2025-01-13T03:05:54+00:00",
+  "source": "wayback",
+  "window_start": "2024-10-21T04:41:40+00:00",
+  "archive_before": "https://web.archive.org/web/20241021044140/https://www.spotify.com/us/legal/privacy-policy/",
+  "archive_after": "https://web.archive.org/web/20250113030554/https://www.spotify.com/us/legal/privacy-policy/",
+  "flags": [],
+  "stats": {
+    "hunks": 7,
+    "added_words": 61,
+    "removed_words": 94
+  },
+  "headline": "Spotify edited its Privacy Policy",
+  "summary": "61 words added and 94 removed across 7 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Effective as of 31 December 2024",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Effective as of 10 October 2024"
+      ],
+      "new": [
+        "Effective as of 31 December 2024"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "This Privacy Policy describes how we process your personal data at Spotify USA Inc. From now on, we’ll call it the ‘Policy’."
+      ],
+      "new": [
+        "This Privacy Policy describes how we at Spotify USA Inc. process personal data of U.S. residents. From now on, we’ll call it the ‘Policy’."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "From time to time, we may develop new or offer additional services. They’ll also be subject to this Policy, unless stated otherwise when we introduce them. IIf you reside in California, our supplemental California Notice at Collection, applies in addition to this Policy."
+      ],
+      "new": [
+        "From time to time, we may develop new or offer additional services. They’ll also be subject to this Policy, unless stated otherwise when we introduce them. Our California Notice at Collection as required by the California Consumer Privacy Act applies to residents of California. If you are a resident of California, you should read this notice together with this Policy."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Privacy laws give certain rights to individuals over their personal data."
+      ],
+      "new": [
+        "Certain U.S. states have adopted privacy laws that give certain rights to individuals over their personal data. We provide these rights to all residents of the U.S., regardless of where they live."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- circumstances when they apply",
+        "- how to use them"
+      ],
+      "new": [
+        "- how to exercise them"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| **Collected when you sign up for the Spotify Service or when you update your account** | | |",
+        "|---|---|---|",
+        "| **Categories** | **Categories under CCPA** | **Description** |",
+        "| User Data | Identifiers; and Characteristics of protected classifications under California or U.S. law (i.e., your age and gender) | Personal data that we need to create your Spotify account and that enables you to use the Spotify Service. The type of data collected and used depends on the type of Service Option you have. It also depends on how you create your account, the country you are in, and if you use third party services to sign in. This may include your: profile name email address password phone number date of birth gender street address (see further details below) country university/college (for Spotify Premium Student) We receive some of this data from you e.g. from the sign up form or account page. We also collect some of this data from your device e.g. country or region. For more information about how we collect and use this data, see ‘Your general (non-precise) location’ in the Usage Data category. |",
+        "| Street Address Data | Geolocation data | We may ask for and process your street address for the following reasons: to check eligibility for a Service Option to deliver notices which are required by law to deliver support options for billing and tax administration to deliver physical goods or gifts which you have requested In some cases, we may use a third party application to help you verify your address, such as Google Maps. |",
+        "| **Collected through your use of the Spotify Service** | | |",
+        "|---|---|---|",
+        "| **Categories** | **Categories under CCPA** | **Description** |",
+        "| Usage Data | Internet or other electronic network activity information; Geolocation data (i.e.,your non-precise location as derived from your IP address); Commercial information; and Inferences | Personal data collected and processed about you when you’re accessing or using the Spotify Service. There are a few types of information this includes, listed in the following sections. **Information about how you use Spotify** Examples include: information about your Spotify Service Option your actions with the Spotify Service (including date and time), such as:"
+      ],
+      "new": [
+        "| **Collected when you sign up for the Spotify Service or when you update your account** | |",
+        "|---|---|",
+        "| **Categories** | **Description** |",
+        "| User Data | Personal data that we need to create your Spotify account and that enables you to use the Spotify Service. The type of data collected and used depends on the type of Service Option you have. It also depends on how you create your account, the country you are in, and if you use third party services to sign in. This may include your: profile name email address password phone number date of birth gender street address (see further details below) country university/college (for Spotify Premium Student) We receive some of this data from you e.g. from the sign up form or account page. We also collect some of this data from your device e.g. country or region. For more information about how we collect and use this data, see ‘Your general (non-precise) location’ in the Usage Data category. |",
+        "| Street Address Data | We may ask for and process your street address for the following reasons: to check eligibility for a Service Option to deliver notices which are required by law to deliver support options for billing and tax administration to deliver physical goods or gifts which you have requested In some cases, we may use a third party application to help you verify your address, such as Google Maps. |",
+        "| **Collected through your use of the Spotify Service** | |",
+        "|---|---|",
+        "| **Categories** | **Description** |",
+        "| Usage Data | Personal data collected and processed about you when you’re accessing or using the Spotify Service. There are a few types of information this includes, listed in the following sections. **Information about how you use Spotify** Examples include: information about your Spotify Service Option your actions with the Spotify Service (including date and time), such as:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| **Additional data you may choose to give us** | | |",
+        "|---|---|---|",
+        "| **Categories** | **Categories under CCPA** | **Description** |",
+        "| Payment and Purchase Data | Commercial information | If you make any purchases from Spotify or sign up for a paid Service Option or a trial, we will need to process your payment data. The exact personal data collected and used will vary depending on the payment method. It will include information such as: name date of birth payment method type (e.g. credit or debit card) if using a debit or credit card, the card type, expiration date, and certain digits of your card numberNote: For security, we never store your full card number ZIP/postal code mobile phone number details of your purchase and payment history |",
+        "| Survey and Research Data | Identifiers; and other information you share | When you respond to a survey or take part in user research, we collect and use the personal data you provide as described in the survey or research. |"
+      ],
+      "new": [
+        "| **Additional data you may choose to give us** | |",
+        "|---|---|",
+        "| **Categories** | **Description** |",
+        "| Payment and Purchase Data | If you make any purchases from Spotify or sign up for a paid Service Option or a trial, we will need to process your payment data. The exact personal data collected and used will vary depending on the payment method. It will include information such as: name date of birth payment method type (e.g. credit or debit card) if using a debit or credit card, the card type, expiration date, and certain digits of your card numberNote: For security, we never store your full card number ZIP/postal code mobile phone number details of your purchase and payment history |",
+        "| Survey and Research Data | When you respond to a survey or take part in user research, we collect and use the personal data you provide as described in the survey or research. |"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "2025-07-07-amazon-terms",
+  "service": "amazon",
+  "service_name": "Amazon",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM",
+  "detected_at": "2025-07-07T21:49:15+00:00",
+  "source": "wayback",
+  "window_start": "2025-04-23T23:38:34+00:00",
+  "archive_before": "https://web.archive.org/web/20250423233834/https://www.amazon.com/gp/help/customer/display.html/?nodeId=GLSBYFE9MGKKQXXM",
+  "archive_after": "https://web.archive.org/web/20250707214915/https://www.amazon.com/gp/help/customer/display.html/?nodeId=GLSBYFE9MGKKQXXM",
+  "flags": [
+    {
+      "tag": "ai-training",
+      "label": "AI training",
+      "hits": 1
+    },
+    {
+      "tag": "account-termination",
+      "label": "Kicking you out",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 7,
+    "added_words": 457,
+    "removed_words": 16
+  },
+  "headline": "Amazon rewrote its Terms of Service — new wording on AI training and banning accounts",
+  "summary": "457 words added and 16 removed across 7 sections. New wording touches: AI training, Kicking you out. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "You will not, and will not allow any third party to, use AI-generated content from the Amazon Services to, directly or indirectly, develop or improve large language or multimodal models, machine learning models or related technology.",
+  "receipt_side": "new",
+  "sideeye": 4,
+  "tags": [
+    "ai-training",
+    "account-termination"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "**Last updated: September 14, 2022**",
+        "Welcome to Amazon.com. Amazon.com Services LLC and/or its affiliates (\"Amazon\") provide website features and other products and services to you when you visit or shop at Amazon.com, use Amazon products or services, use Amazon applications for mobile, or use software provided by Amazon in connection with any of the foregoing (collectively, \"Amazon Services\"). By using the Amazon Services, you agree, on behalf of yourself and all members of your household and others who use any Service under your account, to the following conditions."
+      ],
+      "new": [
+        "**Last updated: May 30, 2025**",
+        "Welcome to Amazon.com. Amazon.com Services LLC and/or its affiliates (\"Amazon\") provide website features and other products and services to you when you visit or shop at Amazon.com, use Amazon products or services, use Amazon applications for mobile, or use software provided by Amazon in connection with any of the foregoing (collectively, \"Amazon Services\"). By using the Amazon Services, you agree, on behalf of yourself and all members of your household and others who use any Amazon Service under your account, to the following conditions."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Click here to see a non-exhaustive list of Amazon trademarks. In addition, graphics, logos, page headers, button icons, scripts, and service names included in or made available through any Amazon Service are trademarks or trade dress of Amazon in the U.S. and other countries. Amazon's trademarks and trade dress may not be used in connection with any product or service that is not Amazon's, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits Amazon. All other trademarks not owned by Amazon that appear in any Amazon Service are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by Amazon.",
+        "Subject to your compliance with these Conditions of Use and any Service Terms, and your payment of any applicable fees, Amazon or its content providers grant you a limited, non-exclusive, non-transferable, non-sublicensable license to access and make personal and non-commercial use of the Amazon Services. This license does not include any resale or commercial use of any Amazon Service, or its contents; any collection and use of any product listings, descriptions, or prices; any derivative use of any Amazon Service or its contents; any downloading, copying, or other use of account information for the benefit of any third party; or any use of data mining, robots, or similar data gathering and extraction tools. All rights not expressly granted to you in these Conditions of Use or any Service Terms are reserved and retained by Amazon or its licensors, suppliers, publishers, rightsholders, or other content providers. No Amazon Service, nor any part of any Amazon Service, may be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any commercial purpose without express written consent of Amazon. You may not frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of Amazon without express written consent. You may not use any meta tags or any other \"hidden text\" utilizing Amazon's name or trademarks without the express written consent of Amazon. You may not misuse the Amazon Services. You may use the Amazon Services only as permitted by law. The licenses granted by Amazon terminate if you do not comply with these Conditions of Use or any Service Terms."
+      ],
+      "new": [
+        "Click here to see a non-exhaustive list of Amazon trademarks. In addition, graphics, logos, page headers, button icons, scripts, and service names included in or made available through any Amazon Service are trademarks or trade dress of Amazon in the U.S. and other countries. Amazon's trademarks and trade dress may not be used in connection with any product or service that is not Amazon's or in any manner that is likely to cause confusion among customers. All other trademarks not owned by Amazon that appear in any Amazon Service are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by Amazon.",
+        "Subject to your compliance with these Conditions of Use and any Service Terms, and your payment of any applicable fees, Amazon or its content providers grant you a limited, non-exclusive, non-transferable, non-sublicensable license to access and make personal and non-commercial use of the Amazon Services. This license does not include any resale or commercial use of any Amazon Service, or its contents; any collection and use of any product listings, descriptions, or prices; any derivative use of any Amazon Service or its contents; any downloading, copying, or other use of account information for the benefit of any third party; or any use of data mining, robots, or similar data gathering and extraction tools. You may not use the Amazon Services to infringe, misappropriate, or violate intellectual property or other legal rights. All rights not expressly granted to you in these Conditions of Use or any Service Terms are reserved and retained by Amazon or its licensors, suppliers, publishers, rightsholders, or other content providers. No Amazon Service, nor any part of any Amazon Service or its contents, may be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any commercial purpose without express written consent of Amazon. You will not, and will not allow any third party to, use AI-generated content from the Amazon Services to, directly or indirectly, develop or improve large language or multimodal models, machine learning models or related technology. You may not frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of Amazon without express written consent. You may not use any meta tags or any other \"hidden text\" utilizing Amazon's name or trademarks without the express written consent of Amazon. You may not misuse the Amazon Services. You may use the Amazon Services only as permitted by law. The licenses granted by Amazon terminate if you do not comply with these Conditions of Use or any Service Terms."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "In addition to the stated purchase price, products may display other reference prices as a point of comparison to inform your purchase decisions. Click here for more information on reference prices and savings displays."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "It is the express wish of the parties that these Conditions of Use be drawn up in English. In the event of any inconsistency, discrepancy or conflict between the English version of these Conditions of Use and their translation in another language, the English version shall prevail."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "3. **No Reverse Engineering.** You may not reverse engineer, decompile or disassemble, tamper with, or bypass any security associated with the Amazon Software, whether in whole or in part."
+      ],
+      "new": [
+        "3. **No Reverse Engineering.** You may not reverse engineer, decompile or disassemble, tamper with, apply any other process or procedure to derive the source code or other underlying components (such as a model, model parameters, or model weights), or bypass any security associated with the Amazon Software, whether in whole or in part."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "5. **Government End Users.** If you are a U.S. Government end user, we are licensing the Amazon Software to you as a \"Commercial Item\" as that term is defined in the U.S. Code of Federal Regulations (see 48 C.F.R. § 2.101), and the rights we grant you to the Amazon Software are the same as the rights we grant to all others under these Conditions of Use."
+      ],
+      "new": [
+        "5. **Government End Users.** If you are a U.S. Government end user, we are licensing the Amazon Software to you as a \"Commercial Product\" as that term is defined in the U.S. Code of Federal Regulations (see 48 C.F.R. § 2.101), and the rights we grant you to the Amazon Software are the same as the rights we grant to all others under these Conditions of Use."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "The terms in this section (\"Agent Terms\") apply if you use, allow, enable, or cause the deployment of an Agent to access, use, or interact with any Amazon Services. For the purposes of these Agent Terms, \"Agent” means any software or service that takes autonomous or semi-autonomous action on behalf of, or at the instruction of, any person or entity.",
+        "1. **Transparency and Consent**. No Agent may access, use, or interact with Amazon Services unless, at all times, it identifies itself and operates in strict accordance with the requirements in section 3 of these Agent Terms. In addition, no Agent may access, use, or interact with Amazon Services if we have requested that the Agent refrain from accessing, using, or interacting with any Amazon Service.",
+        "2. **Limitation on Access.** At our sole discretion, we may limit, including by technical measures, whether and how any Agent accesses, uses, and interacts with Amazon Services.",
+        "3. **Technical Requirements.** Agents must:",
+        "1. In all HTTP/HTTPS requests, identify that the request is from an Agent and disclose the name of the Agent by including the following in the request's user agent string:",
+        "\"Agent/\\[agent name\\]\" (e.g., Agent/AmazonAgent)",
+        "1. Not conceal or obfuscate that any access, use, or interactions are from an Agent, such as by (a) mimicking the speed or pattern of human keystrokes, page navigation, or other interactions or (b) completing or circumventing CAPTCHAs or other measures intended to distinguish computers from humans.",
+        "2. Respond truthfully to any question or prompt seeking to determine if interactions are coming from a human or a computer.",
+        "3. Not circumvent or otherwise avoid any measure intended to block, limit, modify, or control whether and how Agents access, use, or interact with an Amazon Service."
+      ]
+    }
+  ]
+}

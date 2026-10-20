@@ -1,0 +1,63 @@
+{
+  "id": "2025-05-01-anthropic-terms",
+  "service": "anthropic",
+  "service_name": "Anthropic (Claude)",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.anthropic.com/legal/consumer-terms",
+  "detected_at": "2025-05-01T05:52:44+00:00",
+  "source": "wayback",
+  "window_start": "2025-02-27T11:50:57+00:00",
+  "archive_before": "https://web.archive.org/web/20250227115057/https://www.anthropic.com/legal/consumer-terms",
+  "archive_after": "https://web.archive.org/web/20250501055244/https://www.anthropic.com/legal/consumer-terms",
+  "flags": [],
+  "stats": {
+    "hunks": 3,
+    "added_words": 174,
+    "removed_words": 40
+  },
+  "headline": "Anthropic (Claude) edited its Terms of Service",
+  "summary": "174 words added and 40 removed across 3 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "### 6.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "removed",
+      "old": [
+        "**We’ve made some updates to our Consumer Terms of Service. Learn more about the changes.**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 6. Removals",
+        "To submit a request to remove any content in the Materials, follow our process described here.",
+        "### 7. Subscriptions, fees and payment."
+      ],
+      "new": [
+        "### 6. Subscriptions, fees and payment."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 8. Third-party services and links",
+        "Our Services may use or be used in connection with third-party content, services, or integrations. We do not control or accept responsibility for any loss or damage that may arise from your use of any third-party content, services, and integrations, for which we make no representations or warranties. Your use of any third-party content, services, and integrations is at your own risk and subject to any terms, conditions, or policies (including privacy policies) applicable to such third-party content, services, and integrations."
+      ],
+      "new": [
+        "### 7. Third-party services and links",
+        "Our Services may use or be used in connection with third-party content (\"**Third-Party Content**\"), services, or integrations. We do not control or accept responsibility for any loss or damage that may arise from your use of any Third-Party Content, services, and integrations, for which we make no representations or warranties. Your use of any Third-Party Content, services, and integrations is at your own risk and subject to any terms, conditions, or policies (including privacy policies) applicable to such third-party content, services, and integrations.",
+        "### 8. Content Moderation",
+        "Third-Party Content is the responsibility of the person or entity that provides it to our Services. Anthropic is under no obligation to host or serve Third-Party Content. Third-Party Content may appear in Inputs or Outputs and become part of Materials. If you see any Third-Party Content you believe does not comply with these Terms, including by violating the Acceptable Use Policy or the law, you can report it to us.",
+        "If we become aware that any Third-Party Content (1) infringes another’s copyright or any other intellectual property or related or neighboring right, (2) is in breach of these Terms or our Acceptable Use Policy, or (3) may cause harm to Anthropic, our users, or third parties, we reserve the right to remove or take down some or all of such Third-Party Content using, where appropriate, algorithmic and human review.",
+        "You can learn more about our monitoring and enforcement, including how to appeal an account suspension or termination, in our T&S Support Center."
+      ]
+    }
+  ]
+}

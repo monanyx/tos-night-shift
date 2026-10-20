@@ -1,0 +1,37 @@
+{
+  "id": "2026-04-17-zoom-terms",
+  "service": "zoom",
+  "service_name": "Zoom",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.zoom.com/en/trust/terms/",
+  "detected_at": "2026-04-17T00:52:18+00:00",
+  "source": "wayback",
+  "window_start": "2026-02-24T20:18:45+00:00",
+  "archive_before": "https://web.archive.org/web/20260224201845/https://www.zoom.com/en/trust/terms/",
+  "archive_after": "https://web.archive.org/web/20260417005218/https://www.zoom.com/en/trust/terms/",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 0,
+    "removed_words": 5
+  },
+  "headline": "Zoom edited its Terms of Service",
+  "summary": "0 words added and 5 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "removed",
+      "old": [
+        "# ZOOM TERMS OF SERVICE"
+      ],
+      "new": []
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "2025-04-30-zoom-privacy",
+  "service": "zoom",
+  "service_name": "Zoom",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.zoom.com/en/trust/privacy/privacy-statement/",
+  "detected_at": "2025-04-30T14:34:31+00:00",
+  "source": "wayback",
+  "window_start": "2025-03-18T17:04:53+00:00",
+  "archive_before": "https://web.archive.org/web/20250318170453/https://www.zoom.com/en/trust/privacy/privacy-statement/",
+  "archive_after": "https://web.archive.org/web/20250430143431/https://www.zoom.com/en/trust/privacy/privacy-statement/",
+  "flags": [],
+  "stats": {
+    "hunks": 8,
+    "added_words": 170,
+    "removed_words": 321
+  },
+  "headline": "Zoom edited its Privacy Policy",
+  "summary": "170 words added and 321 removed across 8 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Last updated: April 15, 2025",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Last updated: October 11, 2024"
+      ],
+      "new": [
+        "Last updated: April 15, 2025"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Content and Context from Meetings, Webinars, Messaging, and Other Collaborative Features:** Content generated in meetings, webinars, or messages that are hosted on Zoom products and services (“Customer Content”), which may include audio, video, in-meeting messages, in-meeting and out-of-meeting whiteboards, chat messaging content, transcriptions, transcript edits and recommendations, responses to account owner / host-sponsored post-meeting or webinar feedback requests, responses to polls and Q&A, and files, as well as related context, such as invitation details, meeting or chat name, or meeting agenda. Customer Content may contain your voice and image, depending on the account owner’s settings, what you choose to share, your settings, and what you do on Zoom products and services. As referenced below, Zoom employees do not access or use Customer Content without the authorization of the hosting account owner, or as required for legal, safety, or security reasons.",
+        "- **Usage Information Regarding Meetings, Webinars, Messaging, Collaborative Features and the Website:** Information about how people and their devices interact with Zoom products and services, such as: when participants join and leave a meeting; whether participants sent messages and who they message with; performance data; mouse movements, clicks, keystrokes or actions (such as mute/unmute or video on/off), edits to transcript text, where authorized by the account owner and other inputs that help Zoom to understand feature usage, improve product design, and suggest features; which third-party apps are added to a meeting or other product or service and what information and actions the app is authorized to access and perform; use of third-party apps and the Zoom App Marketplace; features used (such as screen sharing, emojis, or filters); and other usage information and metrics. This also includes information about when and how people visit and interact with Zoom’s websites, including what pages are accessed, interaction with website features including Zoom’s website’s virtual chat feature, and whether or not the person signed up for a Zoom product or service."
+      ],
+      "new": [
+        "- **Content and Context from Meetings, Webinars, Messaging, and Other Collaborative Features:** Content generated in meetings, webinars, or messages that are hosted on Zoom products and services (“Customer Content”), which may include audio, video, in-meeting messages, in-meeting and out-of-meeting whiteboards, chat messaging content, transcriptions, transcript edits and recommendations, responses to account owner / host-sponsored post-meeting or webinar feedback requests, responses to polls and Q&A, and files, as well as related context, such as invitation details, meeting or chat name, or meeting agenda. Customer Content may contain your voice and image, depending on the account owner’s settings, what you choose to share, your settings, and what you do on Zoom products and services. As referenced below, Zoom employees do not access or use Customer Content without the authorization of the hosting account owner, or as required for legal, safety, security or support reasons.",
+        "- **Usage Information Regarding Meetings, Webinars, Messaging, Collaborative Features and the Website:** Information about how people and their devices interact with Zoom products and services, such as: when participants join and leave a meeting; whether participants sent messages and who they message with; performance data; mouse movements, clicks, keystrokes or actions (such as mute/unmute or video on/off), edits to transcript text, where authorized by the account owner and other inputs that help Zoom to understand feature usage, improve product design, and suggest features; which third-party apps are added to a meeting or other product or service and what information and actions the app is authorized to access and perform; use of third-party apps and the Zoom App Marketplace; features used (such as screen sharing, emojis, or filters); and other usage information and metrics. This also includes information about when and how people visit and interact with Zoom’s websites, including what pages are accessed, interaction with website features including Zoom’s website’s virtual chat feature, and whether or not the person signed up for a Zoom product or service. Some usage data collection is optional and may be controlled by your Diagnostic Data Preferences Setting."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Content from Third-Party Integrations:** Account owners and/or their licensed end users can access emails, calendars, files and other information from third-party services through their Zoom client, if they choose to integrate them. This information is not end-to-end encrypted by Zoom, but Zoom employees do not access the contents of third-party-service email, calendar entries, files or other information, unless authorized to, or required for legal, safety, or security reasons. If account owners and/or their licensed end users integrate their third-party emails, calendars, files and/or other information with products and services offered or powered by Zoom. Zoom may collect or process Customer Content and email, calendar, files and other information, including content, headers, titles, and metadata, from such third-party services."
+      ],
+      "new": [
+        "- **Content from Third-Party Integrations:** Account owners and/or their licensed end users can access emails, calendars, files and other information from third-party services through their Zoom client, if they choose to integrate them. This information is not end-to-end encrypted by Zoom, but Zoom employees do not access the contents of third-party-service email, calendar entries, files or other information, unless authorized to, or required for legal, safety, security or support reasons. If account owners and/or their licensed end users integrate their third-party emails, calendars, files and/or other information with products and services offered or powered by Zoom, then Zoom may collect or process Customer Content and email, calendar, files and other information, including content, headers, titles, and metadata, from such third-party services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Zoom employees do not access or use Customer Content including meeting, webinar, messaging, or email content (specifically, audio, video, files, in-meeting whiteboards, messaging, or email contents), or any content generated or shared as part of other collaborative features (such as out-of-meeting whiteboards), unless authorized by the account owner hosting the Zoom product or service where the Customer Content was generated, or as required for legal, safety, or security reasons. **Zoom does not use any of your audio, video, chat, screen sharing, attachments or other communications-like Customer Content (such as poll results, whiteboard and reactions) to train Zoom’s or its third-party artificial intelligence models.**"
+      ],
+      "new": [
+        "Zoom employees do not access or use Customer Content including meeting, webinar, messaging, or email content (specifically, audio, video, files, in-meeting whiteboards, messaging, or email contents), or any content generated or shared as part of other collaborative features (such as out-of-meeting whiteboards), unless authorized by the account owner hosting the Zoom product or service where the Customer Content was generated, or as required for legal, safety, security or support reasons. **Zoom does not use any of your audio, video, chat, screen sharing, attachments or other communications-like Customer Content (such as poll results, whiteboard and reactions) to train Zoom’s or its third-party artificial intelligence models.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Enhanced Video Features: If your account owner or administrator and you elect to enable “automatic smart name tags,” and you provide the requisite consent and a reference photo, Zoom may analyze your facial geometry and features from the reference photo you submit and video from the Zoom Room to identify you and tag you by name in the Zoom Room during your meeting. Zoom will store and use your reference photo and data about your facial geometry and features for this purpose while your account owner or administrator and you have this feature enabled. You can disable the automatic smart name tags feature and delete this data any time in your Settings. Zoom will retain this data for this purpose until and unless you choose to delete this data or for up to three years after your last interaction with Zoom.",
+        "- Enhanced Audio Features: If you elect to enable enhanced audio features, such as personalized audio isolation or automatic smart speaker tags, and provide the requisite consent, Zoom may analyze your voice and create a voiceprint to enhance your audio quality (such as suppressing background noise) and/or to identify you by name. To do this, Zoom may generate your voiceprint from a recording of your voice (if you upload it for this purpose) and/or from meetings that you participate in. Zoom will store and use your voiceprint and reference audio recording for these purposes while you have features that use your voiceprint enabled. You can disable these features and delete this data any time in your Settings. Zoom will retain this data for this purpose until and unless you choose to disable these features and delete this data or for up to three years after your last interaction with Zoom."
+      ],
+      "new": [
+        "- Enhanced Features: If you elect to enable certain features and you provide the requisite consent, Zoom may process data about your unique physical characteristics, including your facial geometry and /or voiceprint, for the purpose of offering the features. This data will be deleted when no longer necessary, adequate, or relevant to offering the features or when two years have passed since your last interaction with Zoom, whichever occurs first. Your account owner or administrator may need to enable these features before you can elect to enable them and/or may have the ability to disable the features on your behalf."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Consistent with specific revocable consents:** We rely on your prior consent in order to utilize cookies to engage advertising and analytics partners to deliver tailored advertising and analysis of our website usage. You have the right to withdraw your consent at any time by visiting our cookie management tool, available Cookies Settings;"
+      ],
+      "new": [
+        "- **Consistent with specific revocable consents:** We rely on your prior consent in order to utilize cookies to engage advertising and analytics partners to deliver tailored advertising and analysis of our website usage. You have the right to withdraw your consent at any time by visiting our cookie management tool, available in Cookies Settings;"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Opt out of the “sale” of personal data or “sharing” of personal data for targeted advertising purposes.** We do not sell your personal data in the conventional sense. However, like many companies, we may use advertising and analytics services that are intended to analyze your interactions with our website or app, based on information obtained from cookies or other trackers, including for delivering advertising to you (such as interest-based, targeted, or cross-context behavioral advertising). You can get more information and opt out of the use of cookies and other trackers on our website and app by clicking the Your Privacy Choices, also on our homepage, and setting your preferences. You will need to set your preferences from each device and each web browser from which you wish to opt out. This feature uses a cookie to remember your preference, so if you clear all cookies from your browser, you will need to re-select your preferred settings. California and Connecticut residents may also set the Global Privacy Control (GPC) to opt out of the “sale” or “sharing” of your personal information for targeted advertising for each participating browser system that you use. Zoom does not have actual knowledge that it “sells” or “shares” the personal information of consumers under 16 years of age."
+      ],
+      "new": [
+        "- **Opt out of the “sale” of personal data or “sharing” of personal data for targeted advertising purposes.** We do not sell your personal data in the conventional sense. However, like many companies, we may use advertising and analytics services that are intended to analyze your interactions with our website or app, based on information obtained from cookies or other trackers, including for delivering advertising to you (such as interest-based, targeted, or cross-context behavioral advertising). You can get more information and opt out of the use of cookies and other trackers on our website and app by clicking the Your Privacy Choices, also on our homepage, and setting your preferences. You will need to set your preferences from each device and each web browser from which you wish to opt out. This feature uses a cookie to remember your preference, so if you clear all cookies from your browser, you will need to re-select your preferred settings. Residents of California, Colorado, Connecticut, Montana, Nebraska, New Hampshire, and Texas may also set the Global Privacy Control (GPC) to opt out of the “sale” or “sharing” of your personal information for targeted advertising for each participating browser system that you use. Zoom does not have actual knowledge that it “sells” or “shares” the personal information of consumers under 16 years of age."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Privacy Statement Update Notes (August 2, 2024):**",
+        "Updates to describe the processing of personal data related to enhanced audio and video features.",
+        "**Privacy Statement Update Notes (October 11, 2024):**",
+        "Updates to describe the processing of personal data related to enhanced audio features.",
+        "Updates to describe new intelligent feature functionality, including related integration options."
+      ],
+      "new": [
+        "**Privacy Statement Update Notes (April 15, 2025):**",
+        "Update to clarify that residents of certain U.S. states may opt out of the “sale” or “sharing” of personal information in their privacy settings",
+        "Update to clarify that Zoom may access Customer Content for support reasons",
+        "Update to simplify the description of processing of data about a user’s unique physical characteristics",
+        "Update to reference the Diagnostic Data Processing setting"
+      ]
+    }
+  ]
+}

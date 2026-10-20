@@ -1,0 +1,39 @@
+{
+  "id": "2026-03-05-temu-terms",
+  "service": "temu",
+  "service_name": "Temu",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.temu.com/terms-of-use.html",
+  "detected_at": "2026-03-05T13:01:02+00:00",
+  "source": "wayback",
+  "window_start": "2026-01-01T12:43:26+00:00",
+  "archive_before": "https://web.archive.org/web/20260101124326/https://www.temu.com/terms-of-use.html",
+  "archive_after": "https://web.archive.org/web/20260305130102/https://www.temu.com/terms-of-use.html",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 2,
+    "removed_words": 1
+  },
+  "headline": "Temu edited its Terms of Service",
+  "summary": "2 words added and 1 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "# Temu | United States | Terms of Use",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "# Temu | U.S. | Terms of Use"
+      ],
+      "new": [
+        "# Temu | United States | Terms of Use"
+      ]
+    }
+  ]
+}

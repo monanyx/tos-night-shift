@@ -1,0 +1,185 @@
+{
+  "id": "2024-09-04-uber-terms",
+  "service": "uber",
+  "service_name": "Uber",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en",
+  "detected_at": "2024-09-04T08:30:15+00:00",
+  "source": "wayback",
+  "window_start": "2024-06-19T00:35:09+00:00",
+  "archive_before": "https://web.archive.org/web/20240619003509/https://www.uber.com/legal/en/document/?country=united-states&lang=en&name=general-terms-of-use",
+  "archive_after": "https://web.archive.org/web/20240904083015/https://www.uber.com/legal/en/document/?country=united-states&lang=en&name=general-terms-of-use",
+  "flags": [
+    {
+      "tag": "payments",
+      "label": "Money",
+      "hits": 2
+    }
+  ],
+  "stats": {
+    "hunks": 15,
+    "added_words": 931,
+    "removed_words": 29
+  },
+  "headline": "Uber rewrote its Terms of Service — new wording on fees and billing",
+  "summary": "931 words added and 29 removed across 15 sections. New wording touches: Money. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "In addition to such EBT card, you must add another payment method to your account to pay for costs that may not be paid by EBT, including SNAP Eligible Items that you prefer to pay for by other means, non-SNAP …",
+  "receipt_side": "new",
+  "sideeye": 2,
+  "tags": [
+    "payments"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "# **U.S. Terms of Use**"
+      ],
+      "new": [
+        "# U.S. Terms of Use"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **1. Contractual Relationship; Termination; and Modification**"
+      ],
+      "new": [
+        "### 1. Contractual Relationship; Termination; and Modification"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Termination.**"
+      ],
+      "new": [
+        "Termination."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Modification.**"
+      ],
+      "new": [
+        "Modification."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **2. Arbitration Agreement**"
+      ],
+      "new": [
+        "### 2. Arbitration Agreement"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **3. The Services**"
+      ],
+      "new": [
+        "### 3. The Services"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**App Stores.**"
+      ],
+      "new": [
+        "App Stores."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Ownership; License; and Restrictions.**"
+      ],
+      "new": [
+        "Ownership; License; and Restrictions."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **4. Third-Party Services (including Autonomous Vehicles) and Content**"
+      ],
+      "new": [
+        "### 4. Third-Party Services (including Autonomous Vehicles) and Content"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **5. Accessing the Services**"
+      ],
+      "new": [
+        "### 5. Accessing the Services"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Network Access and Devices.**"
+      ],
+      "new": [
+        "Network Access and Devices."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **6. User Conduct and Requirements; Communications; and User Content**"
+      ],
+      "new": [
+        "### 6. User Conduct and Requirements; Communications; and User Content"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **7. Payment**"
+      ],
+      "new": [
+        "### 7. Payment"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **8. Disclaimers; Limitation of Liability; and Indemnity**"
+      ],
+      "new": [
+        "**SNAP/EBT Terms and Conditions.**",
+        "You may be able to pay for certain SNAP Eligible Items (defined below) offered by certain Merchants, with an electronic balance-transfer (“EBT”) card issued by the U.S. Department of Agriculture (“USDA”), under its Supplemental Nutrition Assistance Program (“SNAP”). “SNAP Eligible Items” means certain Items eligible under SNAP for purchase with EBT, as determined by USDA. Further details on SNAP Eligible Items are available on the USDA website.",
+        "At this time, SNAP Eligible Items are not available in Puerto Rico, and may not be available for purchase through certain methods, including as add-on items to orders you have placed with other merchants.",
+        "To utilize EBT for SNAP Eligible Items, you must connect your valid EBT card to your Account. Only one EBT card may be linked to an Account at any time. At this time, Uber does not accept EBT cash.",
+        "By saving your EBT card to your Account, you authorize Uber, its affiliates, and its third-party contractors to store your EBT card and its details to enable you to make future purchases for SNAP Eligible Items.",
+        "In addition to such EBT card, you must add another payment method to your account to pay for costs that may not be paid by EBT, including SNAP Eligible Items that you prefer to pay for by other means, non-SNAP Eligible Items, delivery fees, service fees, return fees, cancellation fees, government-mandated fees (such as bag fees), non-exempt taxes (including taxes on fees, sales taxes on SNAP Eligible Items paid on methods other than an EBT card, and sales taxes on non-SNAP Eligible Items), estimated or actual tolls, and/or surcharges.",
+        "You represent and warrant that you are authorized to use the EBT card provided.",
+        "If Uber and its affiliates cannot verify your authorization to use such EBT card, or otherwise determines that your use of such EBT card is invalid, fraudulent, or otherwise unauthorized, Uber and its affiliates may refuse to process your EBT card and may remove the same from your Account.",
+        "Your ability to use EBT with certain merchants may depend on the eligibility of such merchants to receive EBT for SNAP Eligible Items. Uber makes no guarantee as to the availability of SNAP Eligible Items or a merchant's eligibility to receive EBT for SNAP Eligible Items.",
+        "**Gifting**",
+        "You may purchase certain items from our Third-Party Providers that can be delivered as gifts to family, friends or other individuals (“Recipients”). You can personalize your gift by including a digital gift card, gift message or recording a video message. Any gift messages or video messages must comply with and are subject to Uber’s Community Guidelines. If you purchase a gift, you must provide the Recipient’s name and mobile phone number at the time of purchase. We will use the mobile number to send a package-tracking text message to the Recipient with order details and delivery updates. You represent that you have obtained consent from the Recipient to share any information about the Recipient that you provide to Uber including name, address, phone number, and any other personal information. You can elect to schedule the delivery of the gift at the time of purchase on behalf of the Recipient or you may allow the Recipient to schedule delivery. If you are allowing Recipient to schedule delivery, Recipient must schedule such delivery for a date no later than seven days following the date of purchase (“Redemption Period”). In order for a Recipient to schedule the delivery and redeem a gift purchase, the Recipient must have an active Account. If the Recipient does not have an active Account with Uber, Recipient will be required to open an Account to schedule the delivery. If delivery to Recipient is scheduled by you, the Recipient is not required to have an Account. Fulfillment of the order must take place before 11:59pm PST on the sixth day of the Redemption Period (“Redemption Deadline”). If the order is not redeemed by the Redemption Deadline, the order will be canceled and the sender will be refunded for the full value of the gift, including all service fees, taxes and any tip. If a selected item is unavailable or otherwise cannot be delivered to the Recipient, the Recipient will receive a gift credit in the form of Uber Cash for the value of the gift plus applicable fees and taxes. Gift orders cannot be canceled by you once placed.",
+        "If your gift order contains alcohol, the Recipient will be asked to show a government-issued photo ID when the delivery arrives. You may not send alcohol to Recipients unless they are of the legal age to buy alcohol or older. Alcohol orders cannot be left unattended or left at the Recipient’s door. If Recipient is not present to accept the order at the scheduled delivery time, cannot provide valid ID, is under the legal age the buy alcohol, or is too intoxicated to accept the order, the alcohol portion of the order will not be delivered and will be returned to the seller and a return fee will be assessed. In the event an alcohol order cannot be delivered to the Recipient, the Recipient will receive a gift credit in the form of Uber Cash for the value of the alcohol portion of the order less the return fee. You may not place an order for alcohol to be delivered to areas where delivery, possession or consumption of alcohol is prohibited by law.",
+        "### 8. Disclaimers; Limitation of Liability; and Indemnity"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **9. Other Provisions**",
+        "**Choice of Law**."
+      ],
+      "new": [
+        "### 9. Other Provisions",
+        "**Choice of Law.**"
+      ]
+    }
+  ]
+}

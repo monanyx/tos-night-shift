@@ -1,0 +1,67 @@
+{
+  "id": "2026-02-01-reddit-privacy",
+  "service": "reddit",
+  "service_name": "Reddit",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.reddit.com/policies/privacy-policy",
+  "detected_at": "2026-02-01T00:05:54+00:00",
+  "source": "wayback",
+  "window_start": "2025-11-01T01:04:52+00:00",
+  "archive_before": "https://web.archive.org/web/20251101010452/https://www.reddit.com/policies/privacy-policy",
+  "archive_after": "https://web.archive.org/web/20260201000554/https://www.reddit.com/policies/privacy-policy",
+  "flags": [
+    {
+      "tag": "data-sharing",
+      "label": "Data sharing",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 3,
+    "added_words": 65,
+    "removed_words": 18
+  },
+  "headline": "Reddit rewrote its Privacy Policy — new wording on sharing your data",
+  "summary": "65 words added and 18 removed across 3 sections. New wording touches: Data sharing. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Reddit does not “sell” personal information as those terms are defined under applicable state privacy laws.",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "data-sharing"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "| | *Controlling Advertising and Analytics* | | Some analytics providers we partner with may provide specific opt-out mechanisms and we may provide, as needed and as available, additional tools and third-party services that allow you to better understand tracking technologies and how you can opt out. For example, you may manage the use and collection of certain information by Google Analytics via the Google Analytics Opt-out Browser Add-on. You can opt out of the Audience Measurement services provided by Nielsen and Quantcast. You may also generally opt out of receiving personalized advertisements from certain third-party advertisers and ad networks. To learn more about these advertisements or to opt out, please visit the sites of the Digital Advertising Alliance and the Network Advertising Initiative, or if you are a user in the European Economic Area, Your Online Choices. | |"
+      ],
+      "new": [
+        "| | *Controlling Advertising and Analytics* | | Some analytics providers we partner with may provide specific opt-out mechanisms and we may provide, as needed and as available, additional tools and third-party services that allow you to better understand tracking technologies and how you can opt out. For example, you may manage the use and collection of certain information by Google Analytics via the Google Analytics Opt-out Browser Add-on. You can opt out of the Audience Measurement services provided by Nielsen and Quantcast. If you have an account with us and you visit our site with an opt-out preference signal (such as Global Privacy Control) enabled, we will treat that as an opt-out request. You may also generally opt out of receiving personalized advertisements from certain third-party advertisers and ad networks. To learn more about these advertisements or to opt out, please visit the sites of the Digital Advertising Alliance and the Network Advertising Initiative, or if you are a user in the European Economic Area, Your Online Choices. | |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Reddit complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Reddit has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Reddit has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) Program, and to view our certification, please visit https://www.dataprivacyframework.gov/.",
+        "Reddit’s compliance with the DPF is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In accordance with the DPF, Reddit is also liable for onward transfers to third parties that process personal information in a way that does not follow the DPF unless Reddit was not responsible for the event giving rise to any alleged damage.",
+        "In some situations, the DPF Framework gives you the right to invoke binding arbitration. You can do this to resolve complaints not resolved by other means, as described in Annex I to the DPF framework. In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Reddit commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit https://www.jamsadr.com/dpf-dispute-resolution for more information or to file a complaint. The services of JAMS are provided at no cost to you."
+      ],
+      "new": [
+        "Reddit, Inc., complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Reddit, Inc., has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Reddit, Inc., has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) Program, and to view our certification, please visit https://www.dataprivacyframework.gov/.",
+        "Reddit, Inc.’s compliance with the DPF is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In accordance with the DPF, Reddit, Inc., is also liable for onward transfers to third parties that process personal information in a way that does not follow the DPF unless Reddit, Inc., was not responsible for the event giving rise to any alleged damage.",
+        "In some situations, the DPF Framework gives you the right to invoke binding arbitration. You can do this to resolve complaints not resolved by other means, as described in Annex I to the DPF framework. In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Reddit, Inc., commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit https://www.jamsadr.com/dpf-dispute-resolution for more information or to file a complaint. The services of JAMS are provided at no cost to you."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Depending on your jurisdiction, and subject to exceptions and limitations provided by local law, in addition to the rights listed in “Your Rights and Choices” above, you may have: the right to opt out of any sales or sharing of your personal information, to request access to and information about our data practices, and to request deletion or correction of your personal information, as well as the right not to be discriminated against for exercising your privacy rights. Reddit does not “sell” or “share” personal information as those terms are defined under the CCPA or other applicable regulations. Reddit does not have knowledge that it “sells” or “shares” the personal information of users under 16 years of age. We do not use or disclose sensitive personal information except to provide you the Services or as otherwise permitted by the CCPA or other applicable regulations. We do not engage in profiling of consumers in furtherance of automated decisions that produce legal or similarly significant effects as those terms are defined in applicable regulations."
+      ],
+      "new": [
+        "Depending on your jurisdiction, and subject to exceptions and limitations provided by local law, in addition to the rights listed in “Your Rights and Choices” above, you may have: the right to opt out of any sales or sharing of your personal information, to request access to and information about our data practices, and to request deletion or correction of your personal information, as well as the right not to be discriminated against for exercising your privacy rights. For users in states with applicable privacy laws, you may exercise your rights via your Privacy Settings. Reddit does not “sell” personal information as those terms are defined under applicable state privacy laws. Reddit does not have knowledge that it “sells” or “shares” the personal information of users under 16 years of age. We do not use or disclose sensitive personal information except to provide you the Services or as otherwise permitted by applicable regulations. We do not engage in profiling of consumers in furtherance of automated decisions that produce legal or similarly significant effects as those terms are defined in applicable regulations."
+      ]
+    }
+  ]
+}

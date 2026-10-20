@@ -1,0 +1,281 @@
+{
+  "id": "2026-04-20-reddit-terms",
+  "service": "reddit",
+  "service_name": "Reddit",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://redditinc.com/policies/user-agreement",
+  "detected_at": "2026-04-20T14:31:44+00:00",
+  "source": "wayback",
+  "window_start": "2026-01-15T00:42:09+00:00",
+  "archive_before": "https://web.archive.org/web/20260115004209/https://redditinc.com/policies/user-agreement",
+  "archive_after": "https://web.archive.org/web/20260420143144/https://redditinc.com/policies/user-agreement",
+  "flags": [],
+  "stats": {
+    "hunks": 35,
+    "added_words": 119,
+    "removed_words": 6
+  },
+  "headline": "Reddit edited its Terms of Service",
+  "summary": "119 words added and 6 removed across 35 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "March 31, 2026",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "March 31, 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31.03.2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31 marzo 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31 marzo 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31 mars 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31 marzo 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31 maart 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31 de março de 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31/06/2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31 mars 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31 মার্চ 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31 मार्च, 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Marso 31, 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31 มีนาคม 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31 marca 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31 martie 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Ngày 31 tháng 3 năm 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31 Mac 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "2026. március 31"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31 Μαρτίου 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31. maaliskuuta 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31. mars 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31 марта 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31 Mart 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "2026 年 3 月 31 日"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "2026 年 3 月 31 日"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31. března 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31. marts 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "2026年3月31日"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "2026년 3월 31일"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31. marta 2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "31 березня 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Effective June 28, 2025. Last Revised May 29, 2025"
+      ],
+      "new": [
+        "Effective March 31, 2026. Last Revised March 31, 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Use the Services in any manner that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;"
+      ],
+      "new": [
+        "Use the Services in any manner (automated, including via bots, or otherwise) that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Use the Services in any manner that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;"
+      ],
+      "new": [
+        "Use the Services in any manner (automated, including via bots, or otherwise) that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;"
+      ]
+    }
+  ]
+}

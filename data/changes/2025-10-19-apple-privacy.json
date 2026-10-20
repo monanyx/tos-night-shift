@@ -1,0 +1,48 @@
+{
+  "id": "2025-10-19-apple-privacy",
+  "service": "apple",
+  "service_name": "Apple",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.apple.com/legal/privacy/en-ww/",
+  "detected_at": "2025-10-19T13:20:30+00:00",
+  "source": "wayback",
+  "window_start": "2025-07-31T15:28:22+00:00",
+  "archive_before": "https://web.archive.org/web/20250731152822/https://www.apple.com/legal/privacy/en-ww/",
+  "archive_after": "https://web.archive.org/web/20251019132030/https://www.apple.com/legal/privacy/en-ww/",
+  "flags": [],
+  "stats": {
+    "hunks": 2,
+    "added_words": 9,
+    "removed_words": 5
+  },
+  "headline": "Apple edited its Privacy Policy",
+  "summary": "9 words added and 5 removed across 2 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "### Updated July 30, 2025",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "### Updated January 31, 2025"
+      ],
+      "new": [
+        "### Updated July 30, 2025"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Personal data relating to individuals in the European Economic Area, the United Kingdom, and Switzerland is controlled by Apple Distribution International Limited in Ireland. Apple’s international transfer of personal data collected in the European Economic Area, the United Kingdom, and Switzerland is governed by Standard Contractual Clauses. If you have questions or would like a copy of Apple’s Standard Contractual Clauses, you can contact us at apple.com/legal/privacy/contact. Personal data collected by Apple or an Apple-affiliated company worldwide is generally stored by Apple Inc. in the United States. Regardless of where your personal data is stored, Apple maintains the same high level of protection and safeguarding measures. Apple’s privacy practices, as described in this Privacy Policy, comply with the Global Cross-Border Privacy Rules (CBPRs) System and the Global Privacy Recognition for Processors (PRP) System. For more information about the Global CBPR and PRP Systems, visit Global CBPR Forum. To view our certifications, visit CBPR System Compliance Directory. For more information about the scope of our participation, or to submit a privacy inquiry through BBB National Programs, our Accountability Agent, visit: Personal data relating to individuals in the People’s Republic of China may be processed by Apple in countries outside of the People’s Republic of China, such as Apple Inc. in the United States or Apple Distribution International Limited in the Republic of Ireland. Where this occurs, it will be done in compliance with local laws, including the Personal Information Protection Law. For the purposes of processing set out in this Privacy Policy, Apple may also transfer such personal data to third-party service providers, who may in turn store or transfer the data outside of the People’s Republic of China. For more information, visit China Mainland Privacy Disclosures."
+      ],
+      "new": [
+        "Personal data relating to individuals in the European Economic Area, the United Kingdom, and Switzerland is controlled by Apple Distribution International Limited in Ireland. Apple’s international transfer of personal data collected in the European Economic Area, the United Kingdom, and Switzerland is governed by Standard Contractual Clauses. If you have questions or would like a copy of Apple’s Standard Contractual Clauses, you can contact us at apple.com/legal/privacy/contact. Personal data collected by Apple or an Apple-affiliated company worldwide is generally stored by Apple Inc. in the United States. Regardless of where your personal data is stored, Apple maintains the same high level of protection and safeguarding measures. Apple’s privacy practices, as described in this Privacy Policy, comply with the Global Cross-Border Privacy Rules (CBPR) System and the Global Privacy Recognition for Processors (PRP) System. For more information about the Global CBPR and PRP Systems, visit Global CBPR Forum. To view our certifications, visit Global CBPR System Directory. For more information about the scope of our participation, or to submit a privacy inquiry through BBB National Programs, our Accountability Agent, click the official seals below. Personal data relating to individuals in the People’s Republic of China may be processed by Apple in countries outside of the People’s Republic of China, such as Apple Inc. in the United States or Apple Distribution International Limited in the Republic of Ireland. Where this occurs, it will be done in compliance with local laws, including the Personal Information Protection Law. For the purposes of processing set out in this Privacy Policy, Apple may also transfer such personal data to third-party service providers, who may in turn store or transfer the data outside of the People’s Republic of China. For more information, visit China Mainland Privacy Disclosures."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "2025-01-12-google-privacy",
+  "service": "google",
+  "service_name": "Google",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://policies.google.com/privacy?hl=en",
+  "detected_at": "2025-01-12T00:11:59+00:00",
+  "source": "wayback",
+  "window_start": "2024-10-06T00:07:21+00:00",
+  "archive_before": "https://web.archive.org/web/20241006000721/https://policies.google.com/privacy?hl=en",
+  "archive_after": "https://web.archive.org/web/20250112001159/https://policies.google.com/privacy?hl=en",
+  "flags": [],
+  "stats": {
+    "hunks": 4,
+    "added_words": 4,
+    "removed_words": 0
+  },
+  "headline": "Google edited its Privacy Policy",
+  "summary": "4 words added and 0 removed across 4 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "## We want you to understand the types of information we collect as you use our services",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "We want you to understand the types of information we collect as you use our services"
+      ],
+      "new": [
+        "## We want you to understand the types of information we collect as you use our services"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We use data to build better services"
+      ],
+      "new": [
+        "## We use data to build better services"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You have choices regarding the information we collect and how it's used"
+      ],
+      "new": [
+        "## You have choices regarding the information we collect and how it's used"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We build security into our services to protect your information"
+      ],
+      "new": [
+        "## We build security into our services to protect your information"
+      ]
+    }
+  ]
+}

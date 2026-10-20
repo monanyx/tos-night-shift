@@ -1,0 +1,374 @@
+{
+  "id": "2024-05-17-tiktok-terms",
+  "service": "tiktok",
+  "service_name": "TikTok",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.tiktok.com/legal/page/eea/terms-of-service/en",
+  "detected_at": "2024-05-17T22:37:12+00:00",
+  "source": "wayback",
+  "window_start": "2023-04-11T14:33:20+00:00",
+  "archive_before": "https://web.archive.org/web/20230411143320/https://www.tiktok.com/legal/page/eea/terms-of-service/en",
+  "archive_after": "https://web.archive.org/web/20240517223712/https://www.tiktok.com/legal/page/eea/terms-of-service/en",
+  "flags": [
+    {
+      "tag": "account-termination",
+      "label": "Kicking you out",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 33,
+    "added_words": 719,
+    "removed_words": 409
+  },
+  "headline": "TikTok rewrote its Terms of Service — new wording on banning accounts",
+  "summary": "719 words added and 409 removed across 33 sections. New wording touches: Kicking you out. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "We monitor for underage use and we will terminate your account if we reasonably suspect that you are underage or are allowing someone underage to use your account.",
+  "receipt_side": "new",
+  "sideeye": 2,
+  "tags": [
+    "account-termination"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "The company that you are contracting with depends on where you are resident:"
+      ],
+      "new": [
+        "The company that you are contracting with depends on where you are resident or have your principal place of business:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- If you are resident in the United Kingdom, your contract is with TikTok Information Technologies UK Limited, which is a company registered in England with its registered office at 4 Lindsey Street, Barbican, London, EC1A 9HP, United Kingdom and company number 10165711."
+      ],
+      "new": [
+        "- If you are resident in the United Kingdom, your contract is with TikTok Information Technologies UK Limited, which is a company registered in England with its registered office at 4 Lindsey Street, Barbican, London, EC1A 9HP, United Kingdom and company number 10165711"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "These Terms govern your use of TikTok services (the “**Platform**”), which includes TikTok apps (including TikTok and TikTok Now), websites, software and related services, accessed via any platform or device. Our Community Guidelines also form part of our contract with you and, by agreeing to these Terms, you promise to us that you will comply with them."
+      ],
+      "new": [
+        "These Terms govern your use of TikTok services, which includes TikTok apps (including TikTok and TikTok Now), websites, software and related services, accessed via any platform or device (the “**Platform**”). Our Community Guidelines also form part of our contract with you and, by agreeing to these Terms, you promise to us that you will comply with them."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Music Terms: These terms apply when you post or live stream content on the Platform that includes music.",
+        "- TikTok Shop Buyer Terms: These terms apply when you buy items on TikTok Shop.",
+        "- Branded Content Policy: This policy applies when you post content on the Platform about a brand or a product in return for any payment or other incentive."
+      ],
+      "new": [
+        "- Music Terms: These terms apply when you post content on the Platform that includes music sourced from the music library or your personal device.",
+        "- Commercial Music Library Terms: These terms apply if you are a commercial entity or you want to post content on the Platform that includes music sourced from the Commercial Music Library.",
+        "- Intellectual Property Policy: This policy applies to all content on the Platform that is protected by intellectual property rights.",
+        "- TikTok Shop Buyer Terms: These terms apply when you buy items on TikTok Shop (where available).",
+        "- Branded Content Policy: This policy applies when you post content on the Platform that promotes a third party brand or its products or services in exchange for payment or any other incentive."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **Our Platform and business model**",
+        "We and the companies affiliated with us (such as TikTok Inc. and TikTok Pte. Ltd.) (“**Affiliates**”) provide the Platform so everyone can use it, in multiple languages around the world.",
+        "The Platform allows you and others to create, view, interact with, and share content, and interact with others. We also personalise your experience on the Platform, such as providing your “For You” feed in the TikTok app, which shows you content based on what we have determined could be interesting for you."
+      ],
+      "new": [
+        "### **4.1 Our Platform and business model**",
+        "We and the companies affiliated with us (such as TikTok Inc. and TikTok Pte. Ltd.) (“**Affiliates**”) provide the Platform around the world.",
+        "The Platform allows you and others to create, view, interact with, and share content, and interact with others. We also personalise parts of your experience on the Platform, such as providing your “For You” feed in the TikTok app. The “For You” feed is a unique TikTok feature that uses a recommendation system to allow you to discover a breadth of content, creators and topics that are likely to be interesting for you. In determining what gets recommended, the system takes into account factors such as likes, shares, comments, searches, diversity of content, and popular videos. Learn more about the recommendation system and the tools you can use to customise your feed here."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We don't charge you a fee to use most of the features of the Platform. Instead, businesses and organisations pay us to show you ads for their products and services, and we may also charge sellers a commission on products sold on TikTok Shop.",
+        "Information on how we use data that we collect about you can be found in our Privacy Policy and Cookies Policy. These do not form part of this contract, but are important documents which we strongly recommend that you read."
+      ],
+      "new": [
+        "We don't charge you a fee to use most of the features of the Platform. Instead, some individuals and businesses pay us to show advertisements on the Platform, and we may also charge sellers a commission on products sold on TikTok Shop.",
+        "Information on how we use data that we collect about you can be found in our Privacy Policy and Cookies Policy. These do not form part of these Terms but are important documents which we strongly recommend that you read."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*In short: You do not have to pay for your use of our Platform but, in exchange, we allow third parties to advertise or sell products to you and we receive payment for this.*",
+        "### **Account details**"
+      ],
+      "new": [
+        "*In short: You do not have to pay for your use of most of the features on our Platform but, in exchange, we allow some individuals and businesses to advertise on the Platform and we receive payment for this.*",
+        "### **4.2 Account details**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "When you create an account, your account details will sync across the Platform, including across each TikTok app. For example, when you create an account via TikTok, you will be able to access any other TikTok apps available in your country, such as TikTok Now, using that account. Your account details, content and settings (including your privacy settings), and any changes you make, will sync across each TikTok app."
+      ],
+      "new": [
+        "When you create an account, your account details will sync across the Platform, including across each TikTok app. For example, when you create an account via TikTok, you will be able to access any other TikTok apps available in your country, such as TikTok Now, using that account. Your account details, content and Platform settings (including your privacy settings), and any changes you make, will also sync across each TikTok app."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **Minimum age**",
+        "You can only use the Platform if you are 13 years of age or older. We monitor for underage use and we will terminate your account if we reasonably suspect that you are underage. You can appeal our decision to terminate your account if you think we have made a mistake about your age."
+      ],
+      "new": [
+        "### **4.3 Minimum age**",
+        "You can only use the Platform if you are 13 years of age or older. We monitor for underage use and we will terminate your account if we reasonably suspect that you are underage or are allowing someone underage to use your account. You can appeal our decision to terminate your account if you think we have made a mistake about your age."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **What you can do on the Platform**"
+      ],
+      "new": [
+        "### **4.4 What you can do on the Platform**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- is only for you;"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **What you can’t do on the Platform**"
+      ],
+      "new": [
+        "### **4.5 What you can’t do on the Platform**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- do anything illegal (this includes posting, live steaming or distributing illegal content);"
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "- negatively impact the enjoyment of other users;"
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- extract any data or content from the Platform using any automated system or software; or"
+      ],
+      "new": [
+        "- engage in inauthentic commercial behaviours such as operating spam or impersonation accounts or by any other means further detailed in our Community Guidelines;",
+        "- submit appeals, reports, notices or complaints which are manifestly unfounded;",
+        "- extract any data or content from the Platform using any automated system or software that is not provided by TikTok or approved in writing by TikTok; or"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- is obscene, pornographic, hateful or inflammatory or which promotes sexually explicit material (e.g. by linking to adult or pornographic websites);"
+      ],
+      "new": [
+        "- is obscene, pornographic or which promotes sexually explicit material (e.g. by linking to adult or pornographic websites);",
+        "- is hateful or inflammatory;"
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "If you post content on the Platform about a brand or a product in return for any payment or other incentive, you must comply with the Branded Content Policy. You must use appropriate disclosures including any functionality the Platform provides to ensure that any posts that are, for example, sponsored are clear. For more details about Branded Content on the Platform, see here. In addition, in relation to any such content you must not:",
+        "- use surreptitious or subliminal techniques;",
+        "- prejudice respect for human dignity;",
+        "- include or promote any discrimination based on sex, racial or ethnic origin, nationality, religion or belief, disability, age or sexual orientation;",
+        "- encourage behaviour prejudicial to health or safety or which is grossly prejudicial to the protection of the environment;",
+        "- cause physical, mental or moral detriment to minors;",
+        "- directly exhort minors to buy or hire a product or service or directly encourage minors to persuade their parents or others to purchase goods or services being advertised; or",
+        "- exploit the special trust minors place in parents, teachers or other persons, or show minors in dangerous situations.",
+        "We respect copyright and other intellectual property rights. Please read our Intellectual Property Policy. You can report suspected infringements of intellectual property rights on the Platform here:"
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*In short: Enjoy using our Platform but, for the benefit of all our users, there are rules you need to follow. If you see something that should not be on our Platform, please tell us.*",
+        "### **Your content**"
+      ],
+      "new": [
+        "*In short: Enjoy using our Platform but, for the benefit of all our users, there are rules you need to follow. If you see something that should not be on our Platform, please tell us*.",
+        "### **4.6 Your content**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- We may remove or restrict access to any content, including yours, if we reasonably believe (i) it is in breach of these Terms or our Community Guidelines; or (ii) it causes harm to us, Affiliates, our users or other third parties.",
+        "- If we remove or restrict access to content, we will notify you without undue delay and state the reasons for our decision, unless it is not appropriate for us to do so or we reasonably believe that doing so would cause damage to us, Affiliates, our users or other third parties, or we are legally prevented from doing so. If you think we have made a mistake in removing or restricting access to your content, you can appeal through the appeal functionalities provided on the Platform and we will review our decision and decide again."
+      ],
+      "new": [
+        "- We review content proactively (through systems we have in place which detect illegal and harmful content) and reactively (for example, on receipt of notice from users or authorities). To do this we deploy a combination of technology and human moderators. Our approach to content moderation is further detailed here.",
+        "- We may remove or restrict access to any content, including yours, if we reasonably believe (i) it is in breach of these Terms or our Community Guidelines; or (ii) it causes harm to us, Affiliates, our users or other third parties. Our Community Guidelines set out how content might be removed or restricted on the Platform.",
+        "- If we remove or restrict access to your content, we will notify you without undue delay and state the reasons for our decision, unless it is not appropriate for us to do so (for example, we are legally prevented from doing so).",
+        "- If you think we have made a mistake in removing or restricting access to your content, you can appeal through the appeal functionalities provided on the Platform and we will review our decision and decide again. Further information on how to submit an appeal, our complaint handling process and other redress possibilities is set out here."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **Ownership of content and grant of licences**"
+      ],
+      "new": [
+        "### **4.7 Posting Branded Content**",
+        "If you post content on the Platform that promotes a third party brand or its products or services in exchange for payment or any other incentive then, unless you are using one of TikTok’s paid ad services (e.g. Promote or TikTok Ads Manager), which are each subject to their own terms, you must comply with the Branded Content Policy. You must use appropriate disclosures including any functionality the Platform provides to ensure that any posts that are, for example, sponsored are clear.",
+        "*In short: Where you post about a brand or a product or service in return for any payment or other incentive then you should read our Branded Content Policy and ensure you follow those additional rules.*",
+        "### **4.8 Respecting the intellectual property rights of others**",
+        "- We respect copyright and other intellectual property rights. Please read our Intellectual Property Policy. You can report suspected infringements of intellectual property rights on the Platform here:",
+        "*In short: You should read our Intellectual Property Policy and follow those additional rules.*",
+        "### **4.9 Ownership of content and grant of licences**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*In short: When you post content to the Platform, it remains yours, but we can show it to other users and use it to provide the Platform and other users may be able to use it too. That is what our Platform is all about. If you later take it down, copies of it made by other users may remain on the Platform.*"
+      ],
+      "new": [
+        "*In short: When you post content to the Platform, it remains yours, but we can use it to provide the Platform, and if you choose to make your content available to others, we can show it to other users and those other users may be able to use it too. That is what our Platform is all about. If you later take it down, copies of it made by other users may remain on the Platform.*"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "The content on the Platform is mostly user generated content or provided by third party business users. In other words, TikTok is not the creator of most of the content on the Platform (although TikTok may produce some content). Therefore, subject to any mandatory regulations or laws (including sectorial regulations or laws) applicable to TikTok, TikTok cannot and does not promise that any of the content generated by users that you find on the Platform:"
+      ],
+      "new": [
+        "The content on the Platform is mostly user generated content provided by the individuals and businesses that use our Platform. In other words, TikTok is not the creator of most of the content on the Platform (although TikTok may produce some content). Therefore, subject to any mandatory regulations or laws (including sectorial regulations or laws) applicable to TikTok, TikTok cannot and does not promise that any of the content generated by users that you find on the Platform:"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- is legal; or that it",
+        "- will not offend you."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- reasonably foreseeable at the time of entering into these Terms (i.e. either it is obvious that it will happen or if, at the time of this contract, it is known that it might happen)."
+      ],
+      "new": [
+        "- reasonably foreseeable at the time of entering into these Terms (i.e. either it is obvious that it will happen or, at the time of this contract, it is known that it might happen)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Nothing in these Terms affects any statutory rights that you cannot contractually agree to alter or give up, or are legally always entitled to as a consumer."
+      ],
+      "new": [
+        "Nothing in these Terms affects any statutory rights that you cannot contractually agree to alter or give up, or are legally always entitled to, for example, because you are a consumer."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **Your rights**",
+        "You may end your relationship with TikTok at any time by simply closing your account and stopping your use of the Platform. Instructions for how to do this are in our Help Center. However, depending on your Platform settings, some of your content may still be available on the Platform after you delete your account.",
+        "If you are an EEA-based consumer, then you can also close your account and withdraw from this contract at any time, either in-app or using the model withdrawal form here.",
+        "*In short: We want you to stay, but you can go whenever you want if you close your account and stop using the Platform. Your account applies across the Platform, so when you close your account within one TikTok app, you will lose access to your account across all other TikTok apps.*",
+        "### **TikTok’s rights**",
+        "In the event of any suspected breach of these Terms and our Community Guidelines, we may investigate. While we do so, we are allowed to take down some or all of your content, or suspend your access to some or all the features of the Platform, acting reasonably and objectively depending on the seriousness of the suspected breach.",
+        "We, subsequently, might determine to temporarily or permanently suspend or terminate your account, or impose limits on, or restrict your access to features of the Platform if:"
+      ],
+      "new": [
+        "### **6.1 Your rights**",
+        "You may end your relationship with TikTok at any time by simply closing your account and stopping your use of the Platform. Instructions for how to do this are in our Help Center. If you are an EEA-based consumer, then you can also close your account and withdraw from this contract at any time, either in-app or using the model withdrawal form here.",
+        "Your account applies across the TikTok app and website, TikTok Now, and any other TikTok services to which you have linked your account, so when you close your account within one TikTok app, you will lose access to your content and account across all other TikTok services which are connected to that account.",
+        "However, depending on your Platform settings, some of your content may still be available on the Platform after you delete your account.",
+        "*In short: We want you to stay, but you can go whenever you want if you close your account and stop using the Platform.*",
+        "### **6.2 TikTok’s rights**",
+        "In the event of any suspected breach of these Terms or our Community Guidelines, we may investigate. While we do so, we are allowed to take down some or all of your content, or suspend your access to some or all the features of the Platform, acting reasonably and objectively depending on the seriousness of the suspected breach.",
+        "We, subsequently, might determine to temporarily suspend or permanently terminate your account, or impose limits on, or restrict your access to features of the Platform if:"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "We record the number of times your account has violated our Terms. Repeated violations or a single severe violation may result in a permanent account ban. For more information see here."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If you think we have made a mistake in suspending or terminating your account, you can appeal through the appeal functionalities provided on the Platform or by clicking here and we will review our decision and decide again."
+      ],
+      "new": [
+        "If you think we have made a mistake in suspending or terminating your account, you can appeal through the appeal functionalities provided on the Platform and we will review our decision and decide again."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*In short: We have rules and, if you break them, TikTok can take action against you which may include closing your account. When your account is suspended or closed you will lose your access to the Platform, including all TikTok apps.*",
+        "### **What happens when we make changes**"
+      ],
+      "new": [
+        "*In short: We have rules and, if you break them, TikTok can take action against you which may include terminating your account.*",
+        "### **7.1 What happens when we make changes**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **Reasons for changes**"
+      ],
+      "new": [
+        "### **7.2 Reasons for changes**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- changes in the law;"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- the courts of the Republic of Ireland will have non-exclusive jurisdiction over disputes with TikTok Ireland Limited; and"
+      ],
+      "new": [
+        "- the courts of the Republic of Ireland will have non-exclusive jurisdiction over disputes with TikTok Technology Limited; and"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "These Terms, and any rights and permissions granted in them, may not be transferred or assigned by you, but may be assigned by TikTok without restriction. If we do so, this will not affect your rights as a consumer. And, if you are not happy, you always have the right to terminate this contract and stop using the Platform at any time."
+      ],
+      "new": [
+        "These Terms, and any rights and permissions granted in them, may not be transferred or assigned by you, but may be assigned by TikTok without restriction. If we do so, this will not affect any rights you may have as a consumer. And, if you are not happy, you always have the right to terminate this contract and stop using the Platform at any time."
+      ]
+    }
+  ]
+}

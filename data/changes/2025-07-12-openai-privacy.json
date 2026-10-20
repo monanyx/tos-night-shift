@@ -1,0 +1,59 @@
+{
+  "id": "2025-07-12-openai-privacy",
+  "service": "openai",
+  "service_name": "OpenAI (ChatGPT)",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://openai.com/policies/privacy-policy/",
+  "detected_at": "2025-07-12T03:27:11+00:00",
+  "source": "wayback",
+  "window_start": "2025-03-27T18:17:05+00:00",
+  "archive_before": "https://web.archive.org/web/20250327181705/https://openai.com/policies/privacy-policy/",
+  "archive_after": "https://web.archive.org/web/20250712032711/https://openai.com/policies/privacy-policy/",
+  "flags": [],
+  "stats": {
+    "hunks": 3,
+    "added_words": 12,
+    "removed_words": 14
+  },
+  "headline": "OpenAI (ChatGPT) edited its Privacy Policy",
+  "summary": "12 words added and 14 removed across 3 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "We also collect information from other sources, like information that is publicly available on the internet, to develop the models that power our Services.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "We also collect information from other sources, like information that is publicly available on the internet, to develop the models that power our Services. For more information on the sources of information used to develop the models that power ChatGPT and other Services, please see this help center article(opens in a new window)."
+      ],
+      "new": [
+        "We also collect information from other sources, like information that is publicly available on the internet, to develop the models that power our Services. For more information on the sources of information used to develop the models that power ChatGPT and other Services, please see this article."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We do not “sell” Personal Data or “share” Personal Data for cross-contextual behavioral advertising, and we do not process Personal Data for “targeted advertising” purposes (as those terms are defined under state privacy laws). We also do not process sensitive Personal Data for the purposes of inferring characteristics about a consumer.",
+        "**Exercising Your Rights.** You can exercise privacy rights described in this section by submitting a request through privacy.openai.com(opens in a new window) or to dsar@openai.com."
+      ],
+      "new": [
+        "We don’t “sell” Personal Data or “share” Personal Data for cross-contextual behavioral advertising, and we do not process Personal Data for “targeted advertising” purposes (as those terms are defined under state privacy laws). We also don’t process sensitive Personal Data for the purposes of inferring characteristics about a consumer.",
+        "**Exercising Your Rights.** You can exercise privacy rights described in this section by submitting a request through <u>privacy.openai.com</u>(opens in a new window) or to <u>dsar@openai.com</u>. Review our California privacy rights reporting."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Appeals.** Depending on where you live, you may have the right to appeal a decision we make relating to requests to exercise your rights. To appeal a decision, please send your request to dsar@openai.com."
+      ],
+      "new": [
+        "**Appeals.** Depending on where you live, you may have the right to appeal a decision we make relating to requests to exercise your rights. To appeal a decision, please send your request to <u>dsar@openai.com</u>."
+      ]
+    }
+  ]
+}

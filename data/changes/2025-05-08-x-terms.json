@@ -1,0 +1,48 @@
+{
+  "id": "2025-05-08-x-terms",
+  "service": "x",
+  "service_name": "X (Twitter)",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://x.com/en/tos",
+  "detected_at": "2025-05-08T13:09:49+00:00",
+  "source": "wayback",
+  "window_start": "2025-02-27T13:45:06+00:00",
+  "archive_before": "https://web.archive.org/web/20250227134506/https://x.com/en/tos",
+  "archive_after": "https://web.archive.org/web/20250508130949/https://x.com/en/tos",
+  "flags": [],
+  "stats": {
+    "hunks": 2,
+    "added_words": 6,
+    "removed_words": 6
+  },
+  "headline": "X (Twitter) edited its Terms of Service",
+  "summary": "6 words added and 6 removed across 2 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "These Terms are an agreement between you and X Internet Unlimited Company (Co.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "These Terms are an agreement between you and Twitter International Unlimited Company (Co. number 503351, VAT number IE9803175Q), an Irish company, which provides X and the Services, with its registered office at One Cumberland Place, Fenian Street Dublin 2, D02 AX07 Ireland. The words “we,” “us,” and “our,” mean Twitter International Unlimited Company."
+      ],
+      "new": [
+        "These Terms are an agreement between you and X Internet Unlimited Company (Co. number 503351, VAT number IE9803175Q), an Irish company, which provides X and the Services, with its registered office at One Cumberland Place, Fenian Street Dublin 2, D02 AX07 Ireland. The words “we,” “us,” and “our,” mean X Internet Unlimited Company."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "By using the Services you agree that Twitter International Unlimited Company, its parents, affiliates, related companies, officers, directors, employees, agents representatives, partners and licensors, liability is limited to the maximum extent permissible in your country of residence."
+      ],
+      "new": [
+        "By using the Services you agree that X Internet Unlimited Company, its parents, affiliates, related companies, officers, directors, employees, agents representatives, partners and licensors, liability is limited to the maximum extent permissible in your country of residence."
+      ]
+    }
+  ]
+}

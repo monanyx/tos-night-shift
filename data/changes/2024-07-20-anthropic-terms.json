@@ -1,0 +1,295 @@
+{
+  "id": "2024-07-20-anthropic-terms",
+  "service": "anthropic",
+  "service_name": "Anthropic (Claude)",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.anthropic.com/legal/consumer-terms",
+  "detected_at": "2024-07-20T18:10:08+00:00",
+  "source": "wayback",
+  "window_start": "2024-05-08T05:56:15+00:00",
+  "archive_before": "https://web.archive.org/web/20240508055615/https://www.anthropic.com/legal/consumer-terms",
+  "archive_after": "https://web.archive.org/web/20240720181008/https://www.anthropic.com/legal/consumer-terms",
+  "flags": [],
+  "stats": {
+    "hunks": 16,
+    "added_words": 2583,
+    "removed_words": 1506
+  },
+  "headline": "Anthropic (Claude) edited its Terms of Service",
+  "summary": "2583 words added and 1506 removed across 16 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "**Welcome to Anthropic!",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "**We've recently updated our Terms. Learn more about the changes here.**",
+        "**Welcome to Anthropic! Before you access our services, please read these Terms of Service.**",
+        "These Terms of Service (“**Terms**”) govern your use of Claude.ai, Claude Pro, and other products and services that we may offer for individuals (including any Anthropic API key and the Anthropic Console, when used by individuals), along with any associated apps, software, and websites (together, our “**Services**”). These Terms are a contract between you and Anthropic, PBC (and not our Providers), and they include our Acceptable Use Policy. By accessing our Services, you agree to these Terms."
+      ],
+      "new": [
+        "**Welcome to Anthropic! Before you access our services, please read these User Terms of Service.**",
+        "These Terms of Service (\"**Terms**\") and our Usage Policy (also referred to as our “Acceptable Use Policy” or “AUP”) set out the agreement between you and Anthropic Ireland, Limited (“**Anthropic**”) to use Claude.ai, Claude Pro, and other products and services that we may offer for individuals, along with any associated apps, software, and websites (together, our “**Services**”). Please take some time to read over them and understand them. By agreeing to these Terms, or in the absence of such agreement, by using the Services, you agree to be bound by them, including any changes made to them in accordance with the Terms. Our affiliates, licensors, distributors, and service providers (collectively “**Providers**”) are not contracting parties under these Terms.",
+        "These Terms apply to you if you are a consumer who is resident in the European Economic Area or Switzerland. You are a consumer if you are acting wholly or mainly outside your trade, business, craft or profession in using our Services.",
+        "In these Terms, when we refer to “we”, “us” or “our,” or similar, we mean Anthropic. Other words in **bold** and inverted commas have the meaning given to them where the word or phrase is first used. Subsequent uses of these words have the same meaning."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Please note: If you are acting on behalf of an organization, company, or other entity, our Commercial Terms of Service govern your use of any Anthropic API key, the Anthropic Console, or any other Anthropic offerings that reference the Commercial Terms of Service. For clarity, this does not include Claude.ai or Claude Pro use for individuals or entities.**",
+        "### 1. Who we are."
+      ],
+      "new": [
+        "**Please note: Our Commercial Terms of Service govern your use of any Anthropic API key, the Anthropic Console, or any other Anthropic offerings that reference the Commercial Terms of Service. For clarity, this does not include Claude.ai or Claude Pro use for individuals or entities.**",
+        "### **1. Who we are.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 2. Account creation and access.",
+        "**Minimum age.** You must be at least 18 years old or the minimum age required to consent to use the Services in your location, whichever is higher.",
+        "**Your Anthropic Account.** To access our Services, we may ask you to create an Account. You agree to provide correct, current, and complete Account information and allow us to use it to communicate with you about our Services. Our communications to you using your Account information will satisfy any requirements for legal notices.",
+        "You may not share your Account login information, Anthropic API key, or Account credentials with anyone else. You also may not make your Account available to anyone else. You are responsible for all activity occurring under your Account, and you agree to notify us immediately if you become aware of any unauthorized access to your Account by sending an email to support@anthropic.com."
+      ],
+      "new": [
+        "### **2. Account creation and access.**",
+        "**Minimum age.** You must be at least 18 years old to use the Services.",
+        "**Your Anthropic Account.** To access our Services, we may ask you to create an account (your “**Account**”), to provide certain information (such as your email address), and to create a password. You agree to provide correct, current, and complete information and allow us to use it to communicate with you about our Services. You agree to notify us promptly if there are any changes to the information you have provided to us. Our communications to you using such information will satisfy any requirements for legal notices.",
+        "You may not share your Account login information, Anthropic API key, or Account credentials with anyone else or make your Account available to anyone else. You are responsible for all activity occurring under your Account and agree to notify us immediately if you become aware of any unauthorized access to your Account by sending an email to support@anthropic.com."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Business Domains.** If you use an email address owned by your employer or another organization, your Account may be linked to the organization's Anthropic enterprise account, and the organization’s administrator may be able to monitor and control the Account, including having access to Materials (defined below). We will provide notice to you before your Account is linked to an organization’s enterprise account, unless the organization has already provided notice to you that it may monitor and control your Account."
+      ],
+      "new": [
+        "**Business Domains.** If you use an email address owned by your employer or another organization, your Account may be linked to the organization’s enterprise account with us and the organization’s administrator may be able to monitor and control the Account, including having access to Materials (defined below). We will provide notice to you before linking your Account to an organization's enterprise account. However, if the organization is responsible for notifying you or has already informed you that it may monitor and control your Account, we may not provide additional notice."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 3. Use of our Services.",
+        "You may access and use our Services only in compliance with our Terms, our Acceptable Use Policy, and any guidelines or supplemental terms we may post on the Services (the “**Permitted Use**”)."
+      ],
+      "new": [
+        "### **3. Use of our Services.**",
+        "You may access and use our Services only in compliance with our Terms, our Acceptable Use Policy, and guidelines or supplemental terms we may post on the Services (the “**Permitted Use**”)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "1. In any manner that violates any applicable law or regulation—including, without limitation, any laws about exporting data or software to and from the United States or other countries."
+      ],
+      "new": [
+        "1. In any manner that violates any applicable law or regulation—including, without limitation, any laws about exporting data or software to and from any countries in the European Economic Area, Switzerland, or other countries."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "5. To use our Services or Materials to obtain unauthorized access to any system or information, or to deceive any person."
+      ],
+      "new": [
+        "5. To use our Services or Materials to obtain unauthorized access to any system or information or to deceive any person."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "8. To engage in any other conduct that restricts or inhibits any person from using or enjoying our Services, or that we reasonably believe exposes us—or any of our users, affiliates, or any other third party—to any liability, damages, or detriment of any type, including reputational harms."
+      ],
+      "new": [
+        "8. To engage in any other conduct that restricts or inhibits any person from using or enjoying our Services, or that we reasonably consider exposes us—or any of our users, affiliates, or any other third party—to any liability, damages, or detriment of any type, including reputational harms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 4. Prompts, Outputs, and Materials."
+      ],
+      "new": [
+        "### **4. Prompts, Outputs, and Materials.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Personal information.** You acknowledge that our Privacy Policy governs our use and processing of any personal information you submit to us in connection with your use of the Services, whether as a part of your Prompts or otherwise.",
+        "**Rights to Materials.** You are responsible for all Prompts you submit to our Services. By submitting Prompts to our Services, you represent and warrant that you have all rights, licenses, and permissions that are necessary for us to process the Prompts under our Terms. You also represent and warrant that your submitting Prompts to us will not violate our Terms, our Acceptable Use Policy, or any laws or regulations applicable to those Prompts. As between you and Anthropic, and to the extent permitted by applicable law, you retain any right, title, and interest that you have in the Prompts you submit. Subject to your compliance with our Terms, we assign to you all of our right, title, and interest—if any—in Outputs."
+      ],
+      "new": [
+        "**Rights to Materials.** You are responsible for all Prompts you submit to our Services. You must ensure that you have all rights, licenses, and permissions that are necessary for us to process such Prompts in accordance with our Terms. You must ensure that your submission of Prompts to us will not violate our Terms, our Acceptable Use Policy, or any laws or regulations applicable to those Prompts. As between you and Anthropic, and to the extent permitted by applicable law, you retain any right, title, and interest that you have in such Prompts. Subject to your compliance with our Terms, we assign to you all our right, title, and interest (if any) in Outputs."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 5. Feedback"
+      ],
+      "new": [
+        "**Limitations.** Different types of Service (including paid-for Services under a Subscription) may have technical restrictions associated with them, for example, the number of Prompts you may submit to the Service or the number of Outputs you may receive within a certain period of time (“**Technical Limitation**”). For more information about the Technical Limitations for each type of Service offering, see the relevant purchase page on our website.",
+        "### **5. Feedback**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 6. Subscriptions, fees and payment.",
+        "**Fees and billing.** You may be required to pay us fees to access or use our Services or certain features of our Services. You are responsible for paying any applicable fees listed for the Services.",
+        "If you purchase access to our Services or features of our Services, you must provide complete and accurate billing information (“**Payment Method**”). You agree that we may charge the Payment Method for any applicable fees listed on our Services and any applicable tax. If the fees for these Services or features are specified to be recurring or based on usage, you agree that we may charge these fees and applicable taxes to the Payment Method on a periodic basis.",
+        "If you purchase access to our Services through a distributor (e.g. an app store) (\"**App Distributor**\"), then you will make payment to the App Distributor, and the App Distributor’s terms in relation to payment methods, billing, and refunds will apply instead of these Terms."
+      ],
+      "new": [
+        "### **6. Subscriptions, fees and payment.**",
+        "**Fees and billing.** You may be required to pay fees to access or use our Services or certain features of our Services. You are responsible for paying any applicable fees listed on the Services. The fees applicable to our Services (including information on how we calculate our fees) are set out on the Services listing.",
+        "If you purchase access to our Services or features of our Services from us, you must provide complete and accurate billing information (“**Payment Method**”). You confirm that the card or bank account which is being used as your Payment Method is yours, or that you have the authorization of the account holder to use it. If you use a Payment Method which you are not authorized to use, you will be liable to us for any losses that we suffer as a result of your use of that Payment Method.",
+        "You agree that we may charge the Payment Method for any applicable fees listed on our Services and any applicable tax. If the fees for these Services or features are specified to be recurring or based on usage (for example, a Subscription (see below)), you agree that we may charge these fees and applicable taxes to the Payment Method on a periodic basis.",
+        "If you access our Services or purchase access to our Services through a distributor (“**App Distributor**”) (e.g. an app store), then you will make payment to the App Distributor, and the App Distributor’s terms in relation to payment methods, billing and refunds will apply instead of these Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Additional fees.** We may increase fees for our Services. If we charge additional fees in connection with our Services, we will give you an opportunity to review and accept the additional fees before you are charged. Also, additional fees may apply for additional Services or features of the Services that we may make available. If you do not accept any such additional fees, we may discontinue your access to the Services or features.",
+        "You agree that we will not be held liable for any errors caused by third-party payment processors that we may use.",
+        "**Subscriptions.** To access Claude Pro and other subscription services we may make available to individuals, you must sign up for a subscription with us (a “**Subscription**”), first by creating an Account, and then following the subscription procedure on our Services. When you sign up for a Subscription, you agree to these Terms.",
+        "1. **Subscription content, features, and services.** The content, features, and other services provided as part of your Subscription, and the duration of your Subscription, will be described in the order process. We may change the content, features, and other services from time to time, and we do not guarantee that any particular piece of content, feature, or other service will always be available through the Services.",
+        "2. **Subscription term and automatic renewal.** If you sign up for a paid Subscription, we or the App Distributor will automatically charge your Payment Method on each agreed-upon periodic renewal date until you cancel. If your Subscription has a minimum term (the “Initial Term”), we will let you know during the order process. The \"Initial Term\" for Claude Pro is one month. Your Subscription will last for the Initial Term and will automatically renew, and your Payment Method will be charged, at the end of the Initial Term for an additional term equal in duration to the Initial Term and will continue to renew and incur charges for additional terms equal in duration to the Initial Term (each such additional term, a “**Renewal Term**”) until you cancel.",
+        "3. **Subscription cancellation.** If you subscribed via our website, you may cancel your Subscription for any reason by using a method we may provide to you through our products—for example, for Claude Pro, in your customer portal—or by notifying us at support@anthropic.com. If you subscribed via an app, you’ll need to cancel via the App Distributor according to the App Distributor’s terms. Learn more here. To avoid renewal and charges for the next Renewal Term, cancel your subscription at least 24 hours before the last day of the Initial Term or any Renewal Term. For example, if you subscribe on January 25th for a Subscription with a one-month Initial Term, you must cancel the Subscription per the instructions by February 23rd (24 hours before February 24th) to avoid renewal and charges for the next Renewal Term. In the event of a cancellation, your fees will not be refunded, but your access to the Services will continue through the end of the Initial Term or any Renewal Term for which you previously paid fees.",
+        "4. **Subscription fees.** You will pay the fees (either to us or to the App Distributor) for the Initial Term and each subsequent Renewal Term up front, at the start of that Initial Term or Renewal Term, as applicable. We have the right to make changes to the fees applicable to your Subscription from time to time, although we will not make any change to the fees applicable to your Subscription during the current Initial Term or Renewal Term, as applicable. If these changes result in an increase in the fees payable by you, we will inform you at least 30 days in advance of the change. You agree to the increase in fees payable by you unless you cancel the Subscription, as described in the paragraph (Subscription cancellation) immediately above, before the Renewal Term to which the increase in fees will apply.",
+        "### 7. Third-party services and links"
+      ],
+      "new": [
+        "You agree that we will not be held liable for any errors caused by third-party payment processors used to process fees paid by you to us.",
+        "**Subscriptions.** To access Claude Pro and other subscription services we may make available to individuals, you must sign up for a subscription with us (a **“Subscription”**), first by creating an Account and then following the subscription procedure on our Services. When you sign up for a Subscription, you agree to these Terms.",
+        "**a. Subscription order.** Your order for a Subscription constitutes an offer by you to enter into a Subscription with us. We will confirm our acceptance of your order by sending you a confirmation email (the “**Confirmation Email**”). Sometimes we reject orders, for example, if you are located in a country where we do not offer the Service or the Service was mispriced by us. A contract for the Subscription, which is on the basis of these Terms, will become legally binding on you and us when we send you the Confirmation Email. For clarity, each Subscription will incorporate these Terms.",
+        "**b. Subscription content, features, and services.** The content, features, and other services provided as part of your Subscription, and the duration of your Subscription, will be described in the order process. We may change or refresh the content, features, and other services from time to time, and we do not guarantee that any particular piece of content, feature, or other service will always be available through the Services.",
+        "**c. Subscription term and automatic renewal.** If your Subscription has a minimum term (the “**Initial Term**”), we will let you know during the order process. The “Initial Term” for Claude Pro is one month. Your Subscription will last for the Initial Term and will automatically renew for an additional term equal in duration to the Initial Term and will continue to renew and incur charges for additional terms equal in duration to the Initial Term (each such additional term, a “**Renewal Term**”). For example, if you subscribe on January 25th for a Subscription with a one-month Initial Term, the Initial Term is January 25th to February 24th (inclusive) and then Renewal Terms will run from the 25th of one month to the 24th of the next month (inclusive).",
+        "**d. Subscription fees.** You will pay the fees, either to us or to the App Distributor, for the Initial Term and each subsequent Renewal Term up front at the start of that Initial Term or Renewal Term (as applicable). We have the right to make changes to the fees applicable to your Subscription from time to time, although we will not make any change to the fees applicable to your Subscription during the current Initial Term or Renewal Term (as applicable). If these changes result in an increase in the fees payable by you, we will inform you at least 30 days in advance of the change and you shall be deemed to have agreed to the increase in fees payable by you unless you cancel the Subscription, as described in Sections (e) and (g) below, before the Renewal Term to which the increase in fees will apply.",
+        "**e. Subscription cancellation.** If you subscribed via our website, you may cancel your Subscription at any time by using a method we may provide to you through our products (for example, for Claude Pro, in your customer portal) or by notifying us at support@anthropic.com. If you subscribed via an app, you will need to cancel via the distributor according to the App Distributor terms. Learn more here. To avoid renewal and charges for the next Renewal Term, cancel your subscription at least 24 hours before the last day of the Initial Term or any Renewal Term. In the example above, if you subscribe on January 25th for a Subscription that renews with a one-month Initial Term, you must cancel the Subscription per the instructions by February 23rd (24 hours before February 24th) to avoid renewal and charges for the next Renewal Term. In the event of a cancellation, your fees will not be refunded, but your access to the Services will continue through the end of the Initial Term or any Renewal Term for which you previously paid fees.",
+        "**f. Additional cancellation rights.** You have a legal right to change your mind and cancel the Subscription within 14 days of entering into the Subscription without giving a reason.",
+        "1. To exercise the right to cancel in the 14-day cancellation period, you must inform us of your decision to cancel the Subscription by making a clear statement to us of such decision before the cancellation period has expired. The easiest way to do this is by cancelling your subscription in the customer portal, or you may contact us at support@anthropic.com. You may also use the model cancellation form in Appendix 1 of these Terms, but it is not obligatory. For further details on how to cancel, please see support.anthropic.com. We will acknowledge your cancellation, e.g., through our online customer portal or console.",
+        "2. If you cancel the Subscription under Section 6(f)(1), we will reimburse you all payments received from you for the cancelled Subscription. We will make the reimbursement without undue delay, and not later than 14 days after the day on which we are informed about your decision to cancel the Subscription. We will make the reimbursement using the same means of payment as you used for the initial transaction; you will not incur any fees as a result of the reimbursement.",
+        "3. If you would like to use the Services during the 14-day cancellation period, you may do so. If you have used the Services during the 14-day cancellation period, and wish to cancel the Subscription, you can still do so by following the process in Section (f)(1) above, but we may retain an amount which is in proportion to what has been provided until you have communicated us your withdrawal from these Terms, in comparison with the full coverage of the Subscription.",
+        "**g. Subscriptions purchased through an App Distributor.** Where you have purchased your Subscription through an App Distributor, your right to cancel under Section 6(f) above will be as set out in the App Distributor's terms and Section 6(f) will not apply. The App Distributor's terms will set out how to notify the App Distributor that you want to cancel and how any fees will be refunded.",
+        "**Additional fees.** We may also increase the fees for access to our Services that do not require a Subscription. If we charge additional fees in connection with those Services, we will give you an opportunity to review and accept the additional fees before you are charged. Also, additional fees may apply for additional Services or features of the Services that we may make available. If you do not accept any such additional fees, we may discontinue your access to those Services or features.",
+        "### **7. Third-party services and links**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 8. Software",
+        "We may offer manual or automatic updates to our software including our apps (“Anthropic Software”), without advance notice to you. Anthropic Software may include open source software. In the event of any conflict between these Terms and any other Anthropic or third-party terms applicable to any portion of Anthropic Software, such as open-source license terms, such other terms will control as to that portion of the Anthropic Software and to the extent of the conflict.",
+        "### 9. Ownership of the Services",
+        "The Services are owned, operated, and provided by us and our affiliates, licensors, distributors, and service providers (collectively “**Providers**”). We and our Providers retain all of our respective rights, title, and interest, including intellectual property rights, in and to the Services. Other than the rights of access and use expressly granted in our Terms, our Terms do not grant you any right, title, or interest in or to our Services.",
+        "### 10. Disclaimer of warranties, limitations of liability, and indemnity",
+        "Our team works hard to provide great services, and we’re continuously working on improvements. However, there are certain aspects we can’t guarantee. We are using ALL CAPS to explain this, to make sure that you see it.",
+        "YOUR USE OF THE SERVICES AND MATERIALS IS SOLELY AT YOUR OWN RISK. THE SERVICES AND OUTPUTS ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS AND, TO THE FULLEST EXTENT PERMISSIBLE UNDER APPLICABLE LAW, ARE PROVIDED WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY. WE AND OUR PROVIDERS EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, TITLE, MERCHANTABILITY, ACCURACY, AVAILABILITY, RELIABILITY, SECURITY, PRIVACY, COMPATIBILITY, NON-INFRINGEMENT, AND ANY WARRANTY IMPLIED BY COURSE OF DEALING, COURSE OF PERFORMANCE, OR TRADE USAGE.",
+        "TO THE FULLEST EXTENT PERMISSIBLE UNDER APPLICABLE LAW, IN NO EVENT WILL WE, OUR PROVIDERS, OR OUR OR THEIR RESPECTIVE AFFILIATES, INVESTORS, DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, SUCCESSORS OR ASSIGNS (COLLECTIVELY, THE “ANTHROPIC PARTIES”), BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR OTHER DAMAGES ARISING OUT OF OR IN ANY WAY RELATED TO THE SERVICES, THE MATERIALS, OR THESE TERMS, WHETHER BASED IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHER THEORY, EVEN IF ANY ANTHROPIC PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF DAMAGES, AND EVEN IF THE DAMAGES ARE FORESEEABLE.",
+        "TO THE FULLEST EXTENT PERMISSIBLE UNDER APPLICABLE LAW, THE ANTHROPIC PARTIES’ TOTAL AGGREGATE LIABILITY TO YOU FOR ALL DAMAGES, LOSSES AND CAUSES OF ACTION ARISING OUT OF OR IN ANY WAY RELATED TO THE SERVICES, THE MATERIALS, OR THESE TERMS, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, WILL NOT EXCEED THE GREATER OF THE AMOUNT YOU PAID TO US FOR ACCESS TO OR USE OF THE SERVICES (IF ANY) IN THE SIX MONTHS PRECEDING THE DATE SUCH DAMAGES, LOSSES, AND CAUSES OF ACTION FIRST AROSE, AND $100. THE FOREGOING LIMITATIONS ARE ESSENTIAL TO THESE TERMS, AND WE WOULD NOT OFFER THE SERVICES TO YOU UNDER THESE TERMS WITHOUT THESE LIMITATIONS.",
+        "YOU AGREE TO INDEMNIFY AND HOLD HARMLESS THE ANTHROPIC PARTIES FROM AND AGAINST ANY AND ALL LIABILITIES, CLAIMS, DAMAGES, EXPENSES (INCLUDING REASONABLE ATTORNEYS’ FEES AND COSTS), AND OTHER LOSSES ARISING OUT OF OR RELATED TO YOUR BREACH OR ALLEGED BREACH OF THESE TERMS; YOUR ACCESS TO, USE OF, OR ALLEGED USE OF THE SERVICES OR THE MATERIALS; YOUR FEEDBACK; ANY PRODUCTS OR SERVICES THAT YOU DEVELOP, OFFER, OR OTHERWISE MAKE AVAILABLE USING OR OTHERWISE IN CONNECTION WITH THE SERVICES; YOUR VIOLATION OF APPLICABLE LAW OR ANY THIRD-PARTY RIGHT; AND ANY ACTUAL OR ALLEGED FRAUD, INTENTIONAL MISCONDUCT, GROSS NEGLIGENCE, OR CRIMINAL ACTS COMMITTED BY YOU OR YOUR EMPLOYEES OR AGENTS. WE RESERVE THE RIGHT TO ENGAGE SEPARATE COUNSEL AND PARTICIPATE IN OR ASSUME THE EXCLUSIVE DEFENSE AND CONTROL OF ANY MATTER OTHERWISE SUBJECT TO INDEMNIFICATION BY YOU HEREUNDER, IN WHICH CASE YOU AGREE TO COOPERATE WITH US AND SUCH SEPARATE COUNSEL AS WE REASONABLY REQUEST.",
+        "THE LAWS OF SOME JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OF IMPLIED WARRANTIES OR CERTAIN TYPES OF DAMAGES, SO SOME OR ALL OF THE DISCLAIMERS AND LIMITATIONS OF LIABILITY IN THESE TERMS MAY NOT APPLY TO YOU.",
+        "OUR PROVIDERS ARE INTENDED THIRD PARTY BENEFICIARIES OF THE WARRANTY DISCLAIMERS AND LIMITATIONS OF LIABILITY CONTAINED IN THIS SECTION 10.",
+        "### 11. General terms",
+        "**Changes to the Services.** Our Services are novel and will change. We may sometimes add or remove features, increase or decrease capacity limits, offer new Services, or stop offering certain Services.",
+        "Unless we specifically agree otherwise in a separate agreement with you, we reserve the right to modify, suspend, or discontinue the Services or your access to the Services, in whole or in part, at any time without notice to you. Although we will strive to provide you with reasonable advance notice if we stop offering a Service, there may be urgent situations—such as preventing abuse, responding to legal requirements, or addressing security and operability issues—where providing advance notice is not feasible. We will not be liable for any change to or any suspension or discontinuation of the Services or your access to them.",
+        "**Changes to these terms.** We may revise and update these Terms at our discretion. Some examples of times, we may update these Terms include (1) to reflect changes in our Services, like when we add or remove features or services, or update our pricing, (2) for security or legal reasons, or (3) to promote safety or prevent abuse. If you continue to access the Services after we post the updated Terms on Anthropic’s website or otherwise give you notice of Terms changes, then you agree to the updated Terms. If you do not accept the updated Terms, you must stop using our Services.",
+        "**Supplemental terms.** We may offer Services or features that we believe require service-specific terms or guidelines. When using our Services, you agree to comply with any applicable guidelines, rules, or supplemental terms that may be posted on the Services from time to time (“Supplemental Terms”). If these Terms conflict with Supplemental Terms, the Supplemental Terms will govern for the applicable Service.",
+        "**Entire agreement.** These Terms and any other terms expressly incorporated by reference form the entire agreement between you and us regarding the subject matter of our Terms.",
+        "**Termination.** You may stop accessing the Services at any time. We may suspend or terminate your access to the Services (including any Subscriptions) at any time without notice to you if we believe that you have breached these Terms, or if we must do so in order to comply with law. If we terminate your access to the Services due to a violation of these Terms and you have a Subscription, you will not be entitled to any refund. In addition, if you have a Subscription, we may terminate the Subscription immediately at any time for any other reason. If we exercise this right and you purchased the subscription via our website, we will refund you, on a pro rata basis, the fees you paid for the remaining portion of your Subscription after termination. Any refunds for Subscriptions purchased via an App Distributor are subject to the App Distributor’s terms and not these terms.",
+        "We may also terminate your Account if you have been inactive for over a year and you do not have a paid Account. If we terminate your Account due to inactivity, we will provide you with notice before doing so.",
+        "Upon termination of these Terms, a Subscription, or your access to the Services, we may at our option delete any Materials or other data associated with your Account. Sections 6 (with respect to fees outstanding as of such expiration or termination) and 9 – 12 will survive any expiration or termination of our Terms or a Subscription.",
+        "**Severability.** If a particular Term or portion of these Terms is not valid or enforceable, this will have no effect on any other Terms.",
+        "**No waiver.** Any delay or failure on our part to enforce a provision of these Terms is not a waiver of our right to enforce them later."
+      ],
+      "new": [
+        "### **8. Software**",
+        "We may offer manual or automatic updates to our software including our apps (“**Anthropic Software**”), without advance notice to you. Anthropic Software may include open source software. In the event of any conflict between these Terms and any other Anthropic or third-party terms applicable to any portion of Anthropic Software, such as open-source license terms, such other terms will control as to that portion of the Anthropic Software and to the extent of the conflict.",
+        "### **9. Ownership of the Services**",
+        "The Services are owned, operated, and provided by us and, where applicable, our **Providers**. We and our Providers retain all our respective rights, title, and interest, including intellectual property rights, in and to the Services. Other than the rights of access and use expressly granted in our Terms, our Terms do not grant you any right, title, or interest in or to our Services.",
+        "### **10. Disclaimer of warranties, limitations of liability, and indemnity**",
+        "Our team works hard to provide great services, and we’re continuously working on improvements. However, there are certain aspects we can’t guarantee.",
+        "**No warranties**. You may have legal rights in relation to our Services, including where the Services are not as described, faulty or otherwise not fit for purpose. If you believe that any of our Services that you have ordered do not conform with these Terms, please contact us at support@anthropic.com. Other than those legal rights, your use of the Services and Materials is solely at your own risk. The Services and Outputs are provided on an “as is” and “as available” basis and, to the fullest extent permissible under applicable law, are provided without warranties of any kind, whether express, implied, or statutory. We and our Providers expressly disclaim any and all warranties of fitness for a particular purpose, title, merchantability, accuracy, availability, reliability, security, privacy, compatibility, non-infringement, and any warranty implied by course of dealing, course of performance, or trade usage.",
+        "**No limitation**. Nothing in these Terms excludes or limits our liability for:",
+        "1. death or personal injury caused by our negligence;",
+        "2. fraud or fraudulent misrepresentation; and",
+        "3. any matter in respect of which it would be unlawful for us to exclude or restrict our liability. This includes your rights that the Services are of satisfactory quality, fit for purpose and as described.",
+        "**Foreseeable loss.** Except as set out in *No Limitation* above, we and our Providers are not responsible for any loss or damage that is not foreseeable. Loss or damage is foreseeable if it was an obvious consequence of our breach or if it was contemplated by you and us at the time that you accessed our Services, or if you have a Subscription, at the time that the agreement between you and us related to your Subscription become binding (i.e., when the confirmation email for that Subscription was issued).",
+        "**Non-commercial use only.** You agree that you will not use our Services for any commercial or business purposes and we and our Providers have no liability to you for any loss of profit, loss of business, business interruption, or loss of business opportunity.",
+        "**Your rights.** Nothing in these Terms affects your statutory rights and we are under a legal duty to provide you with Services that are in conformity with the terms applying to our Services. Advice about your statutory rights is available from your local Citizens’ Information Board (or local equivalent, if applicable).",
+        "**Limitation of liability.** Except as otherwise set out in *No Limitation* above, our total liability to you for any loss or damage arising out of or in connection with these Terms, whether in contract (including under any indemnity), tort (including negligence) or otherwise will be limited to the greater of: (a) the amount you paid to us for access to or use of the Services in the six months prior to the event giving rise to the liability, and (b) €100.",
+        "**Beneficiaries.** Our Providers may benefit from, and enforce, their rights under this Section 10.",
+        "### **11. General terms**",
+        "**Changes to Services.** Our Services are novel and will change. We may sometimes add or remove features, increase or decrease capacity limits, offer new Services, or stop offering old ones. We may modify, suspend, or discontinue the Services or your access to the Services. Where those actions will materially impact your use of the Services, we will endeavor to notify you in accordance with this section. This includes taking such action as we consider appropriate to address any security, performance or trust and safety issue.",
+        "Where feasible, we will provide you with at least 30 days’ advance notice of any such changes to the Services that would materially limit or reduce the features, availability or functionality of the Services. However, there may be urgent situations (such as preventing abuse, responding to legal requirements, or addressing security and operability issues) where providing advance notice is not feasible.",
+        "If you do not wish to continue using the Services following material changes to the Services, please cancel your Account (or the Subscription purchased via our website, if applicable) by notifying us at support@anthropic.com and we will refund you a portion of the fees paid by you that are for the portion of your Subscription purchased via our website remaining after termination of your Subscription occurs. Any refunds for Subscriptions purchased via an App Distributor are subject to the App Distributor’s terms and not these Terms.",
+        "**Changes to these Terms.** We may revise and update these Terms. For example, we may update these Terms (1) to reflect changes in our Services, like when we add or remove features or services, or update our pricing, (2) for security or legal reasons, or (3) to promote safety or prevent abuse. We will notify you of changes to the Terms which are reasonably likely to affect your use of the Services or legal rights. These changes will come into effect no less than 30 days from when we notify you, unless the change is due to a change in law or for security reasons (in which case we may need to change the Terms on shorter notice).",
+        "If you do not wish to continue using our Services following any changes to the Terms you can terminate these Terms (or a Subscription purchased via our website) by notifying us at support@anthropic.com, before the changes take effect. If you exercise this termination right, we will refund to you a portion of the fees paid by you that are for the portion of your Subscription purchased via our website remaining after termination of your Subscription occurs. Any refunds for Subscriptions purchased via an App Distributor are subject to the App Distributor’s terms and not these Terms.",
+        "**Supplemental Terms.** We may also post supplemental terms. We may offer new Services or features that we believe require service-specific terms or guidelines. If you decide to use those new Services or features, you agree to comply with any applicable guidelines, rules, or supplemental terms that may be posted on the Services from time to time (**“Supplemental Terms”**). If these Terms conflict with Supplemental Terms, the Supplemental Terms will govern for the applicable Service.",
+        "**Termination.** You may stop accessing the Services at any time. We may suspend or terminate your access to the Services at any time without notice to you if:",
+        "1. we believe that you have materially breached these Terms;",
+        "2. we must do so in order to comply with applicable law; or",
+        "3. immediate suspension or termination is necessary for security reasons and therefore we cannot provide notice.",
+        "We may also terminate your Account if you have been inactive for over a year and you do not have a paid Account. If we decide to terminate your Account due to inactivity, we will give you advance notice before doing this.",
+        "If we terminate your access to the Services due to a material breach of these Terms and you have a Subscription:",
+        "1. you will not be entitled to any refund; and",
+        "2. we may take further legal action against you and you may be responsible for our losses in relation to the violation of these Terms.",
+        "If you have a Subscription, we may terminate the Subscription at any time by giving you at least 30 days’ notice in writing (email is sufficient). If we exercise this right, we will refund you on a pro rata basis the fees paid by you for the remaining portion of your Subscription after termination.",
+        "Upon termination of these Terms, a Subscription, or your access to the Services, the rights granted to you under our Terms (or any Subscription) to access and use our Services will immediately terminate, and we may at our option delete any Materials or other data associated with your account. Sections 6 (with respect to fees outstanding as of such expiration or termination) and 8 – 11 will survive any expiration or termination of our Terms or a Subscription.",
+        "**Severability.** Each of the sections of these Terms operates separately. If any court or relevant authority decides that any of them are unlawful or unenforceable, the remaining sections will remain in full force and effect.",
+        "**No waiver.** If we fail to insist that you perform any of your obligations under these Terms, or if we do not enforce our rights against you, or if we delay in doing so, that will not mean that we have waived our rights against you and will not mean that you do not have to comply with those obligations. If we waive a default by you, we will only do so in writing, and that will not mean that we will automatically waive any later default by you."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Export Controls.** You may not export or provide access to the Services into any U.S. embargoed countries or to anyone on (i) the U.S. Treasury Department’s list of Specially Designated Nationals, (ii) any other restricted party lists identified by the Office of Foreign Asset Control, (iii) the U.S. Department of Commerce Denied Persons List or Entity List, or (iv) any other restricted party lists. You represent and warrant that you and anyone accessing or using the Services on your behalf, or using your Account credentials, are not such persons or entities and are not located in any such country."
+      ],
+      "new": [
+        "**Export Controls.** You may not export or provide access to the Services into any U.S. embargoed countries or to anyone on (i) the U.S. Treasury Department’s list of Specially Designated Nationals, (ii) any other restricted party lists identified by the Office of Foreign Asset Control, (iii) the U.S. Department of Commerce Denied Persons List or Entity List, or (iv) any other restricted party lists. You agree that you and anyone accessing or using the Services on your behalf, or using your Account credentials, are not such persons or entities and are not located in any such country."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**U.S. Government Use.** The Services were developed solely at private expense and are commercial computer software and commercial computer software documentation within the meaning of the applicable Federal Acquisition Regulations and their agency supplements. Accordingly, U.S. Government users of the Services will have only those rights that are granted to all other end users of the Services pursuant to these Terms.",
+        "### 12. In case of disputes",
+        "**Equitable relief.** You agree that (a) no adequate remedy exists at law if you breach Section 3 (Use of Our Services); (b) it would be difficult to determine the damages resulting from such breach, and any such breach would cause irreparable harm; and (c) a grant of injunctive relief provides the best remedy for any such breach. You waive any opposition to such injunctive relief, as well as any demand that we prove actual damage or post a bond or other security in connection with such injunctive relief.",
+        "**Governing law and exclusive jurisdiction.** Our Terms will be governed by, and construed and interpreted in accordance with, the laws of the State of California without giving effect to conflict of law principles. You and Anthropic agree that any disputes arising out of or relating to these Terms will be resolved exclusively in the state or federal courts located in San Francisco, California, and you and Anthropic submit to the personal and exclusive jurisdiction of those courts. By accessing our Services, you waive any claims that may arise under the laws of other jurisdictions."
+      ],
+      "new": [
+        "### **12. In case of disputes**",
+        "**Governing Law and Jurisdiction.** These Terms are governed by Irish law. This means that your access to and use of our Services, and any dispute or claim arising out of or in connection therewith (including non-contractual disputes or claims) will be governed by Irish law, and must be brought in a competent court in Ireland. However, if you are a consumer within the European Economic Area or Switzerland, you may also file legal disputes in your local courts, based on your local laws.",
+        "If you are resident in the European Economic Area and wish to have more information on online dispute resolution, please follow this link to the website of the European Commission: http://ec.europa.eu/consumers/odr/. This link is provided as required by Regulation (EU) No 524/2013 of the European Parliament and of the Council, for information purposes only. We are not obliged to participate in online dispute resolution.",
+        "**Contacting us**",
+        "Should you have any reasons for a complaint, we will endeavour to resolve the issue and avoid any re-occurrence in the future. You can always contact us by using the following details:",
+        "Address: 27/29 Orwell Road, Rathgar, Dublin 6, Ireland and/or 548 Market Street, PMB 90375, San Francisco, CA 94104, USA",
+        "Email address: support@anthropic.com",
+        "### **Appendix 1**",
+        "**Model Cancellation Form**",
+        "\\[Complete and return this form only if you wish to cancel the contract\\]",
+        "To: Anthropic Ireland, Limited (support@anthropic.com, 27/29 Orwell Road, Rathgar, Dublin 6, Ireland):",
+        "Subject: Cancellation Request",
+        "- I/We \\[\\*\\] hereby give notice that I/We \\[\\*\\] cancel my/our \\[\\*\\] contract of sale for the following goods \\[\\*\\] for the provision of the following service \\[\\*\\]:",
+        "- Ordered on \\[\\*\\]/Received on \\[\\*\\]:",
+        "- Name of Consumer(s):",
+        "- Email address of Consumer(s) used to process the order:",
+        "- Address of Consumer(s):",
+        "- Signature of Consumer(s): (only if this form is notified on paper)",
+        "- Date:"
+      ]
+    }
+  ]
+}

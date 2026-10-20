@@ -1,0 +1,437 @@
+{
+  "id": "2024-10-03-reddit-terms",
+  "service": "reddit",
+  "service_name": "Reddit",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://redditinc.com/policies/user-agreement",
+  "detected_at": "2024-10-03T01:58:31+00:00",
+  "source": "wayback",
+  "window_start": "2024-07-03T00:54:18+00:00",
+  "archive_before": "https://web.archive.org/web/20240703005418/https://redditinc.com/policies/user-agreement",
+  "archive_after": "https://web.archive.org/web/20241003015831/https://redditinc.com/policies/user-agreement",
+  "flags": [
+    {
+      "tag": "ai-training",
+      "label": "AI training",
+      "hits": 2
+    }
+  ],
+  "stats": {
+    "hunks": 41,
+    "added_words": 141,
+    "removed_words": 119
+  },
+  "headline": "Reddit rewrote its Terms of Service — new wording on AI training",
+  "summary": "141 words added and 119 removed across 41 sections. New wording touches: AI training. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "For example, this license includes the right to use Your Content to train AI and machine learning models, as further described in our Public Content Policy.",
+  "receipt_side": "new",
+  "sideeye": 2,
+  "tags": [
+    "ai-training"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Effective February 15, 2024. Last Revised February 15, 2024"
+      ],
+      "new": [
+        "Effective September 24, 2024. Last Revised September 24, 2024"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## Reddit User Agreement if you live in the United States or outside the EEA, United Kingdom, and Switzerland"
+      ],
+      "new": [
+        "#### Reddit User Agreement if you live in the United States or outside the EEA, United Kingdom, and Switzerland"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Remember Reddit is for fun and is intended to be a place for your entertainment, but we still need some basic rules. By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use our Services.",
+        "### 1. Your Access to the Services"
+      ],
+      "new": [
+        "Remember Reddit is for fun and is intended to be a place for your entertainment, but we still need some basic rules. By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use our Services",
+        "##### 1. Your Access to the Services"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 2. Privacy"
+      ],
+      "new": [
+        "##### 2. Privacy"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 3. Your Use of the Services"
+      ],
+      "new": [
+        "##### 3. Your Use of the Services"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 4. Your Reddit Account and Account Security"
+      ],
+      "new": [
+        "##### 4. Your Reddit Account and Account Security"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 5. Your Content"
+      ],
+      "new": [
+        "##### 5. Your Content"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "When Your Content is created with or submitted to the Services, you grant us a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license to use, copy, modify, adapt, prepare derivative works of, distribute, store, perform, and display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed anywhere in the world. This license includes the right for us to make Your Content available for syndication, broadcast, distribution, or publication by other companies, organizations, or individuals who partner with Reddit. You also agree that we may remove metadata associated with Your Content, and you irrevocably waive any claims and assertions of moral rights or attribution with respect to Your Content."
+      ],
+      "new": [
+        "When Your Content is created with or submitted to the Services, you grant us a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license to use, copy, modify, adapt, prepare derivative works of, distribute, store, perform, and display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed anywhere in the world. This license includes the right for us to make Your Content available for syndication, broadcast, distribution, or publication by other companies, organizations, or individuals who partner with Reddit. For example, this license includes the right to use Your Content to train AI and machine learning models, as further described in our Public Content Policy. You also agree that we may remove metadata associated with Your Content, and you irrevocably waive any claims and assertions of moral rights or attribution with respect to Your Content."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 6. Third-Party Content, Advertisements, and Promotions"
+      ],
+      "new": [
+        "##### 6. Third-Party Content, Advertisements, and Promotions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 7. Things You Cannot Do"
+      ],
+      "new": [
+        "##### 7. Things You Cannot Do"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 8. Moderators"
+      ],
+      "new": [
+        "##### 8. Moderators"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 9. Copyright, Trademark, the DMCA, and Takedowns"
+      ],
+      "new": [
+        "##### 9. Copyright, Trademark, the DMCA, and Takedowns"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 10. Paid Services",
+        "There are no fees for the use of many aspects of the Services. However, some services, features, and products may be available for purchase (“**Paid Services**”). In addition to these Terms, the Reddit Premium and Virtual Goods Agreement also applies to Paid Services. By purchasing or using Paid Services, you further agree to the Premium and Virtual Goods Agreement and, if applicable, the Previews Terms of Use.",
+        "### 11. Intellectual Property"
+      ],
+      "new": [
+        "##### 10. Paid Services",
+        "There are no fees for the use of many aspects of the Services. However, some services, features, and products may be available for purchase (“**Paid Services**”). In addition to these Terms, the Reddit Econ Terms also apply to Paid Services. By purchasing or using Paid Services, you further agree to the Econ Terms and, if applicable, the Previews Terms.",
+        "##### 11. Intellectual Property"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 12. Indemnity"
+      ],
+      "new": [
+        "##### 12. Indemnity"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 13. Disclaimers and Limitation of Liability"
+      ],
+      "new": [
+        "##### 13. Disclaimers and Limitation of Liability"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 14. Governing Law and Venue"
+      ],
+      "new": [
+        "##### 14. Governing Law and Venue"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 15. Changes to these Terms"
+      ],
+      "new": [
+        "##### 15. Changes to these Terms"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 16. Additional Terms"
+      ],
+      "new": [
+        "##### 16. Additional Terms"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- If you use any Paid Services, you must also agree to the Reddit Premium and Virtual Goods Agreement.",
+        "- If you use any preview features, you must also agree to the Reddit Previews Terms of Use.",
+        "- If you use the self-service platform for advertising, you must also agree to the Reddit Advertising Platform Terms."
+      ],
+      "new": [
+        "- If you use any Paid Services, you must also agree to the Reddit Econ Terms.",
+        "- If you use any preview features, you must also agree to the Reddit Previews Terms.",
+        "- If you advertise on the Services, you must also agree to the Reddit Advertising Platform Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- If you participate in any Reddit program that is subject to Additional Terms (e.g., Contributor Terms for our Contributor Program), you must also agree to those Additional Terms.",
+        "### 17. Termination"
+      ],
+      "new": [
+        "- If you participate in any Reddit program that is subject to Additional Terms (e.g., Earn Terms for any Earnings Program), you must also agree to those Additional Terms.",
+        "##### 17. Termination"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 18. Miscellaneous"
+      ],
+      "new": [
+        "##### 18. Miscellaneous"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## Reddit User Agreement if you live in the EEA, United Kingdom, or Switzerland",
+        "Hello, redditors and people of the Internet! This Reddit User Agreement (“**Terms**”) applies to your access to and use of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the “**Services**”) provided by Reddit, Inc. (“**Reddit**,” “**we**,” “**us**,” or “**our**”)."
+      ],
+      "new": [
+        "#### Reddit User Agreement if you live in the EEA, United Kingdom, or Switzerland",
+        "Hello, redditors and people of the Internet! This Reddit User Agreement (“**Terms**”) applies to your access to and use of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the “**Services**”) provided by Reddit Netherlands B.V. (“**Reddit**,” “**we**,” “**us**,” or “**our**”)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 1. Your Access to the Services"
+      ],
+      "new": [
+        "##### 1. Your Access to the Services"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 2. Privacy"
+      ],
+      "new": [
+        "##### 2. Privacy"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 3. Your Use of the Services"
+      ],
+      "new": [
+        "##### 3. Your Use of the Services"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 4. Your Reddit Account and Account Security"
+      ],
+      "new": [
+        "##### 4. Your Reddit Account and Account Security"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 5. Your Content"
+      ],
+      "new": [
+        "##### 5. Your Content"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "When Your Content is created with or submitted to the Services, you grant us a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license to use, copy, modify, adapt, prepare derivative works of, distribute, store, perform, and display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed anywhere in the world. This license includes the right for us to make Your Content available for syndication, broadcast, distribution, or publication by other companies, organizations, or individuals who partner with Reddit. You also agree that we may remove metadata associated with Your Content, and you irrevocably waive any claims and assertions of moral rights or attribution with respect to Your Content."
+      ],
+      "new": [
+        "When Your Content is created with or submitted to the Services, you grant us a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license to use, copy, modify, adapt, prepare derivative works of, distribute, store, perform, and display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed anywhere in the world. This license includes the right for us to make Your Content available for syndication, broadcast, distribution, or publication by other companies, organizations, or individuals who partner with Reddit. For example, this license includes the right to use Your Content to train AI and machine learning models, as further described in our Public Content Policy. You also agree that we may remove metadata associated with Your Content, and you irrevocably waive any claims and assertions of moral rights or attribution with respect to Your Content."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 6. Third-Party Content, Advertisements, and Promotions"
+      ],
+      "new": [
+        "##### 6. Third-Party Content, Advertisements, and Promotions"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 7. Things You Cannot Do"
+      ],
+      "new": [
+        "##### 7. Things You Cannot Do"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 8. Moderators"
+      ],
+      "new": [
+        "##### 8. Moderators"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 9. Copyright, Trademark, the DMCA, and Takedowns"
+      ],
+      "new": [
+        "##### 9. Copyright, Trademark, the DMCA, and Takedowns"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 10. Paid Services",
+        "There are no fees for the use of many aspects of the Services. However, some services, features, and products may be available for purchase (“**Paid Services**”). In addition to these Terms the Reddit Premium and Virtual Goods Agreement also applies to Paid Services. By purchasing or using Paid Services, you further agree to the Premium and Virtual Goods Agreement and, if applicable, the Previews Terms of Use.",
+        "### 11. Intellectual Property"
+      ],
+      "new": [
+        "##### 10. Paid Services",
+        "There are no fees for the use of many aspects of the Services. However, some services, features, and products may be available for purchase (“**Paid Services**”). In addition to these Terms the Reddit Econ Terms also apply to Paid Services. By purchasing or using Paid Services, you further agree to the Econ Terms and, if applicable, the Previews Terms.",
+        "##### 11. Intellectual Property"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 12. Indemnity"
+      ],
+      "new": [
+        "##### 12. Indemnity"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 13. Limitation of Liability"
+      ],
+      "new": [
+        "##### 13. Limitation of Liability"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 14. Changes to these Terms"
+      ],
+      "new": [
+        "##### 14. Changes to these Terms"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 15. Additional Terms"
+      ],
+      "new": [
+        "##### 15. Additional Terms"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- If you use any Paid Services, you must also agree to the Reddit Premium and Virtual Goods Agreement.",
+        "- If you use any preview features, you must also agree to the Reddit Previews Terms of Use.",
+        "- If you use the self-service platform for advertising, you must also agree to the Reddit Advertising Platform Terms."
+      ],
+      "new": [
+        "- If you use any Paid Services, you must also agree to the Reddit Econ Terms.",
+        "- If you use any preview features, you must also agree to the Reddit Previews Terms.",
+        "- If you advertise on the Services, you must also agree to the Reddit Advertising Platform Terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- If you participate in any Reddit program that is subject to Additional Terms (e.g., Contributor Terms for our Contributor Program), you must also agree to those Additional Terms.",
+        "### 16. Termination"
+      ],
+      "new": [
+        "- If you participate in any Reddit program that is subject to Additional Terms (e.g., Earn Terms for any Earnings Program), you must also agree to those Additional Terms.",
+        "##### 16. Termination"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### 17. Miscellaneous"
+      ],
+      "new": [
+        "##### 17. Miscellaneous"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "These Terms are a legally-binding agreement between you and Reddit, Inc. If you have any questions about these Terms, please contact us.",
+        "Reddit, Inc.",
+        "303 2nd Street, Suite 500S",
+        "San Francisco, CA 94107",
+        "United States"
+      ],
+      "new": [
+        "These Terms are a legally-binding agreement between you and Reddit Netherlands B.V. If you have any questions about these Terms, please contact us.",
+        "Reddit Netherlands B.V.",
+        "Euro Business Center",
+        "Keizersgracht 62, 1015CS Amsterdam",
+        "Netherlands"
+      ]
+    }
+  ]
+}

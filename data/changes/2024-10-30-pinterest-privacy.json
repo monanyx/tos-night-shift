@@ -1,0 +1,156 @@
+{
+  "id": "2024-10-30-pinterest-privacy",
+  "service": "pinterest",
+  "service_name": "Pinterest",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://policy.pinterest.com/en/privacy-policy",
+  "detected_at": "2024-10-30T19:14:44+00:00",
+  "source": "wayback",
+  "window_start": "2024-08-05T00:35:39+00:00",
+  "archive_before": "https://web.archive.org/web/20240805003539/https://policy.pinterest.com/en/privacy-policy",
+  "archive_after": "https://web.archive.org/web/20241030191444/https://policy.pinterest.com/en/privacy-policy",
+  "flags": [
+    {
+      "tag": "minors",
+      "label": "Kids & teens",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 17,
+    "added_words": 136,
+    "removed_words": 0
+  },
+  "headline": "Pinterest rewrote its Privacy Policy — new wording on kids and teens",
+  "summary": "136 words added and 0 removed across 17 sections. New wording touches: Kids & teens. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "# Our policy on children's information",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "minors"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# Privacy Policy"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# California Privacy Statement"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# Summary of changes"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# Thank you for using Pinterest!"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# Scope of the Privacy Policy"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# We collect information in a few different ways",
+        "### 1. When you give it to us or give us permission to obtain it"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "### 2. We also get technical information when you use Pinterest"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "### 3. Our partners and advertisers share information with us"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# How we use the info we collect"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# Additional Info for EEA, Swiss and UK Data Subjects: Legal bases we rely on where we use your information"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# Your Rights and Choices"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# How and when we share information"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# Transferring your information"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# How long we keep your information"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# Our policy on children's information"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# How we make changes to this policy"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# Contact us"
+      ]
+    }
+  ]
+}

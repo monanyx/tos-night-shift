@@ -1,0 +1,94 @@
+{
+  "id": "2026-10-17-google-privacy",
+  "service": "google",
+  "service_name": "Google",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://policies.google.com/privacy?hl=en",
+  "detected_at": "2026-10-17T16:03:13+00:00",
+  "source": "wayback",
+  "window_start": "2026-07-19T01:26:42+00:00",
+  "archive_before": "https://web.archive.org/web/20260719012642/https://policies.google.com/privacy?hl=en",
+  "archive_after": "https://web.archive.org/web/20261017160313/https://policies.google.com/privacy?hl=en",
+  "flags": [],
+  "stats": {
+    "hunks": 7,
+    "added_words": 177,
+    "removed_words": 10
+  },
+  "headline": "Google edited its Privacy Policy",
+  "summary": "177 words added and 10 removed across 7 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Google also collects and uses data that is not associated with your account.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Google also collects and uses data that is not associated with your account. For example, when you’re not signed in to a Google Account, we store the information we collect with unique identifiers tied to the browser, application, or device you’re using. This allows us to do things like maintain your preferences across browsing sessions, such as your preferred language or whether to show you more relevant search results or ads based on your activity."
+      ],
+      "new": [
+        "Google also collects and uses data that is not associated with your account. For example, when you’re not signed in to a Google Account, we store the information we collect with unique identifiers tied to the browser, application, or device you’re using. This allows us to do things like maintain your preferences across browsing sessions, such as your preferred language or whether to show you more relevant search results or ads based on your activity across devices."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We use the information we collect to tailor our services for you, including providing customized and personalized experiences and recommendations, including things like content, and search results. For example, Security Checkup provides security tips adapted to how you use Google products. And, depending on your available settings, Google Play could use information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like.",
+        "Depending on your settings, we may also show you personalized ads based on your interests and activity across Google services. For example, if you search for “mountain bikes,” you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in My Ad Center."
+      ],
+      "new": [
+        "We use the information we collect to tailor our services for you, including providing customized and personalized experiences and recommendations, including things like content, and search results. For example, Security Checkup provides security tips adapted to how you use Google products. And, depending on your available settings, Google Play could use information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like. You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use, such as Google Photos and Workspace apps like Gmail and Drive, in order to provide you with a more personalized experience, subject to the policies and settings of the accessing service. For example, Search may process some of the data that you allow Search to access to personalize content, including ads.",
+        "Depending on your settings, we may also show you personalized ads based on your interests, activity, or personalized content from Google services. For example, if you search for “mountain bikes,” in Search you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in My Ad Center."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- We don’t show you personalized ads based on your content from Drive, Gmail, or Photos."
+      ],
+      "new": [
+        "- We don’t show you personalized ads based on your content from Drive, Gmail, or Google Photos, unless you choose to make data from these services available to other Google services that support personalized ads."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "When you’re signed in, you can always review and update information by visiting the services you use. For example, Photos and Drive are both designed to help you manage specific types of content you’ve saved with Google."
+      ],
+      "new": [
+        "When you’re signed in, you can always review and update information by visiting the services you use. For example, Google Photos and Drive are both designed to help you manage specific types of content you’ve saved with Google."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Photos and videos you upload to Google Photos are used to help you create albums, collages, and other creations that you can share. Learn more"
+      ],
+      "new": [
+        "- Photos and videos you upload to Google Photos are used to help you create albums, collages, and other creations that you can share."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "### personalize content",
+        "If you choose to allow certain services to process data from other services, including for features such as Personal Intelligence, the same data may be used to personalize your experience. For example, if you ask Search a question about a recent hotel booking, Search may use information about booking details from an email to help suggest things to do near your hotel. Learn more about Personal Intelligence."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "When lots of people start searching for something, it can provide useful information about particular trends at that time. Google Trends samples Google web searches to estimate the popularity of searches over a certain period of time and shares those results publicly in aggregated terms. Learn more"
+      ],
+      "new": [
+        "When lots of people start searching for something, it can provide useful information about particular trends at that time. Google Trends samples Google web searches to estimate the popularity of searches over a certain period of time and shares those results publicly in aggregated terms."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2023-11-27-pinterest-privacy",
+  "service": "pinterest",
+  "service_name": "Pinterest",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://policy.pinterest.com/en/privacy-policy",
+  "detected_at": "2023-11-27T15:58:13+00:00",
+  "source": "wayback",
+  "window_start": "2023-09-11T15:27:58+00:00",
+  "archive_before": "https://web.archive.org/web/20230911152758/https://policy.pinterest.com/en/privacy-policy",
+  "archive_after": "https://web.archive.org/web/20231127155813/https://policy.pinterest.com/en/privacy-policy",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 2,
+    "removed_words": 1
+  },
+  "headline": "Pinterest edited its Privacy Policy",
+  "summary": "2 words added and 1 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "We will not discriminate against you if you choose to exercise your rights or options related to your personal information.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "We will not discriminate against you if you choose to exercise your rights or options related to your personal information. These rights may be limited, for example if fulfilling your request would reveal personal data about another person, where they would infringe the rights of a third party (including our rights) or if you ask us to delete information which we are required by law to keep or have compelling legitimate interest to keep. If we deny your request to exercise your rights, you may have the right to appeal our decision by contacting us using privacy-support \\[at\\] pinterest.com."
+      ],
+      "new": [
+        "We will not discriminate against you if you choose to exercise your rights or options related to your personal information. These rights may be limited, for example if fulfilling your request would reveal personal data about another person, where they would infringe the rights of a third party (including our rights) or if you ask us to delete information which we are required by law to keep or have compelling legitimate interest to keep. If we deny your request to exercise your rights, you may have the right to appeal our decision by contacting us using privacy-support \\[at\\] pinterest.com (privacy-support\\[at\\]pinterest\\[dot\\]com)."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "2024-05-13-pinterest-privacy",
+  "service": "pinterest",
+  "service_name": "Pinterest",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://policy.pinterest.com/en/privacy-policy",
+  "detected_at": "2024-05-13T00:26:52+00:00",
+  "source": "wayback",
+  "window_start": "2024-02-19T05:19:36+00:00",
+  "archive_before": "https://web.archive.org/web/20240219051936/https://policy.pinterest.com/en/privacy-policy",
+  "archive_after": "https://web.archive.org/web/20240513002652/https://policy.pinterest.com/en/privacy-policy",
+  "flags": [],
+  "stats": {
+    "hunks": 17,
+    "added_words": 129,
+    "removed_words": 147
+  },
+  "headline": "Pinterest edited its Privacy Policy",
+  "summary": "129 words added and 147 removed across 17 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "We work hard to make our use of personal data transparent and to make your rights and choices easy to understand.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "We work hard to make our use of personal data transparent and to make your rights and choices easy to understand. Privacy laws have continued to evolve and we made changes to this policy based on new privacy laws in some U.S. states. We also added new information for our EEA and UK residents about the data controller of their personal data."
+      ],
+      "new": [
+        "We work hard to make our use of personal data transparent and to make your rights and choices easy to understand. We added more details about the personal data that we collect and how we may share it."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Account Information**: When you join our Services, we collect information like your name, email address, birthday, gender, and preferred language. If you have a business account, depending on where you live, you may also have the option to add race and ethnicity information to your profile."
+      ],
+      "new": [
+        "**Account Information**: When you join our Services, we collect information like your name, email address, birthday, gender, country of residence, your interests, and preferred language. If you have a business account, depending on where you live, you may also have the option to add race and ethnicity information to your profile."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Usage data and inferences**. When you’re on our Services, we use your activity—such as which Pins you click on, terms you search for, boards you create, and any text that you add in a comment or description—along with other information you’ve provided when you first signed up and information from our partners and advertisers to make inferences about you and your preferences. For example, if you create a board about travel, we may infer you are a travel enthusiast. We may also infer other information, such as your education or professional experience."
+      ],
+      "new": [
+        "**Usage data and inference**s. When you’re on our Services, we use your activity—such as which Pins you click on, terms you search for, boards you create, and any text that you add in a comment or description—along with other information you’ve provided when you first signed up and information from our partners and advertisers to make inferences about you and your preferences. For example, if you create a board about travel, we may infer you are a travel enthusiast. We may also infer other information, such as your education or professional experience."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Third party platforms**: If you register for or log into the Service using a third party platform, they will furnish certain information to us to facilitate your account creation or log-in with us. In addition, if you"
+      ],
+      "new": [
+        "**Third party platforms**: If you register for or log into the Service using a third party platform (like Facebook or Google), they will furnish certain information to us to facilitate your account creation or log-in with us. In addition, if you"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Work with law enforcement and keep Pinterest safe. We may get requests for account information from law enforcement authorities like the police or courts. To find out more about how we respond to law enforcement requests, please see our Law Enforcement Guidelines."
+      ],
+      "new": [
+        "- Work with law enforcement and researchers to keep Pinterest safe. We may get requests for account information from law enforcement authorities like the police or courts, or from researchers to study activity on Pinterest. To find out more about how we respond to law enforcement requests, please see our Law Enforcement Guidelines."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- Conduct age verification. This may include facial age estimation and matching your face against a government ID."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## To deliver advertising that is relevant, interesting, and personal on our Services, we:"
+      ],
+      "new": [
+        "## To deliver advertising that is relevant, interesting and personal on our Services, we:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Accessing, storing, preserving, or sharing information when we think it is reasonably necessary to comply with legal or regulatory obligations, including sharing with law enforcement or other authorities."
+      ],
+      "new": [
+        "- Accessing, storing, preserving, or sharing information when we think it is reasonably necessary to comply with legal or regulatory obligations, including sharing with researchers, law enforcement, or other authorities."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Regulatory matters: to comply with regulatory obligations like under privacy laws (GDPR)."
+      ],
+      "new": [
+        "- Regulatory matters: to comply with regulatory obligations like under privacy laws (GDPR) and the Digital Services Act (DSA)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Any of the categories of information listed in “We Collect Information in a few different ways” except for Precise location information (which we don’t collect from users in EEA, Switzerland, or the UK)."
+      ],
+      "new": [
+        "Any of the categories of information listed in “We collect information in a few different ways” except for Precise location information (which we don’t collect from users in EEA, Switzerland, or the UK)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Ads on Pinterest based on offsite activities. We customize the ad content we show you by identifying your interests based on your offsite activities, as well as by using information we receive from ad partners or other third parties. Where ad partners or other third parties share information with us about you, we rely on the consent they have already obtained."
+      ],
+      "new": [
+        "- Ads on Pinterest based on offsite activities. We customize the ads we show you by identifying your interests based on your offsite activities, as well as by using information we receive from ad partners or other third parties. Where ad partners or other third parties share information with us about you, we rely on the consent they have already obtained."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Any of the categories of information listed in “We Collect Information in a few different ways” except for Precise location information (which we don’t collect from users in EEA, Switzerland, or the UK)."
+      ],
+      "new": [
+        "Any of the categories of information listed in “We collect information in a few different ways” except for Precise location information (which we don’t collect from users in EEA, Switzerland, or the UK)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Access**: You can request access to the information we collect and hold about you, including sometimes in a portable format. You can find more information about this"
+      ],
+      "new": [
+        "**Access**: You can request access to the information we collect and hold about you in a portable format. You can find more information about this"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Where we rely on consent, you can withdraw that consent at any time."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "For users who reside in certain U.S. states and have enabled an opt-out preferences signal (such as Global Privacy Control), we will respect this preference when you use Pinterest."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If you live in the EEA, Switzerland, or the UK, we take additional steps related to data transfers. Information controlled by Pinterest Europe Limited will be transferred or transmitted to, or stored and processed in, the United States or other countries outside of where you live for the purposes as described in this policy. Please note these data transfers are necessary to provide the services set forth in our Terms and to operate globally.",
+        "Because Pinterest is a worldwide service, we may transfer the personal data of EEA, Switzerland, and UK residents to a country outside the EEA, Switzerland, or the UK. Where we transfer information from the EEA, Switzerland, or the UK to a country that doesn't provide an adequate level of protection, we’ll only do so under appropriate safeguards to protect your information.",
+        "Safeguards which we rely on in ensuring your information benefits from an adequate level of protection includes the following:",
+        "- Adequacy decisions. These are decisions issued from the European Commission under Article 45 GDPR (or equivalent decisions under other laws) where they recognise that a country offers an adequate level of data protection. We transfer your information as described in “How we use the info we collect” to some countries with such adequacy decisions, such as the countries listed here; or",
+        "- Standard contractual clauses (“**SCCs**”). The European Commission has approved contractual clauses under Article 46 of the GDPR that allows companies in the EEA to transfer data outside the EEA. These (and their approved equivalent for the UK and Switzerland) are called standard contractual clauses. We rely on standard contractual clauses to transfer information as described in “How we use the info we collect” to certain entities in our family of companies and third parties in countries without an adequacy decision.",
+        "- While transfers to countries that don’t have an adequacy decision typically take place on the basis of SCCs, in certain circumstances, transfers can also take place on the basis of exemptions provided under data protection law. For example, sharing with law enforcement, in emergency situations where we learn that a person’s life is at risk."
+      ],
+      "new": [
+        "If you live in the EEA, Switzerland, or the UK, we take additional steps related to data transfers. Information controlled by Pinterest Europe Limited will be transferred or transmitted to, or stored and processed in, the United States or other countries outside of where you live for the purposes as described in this policy. Safeguards which we rely on in ensuring your information benefits from an adequate level of protection includes the following:",
+        "Adequacy decisions. These are decisions issued from the European Commission under Article 45 GDPR (or equivalent decisions under other laws) where they recognise that a country offers an adequate level of data protection. We transfer your information as described in “How we use the info we collect” to some countries with such adequacy decisions, such as the countries listed here; or",
+        "Standard contractual clauses (“SCCs”). The European Commission has approved contractual clauses under Article 46 of the GDPR that allows companies in the EEA to transfer data outside the EEA. These (and their approved equivalent for the UK and Switzerland) are called standard contractual clauses. We rely on standard contractual clauses to transfer information as described in “How we use the info we collect” to third parties in countries without an adequacy decision.",
+        "While transfers to countries that don’t have an adequacy decision typically take place on the basis of SCCs, in certain circumstances, transfers can also take place on the basis of exemptions provided under data protection law. For example, sharing with law enforcement, in emergency situations where we learn that a person’s life is at risk."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Effective Date August 1, 2023"
+      ],
+      "new": [
+        "Effective Date outside EEA, UK, and Switzerland: March 13, 2024",
+        "Effective Date in EEA, UK, and Switzerland: April 30, 2024"
+      ]
+    }
+  ]
+}

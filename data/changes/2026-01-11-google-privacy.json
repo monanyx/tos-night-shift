@@ -1,0 +1,39 @@
+{
+  "id": "2026-01-11-google-privacy",
+  "service": "google",
+  "service_name": "Google",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://policies.google.com/privacy?hl=en",
+  "detected_at": "2026-01-11T00:22:24+00:00",
+  "source": "wayback",
+  "window_start": "2025-10-12T00:37:26+00:00",
+  "archive_before": "https://web.archive.org/web/20251012003726/https://policies.google.com/privacy?hl=en",
+  "archive_after": "https://web.archive.org/web/20260111002224/https://policies.google.com/privacy?hl=en",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 24,
+    "removed_words": 0
+  },
+  "headline": "Google edited its Privacy Policy",
+  "summary": "24 words added and 0 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "- Indiana Consumer Data Protection Act (INCDPA)",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "- Indiana Consumer Data Protection Act (INCDPA)",
+        "- Kentucky Consumer Data Protection Act (KCDPA)",
+        "- Rhode Island Data Transparency and Privacy Protection Act (RIDTPPA)"
+      ]
+    }
+  ]
+}

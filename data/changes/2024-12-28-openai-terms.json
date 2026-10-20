@@ -1,0 +1,61 @@
+{
+  "id": "2024-12-28-openai-terms",
+  "service": "openai",
+  "service_name": "OpenAI (ChatGPT)",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://openai.com/policies/terms-of-use/",
+  "detected_at": "2024-12-28T02:29:14+00:00",
+  "source": "wayback",
+  "window_start": "2024-09-13T01:46:19+00:00",
+  "archive_before": "https://web.archive.org/web/20240913014619/https://openai.com/policies/terms-of-use/",
+  "archive_after": "https://web.archive.org/web/20241228022914/https://openai.com/policies/terms-of-use/",
+  "flags": [],
+  "stats": {
+    "hunks": 3,
+    "added_words": 31,
+    "removed_words": 9
+  },
+  "headline": "OpenAI (ChatGPT) edited its Terms of Service",
+  "summary": "31 words added and 9 removed across 3 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "# Terms of Use",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "# Terms of use",
+        "**Effective:** January 31, 2024 (previous version)"
+      ],
+      "new": [
+        "# Terms of Use",
+        "Effective: December 11, 2024 (previous version)"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Our use of content.** We may use Content to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies, and keep our Services safe."
+      ],
+      "new": [
+        "**Our use of content.** We may use Content to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies, and keep our Services safe. If you're using ChatGPT through Apple's integrations, see this Help Center article(opens in a new window) for how we handle your Content."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "3180 18th St.",
+        "San Francisco, California 94110"
+      ],
+      "new": [
+        "1455 3rd Street",
+        "San Francisco, CA 94158"
+      ]
+    }
+  ]
+}

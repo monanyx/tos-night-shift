@@ -1,0 +1,131 @@
+{
+  "id": "2026-03-05-zoom-privacy",
+  "service": "zoom",
+  "service_name": "Zoom",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.zoom.com/en/trust/privacy/privacy-statement/",
+  "detected_at": "2026-03-05T22:49:02+00:00",
+  "source": "wayback",
+  "window_start": "2026-01-15T06:04:59+00:00",
+  "archive_before": "https://web.archive.org/web/20260115060459/https://www.zoom.com/en/trust/privacy/privacy-statement/",
+  "archive_after": "https://web.archive.org/web/20260305224902/https://www.zoom.com/en/trust/privacy/privacy-statement/",
+  "flags": [],
+  "stats": {
+    "hunks": 10,
+    "added_words": 95,
+    "removed_words": 87
+  },
+  "headline": "Zoom edited its Privacy Policy",
+  "summary": "95 words added and 87 removed across 10 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Last updated: February 02, 2026",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Last updated: April 15, 2025"
+      ],
+      "new": [
+        "Last updated: February 02, 2026"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Content and Context from Meetings, Webinars, Messaging, and Other Collaborative Features:** Content generated in meetings, webinars, or messages that are hosted on Zoom products and services (“Customer Content”), which may include audio, video, in-meeting messages, in-meeting and out-of-meeting whiteboards, chat messaging content, transcriptions, transcript edits and recommendations, responses to account owner / host-sponsored post-meeting or webinar feedback requests, responses to polls and Q&A, and files, as well as related context, such as invitation details, meeting or chat name, or meeting agenda. Customer Content may contain your voice and image, depending on the account owner’s settings, what you choose to share, your settings, and what you do on Zoom products and services. As referenced below, Zoom employees do not access or use Customer Content without the authorization of the hosting account owner, or as required for legal, safety, security or support reasons."
+      ],
+      "new": [
+        "- **Content and Context from Meetings, Webinars, Messaging, and Other Collaborative Features:** Content generated in meetings, webinars, messages or through other Zoom products and services to which customer has subscribed (“Customer Content”), which may include audio, video, in-meeting messages, in-meeting and out-of-meeting whiteboards, chat messaging content, transcriptions, transcript edits and recommendations, responses to account owner / host-sponsored post-meeting or webinar feedback requests, responses to polls and Q&A, and files, as well as related context, such as invitation details, meeting or chat name, or meeting agenda. Customer Content may contain your voice and image, depending on the account owner’s settings, what you choose to share, your settings, and what you do on Zoom products and services. As referenced below, Zoom employees do not access or use Customer Content without the authorization of the hosting account owner, or as required for legal, safety, security or support purposes."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Content from Third-Party Integrations:** Account owners and/or their licensed end users can access emails, calendars, files and other information from third-party services through their Zoom client, if they choose to integrate them. This information is not end-to-end encrypted by Zoom, but Zoom employees do not access the contents of third-party-service email, calendar entries, files or other information, unless authorized to, or required for legal, safety, security or support reasons. If account owners and/or their licensed end users integrate their third-party emails, calendars, files and/or other information with products and services offered or powered by Zoom, then Zoom may collect or process Customer Content and email, calendar, files and other information, including content, headers, titles, and metadata, from such third-party services."
+      ],
+      "new": [
+        "- **Content from Third-Party Integrations:** Account owners and/or their licensed end users can access emails, calendars, files and other information from third-party services through their Zoom client, if they choose to integrate them. This information is not end-to-end encrypted by Zoom, but Zoom employees do not access the contents of third-party-service email, calendar entries, files or other information, unless authorized to, or required for legal, safety, security or support purposes. If account owners and/or their licensed end users integrate their third-party emails, calendars, files and/or other information with products and services offered or powered by Zoom, then Zoom may collect or process Customer Content and email, calendar, files and other information, including content, headers, titles, and metadata, from such third-party services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Zoom employees do not access or use Customer Content including meeting, webinar, messaging, or email content (specifically, audio, video, files, in-meeting whiteboards, messaging, or email contents), or any content generated or shared as part of other collaborative features (such as out-of-meeting whiteboards), unless authorized by the account owner hosting the Zoom product or service where the Customer Content was generated, or as required for legal, safety, security or support reasons. **Zoom does not use any of your audio, video, chat, screen sharing, attachments or other communications-like Customer Content (such as poll results, whiteboard and reactions) to train Zoom’s or its third-party artificial intelligence models.**"
+      ],
+      "new": [
+        "Zoom employees do not access or use Customer Content including meeting, webinar, messaging, or email content (specifically, audio, video, files, in-meeting whiteboards, messaging, or email contents), or any content generated or shared as part of other collaborative features (such as out-of-meeting whiteboards), unless authorized by the account owner hosting the Zoom product or service where the Customer Content was generated, or as required for legal, safety, security or support purposes. **Zoom does not use any of your audio, video, chat, screen sharing, attachments or other communications-like Customer Content (such as poll results, whiteboard and reactions) to train Zoom’s or its third-party artificial intelligence models.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Legal Reasons:** To comply with applicable law or respond to valid legal process, including from law enforcement or government agencies, to investigate or participate in civil discovery, litigation, or other adversarial legal proceedings, protect you, us, and others from fraudulent, malicious, deceptive, abusive, or unlawful activities, and to enforce or investigate potential violations of our Terms of Service or policies."
+      ],
+      "new": [
+        "- **Legal Purposes:** To comply with applicable law or respond to valid legal process, including from law enforcement or government agencies, to investigate or participate in civil discovery, litigation, or other adversarial legal proceedings, protect you, us, and others from fraudulent, malicious, deceptive, abusive, or unlawful activities, and to enforce or investigate potential violations of our Terms of Service or policies."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **For Legal Reasons:** Zoom may share personal data as needed to: (1) comply with applicable law or respond to, investigate, or participate in valid legal process and proceedings, including from law enforcement or government agencies; (2) enforce or investigate potential violations of its Terms of Service or policies; (3) detect, prevent, or investigate potential fraud, abuse, or safety and security concerns, including threats to the public; (4) meet our corporate and social responsibility commitments; (5) protect our and our customers’ rights and property; and (6) resolve disputes and enforce agreements."
+      ],
+      "new": [
+        "- **For Legal Purposes:** Zoom may share personal data as needed to: (1) comply with applicable law or respond to, investigate, or participate in valid legal process and proceedings, including from law enforcement or government agencies; (2) enforce or investigate potential violations of its Terms of Service or policies; (3) detect, prevent, or investigate potential fraud, abuse, or safety and security concerns, including threats to the public; (4) meet our corporate and social responsibility commitments; (5) protect our and our customers’ rights and property; and (6) resolve disputes and enforce agreements."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- **Recordings and Transcripts:** Account owners can view and share the recordings and transcripts of meetings and webinars hosted on their account. Account owners may be able to view and share content generated by intelligent features that use the recording or transcript.",
+        "- **Other Collaborative Feature Content (e.g., Zoom Email, Zoom Calendar, Zoom Docs, Clips, Whiteboard, Notes, Polls, Q&A, Feedback, ):** Depending on their settings, account owners and designated account administrators can access content hosted on their account. For example, depending on their settings, account owners and designated account administrators can access email and calendar content sent to and from users on their Zoom Email or Zoom Calendar accounts, even if those Zoom Emails are encrypted. In addition, account owners can see information about who provided responses to their polls, Q&A, or post-meeting or webinar feedback requests, including name and contact information, together with the responses or feedback, unless responses are submitted anonymously.",
+        "- **Meeting Hosts, Participants, and Invitees:** Meeting hosts, participants, and invitees may be able to see your email, display name, profile picture, and presence status, including in Zoom meetings and in Zoom’s native calendar service. Meeting hosts, participants, and invitees can also see and (depending on the account owner’s settings) record, save, and share meeting content, audio transcripts, messages sent to Everyone, messages sent to meeting group chats (where enabled, and whether sent in Team Chat or in-meeting), or messages sent to them directly, and files, whiteboards or other information shared with them (including during a meeting, or through a dedicated meeting group chat). Meeting hosts may also share meeting assets to Zoom Team Chat, depending on their account owner’s settings. Meeting hosts may also be able to see responses to Q&A and polls generated during the meeting."
+      ],
+      "new": [
+        "- **Recordings and Transcripts:** Account owners can view and share recordings and transcripts of meetings and webinars hosted on their account, and may be able to view and share other recordings and transcripts generated by or shared with users on their account. Account owners may be able to view and share content generated by intelligent features that use recordings or transcripts.",
+        "- **Other Collaborative Feature Content (e.g., Zoom Email, Zoom Calendar, Zoom Docs, Clips, Whiteboard, Notes, Polls, Q&A, Feedback):** Depending on their settings, account owners and designated account administrators can access content hosted on their account. For example, depending on their settings, account owners and designated account administrators can access email and calendar content sent to and from users on their Zoom Email or Zoom Calendar accounts, even if those Zoom Emails are encrypted. In addition, account owners can see information about who provided responses to their polls, Q&A, or post-meeting or webinar feedback requests, including name and contact information, together with the responses or feedback, unless responses are submitted anonymously.",
+        "- **Meeting Hosts, Participants, and Invitees:** Meeting hosts, participants, and invitees may be able to see your email, display name, profile picture, and presence status, including in Zoom meetings and in Zoom’s native calendar service. Meeting hosts, participants, and invitees may also see, record, save, and share meeting content, audio transcripts, messages sent to Everyone, messages sent to meeting group chats (where enabled, and whether sent in Team Chat or in-meeting), or messages sent to them directly, and files, whiteboards or other information shared with them (including during a meeting, or through a dedicated meeting group chat). Meeting hosts may also share meeting assets to Zoom Team Chat, depending on their account owner’s settings. Meeting hosts may also be able to see responses to Q&A and polls generated during the meeting."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Zoom’s business and commercial purposes for use:** Zoom uses personal data for the following business and commercial purposes: to provide Zoom Products and Services; for Product Research and Development; for Marketing and Promotions (Zoom does not use meeting, webinar, or messaging content, or any content generated or shared as part of other collaborative features for any marketing or promotions); Authentication, Integrity, Security, and Safety; to Communicate with You; and for Legal Reasons. For more information, please see “Data We Process & How We Use It.”; Categories of third parties to whom we disclose Personal Information for business purposes are described in “How Do We Share Personal Data?”;"
+      ],
+      "new": [
+        "**Zoom’s business and commercial purposes for use:** Zoom uses personal data for the following business and commercial purposes: to provide Zoom Products and Services; for Product Research and Development; for Marketing and Promotions (Zoom does not use meeting, webinar, or messaging content, or any content generated or shared as part of other collaborative features for any marketing or promotions); Authentication, Integrity, Security, and Safety; to Communicate with You; and for Legal Purposes. For more information, please see “Data We Process & How We Use It.”; Categories of third parties to whom we disclose Personal Information for business purposes are described in “How Do We Share Personal Data?”;"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Sensitive Information.** Zoom receives information that may be considered sensitive under some state laws, such as certain Account Information (e.g., financial information, log-in information), certain Content and Context from Meetings, Webinars, Messaging, and Other Collaborative Features and certain Limited Information from Zoom Email and Calendar Services (e.g., messaging content in cases described in this statement) as well as voiceprints and facial geometry, if you choose to enable certain features and provide the requisite consent. Zoom processes sensitive personal information to provide Zoom products and services, for product research and development, for authentication, integrity, security, and safety reasons, to communicate with you, for legal reasons, and with your consent. Zoom does not use or disclose sensitive personal information (as defined under CCPA) for purposes of inferring characteristics about a consumer, or in any way that would require Zoom to provide a right to limit under the CCPA. Under certain laws, residents may also be permitted to opt out of certain profiling relating to automated processing analyzing certain categories of an individual’s information that would produce a legal or similarly significant effect. Zoom does not engage in this type of profiling of individuals."
+      ],
+      "new": [
+        "**Sensitive Information.** Zoom receives information that may be considered sensitive under some state laws, such as certain Account Information (e.g., financial information, log-in information), certain Content and Context from Meetings, Webinars, Messaging, and Other Collaborative Features and certain Limited Information from Zoom Email and Calendar Services (e.g., messaging content in cases described in this statement) as well as voiceprints and facial geometry, if you choose to enable certain features and provide the requisite consent. Zoom processes sensitive personal information to provide Zoom products and services, for product research and development, for authentication, integrity, security, and safety purposes, to communicate with you, for legal purposes, and with your consent. Zoom does not use or disclose sensitive personal information (as defined under CCPA) for purposes of inferring characteristics about a consumer, or in any way that would require Zoom to provide a right to limit under the CCPA. Under certain laws, residents may also be permitted to opt out of certain profiling relating to automated processing analyzing certain categories of an individual’s information that would produce a legal or similarly significant effect. Zoom does not engage in this type of profiling of individuals."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Privacy Statement Update Notes (April 15, 2025):**",
+        "Update to clarify that residents of certain U.S. states may opt out of the “sale” or “sharing” of personal information in their privacy settings",
+        "Update to clarify that Zoom may access Customer Content for support reasons",
+        "Update to simplify the description of processing of data about a user’s unique physical characteristics",
+        "Update to reference the Diagnostic Data Processing setting"
+      ],
+      "new": [
+        "**Privacy Statement Update Notes (February 02, 2026):**",
+        "\\- Updates to the definition of Customer Content to cover content created using Zoom products and services other than meetings, webinars, and messages",
+        "- Updates to what recordings and transcripts an account owner may have access to",
+        "- Updates to reflect that Meeting Hosts, Participants, and Invitees may record and share meeting content"
+      ]
+    }
+  ]
+}

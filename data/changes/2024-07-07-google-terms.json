@@ -1,0 +1,183 @@
+{
+  "id": "2024-07-07-google-terms",
+  "service": "google",
+  "service_name": "Google",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://policies.google.com/terms?hl=en",
+  "detected_at": "2024-07-07T00:14:46+00:00",
+  "source": "wayback",
+  "window_start": "2024-04-07T00:01:21+00:00",
+  "archive_before": "https://web.archive.org/web/20240407000121/https://policies.google.com/terms?hl=en",
+  "archive_after": "https://web.archive.org/web/20240707001446/https://policies.google.com/terms?hl=en",
+  "flags": [
+    {
+      "tag": "ai-training",
+      "label": "AI training",
+      "hits": 1
+    },
+    {
+      "tag": "tracking",
+      "label": "Tracking",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 14,
+    "added_words": 466,
+    "removed_words": 101
+  },
+  "headline": "Google rewrote its Terms of Service — new wording on AI training and tracking",
+  "summary": "466 words added and 101 removed across 14 sections. New wording touches: AI training, Tracking. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "- devices (like Google Nest and Pixel)",
+  "receipt_side": "new",
+  "sideeye": 4,
+  "tags": [
+    "ai-training",
+    "tracking"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Effective January 5, 2022 | Archived versions | Download PDF"
+      ],
+      "new": [
+        "Effective May 22, 2024 | Archived versions | Download PDF"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Understanding these terms is important because, by using our services, you’re agreeing to these terms."
+      ],
+      "new": [
+        "Understanding these terms is important because, by accessing or using our services (whether you’re signed in to a Google account or not), you’re agreeing to these terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "These terms help define the relationship between you and Google. Broadly speaking, we give you permission to use our services if you agree to follow these terms, which reflect how Google’s business works and how we earn money. When we speak of “Google,” “we,” “us,” and “our,” we mean Google LLC and its affiliates."
+      ],
+      "new": [
+        "These terms help define the relationship between you and Google. When we speak of “Google,” “we,” “us,” and “our,” we mean Google LLC and its affiliates. Broadly speaking, we give you permission to access and use our services if you agree to follow these terms, which reflect how Google’s business works and how we earn money."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- devices (like Google Nest)"
+      ],
+      "new": [
+        "- devices (like Google Nest and Pixel)"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We’re constantly developing new technologies and features to improve our services. For example, we use artificial intelligence and machine learning to provide you with simultaneous translations, and to better detect and block spam and malware. As part of this continual improvement, we sometimes add or remove features and functionalities, increase or decrease limits to our services, and start offering new services or stop offering old ones. When a service requires or includes downloadable software, that software sometimes updates automatically on your device once a new version or feature is available. Some services let you adjust your automatic update settings."
+      ],
+      "new": [
+        "We’re constantly developing new technologies and features to improve our services. For example, we use artificial intelligence and machine learning to provide you with simultaneous translations, and to better detect and block spam and malware. As part of this continual improvement, we sometimes add or remove features and functionalities, increase or decrease limits to our services, and start offering new services or stop offering old ones. When a service requires or includes downloadable or preloaded software, that software sometimes updates automatically on your device once a new version or feature is available. Some services let you adjust your automatic update settings."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "You also agree that our Privacy Policy applies to your use of our services. Additionally, we provide resources like the Copyright Help Center, Safety Center, and descriptions of our technologies from our policies site to answer common questions and to set expectations about using our services."
+      ],
+      "new": [
+        "You also agree that our Privacy Policy applies to your use of our services. We also provide resources like the Copyright Help Center, Safety Center, Transparency Center, and descriptions of our technologies from our policies site to answer common questions and to set expectations about using our services. Finally, we may provide specific instructions and warnings within our services – such as dialog boxes that alert you to important information."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- don’t abuse, harm, interfere with, or disrupt the services — for example, by accessing or using them in fraudulent or deceptive ways, introducing malware, or spamming, hacking, or bypassing our systems or protective measures. When we index the web to bring you search results, we respect standard usage restrictions that website owners specify in their websites’ code, so we require the same when others use our services",
+        "Our service-specific additional terms and policies provide additional details about appropriate conduct that everyone using those services must follow. If you find that others aren’t following these rules, many of our services allow you to report abuse. If we act on a report of abuse, we also provide the process described in the *Taking action in case of problems* section."
+      ],
+      "new": [
+        "Our service-specific additional terms and policies, such as our Generative AI Prohibited Use Policy, provide additional details about appropriate conduct that everyone using those services must follow. If you find that others aren’t following these rules, many of our services allow you to report abuse. If we act on a report of abuse, we also provide the process described in the *Taking action in case of problems* section.",
+        "### Don’t abuse our services",
+        "Most people who access or use our services understand the general rules that keep the internet safe and open. Unfortunately, a small number of people don’t respect those rules, so we’re describing them here to protect our services and users from abuse. In that spirit:",
+        "You must not abuse, harm, interfere with, or disrupt our services or systems — for example, by:",
+        "- introducing malware",
+        "- spamming, hacking, or bypassing our systems or protective measures",
+        "- jailbreaking, adversarial prompting, or prompt injection, except as part of our safety and bug testing programs",
+        "- accessing or using our services or content in fraudulent or deceptive ways, such as:",
+        "- phishing",
+        "- creating fake accounts or content, including fake reviews",
+        "- misleading others into thinking that generative AI content was created by a human",
+        "- providing services that appear to originate from you (or someone else) when they actually originate from us",
+        "- providing services that appear to originate from us when they do not",
+        "- using our services (including the content they provide) to violate anyone’s legal rights, such as intellectual property or privacy rights",
+        "- reverse engineering our services or underlying technology, such as our machine learning models, to extract trade secrets or other proprietary information, except as allowed by applicable law",
+        "- using automated means to access content from any of our services in violation of the machine-readable instructions on our web pages (for example, robots.txt files that disallow crawling, training, or other activities)",
+        "- using AI-generated content from our services to develop machine learning models or related AI technology",
+        "- hiding or misrepresenting who you are in order to violate these terms",
+        "- providing services that encourage others to violate these terms"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Some of our services allow you to generate original content. Google won’t claim ownership over that content."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Some of our services include downloadable software. We give you permission to use that software as part of the services."
+      ],
+      "new": [
+        "Some of our services include downloadable or preloaded software. We give you permission to use that software as part of the services."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "DON’T RELY ON THE SERVICES FOR MEDICAL, LEGAL, FINANCIAL, OR OTHER PROFESSIONAL ADVICE. ANY CONTENT REGARDING THOSE TOPICS IS PROVIDED FOR INFORMATIONAL PURPOSES ONLY AND IS NOT A SUBSTITUTE FOR ADVICE FROM A QUALIFIED PROFESSIONAL."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Both the law and these terms try to strike a balance as to what you or Google can claim from the other in case of problems. That’s why the law allows us to limit certain liabilities — but not others — under these terms."
+      ],
+      "new": [
+        "Both the law and these terms try to strike a balance as to what you or Google can claim from the other in case of problems. That’s why the law requires everyone to be responsible for certain liabilities — but not others — under these terms."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Before taking action as described below, we’ll provide you with advance notice when reasonably possible, describe the reason for our action, and give you an opportunity to fix the problem, unless doing so would:"
+      ],
+      "new": [
+        "Before taking action as described below, we’ll provide you with advance notice when reasonably possible, describe the reason for our action, and give you an opportunity to clarify the issue and address it, unless doing so would:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Google reserves the right to suspend or terminate your access to the services or delete your Google Account if any of these things happen:"
+      ],
+      "new": [
+        "Without limiting any of our other rights, Google may suspend or terminate your access to the services or delete your Google Account if any of these things happen:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If we materially change these terms or service-specific additional terms, we’ll provide you with reasonable advance notice and the opportunity to review the changes, except (1) when we launch a new service or feature, or (2) in urgent situations, such as preventing ongoing abuse or responding to legal requirements. If you don’t agree to the new terms, you should remove your content and stop using the services. You can also end your relationship with us at any time by closing your Google Account."
+      ],
+      "new": [
+        "If we materially change these terms or service-specific additional terms, we’ll provide you with reasonable advance notice and the opportunity to review the changes, except (1) when we launch a new service or feature, or (2) in urgent situations, such as preventing ongoing abuse or responding to legal requirements. If you don’t agree to the new terms, you should remove your content and stop using the services. You can also end your relationship with us at any time by closing your Google Account. If you close your Google Account and then access or use our services without an account, that access and use will be subject to the most current version of these terms."
+      ]
+    }
+  ]
+}

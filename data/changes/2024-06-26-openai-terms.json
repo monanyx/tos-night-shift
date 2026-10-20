@@ -1,0 +1,220 @@
+{
+  "id": "2024-06-26-openai-terms",
+  "service": "openai",
+  "service_name": "OpenAI (ChatGPT)",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://openai.com/policies/terms-of-use/",
+  "detected_at": "2024-06-26T02:51:23+00:00",
+  "source": "wayback",
+  "window_start": "2024-04-09T06:11:44+00:00",
+  "archive_before": "https://web.archive.org/web/20240409061144/https://openai.com/policies/terms-of-use/",
+  "archive_after": "https://web.archive.org/web/20240626025123/https://openai.com/policies/terms-of-use/",
+  "flags": [],
+  "stats": {
+    "hunks": 18,
+    "added_words": 71,
+    "removed_words": 43
+  },
+  "headline": "OpenAI (ChatGPT) edited its Terms of Service",
+  "summary": "71 words added and 43 removed across 18 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "# Terms of use",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "# Terms of use"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## Registration and Access",
+        "**Minimum Age.** You must be at least 13 years old or the minimum age required in your country to consent to use the Services. If you are under 18 you must have your parent or legal guardian’s permission to use the Services."
+      ],
+      "new": [
+        "## Registration and access",
+        "**Minimum age.** You must be at least 13 years old or the minimum age required in your country to consent to use the Services. If you are under 18 you must have your parent or legal guardian’s permission to use the Services."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## Using Our Services",
+        "**What You Can Do**. Subject to your compliance with these Terms, you may access and use our Services. In using our Services, you must comply with all applicable laws as well as our Sharing & Publication Policy, Usage Policies, and any other documentation, guidelines, or policies we make available to you.",
+        "**What You Cannot Do**. You may not use our Services for any illegal, harmful, or abusive activity. For example, you may not:"
+      ],
+      "new": [
+        "## Using our Services",
+        "**What you can do**. Subject to your compliance with these Terms, you may access and use our Services. In using our Services, you must comply with all applicable laws as well as our Sharing & Publication Policy, Usage Policies, and any other documentation, guidelines, or policies we make available to you.",
+        "**What you cannot do**. You may not use our Services for any illegal, harmful, or abusive activity. For example, you may not:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Corporate Domains.** If you create an account using an email address owned by an organization (for example, your employer), that account may be added to the organization's business account with us, in which case we will provide notice to you so that you can help facilitate the transfer of your account (unless your organization has already provided notice to you that it may monitor and control your account). Once your account is transferred, the organization’s administrator will be able to control your account, including being able to access Content (defined below) and restrict or remove your access to the account.",
+        "**Third Party Services.** Our services may include third party software, products, or services, (“Third Party Services”) and some parts of our Services, like our browse feature, may include output from those services (“Third Party Output”). Third Party Services and Third Party Output are subject to their own terms, and we are not responsible for them."
+      ],
+      "new": [
+        "**Corporate domains.** If you create an account using an email address owned by an organization (for example, your employer), that account may be added to the organization's business account with us, in which case we will provide notice to you so that you can help facilitate the transfer of your account (unless your organization has already provided notice to you that it may monitor and control your account). Once your account is transferred, the organization’s administrator will be able to control your account, including being able to access Content (defined below) and restrict or remove your access to the account.",
+        "**Third party Services.** Our services may include third party software, products, or services, (“Third Party Services”) and some parts of our Services, like our browse feature, may include output from those services (“Third Party Output”). Third Party Services and Third Party Output are subject to their own terms, and we are not responsible for them."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Your Content.** You may provide input to the Services (“Input”), and receive output from the Services based on the Input (“Output”). Input and Output are collectively “Content.” You are responsible for Content, including ensuring that it does not violate any applicable law or these Terms. You represent and warrant that you have all rights, licenses, and permissions needed to provide Input to our Services.",
+        "**Ownership of Content.** As between you and OpenAI, and to the extent permitted by applicable law, you (a) retain your ownership rights in Input and (b) own the Output. We hereby assign to you all our right, title, and interest, if any, in and to Output.",
+        "**Similarity of Content.** Due to the nature of our Services and artificial intelligence generally, output may not be unique and other users may receive similar output from our Services. Our assignment above does not extend to other users’ output or any Third Party Output.",
+        "**Our Use of Content.** We may use Content to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies, and keep our Services safe.",
+        "**Opt Out.** If you do not want us to use your Content to train our models, you can opt out by following the instructions in this Help Center article. Please note that in some cases this may limit the ability of our Services to better address your specific use case."
+      ],
+      "new": [
+        "**Your content.** You may provide input to the Services (“Input”), and receive output from the Services based on the Input (“Output”). Input and Output are collectively “Content.” You are responsible for Content, including ensuring that it does not violate any applicable law or these Terms. You represent and warrant that you have all rights, licenses, and permissions needed to provide Input to our Services.",
+        "**Ownership of content.** As between you and OpenAI, and to the extent permitted by applicable law, you (a) retain your ownership rights in Input and (b) own the Output. We hereby assign to you all our right, title, and interest, if any, in and to Output.",
+        "**Similarity of content.** Due to the nature of our Services and artificial intelligence generally, output may not be unique and other users may receive similar output from our Services. Our assignment above does not extend to other users’ output or any Third Party Output.",
+        "**Our use of content.** We may use Content to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies, and keep our Services safe.",
+        "**Opt out.** If you do not want us to use your Content to train our models, you can opt out by following the instructions in this Help Center article(opens in a new window). Please note that in some cases this may limit the ability of our Services to better address your specific use case."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## Our IP Rights"
+      ],
+      "new": [
+        "## Our IP rights"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## Paid Accounts"
+      ],
+      "new": [
+        "## Paid accounts"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Service Credits.** You can pay for some Services in advance by purchasing service credits. All service credits are subject to our Service Credit Terms.",
+        "**Cancellation.** You can cancel your paid subscription at any time. Payments are non-refundable, except where required by law. These Terms do not override any mandatory local laws regarding your cancellation rights."
+      ],
+      "new": [
+        "**Service credits.** You can pay for some Services in advance by purchasing service credits. All service credits are subject to our Service Credit Terms.",
+        "**Cancellation.** You can cancel(opens in a new window) your paid subscription at any time. Payments are non-refundable, except where required by law. These Terms do not override any mandatory local laws regarding your cancellation rights."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## Termination and Suspension"
+      ],
+      "new": [
+        "## Termination and suspension"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Appeals.** If you believe we have suspended or terminated your account in error, you can file an appeal with us by contacting our Support team."
+      ],
+      "new": [
+        "**Appeals.** If you believe we have suspended or terminated your account in error, you can file an appeal with us by contacting our Support team(opens in a new window)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## Disclaimer of Warranties"
+      ],
+      "new": [
+        "## Disclaimer of warranties"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## Limitation of Liability"
+      ],
+      "new": [
+        "## Limitation of liability"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## Dispute Resolution"
+      ],
+      "new": [
+        "## Dispute resolution"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**MANDATORY ARBITRATION.** You and OpenAI agree to resolve any claims arising out of or relating to these Terms or our Services, regardless of when the claim arose, even if it was before these Terms existed (a “Dispute”), through final and binding arbitration. You may opt out of arbitration within 30 days of account creation or of any updates to these arbitration terms within 30 days after the update has taken effect by filling out this form. If you opt out of an update, the last set of agreed upon arbitration terms will apply.",
+        "**Informal Dispute Resolution.** We would like to understand and try to address your concerns prior to formal legal action. Before either of us files a claim against the other, we both agree to try to resolve the Dispute informally. You agree to do so by sending us notice through this form. We will do so by sending you notice to the email address associated with your account. If we are unable to resolve a Dispute within 60 days, either of us has the right to initiate arbitration. We also both agree to attend an individual settlement conference if either party requests one during this time. Any statute of limitations will be tolled during this informal resolution process.",
+        "**Arbitration Forum.** If we are unable to resolve the Dispute, either of us may commence arbitration with National Arbitration and Mediation (“NAM”) under its Comprehensive Dispute Resolution Rules and Procedures and/or Supplemental Rules for Mass Arbitration Filings, as applicable (available here). OpenAI will not seek attorneys’ fees and costs in arbitration unless the arbitrator determines that your claim is frivolous. The activities described in these Terms involve interstate commerce and the Federal Arbitration Act will govern the interpretation and enforcement of these arbitration terms and any arbitration.",
+        "**Arbitration Procedures.** The arbitration will be conducted by videoconference if possible, but if the arbitrator determines a hearing should be conducted in person, the location will be mutually agreed upon, in the county where you reside, or as determined by the arbitrator, unless the batch arbitration process applies. The arbitration will be conducted by a sole arbitrator. The arbitrator will be either a retired judge or an attorney licensed to practice law in the state of California. The arbitrator will have exclusive authority to resolve any Dispute, except the state or federal courts of San Francisco, California have the authority to determine any Dispute about enforceability, validity of the class action waiver, or requests for public injunctive relief, as set out below. Any settlement offer amounts will not be disclosed to the arbitrator by either party until after the arbitrator determines the final award, if any. The arbitrator has the authority to grant motions dispositive of all or part of any Dispute."
+      ],
+      "new": [
+        "**MANDATORY ARBITRATION.** You and OpenAI agree to resolve any claims arising out of or relating to these Terms or our Services, regardless of when the claim arose, even if it was before these Terms existed (a “Dispute”), through final and binding arbitration. You may opt out of arbitration within 30 days of account creation or of any updates to these arbitration terms within 30 days after the update has taken effect by filling out this form(opens in a new window). If you opt out of an update, the last set of agreed upon arbitration terms will apply.",
+        "**Informal dispute resolution.** We would like to understand and try to address your concerns prior to formal legal action. Before either of us files a claim against the other, we both agree to try to resolve the Dispute informally. You agree to do so by sending us notice through this form(opens in a new window). We will do so by sending you notice to the email address associated with your account. If we are unable to resolve a Dispute within 60 days, either of us has the right to initiate arbitration. We also both agree to attend an individual settlement conference if either party requests one during this time. Any statute of limitations will be tolled during this informal resolution process.",
+        "**Arbitration forum.** If we are unable to resolve the Dispute, either of us may commence arbitration with National Arbitration and Mediation (“NAM”) under its Comprehensive Dispute Resolution Rules and Procedures and/or Supplemental Rules for Mass Arbitration Filings, as applicable (available here(opens in a new window)). OpenAI will not seek attorneys’ fees and costs in arbitration unless the arbitrator determines that your claim is frivolous. The activities described in these Terms involve interstate commerce and the Federal Arbitration Act will govern the interpretation and enforcement of these arbitration terms and any arbitration.",
+        "**Arbitration procedures.** The arbitration will be conducted by videoconference if possible, but if the arbitrator determines a hearing should be conducted in person, the location will be mutually agreed upon, in the county where you reside, or as determined by the arbitrator, unless the batch arbitration process applies. The arbitration will be conducted by a sole arbitrator. The arbitrator will be either a retired judge or an attorney licensed to practice law in the state of California. The arbitrator will have exclusive authority to resolve any Dispute, except the state or federal courts of San Francisco, California have the authority to determine any Dispute about enforceability, validity of the class action waiver, or requests for public injunctive relief, as set out below. Any settlement offer amounts will not be disclosed to the arbitrator by either party until after the arbitrator determines the final award, if any. The arbitrator has the authority to grant motions dispositive of all or part of any Dispute."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Batch Arbitration.** If 25 or more claimants represented by the same or similar counsel file demands for arbitration raising substantially similar Disputes within 90 days of each other, then you and OpenAI agree that NAM will administer them in batches of up to 50 claimants each (“Batch”), unless there are less than 50 claimants in total or after batching, which will comprise a single Batch. NAM will administer each Batch as a single consolidated arbitration with one arbitrator, one set of arbitration fees, and one hearing held by videoconference or in a location decided by the arbitrator for each Batch. If any part of this section is found to be invalid or unenforceable as to a particular claimant or Batch, it will be severed and arbitrated in individual proceedings."
+      ],
+      "new": [
+        "**Batch arbitration.** If 25 or more claimants represented by the same or similar counsel file demands for arbitration raising substantially similar Disputes within 90 days of each other, then you and OpenAI agree that NAM will administer them in batches of up to 50 claimants each (“Batch”), unless there are less than 50 claimants in total or after batching, which will comprise a single Batch. NAM will administer each Batch as a single consolidated arbitration with one arbitrator, one set of arbitration fees, and one hearing held by videoconference or in a location decided by the arbitrator for each Batch. If any part of this section is found to be invalid or unenforceable as to a particular claimant or Batch, it will be severed and arbitrated in individual proceedings."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## Copyright Complaints"
+      ],
+      "new": [
+        "## Copyright complaints"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Changes to These Terms or Our Services.** We are continuously working to develop and improve our Services. We may update these Terms or our Services accordingly from time to time. For example, we may make changes to these Terms or the Services due to:"
+      ],
+      "new": [
+        "**Changes to these Terms or our Services.** We are continuously working to develop and improve our Services. We may update these Terms or our Services accordingly from time to time. For example, we may make changes to these Terms or the Services due to:"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Delay in Enforcing These Terms.** Our failure to enforce a provision is not a waiver of our right to do so later. Except as provided in the dispute resolution section above, if any portion of these Terms is determined to be invalid or unenforceable, that portion will be enforced to the maximum extent permissible and it will not affect the enforceability of any other terms.",
+        "**Trade Controls.** You must comply with all applicable trade laws, including sanctions and export control laws. Our Services may not be used in or for the benefit of, or exported or re-exported to (a) any U.S. embargoed country or territory or (b) any individual or entity with whom dealings are prohibited or restricted under applicable trade laws. Our Services may not be used for any end use prohibited by applicable trade laws, and your Input may not include material or information that requires a government license for release or export.",
+        "**Entire Agreement.** These Terms contain the entire agreement between you and OpenAI regarding the Services and, other than any Service-specific terms, supersedes any prior or contemporaneous agreements between you and OpenAI.",
+        "**Governing Law.** California law will govern these Terms except for its conflicts of laws principles. Except as provided in the dispute resolution section above, all claims arising out of or relating to these Terms will be brought exclusively in the federal or state courts of San Francisco, California."
+      ],
+      "new": [
+        "**Delay in enforcing these Terms.** Our failure to enforce a provision is not a waiver of our right to do so later. Except as provided in the dispute resolution section above, if any portion of these Terms is determined to be invalid or unenforceable, that portion will be enforced to the maximum extent permissible and it will not affect the enforceability of any other terms.",
+        "**Trade controls.** You must comply with all applicable trade laws, including sanctions and export control laws. Our Services may not be used in or for the benefit of, or exported or re-exported to (a) any U.S. embargoed country or territory or (b) any individual or entity with whom dealings are prohibited or restricted under applicable trade laws. Our Services may not be used for any end use prohibited by applicable trade laws, and your Input may not include material or information that requires a government license for release or export.",
+        "**Entire agreement.** These Terms contain the entire agreement between you and OpenAI regarding the Services and, other than any Service-specific terms, supersedes any prior or contemporaneous agreements between you and OpenAI.",
+        "**Governing law.** California law will govern these Terms except for its conflicts of laws principles. Except as provided in the dispute resolution section above, all claims arising out of or relating to these Terms will be brought exclusively in the federal or state courts of San Francisco, California."
+      ]
+    }
+  ]
+}

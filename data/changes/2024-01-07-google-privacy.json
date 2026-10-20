@@ -1,0 +1,39 @@
+{
+  "id": "2024-01-07-google-privacy",
+  "service": "google",
+  "service_name": "Google",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://policies.google.com/privacy?hl=en",
+  "detected_at": "2024-01-07T00:02:03+00:00",
+  "source": "wayback",
+  "window_start": "2023-10-08T00:00:32+00:00",
+  "archive_before": "https://web.archive.org/web/20231008000032/https://policies.google.com/privacy?hl=en",
+  "archive_after": "https://web.archive.org/web/20240107000203/https://policies.google.com/privacy?hl=en",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 8,
+    "removed_words": 1
+  },
+  "headline": "Google edited its Privacy Policy",
+  "summary": "8 words added and 1 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "When we detect spam, malware, illegal content (including child sexual abuse and exploitation material), and other forms of abuse on our systems in violation of our policies, we may disable your account or take other appropriate action.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "When we detect spam, malware, illegal content, and other forms of abuse on our systems in violation of our policies, we may disable your account or take other appropriate action. In certain circumstances, we may also report the violation to appropriate authorities."
+      ],
+      "new": [
+        "When we detect spam, malware, illegal content (including child sexual abuse and exploitation material), and other forms of abuse on our systems in violation of our policies, we may disable your account or take other appropriate action. In certain circumstances, we may also report the violation to appropriate authorities."
+      ]
+    }
+  ]
+}

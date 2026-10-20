@@ -1,0 +1,79 @@
+{
+  "id": "2026-02-27-anthropic-privacy",
+  "service": "anthropic",
+  "service_name": "Anthropic (Claude)",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.anthropic.com/legal/privacy",
+  "detected_at": "2026-02-27T12:30:41+00:00",
+  "source": "wayback",
+  "window_start": "2025-12-11T21:34:06+00:00",
+  "archive_before": "https://web.archive.org/web/20251211213406/https://www.anthropic.com/legal/privacy",
+  "archive_after": "https://web.archive.org/web/20260227123041/https://www.anthropic.com/legal/privacy",
+  "flags": [],
+  "stats": {
+    "hunks": 5,
+    "added_words": 47,
+    "removed_words": 36
+  },
+  "headline": "Anthropic (Claude) edited its Privacy Policy",
+  "summary": "47 words added and 36 removed across 5 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "If you are located in Canada, Brazil, or the Republic of Korea, please read the relevant Regional Supplemental Disclosure which applies to you.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "If you are located in Canada, please read section 11 of the Privacy Policy which applies to you.",
+        "If you are located in Brazil, please read section 12 of the Privacy Policy which applies to you.",
+        "If you are located in the Republic of Korea, please read section 13 of the Privacy Policy which applies to you."
+      ],
+      "new": [
+        "If you are located in Canada, Brazil, or the Republic of Korea, please read the relevant Regional Supplemental Disclosure which applies to you.",
+        "If you are located in Washington or a state with similar consumer health data laws, please read our Consumer Health Data Privacy Policy which applies to you if you integrate third party health applications with Claude."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "| To provide, maintain and facilitate optional services and features that enhance platform functionality and user experience | Identity and Contact Data Feedback Inputs and Outputs Technical Information | Consent (for precise device location) Legitimate interests It is in our and our users' legitimate interests to expand our product features and deliver additional services that enhance platform functionality and user experience. |"
+      ],
+      "new": [
+        "| To provide, maintain and facilitate optional services and features that enhance platform functionality and user experience | Identity and Contact Data Feedback Inputs and Outputs Technical Information | Consent (for example for precise device location or for health app integrations) Legitimate interests It is in our and our users' legitimate interests to expand our product features and deliver additional services that enhance platform functionality and user experience. |"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 11. Supplemental Disclosures for Residents of Canada"
+      ],
+      "new": [
+        "## 11. Regional Supplemental Disclosures",
+        "### Supplemental Disclosures for Residents of Canada"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 12. Supplemental Disclosures for Residents of Brazil"
+      ],
+      "new": [
+        "### Supplemental Disclosures for Residents of Brazil"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## 13. Supplemental Disclosures for Residents of the Republic of Korea"
+      ],
+      "new": [
+        "### Supplemental Disclosures for Residents of the Republic of Korea"
+      ]
+    }
+  ]
+}

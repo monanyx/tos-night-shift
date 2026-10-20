@@ -1,0 +1,39 @@
+{
+  "id": "2023-11-01-openai-terms",
+  "service": "openai",
+  "service_name": "OpenAI (ChatGPT)",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://openai.com/policies/terms-of-use/",
+  "detected_at": "2023-11-01T08:44:15+00:00",
+  "source": "wayback",
+  "window_start": "2023-05-21T23:35:45+00:00",
+  "archive_before": "https://web.archive.org/web/20230521233545/https://openai.com/policies/terms-of-use",
+  "archive_after": "https://web.archive.org/web/20231101084415/https://openai.com/policies/terms-of-use",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 2,
+    "removed_words": 2
+  },
+  "headline": "OpenAI (ChatGPT) edited its Terms of Service",
+  "summary": "2 words added and 2 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "(c) **Restrictions**.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "(c) **Restrictions**. You may not (i) use the Services in a way that infringes, misappropriates or violates any person’s rights; (ii) reverse assemble, reverse compile, decompile, translate or otherwise attempt to discover the source code or underlying components of models, algorithms, and systems of the Services (except to the extent such restrictions are contrary to applicable law); (iii) use output from the Services to develop models that compete with OpenAI; (iv) except as permitted through the API, use any automated or programmatic method to extract data or output from the Services, including scraping, web harvesting, or web data extraction; (v) represent that output from the Services was human-generated when it is not or otherwise violate our Usage Policies; (vii) buy, sell, or transfer API keys without our prior consent; or (viii), send us any personal information of children under 13 or the applicable age of digital consent. You will comply with any rate limits and other requirements in our documentation. You may use Services only in geographies currently supported by OpenAI."
+      ],
+      "new": [
+        "(c) **Restrictions**. You may not (i) use the Services in a way that infringes, misappropriates or violates any person’s rights; (ii) reverse assemble, reverse compile, decompile, translate or otherwise attempt to discover the source code or underlying components of models, algorithms, and systems of the Services (except to the extent such restrictions are contrary to applicable law); (iii) use output from the Services to develop models that compete with OpenAI; (iv) except as permitted through the API, use any automated or programmatic method to extract data or output from the Services, including scraping, web harvesting, or web data extraction; (v) represent that output from the Services was human-generated when it is not or otherwise violate our Usage Policies; (vi) buy, sell, or transfer API keys without our prior consent; or (vii), send us any personal information of children under 13 or the applicable age of digital consent. You will comply with any rate limits and other requirements in our documentation. You may use Services only in geographies currently supported by OpenAI."
+      ]
+    }
+  ]
+}

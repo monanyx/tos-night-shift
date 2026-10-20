@@ -1,0 +1,37 @@
+{
+  "id": "2025-04-20-pinterest-privacy",
+  "service": "pinterest",
+  "service_name": "Pinterest",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://policy.pinterest.com/en/privacy-policy",
+  "detected_at": "2025-04-20T00:51:23+00:00",
+  "source": "wayback",
+  "window_start": "2025-01-25T10:09:51+00:00",
+  "archive_before": "https://web.archive.org/web/20250125100951/https://policy.pinterest.com/en/privacy-policy",
+  "archive_after": "https://web.archive.org/web/20250420005123/https://policy.pinterest.com/en/privacy-policy",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 18,
+    "removed_words": 0
+  },
+  "headline": "Pinterest bumped the date on its Privacy Policy",
+  "summary": "Only the 'last updated' line changed in the text we can see. Either it's housekeeping, or the change is somewhere we can't read. Keeping an eye on it.",
+  "receipt": "We're updating our Privacy Policy, effective April 30, 2025. You can preview the updated Privacy Policy here .",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "cosmetic"
+  ],
+  "summary_source": "date-only",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "We're updating our Privacy Policy, effective April 30, 2025. You can preview the updated Privacy Policy here ."
+      ]
+    }
+  ]
+}

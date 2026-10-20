@@ -1,0 +1,109 @@
+{
+  "id": "2023-05-14-microsoft-privacy",
+  "service": "microsoft",
+  "service_name": "Microsoft",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://privacy.microsoft.com/en-us/privacystatement",
+  "detected_at": "2023-05-14T03:05:19+00:00",
+  "source": "wayback",
+  "window_start": "2023-03-26T01:10:34+00:00",
+  "archive_before": "https://web.archive.org/web/20230326011034/https://privacy.microsoft.com/en-US/privacystatement",
+  "archive_after": "https://web.archive.org/web/20230514030519/https://privacy.microsoft.com/en-US/privacystatement",
+  "flags": [
+    {
+      "tag": "location",
+      "label": "Location",
+      "hits": 2
+    },
+    {
+      "tag": "data-sharing",
+      "label": "Data sharing",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 7,
+    "added_words": 414,
+    "removed_words": 50
+  },
+  "headline": "Microsoft rewrote its Privacy Policy — new wording on your location and sharing your data",
+  "summary": "414 words added and 50 removed across 7 sections. New wording touches: Location, Data sharing. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "- We may share data we collect with internal and external partners, such as Xandr, Verizon Media, or Facebook (see below), so that the ads you see in our products and their products are more relevant and valuable to you.",
+  "receipt_side": "new",
+  "sideeye": 3,
+  "tags": [
+    "location",
+    "data-sharing"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "You have choices when it comes to the technology you use and the data you share. When we ask you to provide personal data, you can decline. Many of our products require some personal data to provide you with a service. If you choose not to provide data required to provide you with a product or feature, you cannot use that product or feature. Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you’re using, we may have to suspend or cancel it. We will notify you if this is the case at the time. Where providing the data is optional, and you choose not to share personal data, features like personalization that use such data will not work for you."
+      ],
+      "new": [
+        "You have choices when it comes to the technology you use and the data you share. When we ask you to provide personal data, you can decline. Many of our products require some personal data to provide you with a service. If you choose not to provide data -required to provide you with a product or feature, you cannot use that product or feature. Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you are using, we may have to suspend or cancel it. We will notify you if this is the case at the time. Where providing the data is optional, and you choose not to share personal data, features like personalization that use such data will not work for you."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "For users under the age specified by law in your jurisdiction, for example under 13 in the U.S., certain Microsoft products and services will either block users under that age or will ask them to provide consent or authorization from a parent or guardian before they can use it. We will not knowingly ask children under that age to provide more data than is required to provide for the product.",
+        "Once parental consent or authorization is granted, the child's account is treated much like any other account. The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages. Parents or guardians can change or revoke the consent choices previously made. Learn more about parental consent and Microsoft child accounts.",
+        "As the organizer of a Microsoft family group, the parent or guardian can manage a child’s information and settings on their Family Safety page and view and delete a child’s data on their privacy dashboard. Select Learn more below for more information about how to access and delete child data.",
+        "For more information about children and Xbox profiles, select Learn more below."
+      ],
+      "new": [
+        "For users under the age specified by law in their jurisdiction - for example under 13 in the U.S. - certain Microsoft products and services will either block users under that age or will ask them to obtain consent or authorization from a parent or guardian before they can use it, including when creating an account to access Microsoft services. We will not knowingly ask children under that age to provide more data than is required to provide for the product.",
+        "Once parental consent or authorization is granted, the child's account is treated much like any other account. Learn more about personal and school accounts in the Microsoft account section of the Privacy Statement and Microsoft Family Safety in the product-specific section. The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages. Parents or guardians can change or revoke the consent choices previously made. Learn more about parental consent and Microsoft child accounts. As the organizer of a Microsoft family group, the parent or guardian can manage a child’s information and settings on their Family Safety page and view and delete a child’s data on their privacy dashboard. Select Learn more below for more information about how to access and delete child data and information about children and Xbox profiles."
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "Select Learn more below for more information about children and Xbox profiles."
+      ],
+      "new": []
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- We may share data we collect with partners, such as Verizon Media, AppNexus, or Facebook (see below), so that the ads you see in our products and their products are more relevant and valuable to you."
+      ],
+      "new": [
+        "- We may share data we collect with internal and external partners, such as Xandr, Verizon Media, or Facebook (see below), so that the ads you see in our products and their products are more relevant and valuable to you."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Data collected by other advertising companies**. Advertisers sometimes include their own web beacons (or those of their other advertising partners) within their advertisements that we display, enabling them to set and read their own cookie. Additionally, Microsoft partners with third-party ad companies to help provide some of our advertising services, and we also allow other third-party ad companies to display advertisements on our sites. These third parties may place cookies on your computer and collect data about your online activities across websites or online services. These companies currently include, but are not limited to: AppNexus, Facebook, Media.net, Outbrain, Taboola and Verizon Media. Select any of the preceding links to find more information on each company's practices, including the choices it offers. Many of these companies are also members of the NAI or DAA, which each provide a simple way to opt out of ad targeting from participating companies."
+      ],
+      "new": [
+        "**Data collected by other advertising companies**. Advertisers sometimes include their own web beacons (or those of their other advertising partners) within their advertisements that we display, enabling them to set and read their own cookie. Additionally, Microsoft partners with Xandr, a Microsoft company, and third-party ad companies to help provide some of our advertising services, and we also allow other third-party ad companies to display advertisements on our sites. These third parties may place cookies on your computer and collect data about your online activities across websites",
+        "or online services. These companies currently include, but are not limited to: Facebook, Media.net, Outbrain, Taboola and Verizon Media. Select any of the preceding links to find more information on each company's practices, including the choices it offers. Many of these companies are also members of the NAI or DAA, which each provide a simple way to opt out of ad targeting from participating companies."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "This section applies to the Microsoft Family Safety M365 product, which allows a family group to connect through the Microsoft Family Safety app on their Windows, Xbox, or mobile devices. Please carefully review the information at Microsoft Family Safety if choosing to create or join a family group.",
+        "Microsoft Family Safety can help parents and guardians to create a safer environment for their family group with digital content filtering, screen time limits, spending for Microsoft and Xbox stores, setting age ratings for apps and games, and location sharing. To learn about how Microsoft collects and uses children’s data, see the Collection of data from children section of the Privacy Statement. If you are using Microsoft Family Safety in Windows, see the Windows security and safety features section of the Privacy Statement for additional information.",
+        "When you have enabled family activity reporting for a child, Microsoft will collect details about how the child uses their devices, such as search, web, app, and game activity, and provide parents with reports of that child's online activities. Activity reports are routinely deleted from Microsoft servers.",
+        "Certain Family Safety features, such as Location Sharing, Drive Safety, Share Drives, Places, and Location Alerts will use your location information when enabled. When you have enabled Location Sharing, for instance, your device will upload location data to the cloud and share it with others in your family group. Microsoft retains only your last known location as part of the Location Sharing feature (each new location replaces the previous one). When you enable Drive Safety, your location will be used to record your drive habits such as whether you are driving within the speed limits, if you’re using your phone while driving, and if you accelerate or brake suddenly. These reports will be uploaded to the cloud, and you can choose to share your drive reports with your family group. You can turn off these location features at any time in the Family Safety settings. You can manage your device’s location data at the Microsoft Privacy Dashboard. Learn more about Family Safety and your location data."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "**Microsoft Family**. Parents can use Microsoft Family to understand and set boundaries on how their child is using their device. There are many features available to Family members, so please carefully review the information provided when you create or join a Family. If you live in a region that requires permission to create an account to access Microsoft services, you may be prompted to request or give parental consent. If a user is under the statutory age in your region, during the registration process they will be prompted to request consent from a parent or guardian by entering an adult’s email. When Family activity reporting is turned on for a child, Microsoft will collect details about how the child uses their device and provide parents with reports of that child's activities. Activity reports are routinely deleted from Microsoft servers after a short period of time."
+      ],
+      "new": [
+        "**Microsoft Family**. Parents can use Microsoft Family Safety to understand and set boundaries on how their child is using their device. Please carefully review the information at Microsoft Family Safety if choosing to create or join a family group. If you live in a region that requires permission to create an account to access Microsoft services, you may be prompted to request or give parental consent. If a user is under the statutory age in your region, during the registration process they will be prompted to request consent from a parent or guardian by entering an adult’s email. When Family activity reporting is turned on for a child, Microsoft will collect details about how the child uses their device and provide parents with reports of that child's activities. Activity reports are routinely deleted from Microsoft servers."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "id": "2025-10-17-tiktok-terms",
+  "service": "tiktok",
+  "service_name": "TikTok",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.tiktok.com/legal/page/eea/terms-of-service/en",
+  "detected_at": "2025-10-17T19:57:52+00:00",
+  "source": "wayback",
+  "window_start": "2025-07-07T09:38:11+00:00",
+  "archive_before": "https://web.archive.org/web/20250707093811/https://www.tiktok.com/legal/page/eea/terms-of-service/en",
+  "archive_after": "https://web.archive.org/web/20251017195752/https://www.tiktok.com/legal/page/eea/terms-of-service/en",
+  "flags": [],
+  "stats": {
+    "hunks": 23,
+    "added_words": 8,
+    "removed_words": 41
+  },
+  "headline": "TikTok edited its Terms of Service",
+  "summary": "8 words added and 41 removed across 23 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "**1.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "## **1. Who your contract is with**"
+      ],
+      "new": [
+        "**1. Who your contract is with**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "*In short: The specific TikTok company your contract is with depends on where you live. If we say “TikTok”, “we” or “us” in these Terms, we mean that company unless we say otherwise.*",
+        "## **2. The services covered by these Terms**"
+      ],
+      "new": [
+        "*In short: The specific TikTok company your contract is with depends on where you live. If we say* “*TikTok*”*,* “*we*” *or* “*us*” *in these Terms, we mean that company unless we say otherwise.*",
+        "**2. The services covered by these Terms**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## **3. Additional terms that apply if you use certain features**"
+      ],
+      "new": [
+        "**3. Additional terms that apply if you use certain features**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## **4. Using the Platform**",
+        "### **4.1 Our Platform and business model**"
+      ],
+      "new": [
+        "**4. Using the Platform**",
+        "**4.1 Our Platform and business model**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **4.2 Account details**"
+      ],
+      "new": [
+        "**4.2 Account details**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- your account, content and Platform settings (including privacy settings) will sync across the Platform, including across each TikTok app. For example, when you create an account via TikTok, you will be able to access any other TikTok apps available in your country using that account; and"
+      ],
+      "new": [
+        "- your account, content and Platform settings will sync across the Platform, including across each TikTok app. For example, when you create an account via TikTok, you will be able to access any other TikTok apps available in your country using that account; and"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **4.3 Minimum age**"
+      ],
+      "new": [
+        "**4.3 Minimum age**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **4.4 What you can do on the Platform**"
+      ],
+      "new": [
+        "**4.4 What you can do on the Platform**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **4.5 What you can’t do on the Platform**"
+      ],
+      "new": [
+        "**4.5 What you can’t do on the Platform**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- do anything illegal (this includes posting, live steaming or distributing illegal content);"
+      ],
+      "new": [
+        "- do anything illegal (this includes posting, live streaming or distributing illegal content);"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **4.6 Your content**"
+      ],
+      "new": [
+        "**4.6 Your content**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Content you create, post or share via one TikTok service may be automatically shared across the Platform (although your privacy settings will still apply)."
+      ],
+      "new": [
+        "- Content you create, post or share via one TikTok service may be automatically shared across the Platform."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **4.7 Posting Branded Content**"
+      ],
+      "new": [
+        "**4.7 Posting Branded Content**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **4.8 Respecting the intellectual property rights of others**"
+      ],
+      "new": [
+        "**4.8 Respecting the intellectual property rights of others**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **4.9 Ownership of content and grant of licences**"
+      ],
+      "new": [
+        "**4.9 Ownership of content and grant of licences**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## **5. What we promise to you**"
+      ],
+      "new": [
+        "**5. What we promise to you**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## **6. Restricting, suspending or ending our relationship**",
+        "### **6.1 Your rights**"
+      ],
+      "new": [
+        "**6. Restricting, suspending or ending our relationship**",
+        "**6.1 Your rights**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **6.2 TikTok’s rights**"
+      ],
+      "new": [
+        "**6.2 TikTok’s rights**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## **7. Changes to these Terms or the Platform**",
+        "### **7.1 What happens when we make changes**"
+      ],
+      "new": [
+        "**7. Changes to these Terms or the Platform**",
+        "**7.1 What happens when we make changes**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "### **7.2 Reasons for changes**"
+      ],
+      "new": [
+        "**7.2 Reasons for changes**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## **8. Resolving disputes**"
+      ],
+      "new": [
+        "**8. Resolving disputes**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## **9. Other**"
+      ],
+      "new": [
+        "**9. Other**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "## **10. Contacting TikTok**"
+      ],
+      "new": [
+        "**10. Contacting TikTok**"
+      ]
+    }
+  ]
+}

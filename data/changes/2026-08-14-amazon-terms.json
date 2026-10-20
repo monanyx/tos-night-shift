@@ -1,0 +1,321 @@
+{
+  "id": "2026-08-14-amazon-terms",
+  "service": "amazon",
+  "service_name": "Amazon",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM",
+  "detected_at": "2026-08-14T22:05:21+00:00",
+  "source": "wayback",
+  "window_start": "2026-05-19T19:30:47+00:00",
+  "archive_before": "https://web.archive.org/web/20260519193047/https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM",
+  "archive_after": "https://web.archive.org/web/20260814220521/https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM",
+  "flags": [
+    {
+      "tag": "arbitration",
+      "label": "Arbitration / no lawsuits",
+      "hits": 2
+    }
+  ],
+  "stats": {
+    "hunks": 20,
+    "added_words": 1411,
+    "removed_words": 132
+  },
+  "headline": "Amazon rewrote its Terms of Service — new wording on your right to sue",
+  "summary": "1411 words added and 132 removed across 20 sections. New wording touches: Arbitration / no lawsuits. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "YOU AND WE AGREE THAT ANY DISPUTE OR CLAIM RELATING IN ANY WAY TO YOUR USE OF ANY AMAZON SERVICE, OR TO ANY PRODUCTS OR SERVICES SOLD OR DISTRIBUTED BY AMAZON OR THROUGH AMAZON.COM, WILL BE RESOLVED BY BINDING ARBITRATION …",
+  "receipt_side": "new",
+  "sideeye": 3,
+  "tags": [
+    "arbitration"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "**Last updated: May 30, 2025**"
+      ],
+      "new": [
+        "# Conditions of Use",
+        "**Last updated: August 14, 2026**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "We offer a wide range of Amazon Services, and sometimes additional terms may apply. When you use an Amazon Service (for example, Your Profile, Gift Cards, Amazon Video, Your Media Library, Amazon devices, or Amazon applications) you also will be subject to the guidelines, terms and agreements applicable to that Amazon Service (\"Service Terms\"). If these Conditions of Use are inconsistent with the Service Terms, those Service Terms will control."
+      ],
+      "new": [
+        "## Please read these conditions carefully.",
+        "We offer a wide range of Amazon Services that may be subject to additional terms. When you use an Amazon Service (for example, Alexa, Amazon Music, Gift Cards, or Prime Video) you also will be subject to the terms applicable to that Amazon Service (the \"Service Terms\"). For example, if you use Alexa on any Amazon or third-party product or service, you agree to the Alexa Terms of Use. If these Conditions of Use are inconsistent with the Service Terms, those Service Terms will control.",
+        "## PRIVACY"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## ELECTRONIC COMMUNICATIONS"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## COPYRIGHT"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Click here to see a non-exhaustive list of Amazon trademarks. In addition, graphics, logos, page headers, button icons, scripts, and service names included in or made available through any Amazon Service are trademarks or trade dress of Amazon in the U.S. and other countries. Amazon's trademarks and trade dress may not be used in connection with any product or service that is not Amazon's or in any manner that is likely to cause confusion among customers. All other trademarks not owned by Amazon that appear in any Amazon Service are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by Amazon."
+      ],
+      "new": [
+        "## TRADEMARKS",
+        "Amazon's trademarks and trade dress may not be used in connection with any product or service that is not Amazon's or in any manner that is likely to cause confusion among customers. Trademarks not owned by Amazon that appear in any Amazon Service are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by Amazon.",
+        "## LICENSE AND ACCESS"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## YOUR ACCOUNT"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## REVIEWS, COMMENTS, COMMUNICATIONS, AND OTHER CONTENT",
+        "You may post reviews, comments, photos, videos, and other content; send e-cards and other communications; and submit suggestions, ideas, comments, questions, or other information, so long as the content is not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights (including publicity rights), or otherwise injurious to third parties or objectionable, and does not consist of or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings, or any form of \"spam\" or unsolicited commercial electronic messages. You may not use a false e-mail address, impersonate any person or entity, or otherwise mislead as to the origin of a card or other content. Amazon reserves the right (but not the obligation) to remove or edit such content, but does not regularly review posted content."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## INTELLECTUAL PROPERTY COMPLAINTS"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## RISK OF LOSS"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Amazon does not take title to returned items until the item arrives at our fulfillment center. At our discretion, a refund may be issued without requiring a return. In this situation, Amazon does not take title to the refunded item. For more information about our returns and refunds, please see our Returns Center."
+      ],
+      "new": [
+        "## RETURNS, REFUNDS AND TITLE",
+        "Amazon does not take title to returned items until the item arrives at our fulfillment center. At our discretion, a refund may be issued without requiring a return. In this situation, Amazon does not take title to the refunded item. For more information about our returns and refunds, please see our Returns Center .",
+        "## PRODUCT DESCRIPTIONS"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## PRICING"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## APP PERMISSIONS"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## SANCTIONS AND EXPORT POLICY"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## OTHER BUSINESSES"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Any dispute or claim relating in any way to your use of any Amazon Service will be adjudicated in the state or Federal courts in King County, Washington, and you consent to exclusive jurisdiction and venue in these courts. We each waive any right to a jury trial.",
+        "By using any Amazon Service, you agree that applicable federal law, and the laws of the state of Washington, without regard to principles of conflict of laws, will govern these Conditions of Use and any dispute of any sort that might arise between you and Amazon.",
+        "Please review our other policies, such as our pricing policy, posted on this site. These policies also govern your use of Amazon Services. We reserve the right to make changes to our site, policies, Service Terms, and these Conditions of Use at any time. If any of these conditions shall be deemed invalid, void, or for any reason unenforceable, that condition shall be deemed severable and shall not affect the validity and enforceability of any remaining condition."
+      ],
+      "new": [
+        "## DISPUTES",
+        "YOU AND WE AGREE THAT ANY DISPUTE OR CLAIM RELATING IN ANY WAY TO YOUR USE OF ANY AMAZON SERVICE, OR TO ANY PRODUCTS OR SERVICES SOLD OR DISTRIBUTED BY AMAZON OR THROUGH AMAZON.COM, WILL BE RESOLVED BY BINDING ARBITRATION RATHER THAN IN COURT. The only exceptions are: (i) if the dispute or claim qualifies for small claims court in the jurisdiction in which you reside, then you or we may sue there instead; (ii) you or we may seek injunctive relief in court to stop infringement or misuse of intellectual property rights (like trademarks, copyrights, and patents), or to restrain future violations of the law for the benefit of the general public as a whole, rather than a subset of similarly situated persons; and (iii) all disputes about whether you or we complied with the pre-arbitration dispute resolution procedure set forth below (which is a condition precedent to filing arbitration) must be decided by a court and not by an arbitrator. All other disputes, claims, and requests for relief must be arbitrated, regardless of when they arose, which means you and we are each waiving our right to sue in court and have a judge or jury trial. This arbitration agreement is governed by the Federal Arbitration Act (“FAA”), federal arbitration law, and the law of the State of Washington. There is no judge or jury in arbitration, and court review of an arbitration award is limited. A neutral arbitrator will resolve the dispute or claim and must follow the terms of this agreement as a court would.",
+        "*Class Action Waiver*. YOU AND WE AGREE THAT ANY ARBITRATION PROCEEDING WILL BE CONDUCTED ONLY ON AN INDIVIDUAL",
+        "BASIS AND NOT IN A CLASS OR REPRESENTATIVE ACTION. You and we may only seek or obtain",
+        "individualized relief in arbitration, and claims or requests for public injunctive",
+        "relief or relief where you or we act in a representative capacity are not allowed.",
+        "*Mandatory Pre-Arbitration Dispute Resolution*. If you have a dispute or claim subject to this arbitration agreement, you must first",
+        "contact customer service to try to resolve it. If customer service can’t resolve it",
+        "and you wish to pursue arbitration, you must complete the dispute resolution procedure",
+        "set forth here, including submitting a completed Notice of Dispute using this Claim Form and negotiating in good faith for 60 days. We will provide you the same information",
+        "via your Amazon account’s primary email address if we have an arbitrable dispute with",
+        "you and will follow the same dispute resolution procedure.",
+        "*Arbitration Process and Procedure*. If you and we do not reach a resolution within 60 days from receiving a notice of",
+        "dispute or after completing a timely requested settlement conference, whichever is",
+        "later, then you or we may initiate binding arbitration. Arbitration shall: (i) be",
+        "administered by JAMS pursuant to the JAMS Streamlined Arbitration Rules & Procedures;",
+        "(ii) be conducted by a single arbitrator; and (iii) take place virtually, in the county",
+        "where you reside, or in any other location mutually agreed upon. To the extent this",
+        "arbitration agreement conflicts with the JAMS Policy on Consumer Arbitrations Pursuant",
+        "to Pre-Dispute Clauses Minimum Standards for Procedural Fairness (the “Minimum Standards”),",
+        "then the Minimum Standards shall take precedence. The arbitrator shall issue a written",
+        "award that states the disposition of each claim and provides a concise statement of",
+        "the essential findings and conclusions on which it is based. You and we agree that",
+        "any awards issued in other arbitrations will have no precedential or preclusive effect",
+        "in any arbitration between us unless you and we were parties to the prior award.",
+        "*Mass Arbitration*. If 25 or more demands for arbitration are filed within six months relating to the",
+        "same or similar subject matter and sharing common issues of law or fact, and counsel",
+        "for the parties submitting the demands are the same or coordinated in any fashion,",
+        "you and we agree that this will constitute a “Mass Arbitration.” If a Mass Arbitration",
+        "is commenced by either party, you and we agree that (i) the JAMS Mass Arbitration",
+        "Procedures and Guidelines shall apply, and (ii) the Process Administrator appointed",
+        "by JAMS shall group the arbitration demands into batches of at least 25 and provide",
+        "for resolution of each batch with one set of administrative fees and a single arbitrator",
+        "assigned per batch. If more than 500 arbitration demands are filed in a Mass Arbitration,",
+        "then the Process Administrator shall group the arbitration demands into batches of",
+        "at least 100. If more than 2500 arbitration demands are filed in a Mass Arbitration,",
+        "then the Process Administrator shall group the arbitration demands into batches of",
+        "at least 500. You and we further agree to disclose to each other (i) all relationships",
+        "with third-party litigation funders related to the Mass Arbitration and copies of",
+        "all applicable litigation funding agreements; and (ii) any financial interest that",
+        "you or we have assigned or transferred to a third party (excluding either party's",
+        "counsel of record) in connection with the Mass Arbitration and any agreements governing",
+        "that assignment or transfer.",
+        "*Appeal rights*. You and we agree that the JAMS Optional Appeal Procedures will apply in any Mass",
+        "Arbitration and in any arbitration in which either you or we receive a final award",
+        "requiring payment of $250,000 or more. If multiple parties appeal from a final award",
+        "in a Mass Arbitration, the appeals shall be batched in the same or similar manner",
+        "as the underlying arbitrations.",
+        "*Delegation and Severability*. You and we each agree that the arbitrator shall have exclusive authority to resolve",
+        "all disputes relating in any way to the interpretation, applicability, enforceability,",
+        "or formation of this arbitration agreement, including disputes about whether a particular",
+        "claim or demand for relief is subject to arbitration and whether this arbitration",
+        "agreement is unconscionable, illusory, or otherwise unenforceable. If the arbitrator",
+        "determines that you and we are precluded from arbitrating any claim or demand for",
+        "relief, then that claim or demand for relief (and only that claim or demand for relief)",
+        "must be severed from the arbitration. You and we agree that any severed claim or demand",
+        "for relief, any request for public injunctive relief, and any dispute about whether",
+        "you or we complied with the pre-arbitration dispute resolution procedure may be brought",
+        "only in state or federal court in King County, Washington, where you and we consent",
+        "to personal jurisdiction and venue and waive any right to a jury trial. If any provision",
+        "in this arbitration agreement is held unenforceable, then that provision shall be",
+        "severed, with the remainder of the agreement remaining in full force and effect.",
+        "## APPLICABLE LAW",
+        "By using any Amazon Service, you agree that applicable federal law, and the laws of the state of Washington, without regard to principles of conflict of laws, will govern these Conditions of Use and any dispute of any sort that might arise between you and Amazon except for disputes arising from personal injury or physical harm to property allegedly caused by products purchased using Amazon Services. Such disputes will be governed by the law of the state in which the personal injury or physical harm to property occurred.",
+        "## SITE POLICIES, MODIFICATION, AND SEVERABILITY",
+        "Please review our other policies, such as our pricing policy, posted on this site. These policies also govern your use of Amazon Services. We reserve the right to make changes to our site, policies, Service Terms, and these Conditions of Use at any time. By using Amazon Services after such changes, you agree to be bound by them. If any of these conditions shall be deemed invalid, void, or for any reason unenforceable, that condition shall be deemed severable and shall not affect the validity and enforceability of any remaining condition.",
+        "## Governing Language"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Amazon.com, Inc.",
+        "P.O. Box 81226",
+        "Seattle, WA 98108-1226"
+      ],
+      "new": [
+        "## OUR ADDRESS",
+        "## ADDITIONAL AMAZON SOFTWARE TERMS"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "1. **Use of the Amazon Software.** You may use Amazon Software solely for purposes of enabling you to use the Amazon Services as provided by Amazon, and as permitted by these Conditions of Use and any Service Terms. You may not incorporate any portion of the Amazon Software into other programs or compile any portion of it in combination with other programs, or otherwise copy (except to exercise rights granted in this section), modify, create derivative works of, distribute, assign any rights to, or license the Amazon Software in whole or in part. All software used in any Amazon Service is the property of Amazon or its software suppliers and is protected by United States and international copyright laws.",
+        "2. **Use of Third Party Services.** When you use the Amazon Software, you may also be using the services of one or more third parties, such as a wireless carrier or a mobile software provider. Your use of these third party services may be subject to the separate policies, terms of use, and fees of these third parties.",
+        "3. **No Reverse Engineering.** You may not reverse engineer, decompile or disassemble, tamper with, apply any other process or procedure to derive the source code or other underlying components (such as a model, model parameters, or model weights), or bypass any security associated with the Amazon Software, whether in whole or in part.",
+        "4. **Updates.** We may offer automatic or manual updates to the Amazon Software at any time and without notice to you.",
+        "5. **Government End Users.** If you are a U.S. Government end user, we are licensing the Amazon Software to you as a \"Commercial Product\" as that term is defined in the U.S. Code of Federal Regulations (see 48 C.F.R. § 2.101), and the rights we grant you to the Amazon Software are the same as the rights we grant to all others under these Conditions of Use.",
+        "6. **Conflicts.** In the event of any conflict between these Conditions of Use and any other Amazon or third-party terms applicable to any portion of Amazon Software, such as open-source license terms, such other terms will control as to that portion of the Amazon Software and to the extent of the conflict.",
+        "The terms in this section (\"Agent Terms\") apply if you use, allow, enable, or cause the deployment of an Agent to access, use, or interact with any Amazon Services. For the purposes of these Agent Terms, \"Agent” means any software or service that takes autonomous or semi-autonomous action on behalf of, or at the instruction of, any person or entity.",
+        "1. **Transparency and Consent**. No Agent may access, use, or interact with Amazon Services unless, at all times, it identifies itself and operates in strict accordance with the requirements in section 3 of these Agent Terms. In addition, no Agent may access, use, or interact with Amazon Services if we have requested that the Agent refrain from accessing, using, or interacting with any Amazon Service.",
+        "2. **Limitation on Access.** At our sole discretion, we may limit, including by technical measures, whether and how any Agent accesses, uses, and interacts with Amazon Services.",
+        "3. **Technical Requirements.** Agents must:",
+        "1. In all HTTP/HTTPS requests, identify that the request is from an Agent and disclose the name of the Agent by including the following in the request's user agent string:",
+        "\"Agent/\\[agent name\\]\" (e.g., Agent/AmazonAgent)",
+        "1. Not conceal or obfuscate that any access, use, or interactions are from an Agent, such as by (a) mimicking the speed or pattern of human keystrokes, page navigation, or other interactions or (b) completing or circumventing CAPTCHAs or other measures intended to distinguish computers from humans.",
+        "2. Respond truthfully to any question or prompt seeking to determine if interactions are coming from a human or a computer.",
+        "3. Not circumvent or otherwise avoid any measure intended to block, limit, modify, or control whether and how Agents access, use, or interact with an Amazon Service."
+      ],
+      "new": [
+        "1. **Use of the Amazon Software.** You may use Amazon Software solely for purposes of enabling you to use the Amazon",
+        "Services as provided by Amazon, and as permitted by these Conditions of Use and any",
+        "Service Terms. You may not incorporate any portion of the Amazon Software into other",
+        "programs or compile any portion of it in combination with other programs, or otherwise",
+        "copy (except to exercise rights granted in this section), modify, create derivative",
+        "works of, distribute, assign any rights to, or license the Amazon Software in whole",
+        "or in part. All software used in any Amazon Service is the property of Amazon or its",
+        "software suppliers and is protected by United States and international copyright laws.",
+        "2. **Use of Third Party Services.** When you use the Amazon Software, you may also be using the services of one or more",
+        "third parties, such as a wireless carrier or a mobile software provider. Your use",
+        "of these third party services may be subject to the separate policies, terms of use,",
+        "and fees of these third parties.",
+        "3. **No Reverse Engineering.** You may not reverse engineer, decompile or disassemble, tamper with, apply any other",
+        "process or procedure to derive the source code or other underlying components (such",
+        "as a model, model parameters, or model weights), or bypass any security associated",
+        "with the Amazon Software, whether in whole or in part.",
+        "4. **Updates.** We may offer automatic or manual updates to the Amazon Software at any time and without",
+        "notice to you.",
+        "5. **Government End Users.** If you are a U.S. Government end user, we are licensing the Amazon Software to you",
+        "as a \"Commercial Product\" as that term is defined in the U.S. Code of Federal Regulations",
+        "(see 48 C.F.R. § 2.101), and the rights we grant you to the Amazon Software are the",
+        "same as the rights we grant to all others under these Conditions of Use.",
+        "6. **Conflicts.** In the event of any conflict between these Conditions of Use and any other Amazon",
+        "or third-party terms applicable to any portion of Amazon Software, such as open-source",
+        "license terms, such other terms will control as to that portion of the Amazon Software",
+        "and to the extent of the conflict.",
+        "## Agents",
+        "The terms in this section (\"Agent Terms\") apply if you use, allow, enable, or cause the deployment of an Agent to access, use, or interact with any Amazon Services. For the purposes of these Agent Terms, \"Agent\" means any software or service that takes autonomous or semi-autonomous action on behalf of, or at the instruction of, any person or entity.",
+        "1. **Transparency and Consent**. No Agent may access, use, or interact with Amazon Services unless, at all times,",
+        "it identifies itself and operates in strict accordance with the requirements in section",
+        "3 of these Agent Terms. In addition, no Agent may access, use, or interact with Amazon",
+        "Services if we have requested that the Agent refrain from accessing, using, or interacting",
+        "with any Amazon Service.",
+        "2. **Limitation on Access**. At our sole discretion, we may limit, including by technical measures, whether and",
+        "how any Agent accesses, uses, and interacts with Amazon Services.",
+        "3. **Technical Requirements.** Agents must: i. In all HTTP/HTTPS requests, identify that the request is from an Agent and disclose the name of the Agent by including the following in the request's user agent string: \"Agent/\\[agent name\\]\" (e.g., Agent/AmazonAgent) ii. Not conceal or obfuscate that any access, use, or interactions are from an Agent, such as by (a) mimicking the speed or pattern of human keystrokes, page navigation, or other interactions or (b) completing or circumventing CAPTCHAs or other measures intended to distinguish computers from humans. iii. Respond truthfully to any question or prompt seeking to determine if interactions are coming from a human or a computer. iv. Not circumvent or otherwise avoid any measure intended to block, limit, modify, or control whether and how Agents access, use, or interact with an Amazon Service.",
+        "## HOW TO SERVE A SUBPOENA OR OTHER LEGAL PROCESS"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## NOTICE AND PROCEDURE FOR MAKING CLAIMS OF INTELLECTUAL PROPERTY INFRINGEMENT"
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "Was this information helpful?",
+        "Thank you for your feedback.",
+        "Thanks! While we're unable to respond directly to your feedback, we'll use this information to improve our online Help."
+      ],
+      "new": []
+    }
+  ]
+}

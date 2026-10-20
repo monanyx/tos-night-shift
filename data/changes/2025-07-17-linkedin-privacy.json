@@ -1,0 +1,39 @@
+{
+  "id": "2025-07-17-linkedin-privacy",
+  "service": "linkedin",
+  "service_name": "LinkedIn",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.linkedin.com/legal/privacy-policy",
+  "detected_at": "2025-07-17T04:04:28+00:00",
+  "source": "wayback",
+  "window_start": "2025-04-17T10:28:17+00:00",
+  "archive_before": "https://web.archive.org/web/20250417102817/https://www.linkedin.com/legal/privacy-policy",
+  "archive_after": "https://web.archive.org/web/20250717040428/https://www.linkedin.com/legal/privacy-policy",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 1,
+    "removed_words": 4
+  },
+  "headline": "LinkedIn edited its Privacy Policy",
+  "summary": "1 words added and 4 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "5.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "5. ## 5. Other Important Information ### 5.1. Security We monitor for and try to prevent security breaches. Please use the security features available through our Services. We implement security safeguards designed to protect your data, such as HTTPS. We regularly monitor our systems for possible vulnerabilities and attacks. However, we cannot warrant the security of any information that you send us. There is no guarantee that data may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. Please visit our Safety Center for additional information about safely using our Services, including two-factor authentication. ### 5.2. Cross-Border Data Transfers We store and use your data outside your country. We process data both inside and outside of the United States and rely on legally-provided mechanisms to lawfully transfer data across borders. Learn more. Countries where we process data may have laws which are different from, and potentially not as protective as, the laws of your own country. ### 5.3 Lawful Bases for Processing We have lawful bases to collect, use and share data about you. You have choices about our use of your data. At any time, you can withdraw consent you have provided by going to settings. We will only collect and process personal data about you where we have lawful bases. Lawful bases include consent (where you have given consent), contract (where processing is necessary for the performance of a contract with you (e.g., to deliver the LinkedIn Services you have requested) and “legitimate interests.” Learn more. Where we rely on your consent to process personal data, you have the right to withdraw or decline your consent at any time and where we rely on legitimate interests, you have the right to object. Learn More. If you have any questions about the lawful bases upon which we collect and use your personal data, please contact our Data Protection Officer here. If you're located in one of the Designated Countries or the UK, you can learn more about our lawful bases for processing in our European Regional Privacy Notice. ### 5.4. Direct Marketing and Do Not Track Signals Our statements regarding direct marketing and “do not track” signals. We currently do not share personal data with third parties for their direct marketing purposes without your permission. Learn more about this and about our response to “do not track” signals. ### 5.5. Contact Information You can contact us or use other options to resolve any complaints. If you have questions or complaints regarding this Policy, please first contact LinkedIn online. You can also reach us by physical mail. If contacting us does not resolve your complaint, you have more options. Residents in the Designated Countries and other regions may also have the right to contact our Data Protection Officer here or at DPO@linkedin.com. If this does not resolve your complaint, Residents in the Designated Countries and other regions may have more options under their laws."
+      ],
+      "new": [
+        "5. ## 5. Other Important Information ### 5.1. Security We monitor for and try to prevent security breaches. Please use the security features available through our Services. We implement security safeguards designed to protect your data, such as HTTPS. We regularly monitor our systems for possible vulnerabilities and attacks. However, we cannot warrant the security of any information that you send us. There is no guarantee that data may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. Please visit our Safety Center for additional information about safely using our Services, including two-factor authentication. ### 5.2. Cross-Border Data Transfers We store and use your data outside your country. We process data both inside and outside of the United States and rely on legally-provided mechanisms to lawfully transfer data across borders. Learn more. Countries where we process data may have laws which are different from, and potentially not as protective as, the laws of your own country. ### 5.3 Lawful Bases for Processing We have lawful bases to collect, use and share data about you. You have choices about our use of your data. At any time, you can withdraw consent you have provided by going to settings. We will only collect and process personal data about you where we have lawful bases. Lawful bases include consent (where you have given consent), contract (where processing is necessary for the performance of a contract with you (e.g., to deliver the LinkedIn Services you have requested) and “legitimate interests.” Learn more. Where we rely on your consent to process personal data, you have the right to withdraw or decline your consent at any time and where we rely on legitimate interests, you have the right to object. Learn More. If you have any questions about the lawful bases upon which we collect and use your personal data, please contact our Data Protection Officer here. If you're located in one of the Designated Countries or the UK, you can learn more about our lawful bases for processing in our European Regional Privacy Notice. ### 5.4. Direct Marketing and Do Not Track Signals Our statements regarding direct marketing and “do not track” signals. We currently do not share personal data with third parties for their direct marketing purposes without your permission. Learn more about this and about our response to “do not track” signals. ### 5.5. Contact Information You can contact us or use other options to resolve any complaints. If you have questions or complaints regarding this Policy, please first contact LinkedIn online. You can also reach us by physical mail. If contacting us does not resolve your complaint, you have more options. Residents in the Designated Countries and other regions may also have the right to contact our Data Protection Officer here. If this does not resolve your complaint, Residents in the Designated Countries and other regions may have more options under their laws."
+      ]
+    }
+  ]
+}
