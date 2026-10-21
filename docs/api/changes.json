@@ -1,5 +1,32 @@
 [
   {
+    "id": "2026-10-21-anthropic-terms",
+    "service": "anthropic",
+    "service_name": "Anthropic (Claude)",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://www.anthropic.com/legal/consumer-terms",
+    "detected_at": "2026-10-21T07:41:41+00:00",
+    "flags": [],
+    "stats": {
+      "hunks": 14,
+      "added_words": 13,
+      "removed_words": 18
+    },
+    "headline": "Anthropic (Claude) edited its Terms of Service",
+    "summary": "13 words added and 18 removed across 14 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "### 1.",
+    "receipt_side": "new",
+    "sideeye": 0,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/anthropic/terms.md",
+    "page": "c/2026-10-21-anthropic-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-10-21-anthropic-terms.html"
+  },
+  {
     "id": "2026-10-20-youtube-terms",
     "service": "youtube",
     "service_name": "YouTube",
