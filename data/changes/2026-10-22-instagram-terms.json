@@ -1,0 +1,34 @@
+{
+  "id": "2026-10-22-instagram-terms",
+  "service": "instagram",
+  "service_name": "Instagram",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://help.instagram.com/581066165581870",
+  "detected_at": "2026-10-22T07:37:30+00:00",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 15,
+    "removed_words": 0
+  },
+  "headline": "Instagram edited its Terms of Service",
+  "summary": "15 words added and 0 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Get a call from Meta AI assistant",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Get a call from Meta AI assistant",
+        "Get help from Meta AI assistant by phone"
+      ]
+    }
+  ]
+}
