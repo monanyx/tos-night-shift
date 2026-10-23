@@ -1,5 +1,32 @@
 [
   {
+    "id": "2026-10-23-instagram-terms",
+    "service": "instagram",
+    "service_name": "Instagram",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://help.instagram.com/581066165581870",
+    "detected_at": "2026-10-23T07:34:49+00:00",
+    "flags": [],
+    "stats": {
+      "hunks": 1,
+      "added_words": 0,
+      "removed_words": 15
+    },
+    "headline": "Instagram edited its Terms of Service",
+    "summary": "0 words added and 15 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "",
+    "receipt_side": "new",
+    "sideeye": 0,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/instagram/terms.md",
+    "page": "c/2026-10-23-instagram-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-10-23-instagram-terms.html"
+  },
+  {
     "id": "2026-10-22-instagram-terms",
     "service": "instagram",
     "service_name": "Instagram",
