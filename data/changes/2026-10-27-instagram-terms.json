@@ -1,0 +1,142 @@
+{
+  "id": "2026-10-27-instagram-terms",
+  "service": "instagram",
+  "service_name": "Instagram",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://help.instagram.com/581066165581870",
+  "detected_at": "2026-10-27T07:54:27+00:00",
+  "flags": [
+    {
+      "tag": "arbitration",
+      "label": "Arbitration / no lawsuits",
+      "hits": 4
+    },
+    {
+      "tag": "payments",
+      "label": "Money",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 11,
+    "added_words": 821,
+    "removed_words": 126
+  },
+  "headline": "Instagram rewrote its Terms of Service — new wording on your right to sue and fees and billing",
+  "summary": "821 words added and 126 removed across 11 sections. New wording touches: Arbitration / no lawsuits, Money. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "**ARBITRATION NOTICE: YOU AGREE THAT DISPUTES BETWEEN YOU AND US WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.",
+  "receipt_side": "new",
+  "sideeye": 4,
+  "tags": [
+    "arbitration",
+    "payments"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "What is the Instagram Service?",
+        "How is Instagram funded?",
+        "What is the Instagram Privacy Policy?"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "These Terms of Use (or “Terms”) govern your access and use of Instagram, except where we expressly state that separate terms (and not these) apply, and provide information about the Instagram Service (the “Service”), outlined below. The Meta Terms of Service do not apply to this Service."
+      ],
+      "new": [
+        "These Terms of Use (or \"Terms\") govern your access and use of Instagram, except where we expressly state that separate terms (and not these) apply, and provide information about the Instagram Service (the \"Service\"), outlined below. The Meta Terms of Service do not apply to this Service."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**ARBITRATION NOTICE: YOU AGREE THAT DISPUTES BETWEEN YOU AND US WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION. WE EXPLAIN SOME EXCEPTIONS AND HOW YOU CAN OPT OUT OF ARBITRATION BELOW.**"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- You must be at least 13 years old or the minimum legal age in your country to use Instagram."
+      ],
+      "new": [
+        "- You must be at least 13 years old."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- comply with a request of a judicial or administrative authority, law enforcement or a government agency;"
+      ],
+      "new": [
+        "- comply with a request of a judicial or administrative authority, law enforcement, or a government agency;"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- If you delete or we disable your account, and you stop accessing or using Instagram, or if this contract is otherwise terminated, then these Terms shall terminate as an agreement between you and us, but this section, the section above called “Your Commitments,” and the section below called \"Our Agreement and What Happens if We Disagree\" will still apply even after your account is terminated, disabled, or deleted, or this contract is otherwise terminated."
+      ],
+      "new": [
+        "- If you delete or we disable your account, and you stop accessing or using Instagram, or if this contract is otherwise terminated, then these Terms shall terminate as an agreement between you and us, but this section, the section above called \"Your Commitments,\" and the section below called \"Our Agreement and What Happens if We Disagree\" will still apply even after your account is terminated, disabled, or deleted, or this contract is otherwise terminated."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Your use of music on the Service is also subject to our Music Guidelines, and your use of our API is subject to our Meta Platform Terms and Developer Policies. If you use certain other features or related services, additional terms will be made available and will also become a part of our agreement. For example, if you use payment features, you will be asked to agree to the Community Payment Terms. If you use Avatars, then the Avatar Terms also apply. If you use our AI products and features, the Meta AI Terms also apply. If any of those terms conflict with this agreement, those other terms will govern."
+      ],
+      "new": [
+        "- Your use of music on the Service is also subject to our Music Guidelines, and your use of our API is subject to our Meta Platform Terms and Developer Policies. If you use certain other features or related services, you will be provided with an opportunity to agree to additional terms that will also become a part of our agreement. For example, if you use payment features, you will be asked to agree to the Community Payment Terms. If you use Avatars, then the Avatar Terms also apply. If you use our AI products and features, the Meta AI Terms also apply. If any of those terms conflict with this agreement, those other terms will govern."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- This agreement does not give rights to any third parties."
+      ],
+      "new": [
+        "- Our past, present, and future affiliates and agents, including Instagram LLC, can invoke our rights under this agreement in the event they become involved in a dispute. Otherwise, this agreement does not give rights to any third parties."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "- Our responsibility for anything that happens on the Service (also called \"liability\") is limited as much as the law will allow. If there is an issue with our Service, we can't know what all the possible impacts might be. You agree that we won't be responsible (\"liable\") for any lost profits, revenues, information, or data, or consequential, special, indirect, exemplary, punitive, or incidental damages arising out of or related to these Terms, even if we know they are possible. This includes when we delete your content, information, or account."
+      ],
+      "new": [
+        "- Our responsibility for anything that happens on the Service (also called \"liability\") is limited as much as the law will allow. If there is an issue with our Service, we can't know what all the possible impacts might be. You agree that we won't be responsible (\"liable\") for any lost profits, revenues, information, or data, or consequential, special, indirect, exemplary, punitive, or incidental damages arising out of or related to these Terms, even if we know they are possible. This includes when we delete your content, information, or account. Our aggregate liability arising out of or relating to these Terms will not exceed the greater of $100 or the amount you have paid us in the past twelve months.",
+        "- You agree to defend (at our request), indemnify and hold us harmless from and against any claims, liabilities, damages, losses, and expenses, including without limitation, reasonable attorney's fees and costs, arising out of or in any way connected with these Terms or your use of the Service. You will cooperate as required by us in the defense of any claim. We reserve the right to assume the exclusive defense and control of any matter subject to indemnification by you, and you will not in any event settle any claim without our prior written consent."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "If you are a consumer, the laws of the country in which you reside will apply to any claim, cause of action, or dispute you have against us that arises out of or relates to these Terms (\"claim\"), and you may resolve your claim in any competent court in that country that has jurisdiction over the claim. In all other cases, you agree that the claim must be resolved exclusively in the U.S. District Court for the Northern District of California or a state court located in San Mateo County, that you submit to the personal jurisdiction of either of these courts for the purpose of litigating any such claim, and that the laws of the State of California will govern these Terms and any claim, without regard to conflict of law provisions. Without prejudice to the foregoing, you agree that, in its sole discretion, Meta Platforms Inc. may also bring any claim we have against you related to efforts to abuse, interfere, or engage with our products in unauthorized ways in the country in which you reside that has jurisdiction over the claim."
+      ],
+      "new": [
+        "- Except as provided below, **you and we agree that any cause of action, legal claim, or dispute between you and us arising out of or related to these Terms or Instagram (\"claim(s)\") must be resolved by arbitration on an individual basis. Class actions and class arbitrations are not permitted**; you and we may bring a claim only on your own behalf and cannot seek relief that would affect other Instagram users. If there is a final judicial determination that any particular claim (or a request for particular relief) cannot be arbitrated in accordance with this provision's limitations, then only that claim (or only that request for relief) may be brought in court. All other claims (or requests for relief) remain subject to this provision.",
+        "- Instead of using arbitration, you or we can bring claims in your local \"small claims\" court, if the rules of that court will allow it. If you don't bring your claims in small claims court (or if you or we appeal a small claims court judgment to a court of general jurisdiction), then the claims must be resolved by binding, individual arbitration. The American Arbitration Association will administer all arbitrations under its Consumer Arbitration Rules. **You and we expressly waive a trial by jury.**The following claims don't have to be arbitrated and may be brought in court: disputes related to intellectual property (like copyrights and trademarks), violations of our Platform Policy, or efforts to interfere with the Service or engage with the Service in unauthorized ways (for example, automated ways). In addition, issues relating to the scope and enforceability of the arbitration provision are for a court to decide.This arbitration provision is governed by the Federal Arbitration Act.You can opt out of this provision within 30 days of the date that you agreed to these Terms. To opt out, you must send your name, residence address, username, email address or phone number you use for your Instagram account, and a clear statement that you want to opt out of this arbitration agreement, and you must send them here: Meta Platforms, Inc. ATTN: Instagram Arbitration Opt-out, 1601 Willow Rd., Menlo Park, CA 94025.",
+        "- Before you commence arbitration of a claim, you must provide us with a written Notice of Dispute that includes your name, residence address, username, email address or phone number you use for your Instagram account, a detailed description of the dispute, and the relief you seek. Any Notice of Dispute you send to us should be mailed to Meta Platforms, Inc., ATTN: Instagram Arbitration Filing, 1601 Willow Rd. Menlo Park, CA 94025. Before we commence arbitration, we will send you a Notice of Dispute to the email address you use with your Instagram account, or other appropriate means. If we are unable to resolve a dispute within thirty (30) days after the Notice of Dispute is received, you or we may commence arbitration.",
+        "- We will pay all arbitration filing fees, administration and hearing costs, and arbitrator fees for any arbitration we bring or if your claims seek less than $75,000 and you timely provided us with a Notice of Dispute. For all other claims, the costs and fees of arbitration shall be allocated in accordance with the arbitration provider's rules, including rules regarding frivolous or improper claims.",
+        "- For any claim that is not arbitrated or resolved in small claims court, you agree that it will be resolved exclusively in the U.S. District Court for the Northern District of California or a state court located in San Mateo County. You also agree to submit to the personal jurisdiction of either of these courts for the purpose of litigating any such claim.",
+        "- The laws of the State of California, to the extent not preempted by or inconsistent with federal law, will govern these Terms and any claim, without regard to conflict of law provisions."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "## **8. Updating These Terms**",
+        "## Other ways to get help",
+        "Chat with Meta AI support assistant",
+        "Resolve issues, make changes and get support in real time"
+      ]
+    }
+  ]
+}
