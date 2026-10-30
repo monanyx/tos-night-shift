@@ -1,5 +1,125 @@
 [
   {
+    "id": "2026-10-30-instagram-terms",
+    "service": "instagram",
+    "service_name": "Instagram",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://help.instagram.com/581066165581870",
+    "detected_at": "2026-10-30T08:41:00+00:00",
+    "flags": [
+      {
+        "tag": "arbitration",
+        "label": "Arbitration / no lawsuits",
+        "hits": 4
+      },
+      {
+        "tag": "payments",
+        "label": "Money",
+        "hits": 1
+      }
+    ],
+    "stats": {
+      "hunks": 11,
+      "added_words": 820,
+      "removed_words": 161
+    },
+    "headline": "Instagram rewrote its Terms of Service — new wording on your right to sue and fees and billing",
+    "summary": "820 words added and 161 removed across 11 sections. New wording touches: Arbitration / no lawsuits, Money. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "**ARBITRATION NOTICE: YOU AGREE THAT DISPUTES BETWEEN YOU AND US WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.",
+    "receipt_side": "new",
+    "sideeye": 4,
+    "tags": [
+      "arbitration",
+      "payments"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/instagram/terms.md",
+    "page": "c/2026-10-30-instagram-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-10-30-instagram-terms.html"
+  },
+  {
+    "id": "2026-10-30-instagram-privacy",
+    "service": "instagram",
+    "service_name": "Instagram",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://privacycenter.instagram.com/policy",
+    "detected_at": "2026-10-30T08:41:00+00:00",
+    "flags": [],
+    "stats": {
+      "hunks": 2,
+      "added_words": 51,
+      "removed_words": 0
+    },
+    "headline": "Instagram edited its Privacy Policy",
+    "summary": "51 words added and 0 removed across 2 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "Read the United States Regional Privacy Notice for more details about how we handle Personal Information and how to exercise your rights.",
+    "receipt_side": "new",
+    "sideeye": 0,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/instagram/privacy.md",
+    "page": "c/2026-10-30-instagram-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-10-30-instagram-privacy.html"
+  },
+  {
+    "id": "2026-10-30-facebook-terms",
+    "service": "facebook",
+    "service_name": "Facebook",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://www.facebook.com/terms.php",
+    "detected_at": "2026-10-30T08:41:00+00:00",
+    "flags": [],
+    "stats": {
+      "hunks": 7,
+      "added_words": 61,
+      "removed_words": 196
+    },
+    "headline": "Facebook edited its Terms of Service",
+    "summary": "61 words added and 196 removed across 7 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "We work constantly to improve our services and develop new features to make our Products better for you and our community.",
+    "receipt_side": "new",
+    "sideeye": 0,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/facebook/terms.md",
+    "page": "c/2026-10-30-facebook-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-10-30-facebook-terms.html"
+  },
+  {
+    "id": "2026-10-30-facebook-privacy",
+    "service": "facebook",
+    "service_name": "Facebook",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://www.facebook.com/privacy/policy/",
+    "detected_at": "2026-10-30T08:41:00+00:00",
+    "flags": [],
+    "stats": {
+      "hunks": 2,
+      "added_words": 51,
+      "removed_words": 0
+    },
+    "headline": "Facebook edited its Privacy Policy",
+    "summary": "51 words added and 0 removed across 2 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "Read the United States Regional Privacy Notice for more details about how we handle Personal Information and how to exercise your rights.",
+    "receipt_side": "new",
+    "sideeye": 0,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/facebook/privacy.md",
+    "page": "c/2026-10-30-facebook-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-10-30-facebook-privacy.html"
+  },
+  {
     "id": "2026-10-29-instagram-terms",
     "service": "instagram",
     "service_name": "Instagram",

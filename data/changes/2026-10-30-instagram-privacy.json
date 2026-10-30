@@ -1,0 +1,41 @@
+{
+  "id": "2026-10-30-instagram-privacy",
+  "service": "instagram",
+  "service_name": "Instagram",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://privacycenter.instagram.com/policy",
+  "detected_at": "2026-10-30T08:41:00+00:00",
+  "flags": [],
+  "stats": {
+    "hunks": 2,
+    "added_words": 51,
+    "removed_words": 0
+  },
+  "headline": "Instagram edited its Privacy Policy",
+  "summary": "51 words added and 0 removed across 2 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Read the United States Regional Privacy Notice for more details about how we handle Personal Information and how to exercise your rights.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Read the United States Regional Privacy Notice for more details about how we handle Personal Information and how to exercise your rights."
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Privacy notice for United States residents",
+        "You can learn more about the consumer privacy rights that may be available to you by reviewing the United States Regional Privacy Notice."
+      ]
+    }
+  ]
+}
