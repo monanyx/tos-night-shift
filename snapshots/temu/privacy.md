@@ -130,4 +130,4 @@ We reserve the right to modify this Privacy Policy at any time. If we make mater
 Contact Us
 If you have any questions or comments about our Privacy Policy or the terms mentioned, you may contact us at any time:
 - send an email to Temu's Data Protection Officer - privacy@temu.com; or
-- send mail to our postal address - Whaleco Inc., Suite 355, 31 St. James Avenue, Boston, Massachusetts 02116, USA.
+- send mail to our postal address - Whaleco Inc., 1666 Connecticut Ave NW #500, Washington, DC 20009, USA.

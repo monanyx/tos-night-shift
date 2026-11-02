@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-02-temu-terms",
+  "service": "temu",
+  "service_name": "Temu",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.temu.com/terms-of-use.html",
+  "detected_at": "2026-11-02T09:31:45+00:00",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 10,
+    "removed_words": 11
+  },
+  "headline": "Temu edited its Terms of Service",
+  "summary": "10 words added and 11 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "**18.5 Notice.** You acknowledge and agree that we may give notice to you through email using the latest email address you provided to us, which constitutes effective notice.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "**18.5 Notice.** You acknowledge and agree that we may give notice to you through email using the latest email address you provided to us, which constitutes effective notice. Therefore, you are responsible for keeping your email address information with us up to date. You may give notice to us at the following address:",
+        "Whaleco Inc.",
+        "Suite 355, 31 St. James Avenue",
+        "Boston, Massachusetts 02116",
+        "USA"
+      ],
+      "new": [
+        "**18.5 Notice.** You acknowledge and agree that we may give notice to you through email using the latest email address you provided to us, which constitutes effective notice. Therefore, you are responsible for keeping your email address information with us up to date. You may give notice to us at the following address: Whaleco Inc., 1666 Connecticut Ave NW #500, Washington, DC 20009, USA."
+      ]
+    }
+  ]
+}

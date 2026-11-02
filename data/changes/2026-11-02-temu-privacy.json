@@ -1,0 +1,35 @@
+{
+  "id": "2026-11-02-temu-privacy",
+  "service": "temu",
+  "service_name": "Temu",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://www.temu.com/privacy-and-cookie-policy.html",
+  "detected_at": "2026-11-02T09:31:45+00:00",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 8,
+    "removed_words": 9
+  },
+  "headline": "Temu edited its Privacy Policy",
+  "summary": "8 words added and 9 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "- send mail to our postal address - Whaleco Inc., 1666 Connecticut Ave NW #500, Washington, DC 20009, USA.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "- send mail to our postal address - Whaleco Inc., Suite 355, 31 St. James Avenue, Boston, Massachusetts 02116, USA."
+      ],
+      "new": [
+        "- send mail to our postal address - Whaleco Inc., 1666 Connecticut Ave NW #500, Washington, DC 20009, USA."
+      ]
+    }
+  ]
+}
