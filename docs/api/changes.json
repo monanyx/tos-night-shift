@@ -1,5 +1,113 @@
 [
   {
+    "id": "2026-11-03-instagram-terms",
+    "service": "instagram",
+    "service_name": "Instagram",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://help.instagram.com/581066165581870",
+    "detected_at": "2026-11-03T09:34:42+00:00",
+    "flags": [],
+    "stats": {
+      "hunks": 10,
+      "added_words": 162,
+      "removed_words": 779
+    },
+    "headline": "Instagram edited its Terms of Service",
+    "summary": "162 words added and 779 removed across 10 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "We’re updating our Terms of Use.",
+    "receipt_side": "new",
+    "sideeye": 1,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/instagram/terms.md",
+    "page": "c/2026-11-03-instagram-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-03-instagram-terms.html"
+  },
+  {
+    "id": "2026-11-03-instagram-privacy",
+    "service": "instagram",
+    "service_name": "Instagram",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://privacycenter.instagram.com/policy",
+    "detected_at": "2026-11-03T09:34:42+00:00",
+    "flags": [],
+    "stats": {
+      "hunks": 3,
+      "added_words": 9,
+      "removed_words": 51
+    },
+    "headline": "Instagram edited its Privacy Policy",
+    "summary": "9 words added and 51 removed across 3 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "Contact the Data Protection Officer for Meta Platforms, Inc.",
+    "receipt_side": "new",
+    "sideeye": 0,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/instagram/privacy.md",
+    "page": "c/2026-11-03-instagram-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-03-instagram-privacy.html"
+  },
+  {
+    "id": "2026-11-03-facebook-terms",
+    "service": "facebook",
+    "service_name": "Facebook",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://www.facebook.com/terms.php",
+    "detected_at": "2026-11-03T09:34:42+00:00",
+    "flags": [],
+    "stats": {
+      "hunks": 7,
+      "added_words": 196,
+      "removed_words": 61
+    },
+    "headline": "Facebook edited its Terms of Service",
+    "summary": "196 words added and 61 removed across 7 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "We’re updating our Terms of Service on January 20, 2027.",
+    "receipt_side": "new",
+    "sideeye": 0,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/facebook/terms.md",
+    "page": "c/2026-11-03-facebook-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-03-facebook-terms.html"
+  },
+  {
+    "id": "2026-11-03-facebook-privacy",
+    "service": "facebook",
+    "service_name": "Facebook",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://www.facebook.com/privacy/policy/",
+    "detected_at": "2026-11-03T09:34:42+00:00",
+    "flags": [],
+    "stats": {
+      "hunks": 3,
+      "added_words": 9,
+      "removed_words": 51
+    },
+    "headline": "Facebook edited its Privacy Policy",
+    "summary": "9 words added and 51 removed across 3 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "Contact the Data Protection Officer for Meta Platforms, Inc.",
+    "receipt_side": "new",
+    "sideeye": 0,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/facebook/privacy.md",
+    "page": "c/2026-11-03-facebook-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-03-facebook-privacy.html"
+  },
+  {
     "id": "2026-11-02-temu-terms",
     "service": "temu",
     "service_name": "Temu",
