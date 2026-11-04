@@ -1,0 +1,109 @@
+{
+  "id": "2026-11-04-uber-terms",
+  "service": "uber",
+  "service_name": "Uber",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en",
+  "detected_at": "2026-11-04T09:15:13+00:00",
+  "flags": [
+    {
+      "tag": "account-termination",
+      "label": "Kicking you out",
+      "hits": 1
+    },
+    {
+      "tag": "payments",
+      "label": "Money",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 7,
+    "added_words": 424,
+    "removed_words": 169
+  },
+  "headline": "Uber rewrote its Terms of Service — new wording on banning accounts and fees and billing",
+  "summary": "424 words added and 169 removed across 7 sections. New wording touches: Kicking you out, Money. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "If you or an Agent acting for you violates these Agent Terms, Uber may also, without notice, suspend or terminate your Account and pursue any other available remedies, including injunctive relief against the Agent's provider.",
+  "receipt_side": "new",
+  "sideeye": 3,
+  "tags": [
+    "account-termination",
+    "payments"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "Last modified: 10/12/2026"
+      ],
+      "new": [
+        "Last modified: 11/4/2026"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "10\\. Agents"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Subject to your compliance with these Terms, Uber grants you a limited, non-exclusive, non-sublicensable, revocable, non-transferable license to: (i) access and use the Uber App solely in connection with your use of the Services on your personal device; and (ii) access and use any content, information and related materials that may be made available through the Services, in each case solely for your noncommercial use and your use for the benefit of your guests of the Services. Any rights not expressly granted herein are reserved by Uber and Uber’s licensors. You agree that you will not use Uber’s copyrights, trademarks, service marks, logos, slogans, trade names, trade dress, or other indicia of ownership (“Uber Names, Marks, or Works”), aside from use incidental to your use of the Services, without express, written permission from Uber. This prohibition includes use in domain names, websites, business names, software application names or titles, keywords, and social media accounts or handles. You may not: (i) remove Uber Names, Marks, or Works or other proprietary notices from any portion of the Services; (ii) reproduce, modify, prepare derivative works based upon, distribute, license, lease, sell, resell, transfer, publicly display, publicly perform, transmit, stream, broadcast or otherwise exploit the Services except as expressly permitted by Uber; (iii) decompile, reverse engineer or disassemble the Services except as may be permitted by applicable law; (iv) link to, mirror or frame any portion of the Services; (v) cause or launch any programs or scripts for the purpose of, or which result in, unduly burdening or hindering the operation and/or functionality of any aspect of the Services; (vi) attempt to gain unauthorized access to or impair any aspect of the Services or its related systems or networks; or (vii) register, attempt to register, or claim ownership of any Uber Names, Marks, or Works or in any confusingly or substantially similar name, mark, title, or work, in any manner for any purposes, alone or in combination with other letters, punctuation, words, symbols, designs, and/or any creative works, except as may be permitted in the limited license granted above."
+      ],
+      "new": [
+        "Subject to your compliance with these Terms, Uber grants you a limited, non-exclusive, non-sublicensable, revocable, non-transferable license to: (i) access and use the Uber App solely in connection with your use of the Services on your personal device; and (ii) access and use any content, information and related materials that may be made available through the Services, in each case solely for your noncommercial use and your use for the benefit of your guests of the Services. Any rights not expressly granted herein are reserved by Uber and Uber’s licensors. You agree that you will not use Uber’s copyrights, trademarks, service marks, logos, slogans, trade names, trade dress, or other indicia of ownership (“Uber Names, Marks, or Works”), aside from use incidental to your use of the Services, without express, written permission from Uber. This prohibition includes use in domain names, websites, business names, software application names or titles, keywords, and social media accounts or handles. You may not: (i) remove Uber Names, Marks, or Works or other proprietary notices from any portion of the Services; (ii) reproduce, modify, prepare derivative works based upon, distribute, license, lease, sell, resell, transfer, publicly display, publicly perform, transmit, stream, broadcast or otherwise exploit the Services except as expressly permitted by Uber; (iii) decompile, reverse engineer or disassemble the Services except as may be permitted by applicable law; (iv) link to, mirror or frame any portion of the Services; (v) cause or launch any programs or scripts, or Agents (as defined in the Agent Terms below) for the purpose of, or which result in, unduly burdening or hindering the operation and/or functionality of any aspect of the Services, including by exceeding rate limits that Uber allows; (vi) attempt to gain unauthorized access to or impair any aspect of the Services or its related systems or networks; or (vii) register, attempt to register, or claim ownership of any Uber Names, Marks, or Works or in any confusingly or substantially similar name, mark, title, or work, in any manner for any purposes, alone or in combination with other letters, punctuation, words, symbols, designs, and/or any creative works, except as may be permitted in the limited license granted above."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "In order to use most aspects of the Services, you must register for and maintain an active personal user Services account (“Account”). Unless a specific Service provides otherwise: (i) you must be at least 18 years of age, or the age of legal majority in your jurisdiction (if different than 18), to obtain an Account, (ii) you may only possess one Account and (iii) you may not assign or otherwise transfer your Account to any other person or entity. Uber maintains the right to delete or deactivate duplicate accounts. You are responsible for all activity that occurs under your Account, and you agree to maintain the security and secrecy of your Account credentials at all times."
+      ],
+      "new": [
+        "In order to use most aspects of the Services, you must register for and maintain an active personal user Services account (“Account”). Unless a specific Service provides otherwise: (i) you must be at least 18 years of age, or the age of legal majority in your jurisdiction (if different than 18), to obtain an Account, (ii) you may only possess one Account and (iii) you may not assign or otherwise transfer your Account to any other person or entity. Uber maintains the right to delete or deactivate duplicate accounts. You are responsible for all activity that occurs under your Account, including activity by any Agent (as defined in the Agent Terms below) that you authorize or enable, such as orders and payments. You agree to keep your Account credentials secure and may not share them with any Agent or Agent provider unless Uber has authorized that Agent, such as through an Approved Agent Program (as defined in the Agent Terms below)."
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "By accepting the invite to create an Uber account (“Teen Account”), you attest that you are between the ages of 13 and 17. You acknowledge that your parent/guardian has also agreed to this section of the Terms governing your use of the Services. You agree to comply with the Teen Account Terms of Use (Teen), incorporated by reference herein. 6. User Conduct and Requirements; Communications; Avoiding Conflicts of Interest; and User Content"
+      ],
+      "new": [
+        "By accepting the invite to create an Uber account (“Teen Account”), you attest that you are between the ages of 13 and 17. You acknowledge that your parent/guardian has also agreed to this section of the Terms governing your use of the Services. You agree to comply with the Teen Account Terms of Use (Teen), incorporated by reference herein.",
+        "6\\. User Conduct and Requirements; Communications; Avoiding Conflicts of Interest; and User Content"
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**SMS Terms and Conditions**",
+        "If you separately opt in to receive transactional SMS messages from Uber related to setting up your Uber account, you agree to receive text messages from Uber at the mobile number you provide. These messages may include messages related to account registration, verification, and other steps necessary to complete the account setup process. Message frequency will vary based on your interactions with Uber and the account setup process.",
+        "Message and data rates may apply.",
+        "You may opt out of these transactional SMS messages by replying **STOP 1**. Uber will process your opt-out request as required by applicable law, and you may receive a final message confirming your opt-out.",
+        "For additional information, reply **HELP** or contact Uber through Customer Support \\[https://www.uber.com/us/en/contact/\\].",
+        "Carriers are not liable for delayed or undelivered messages.",
+        "For information about how Uber collects, uses, and shares information in connection with these SMS messages, please review Uber’s Privacy Notice \\[https://www.uber.com/global/en/privacy-notice-drivers-delivery-people/\\]."
+      ],
+      "new": []
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "### 10. Agents",
+        "These terms (\"Agent Terms\") apply if you, directly or indirectly, use, authorize, or deploy an Agent to access or interact with the Services. An \"Agent\" is any software, tool, or service that takes autonomous or semi-autonomous action on behalf of, or at the direction of, any person or entity. These Agent Terms are not intended to restrict accessibility tools, such as screen readers, that help individuals with disabilities use the Services.",
+        "**Agent Requirements**.",
+        "Agents must operate openly and honestly. An Agent must identify itself as an Agent and operate in accordance with the requirements of these Agent Terms. Specifically, in all HTTP/HTTPS requests, an Agent must identify that the request is from an Agent, and Agents must not solve CAPTCHAs. If Uber asks an Agent to stop accessing the Services, the Agent must stop immediately and may not resume without Uber's permission.",
+        "**Access and Enforcement**.",
+        "Uber may offer programs for approved Agents (\"Approved Agent Programs\"). Each program has its own terms, which control over these Agent Terms if they conflict. Uber has no obligation to approve any Agent. Except as provided in an Approved Agent Program, Uber may, in its sole discretion and without notice, restrict, condition, or block any Agent's access to the Services, including through technical measures. If you or an Agent acting for you violates these Agent Terms, Uber may also, without notice, suspend or terminate your Account and pursue any other available remedies, including injunctive relief against the Agent's provider.",
+        "**Your Responsibility for Agents**.",
+        "Agents can make mistakes. You are responsible for any order, booking, payment, or other action an Agent takes on your behalf, including the accuracy of details such as addresses, items, payment methods, and timing. Uber's standard cancellation, refund, and dispute policies apply. To the maximum extent permitted by law, Uber is not responsible for any loss or damage caused by an Agent's errors, omissions, or failures, such as incorrect orders, missed bookings, or erroneous payments. Any dispute about an Agent's performance is between you and the Agent's provider, and you release Uber from related claims."
+      ]
+    }
+  ]
+}
