@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-11-05-uber-terms",
+    "service": "uber",
+    "service_name": "Uber",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=united-states&lang=en",
+    "detected_at": "2026-11-05T09:30:52+00:00",
+    "flags": [],
+    "stats": {
+      "hunks": 1,
+      "added_words": 3,
+      "removed_words": 2
+    },
+    "headline": "Uber edited its Terms of Service",
+    "summary": "3 words added and 2 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "### **6.",
+    "receipt_side": "new",
+    "sideeye": 0,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/uber/terms.md",
+    "page": "c/2026-11-05-uber-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-05-uber-terms.html"
+  },
+  {
+    "id": "2026-11-05-snapchat-terms",
+    "service": "snapchat",
+    "service_name": "Snapchat",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://snap.com/en-US/terms",
+    "detected_at": "2026-11-05T09:30:52+00:00",
+    "flags": [
+      {
+        "tag": "retention",
+        "label": "How long they keep it",
+        "hits": 2
+      },
+      {
+        "tag": "account-termination",
+        "label": "Kicking you out",
+        "hits": 2
+      },
+      {
+        "tag": "minors",
+        "label": "Kids & teens",
+        "hits": 1
+      }
+    ],
+    "stats": {
+      "hunks": 51,
+      "added_words": 2461,
+      "removed_words": 430
+    },
+    "headline": "Snapchat rewrote its Terms of Service — new wording on how long they keep your data, banning accounts and more",
+    "summary": "2461 words added and 430 removed across 51 sections. New wording touches: How long they keep it, Kicking you out, Kids & teens. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "Our Services are not directed to children under the age of 13 or those below the applicable minimum age at which you may use the Services in your state, province, or country if older than 13.",
+    "receipt_side": "new",
+    "sideeye": 4,
+    "tags": [
+      "retention",
+      "account-termination",
+      "minors"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/snapchat/terms.md",
+    "page": "c/2026-11-05-snapchat-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-05-snapchat-terms.html"
+  },
+  {
     "id": "2026-11-04-uber-terms",
     "service": "uber",
     "service_name": "Uber",
