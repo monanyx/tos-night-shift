@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-11-10-microsoft-privacy",
+    "service": "microsoft",
+    "service_name": "Microsoft",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://privacy.microsoft.com/en-us/privacystatement",
+    "detected_at": "2026-11-10T09:53:45+00:00",
+    "flags": [
+      {
+        "tag": "location",
+        "label": "Location",
+        "hits": 3
+      }
+    ],
+    "stats": {
+      "hunks": 8,
+      "added_words": 735,
+      "removed_words": 1103
+    },
+    "headline": "Microsoft rewrote its Privacy Policy — new wording on your location",
+    "summary": "735 words added and 1103 removed across 8 sections. New wording touches: Location. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "**Location sharing.** You can access location information from your mobile device after you choose to enable this feature.",
+    "receipt_side": "new",
+    "sideeye": 2,
+    "tags": [
+      "location"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/microsoft/privacy.md",
+    "page": "c/2026-11-10-microsoft-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-10-microsoft-privacy.html"
+  },
+  {
+    "id": "2026-11-10-instagram-terms",
+    "service": "instagram",
+    "service_name": "Instagram",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://help.instagram.com/581066165581870",
+    "detected_at": "2026-11-10T09:53:45+00:00",
+    "flags": [],
+    "stats": {
+      "hunks": 2,
+      "added_words": 42,
+      "removed_words": 0
+    },
+    "headline": "Instagram edited its Terms of Service",
+    "summary": "42 words added and 0 removed across 2 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "What is the Instagram Service?",
+    "receipt_side": "new",
+    "sideeye": 0,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/instagram/terms.md",
+    "page": "c/2026-11-10-instagram-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-10-instagram-terms.html"
+  },
+  {
     "id": "2026-11-09-instagram-terms",
     "service": "instagram",
     "service_name": "Instagram",
