@@ -1,0 +1,80 @@
+{
+  "id": "2026-11-11-reddit-terms",
+  "service": "reddit",
+  "service_name": "Reddit",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://redditinc.com/policies/user-agreement",
+  "detected_at": "2026-11-11T09:27:35+00:00",
+  "flags": [
+    {
+      "tag": "tracking",
+      "label": "Tracking",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 3,
+    "added_words": 93,
+    "removed_words": 0
+  },
+  "headline": "Reddit rewrote its Terms of Service — new wording on tracking",
+  "summary": "93 words added and 0 removed across 3 sections. New wording touches: Tracking. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Cookie Notice",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "tracking"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "All",
+        "1 જુલાઈ, 2026",
+        "24 સપ્ટેમ્બર, 2024",
+        "પ્રિવ્યૂઝની ઉપયોગની શરતો",
+        "ક્રિએટર માટેની શરતો",
+        "ડેવલપર શરતો",
+        "ડેટા API ની શરતો",
+        "Reddit એમ્બેડ્સ શરતો",
+        "Responsible Disclosure and Bug Bounty Program Terms",
+        "ટ્રેડમાર્ક ઉપયોગ નીતિ",
+        "Reddit ગોપનીયતા નીતિ",
+        "Public Content Policy",
+        "Cookie Notice",
+        "Reddit Rules",
+        "મોડરેટર માટેની આચાર સંહિતા",
+        "Information for EU users",
+        "Information for UK users",
+        "Information for AU users",
+        "Advertising Platform Terms & Conditions",
+        "Brand Guidelines",
+        "Press & Broadcast Guidelines",
+        "24 સપ્ટેમ્બર, 2024",
+        "Transparency",
+        "Guidelines for Law Enforcement",
+        "Reddit's Anti-Slavery and Human Trafficking Statement",
+        "Developer Data Protection Addendum",
+        "Impressum",
+        "Responsible Builder Policy"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "ગુજરાતી"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "ગુજરાતી"
+      ]
+    }
+  ]
+}
