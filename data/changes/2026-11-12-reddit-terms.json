@@ -1,0 +1,80 @@
+{
+  "id": "2026-11-12-reddit-terms",
+  "service": "reddit",
+  "service_name": "Reddit",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://redditinc.com/policies/user-agreement",
+  "detected_at": "2026-11-12T09:51:58+00:00",
+  "flags": [
+    {
+      "tag": "tracking",
+      "label": "Tracking",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 3,
+    "added_words": 90,
+    "removed_words": 0
+  },
+  "headline": "Reddit rewrote its Terms of Service — new wording on tracking",
+  "summary": "90 words added and 0 removed across 3 sections. New wording touches: Tracking. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Cookie Notice",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "tracking"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "All",
+        "ಜುಲೈ 1, 2026",
+        "ಸೆಪ್ಟೆಂಬರ್ 24, 2024",
+        "ಪೂರ್ವವೀಕ್ಷಣೆಗಳ ಬಳಕೆಯ ನಿಯಮಗಳು",
+        "ರಚನೆಕಾರರ ನಿಯಮಗಳು",
+        "ಡೆವಲಪರ್ ನಿಯಮಗಳು",
+        "ಡೇಟಾ API ನಿಯಮಗಳು",
+        "Reddit ಎಂಬೆಡ್ಗಳ ನಿಯಮಗಳು",
+        "Responsible Disclosure and Bug Bounty Program Terms",
+        "ಟ್ರೇಡ್ಮಾರ್ಕ್ ಬಳಕೆ ನೀತಿ",
+        "Reddit ಗೌಪ್ಯತಾ ನೀತಿ",
+        "Public Content Policy",
+        "Cookie Notice",
+        "Reddit Rules",
+        "ಮಾಡರೇಟರ್ ನೀತಿ ಸಂಹಿತೆ",
+        "Information for EU users",
+        "Information for UK users",
+        "Information for AU users",
+        "Advertising Platform Terms & Conditions",
+        "Brand Guidelines",
+        "Press & Broadcast Guidelines",
+        "ಸೆಪ್ಟೆಂಬರ್ 24, 2024",
+        "Transparency",
+        "Guidelines for Law Enforcement",
+        "Reddit's Anti-Slavery and Human Trafficking Statement",
+        "Developer Data Protection Addendum",
+        "Impressum",
+        "Responsible Builder Policy"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "ಕನ್ನಡ"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "ಕನ್ನಡ"
+      ]
+    }
+  ]
+}
