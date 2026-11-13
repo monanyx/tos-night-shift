@@ -1,5 +1,320 @@
 [
   {
+    "id": "2026-11-13-temu-terms",
+    "service": "temu",
+    "service_name": "Temu",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://www.temu.com/terms-of-use.html",
+    "detected_at": "2026-11-13T09:33:31+00:00",
+    "flags": [
+      {
+        "tag": "ai-training",
+        "label": "AI training",
+        "hits": 1
+      },
+      {
+        "tag": "data-sharing",
+        "label": "Data sharing",
+        "hits": 1
+      },
+      {
+        "tag": "content-license",
+        "label": "Rights to your content",
+        "hits": 1
+      },
+      {
+        "tag": "tracking",
+        "label": "Tracking",
+        "hits": 1
+      },
+      {
+        "tag": "account-termination",
+        "label": "Kicking you out",
+        "hits": 1
+      }
+    ],
+    "stats": {
+      "hunks": 38,
+      "added_words": 1794,
+      "removed_words": 950
+    },
+    "headline": "Temu rewrote its Terms of Service — new wording on AI training, sharing your data and more",
+    "summary": "1794 words added and 950 removed across 38 sections. New wording touches: AI training, Data sharing, Rights to your content, Tracking, Kicking you out. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "**1.4** Your use of, and participation in, certain Services are also subject to additional policies we publish, including the Privacy Policy and Cookies and Similar Technologies Policy describing how Temu processes your personal information (“Policies”).",
+    "receipt_side": "new",
+    "sideeye": 5,
+    "tags": [
+      "ai-training",
+      "data-sharing",
+      "content-license",
+      "tracking",
+      "account-termination"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/temu/terms.md",
+    "page": "c/2026-11-13-temu-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-13-temu-terms.html"
+  },
+  {
+    "id": "2026-11-13-temu-privacy",
+    "service": "temu",
+    "service_name": "Temu",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://www.temu.com/privacy-and-cookie-policy.html",
+    "detected_at": "2026-11-13T09:33:31+00:00",
+    "flags": [
+      {
+        "tag": "data-sharing",
+        "label": "Data sharing",
+        "hits": 2
+      }
+    ],
+    "stats": {
+      "hunks": 35,
+      "added_words": 666,
+      "removed_words": 329
+    },
+    "headline": "Temu rewrote its Privacy Policy — new wording on sharing your data",
+    "summary": "666 words added and 329 removed across 35 sections. New wording touches: Data sharing. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "We share some of your personal information with Temu subsidiaries and affiliates as necessary to provide organizational, technical, legal and compliance support for the Service, including for the purposes of order fulfillment, and other core platform functions.",
+    "receipt_side": "new",
+    "sideeye": 2,
+    "tags": [
+      "data-sharing"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/temu/privacy.md",
+    "page": "c/2026-11-13-temu-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-13-temu-privacy.html"
+  },
+  {
+    "id": "2026-11-13-reddit-terms",
+    "service": "reddit",
+    "service_name": "Reddit",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://redditinc.com/policies/user-agreement",
+    "detected_at": "2026-11-13T09:33:31+00:00",
+    "flags": [
+      {
+        "tag": "tracking",
+        "label": "Tracking",
+        "hits": 1
+      }
+    ],
+    "stats": {
+      "hunks": 3,
+      "added_words": 90,
+      "removed_words": 0
+    },
+    "headline": "Reddit rewrote its Terms of Service — new wording on tracking",
+    "summary": "90 words added and 0 removed across 3 sections. New wording touches: Tracking. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "Cookie Notice",
+    "receipt_side": "new",
+    "sideeye": 1,
+    "tags": [
+      "tracking"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/reddit/terms.md",
+    "page": "c/2026-11-13-reddit-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-13-reddit-terms.html"
+  },
+  {
+    "id": "2026-11-13-pinterest-terms",
+    "service": "pinterest",
+    "service_name": "Pinterest",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://policy.pinterest.com/en/terms-of-service",
+    "detected_at": "2026-11-13T09:33:31+00:00",
+    "flags": [
+      {
+        "tag": "arbitration",
+        "label": "Arbitration / no lawsuits",
+        "hits": 3
+      },
+      {
+        "tag": "ai-training",
+        "label": "AI training",
+        "hits": 1
+      },
+      {
+        "tag": "payments",
+        "label": "Money",
+        "hits": 1
+      }
+    ],
+    "stats": {
+      "hunks": 10,
+      "added_words": 1082,
+      "removed_words": 599
+    },
+    "headline": "Pinterest rewrote its Terms of Service — new wording on your right to sue, AI training and more",
+    "summary": "1082 words added and 599 removed across 10 sections. New wording touches: Arbitration / no lawsuits, AI training, Money. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "- Our GenAI Acceptable Use Guidelines, which explain how you may and may not use Pinterest’s generative AI tools.",
+    "receipt_side": "new",
+    "sideeye": 5,
+    "tags": [
+      "arbitration",
+      "ai-training",
+      "payments"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/pinterest/terms.md",
+    "page": "c/2026-11-13-pinterest-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-13-pinterest-terms.html"
+  },
+  {
+    "id": "2026-11-13-pinterest-privacy",
+    "service": "pinterest",
+    "service_name": "Pinterest",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://policy.pinterest.com/en/privacy-policy",
+    "detected_at": "2026-11-13T09:33:31+00:00",
+    "flags": [],
+    "stats": {
+      "hunks": 26,
+      "added_words": 585,
+      "removed_words": 305
+    },
+    "headline": "Pinterest edited its Privacy Policy",
+    "summary": "585 words added and 305 removed across 26 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "We work hard to make our use of personal data transparent and to make your rights and choices easy to understand.",
+    "receipt_side": "new",
+    "sideeye": 1,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/pinterest/privacy.md",
+    "page": "c/2026-11-13-pinterest-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-13-pinterest-privacy.html"
+  },
+  {
+    "id": "2026-11-13-instagram-terms",
+    "service": "instagram",
+    "service_name": "Instagram",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://help.instagram.com/581066165581870",
+    "detected_at": "2026-11-13T09:33:31+00:00",
+    "flags": [
+      {
+        "tag": "arbitration",
+        "label": "Arbitration / no lawsuits",
+        "hits": 4
+      },
+      {
+        "tag": "payments",
+        "label": "Money",
+        "hits": 1
+      }
+    ],
+    "stats": {
+      "hunks": 11,
+      "added_words": 820,
+      "removed_words": 161
+    },
+    "headline": "Instagram rewrote its Terms of Service — new wording on your right to sue and fees and billing",
+    "summary": "820 words added and 161 removed across 11 sections. New wording touches: Arbitration / no lawsuits, Money. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "**ARBITRATION NOTICE: YOU AGREE THAT DISPUTES BETWEEN YOU AND US WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.",
+    "receipt_side": "new",
+    "sideeye": 4,
+    "tags": [
+      "arbitration",
+      "payments"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/instagram/terms.md",
+    "page": "c/2026-11-13-instagram-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-13-instagram-terms.html"
+  },
+  {
+    "id": "2026-11-13-instagram-privacy",
+    "service": "instagram",
+    "service_name": "Instagram",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://privacycenter.instagram.com/policy",
+    "detected_at": "2026-11-13T09:33:31+00:00",
+    "flags": [],
+    "stats": {
+      "hunks": 2,
+      "added_words": 51,
+      "removed_words": 0
+    },
+    "headline": "Instagram edited its Privacy Policy",
+    "summary": "51 words added and 0 removed across 2 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "Read the United States Regional Privacy Notice for more details about how we handle Personal Information and how to exercise your rights.",
+    "receipt_side": "new",
+    "sideeye": 0,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/instagram/privacy.md",
+    "page": "c/2026-11-13-instagram-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-13-instagram-privacy.html"
+  },
+  {
+    "id": "2026-11-13-facebook-terms",
+    "service": "facebook",
+    "service_name": "Facebook",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://www.facebook.com/terms.php",
+    "detected_at": "2026-11-13T09:33:31+00:00",
+    "flags": [],
+    "stats": {
+      "hunks": 7,
+      "added_words": 61,
+      "removed_words": 196
+    },
+    "headline": "Facebook edited its Terms of Service",
+    "summary": "61 words added and 196 removed across 7 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "We work constantly to improve our services and develop new features to make our Products better for you and our community.",
+    "receipt_side": "new",
+    "sideeye": 0,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/facebook/terms.md",
+    "page": "c/2026-11-13-facebook-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-13-facebook-terms.html"
+  },
+  {
+    "id": "2026-11-13-facebook-privacy",
+    "service": "facebook",
+    "service_name": "Facebook",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://www.facebook.com/privacy/policy/",
+    "detected_at": "2026-11-13T09:33:31+00:00",
+    "flags": [],
+    "stats": {
+      "hunks": 2,
+      "added_words": 51,
+      "removed_words": 0
+    },
+    "headline": "Facebook edited its Privacy Policy",
+    "summary": "51 words added and 0 removed across 2 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "Read the United States Regional Privacy Notice for more details about how we handle Personal Information and how to exercise your rights.",
+    "receipt_side": "new",
+    "sideeye": 0,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/facebook/privacy.md",
+    "page": "c/2026-11-13-facebook-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-13-facebook-privacy.html"
+  },
+  {
     "id": "2026-11-12-reddit-terms",
     "service": "reddit",
     "service_name": "Reddit",

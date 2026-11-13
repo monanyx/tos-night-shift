@@ -1,0 +1,80 @@
+{
+  "id": "2026-11-13-reddit-terms",
+  "service": "reddit",
+  "service_name": "Reddit",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://redditinc.com/policies/user-agreement",
+  "detected_at": "2026-11-13T09:33:31+00:00",
+  "flags": [
+    {
+      "tag": "tracking",
+      "label": "Tracking",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 3,
+    "added_words": 90,
+    "removed_words": 0
+  },
+  "headline": "Reddit rewrote its Terms of Service — new wording on tracking",
+  "summary": "90 words added and 0 removed across 3 sections. New wording touches: Tracking. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Cookie Notice",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "tracking"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "All",
+        "1 जुलै 2026",
+        "24 सप्टेंबर 2024",
+        "प्रीव्ह्यू वापर अटी",
+        "क्रिएटर अटी",
+        "डेव्हलपरच्या अटी",
+        "डेटा API च्या अटी",
+        "Reddit एंबेड अटी",
+        "Responsible Disclosure and Bug Bounty Program Terms",
+        "ट्रेडमार्क वापर धोरण",
+        "Reddit गोपनीयता धोरण",
+        "Public Content Policy",
+        "Cookie Notice",
+        "Reddit Rules",
+        "मॉडरेटर आचारसंहिता",
+        "Information for EU users",
+        "Information for UK users",
+        "Information for AU users",
+        "Advertising Platform Terms & Conditions",
+        "Brand Guidelines",
+        "Press & Broadcast Guidelines",
+        "24 सप्टेंबर 2024",
+        "Transparency",
+        "Guidelines for Law Enforcement",
+        "Reddit's Anti-Slavery and Human Trafficking Statement",
+        "Developer Data Protection Addendum",
+        "Impressum",
+        "Responsible Builder Policy"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "मराठी"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "मराठी"
+      ]
+    }
+  ]
+}
