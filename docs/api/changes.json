@@ -1,5 +1,38 @@
 [
   {
+    "id": "2026-11-14-reddit-terms",
+    "service": "reddit",
+    "service_name": "Reddit",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://redditinc.com/policies/user-agreement",
+    "detected_at": "2026-11-14T08:59:23+00:00",
+    "flags": [
+      {
+        "tag": "tracking",
+        "label": "Tracking",
+        "hits": 1
+      }
+    ],
+    "stats": {
+      "hunks": 3,
+      "added_words": 181,
+      "removed_words": 0
+    },
+    "headline": "Reddit rewrote its Terms of Service — new wording on tracking",
+    "summary": "181 words added and 0 removed across 3 sections. New wording touches: Tracking. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "Cookie Notice",
+    "receipt_side": "new",
+    "sideeye": 1,
+    "tags": [
+      "tracking"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/reddit/terms.md",
+    "page": "c/2026-11-14-reddit-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-14-reddit-terms.html"
+  },
+  {
     "id": "2026-11-13-temu-terms",
     "service": "temu",
     "service_name": "Temu",

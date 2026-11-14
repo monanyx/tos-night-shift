@@ -1451,6 +1451,62 @@ Reddit's Anti-Slavery and Human Trafficking Statement
 Developer Data Protection Addendum
 Impressum
 Responsible Builder Policy
+All
+జూలై 1, 2026
+24 సెప్టెంబర్ 2024
+ప్రివ్యూల వినియోగ నిబంధనలు
+క్రియేటర్ నిబంధనలు
+డెవలపర్ నిబంధనలు
+డెేటా API నిబంధనలు
+Reddit ఎంబెడ్స్ నిబంధనలు
+Responsible Disclosure and Bug Bounty Program Terms
+ట్రేడ్మార్క్ వాడుక విధానం
+Reddit గోప్యతా విధానం
+Public Content Policy
+Cookie Notice
+Reddit Rules
+మోడరేటర్ ప్రవర్తనా నియమావళి
+Information for EU users
+Information for UK users
+Information for AU users
+Advertising Platform Terms & Conditions
+Brand Guidelines
+Press & Broadcast Guidelines
+24 సెప్టెంబర్ 2024
+Transparency
+Guidelines for Law Enforcement
+Reddit's Anti-Slavery and Human Trafficking Statement
+Developer Data Protection Addendum
+Impressum
+Responsible Builder Policy
+All
+ஜூலை 1, 2026
+செப்டம்பர் 24, 2024
+முன்னோட்டப் பயன்பாட்டு விதிமுறைகள்
+கிரியேட்டர் விதிமுறைகள்
+டெவலப்பர் விதிமுறைகள்
+டேட்டா API விதிமுறைகள்
+Reddit Embeds விதிமுறைகள்
+Responsible Disclosure and Bug Bounty Program Terms
+வர்த்தக முத்திரை உபயோகக் கொள்கை
+Reddit தனியுரிமைக் கொள்கை
+Public Content Policy
+Cookie Notice
+Reddit Rules
+மாடரேட்டர் நடத்தை விதிகள்
+Information for EU users
+Information for UK users
+Information for AU users
+Advertising Platform Terms & Conditions
+Brand Guidelines
+Press & Broadcast Guidelines
+செப்டம்பர் 24, 2024
+Transparency
+Guidelines for Law Enforcement
+Reddit's Anti-Slavery and Human Trafficking Statement
+Developer Data Protection Addendum
+Impressum
+Responsible Builder Policy
 English
 Bahasa Indonesia
 Bahasa Melayu - Malaysia
@@ -1488,6 +1544,8 @@ Türkçe - Türkiye
 हिंदी भारत
 বাংলা
 ગુજરાતી
+தமிழ்
+తెలుగు
 ಕನ್ನಡ
 ไทย
 한국어 - 대한민국
@@ -1534,6 +1592,8 @@ Türkçe - Türkiye
 हिंदी भारत
 বাংলা
 ગુજરાતી
+தமிழ்
+తెలుగు
 ಕನ್ನಡ
 ไทย
 한국어 - 대한민국
