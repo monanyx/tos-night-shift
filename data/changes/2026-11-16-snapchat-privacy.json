@@ -1,0 +1,174 @@
+{
+  "id": "2026-11-16-snapchat-privacy",
+  "service": "snapchat",
+  "service_name": "Snapchat",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://values.snap.com/privacy/privacy-policy",
+  "detected_at": "2026-11-16T09:46:53+00:00",
+  "flags": [],
+  "stats": {
+    "hunks": 20,
+    "added_words": 127,
+    "removed_words": 211
+  },
+  "headline": "Snapchat edited its Privacy Policy",
+  "summary": "127 words added and 211 removed across 20 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "Updates to the Privacy Policy",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "removed",
+      "old": [
+        "**Information You Provide**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Information We Generate When You Use Our Services**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Data We Receive From Others**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Other Information, With Your Permission**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Keep Things Up & Running (i.e., operate, deliver, and maintain our Services)**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Personalize Your Experience & Give Context**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Provide Relevant Ads**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Develop & Improve Features, Algorithms & Machine Learning Models**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Analytics**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Research**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Enhance the Safety & Security of Our Services**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Contacting You**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Support**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Enforce Our Terms & Policies**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Other Purposes, With Your Permission**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Recipients & Reasons for Sharing**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Integrated Partners**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**International Data Transfers**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Updates to the Privacy Policy",
+        "*We may update our Privacy Policy from time to time, and will give you a heads up if we make any changes we think you should know about.*",
+        "We may change this Privacy Policy from time to time. But when we do, we’ll let you know one way or another. Sometimes, we’ll let you know by revising the date at the top of the Privacy Policy that’s available on our website and mobile application. Other times, we may provide you with additional notice (such as adding a statement to our websites’ homepages or providing you with an in-app notification).",
+        "Contact Us",
+        "Have any questions about the information here or wish to contact our Data Protection Officer (DPO)? You can contact us <u>here</u>."
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "Updates to the Privacy Policy",
+        "*We may update our Privacy Policy from time to time, and will give you a heads up if we make any changes we think you should know about.*",
+        "We may change this Privacy Policy from time to time. But when we do, we’ll let you know one way or another. Sometimes, we’ll let you know by revising the date at the top of the Privacy Policy that’s available on our website and mobile application. Other times, we may provide you with additional notice (such as adding a statement to our websites’ homepages or providing you with an in-app notification).",
+        "Contact Us",
+        "Have any questions about the information here or wish to contact our Data Protection Officer (DPO)? You can contact us <u>here</u>."
+      ],
+      "new": []
+    }
+  ]
+}

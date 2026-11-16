@@ -1,5 +1,32 @@
 [
   {
+    "id": "2026-11-16-snapchat-privacy",
+    "service": "snapchat",
+    "service_name": "Snapchat",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://values.snap.com/privacy/privacy-policy",
+    "detected_at": "2026-11-16T09:46:53+00:00",
+    "flags": [],
+    "stats": {
+      "hunks": 20,
+      "added_words": 127,
+      "removed_words": 211
+    },
+    "headline": "Snapchat edited its Privacy Policy",
+    "summary": "127 words added and 211 removed across 20 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "Updates to the Privacy Policy",
+    "receipt_side": "new",
+    "sideeye": 0,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/snapchat/privacy.md",
+    "page": "c/2026-11-16-snapchat-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-16-snapchat-privacy.html"
+  },
+  {
     "id": "2026-11-15-instagram-terms",
     "service": "instagram",
     "service_name": "Instagram",
