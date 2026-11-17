@@ -1,0 +1,180 @@
+{
+  "id": "2026-11-17-snapchat-privacy",
+  "service": "snapchat",
+  "service_name": "Snapchat",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://values.snap.com/privacy/privacy-policy",
+  "detected_at": "2026-11-17T10:45:33+00:00",
+  "flags": [
+    {
+      "tag": "ai-training",
+      "label": "AI training",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 20,
+    "added_words": 240,
+    "removed_words": 156
+  },
+  "headline": "Snapchat rewrote its Privacy Policy — new wording on AI training",
+  "summary": "240 words added and 156 removed across 20 sections. New wording touches: AI training. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "**Develop & Improve Features, Algorithms & Machine Learning Models**",
+  "receipt_side": "new",
+  "sideeye": 2,
+  "tags": [
+    "ai-training"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Information You Provide**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Information We Generate When You Use Our Services**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Data We Receive From Others**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Other Information, With Your Permission**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Keep Things Up & Running (i.e., operate, deliver, and maintain our Services)**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Personalize Your Experience & Give Context**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Provide Relevant Ads**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Develop & Improve Features, Algorithms & Machine Learning Models**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Analytics**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Research**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Enhance the Safety & Security of Our Services**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Contacting You**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Support**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Enforce Our Terms & Policies**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Other Purposes, With Your Permission**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Recipients & Reasons for Sharing**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Integrated Partners**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**International Data Transfers**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "Our Audience",
+        "*Our Services are directed to individuals 13 years and older.*",
+        "Our Services are not directed to children under the age of 13, and you must confirm that you are 13 years or older in order to create an account and use our Services. If we have actual knowledge that you are under the age of 13 (or the minimum age at which a person may use the Services in your state, province, or country without parental consent, if greater), we will stop providing Services to you and delete your account and data.",
+        "In addition, we may also limit how we collect, use, and store some of the information of Snapchatters under 18. In some cases, this means we will be unable to provide certain functionality to people under the age of 18.",
+        "We may use age-assurance measures, including automated tools, to help determine whether users meet minimum age requirements or should receive age-appropriate protections."
+      ]
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "Our Audience",
+        "*Our Services are directed to individuals 13 years and older.*",
+        "Our Services are not directed to children under the age of 13, and you must confirm that you are 13 years or older in order to create an account and use our Services. If we have actual knowledge that you are under the age of 13 (or the minimum age at which a person may use the Services in your state, province, or country without parental consent, if greater), we will stop providing Services to you and delete your account and data.",
+        "In addition, we may also limit how we collect, use, and store some of the information of Snapchatters under 18. In some cases, this means we will be unable to provide certain functionality to people under the age of 18.",
+        "We may use age-assurance measures, including automated tools, to help determine whether users meet minimum age requirements or should receive age-appropriate protections."
+      ],
+      "new": []
+    }
+  ]
+}
