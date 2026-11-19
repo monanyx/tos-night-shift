@@ -1,5 +1,8 @@
 # Terms of Use
 Copy link
+What is the Instagram Service?
+How is Instagram funded?
+What is the Instagram Privacy Policy?
 We’re updating our Terms of Use. These updates go into effect on January 20, 2027. By using our products or services after January 20, 2027, you agree to the updated Terms of Use.
 Read New Terms
 Welcome to Instagram!
@@ -91,3 +94,7 @@ You give us permission to show your username, profile picture, and information a
 If you are a consumer, the laws of the country in which you reside will apply to any claim, cause of action, or dispute you have against us that arises out of or relates to these Terms ("claim"), and you may resolve your claim in any competent court in that country that has jurisdiction over the claim. In all other cases, you agree that the claim must be resolved exclusively in the U.S. District Court for the Northern District of California or a state court located in San Mateo County, that you submit to the personal jurisdiction of either of these courts for the purpose of litigating any such claim, and that the laws of the State of California will govern these Terms and any claim, without regard to conflict of law provisions. Without prejudice to the foregoing, you agree that, in its sole discretion, Meta Platforms Inc. may also bring any claim we have against you related to efforts to abuse, interfere, or engage with our products in unauthorized ways in the country in which you reside that has jurisdiction over the claim.
 **7.5 Unsolicited Material.**
 We always appreciate feedback or other suggestions, but may use them without any restrictions or obligation to compensate you for them, and are under no obligation to keep them confidential.
+## **8. Updating These Terms**
+## Other ways to get help
+Chat with Meta AI support assistant
+Resolve issues, make changes and get support in real time
