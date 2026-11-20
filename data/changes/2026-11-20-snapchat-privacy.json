@@ -1,0 +1,152 @@
+{
+  "id": "2026-11-20-snapchat-privacy",
+  "service": "snapchat",
+  "service_name": "Snapchat",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://values.snap.com/privacy/privacy-policy",
+  "detected_at": "2026-11-20T10:02:44+00:00",
+  "flags": [],
+  "stats": {
+    "hunks": 18,
+    "added_words": 0,
+    "removed_words": 84
+  },
+  "headline": "Snapchat edited its Privacy Policy",
+  "summary": "0 words added and 84 removed across 18 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "removed",
+      "old": [
+        "**Information You Provide**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Information We Generate When You Use Our Services**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Data We Receive From Others**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Other Information, With Your Permission**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Keep Things Up & Running (i.e., operate, deliver, and maintain our Services)**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Personalize Your Experience & Give Context**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Provide Relevant Ads**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Develop & Improve Features, Algorithms & Machine Learning Models**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Analytics**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Research**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Enhance the Safety & Security of Our Services**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Contacting You**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Support**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Enforce Our Terms & Policies**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Other Purposes, With Your Permission**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Recipients & Reasons for Sharing**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Integrated Partners**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**International Data Transfers**"
+      ],
+      "new": []
+    }
+  ]
+}

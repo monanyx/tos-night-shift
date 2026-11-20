@@ -1,0 +1,36 @@
+{
+  "id": "2026-11-20-instagram-terms",
+  "service": "instagram",
+  "service_name": "Instagram",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://help.instagram.com/581066165581870",
+  "detected_at": "2026-11-20T10:02:44+00:00",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 19,
+    "removed_words": 33
+  },
+  "headline": "Instagram edited its Terms of Service",
+  "summary": "19 words added and 33 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "We sent a notification in error about a Terms update.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "We’re updating our Terms of Use. These updates go into effect on January 20, 2027. By using our products or services after January 20, 2027, you agree to the updated Terms of Use.",
+        "Read New Terms"
+      ],
+      "new": [
+        "We sent a notification in error about a Terms update. There are no changes to the current Terms, and they still apply."
+      ]
+    }
+  ]
+}

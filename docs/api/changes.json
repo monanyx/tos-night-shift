@@ -1,5 +1,86 @@
 [
   {
+    "id": "2026-11-20-snapchat-privacy",
+    "service": "snapchat",
+    "service_name": "Snapchat",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://values.snap.com/privacy/privacy-policy",
+    "detected_at": "2026-11-20T10:02:44+00:00",
+    "flags": [],
+    "stats": {
+      "hunks": 18,
+      "added_words": 0,
+      "removed_words": 84
+    },
+    "headline": "Snapchat edited its Privacy Policy",
+    "summary": "0 words added and 84 removed across 18 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "",
+    "receipt_side": "new",
+    "sideeye": 0,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/snapchat/privacy.md",
+    "page": "c/2026-11-20-snapchat-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-20-snapchat-privacy.html"
+  },
+  {
+    "id": "2026-11-20-instagram-terms",
+    "service": "instagram",
+    "service_name": "Instagram",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://help.instagram.com/581066165581870",
+    "detected_at": "2026-11-20T10:02:44+00:00",
+    "flags": [],
+    "stats": {
+      "hunks": 1,
+      "added_words": 19,
+      "removed_words": 33
+    },
+    "headline": "Instagram edited its Terms of Service",
+    "summary": "19 words added and 33 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "We sent a notification in error about a Terms update.",
+    "receipt_side": "new",
+    "sideeye": 0,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/instagram/terms.md",
+    "page": "c/2026-11-20-instagram-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-20-instagram-terms.html"
+  },
+  {
+    "id": "2026-11-20-facebook-terms",
+    "service": "facebook",
+    "service_name": "Facebook",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://www.facebook.com/terms.php",
+    "detected_at": "2026-11-20T10:02:44+00:00",
+    "flags": [],
+    "stats": {
+      "hunks": 1,
+      "added_words": 0,
+      "removed_words": 30
+    },
+    "headline": "Facebook edited its Terms of Service",
+    "summary": "0 words added and 30 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "",
+    "receipt_side": "new",
+    "sideeye": 0,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/facebook/terms.md",
+    "page": "c/2026-11-20-facebook-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-20-facebook-terms.html"
+  },
+  {
     "id": "2026-11-19-instagram-terms",
     "service": "instagram",
     "service_name": "Instagram",

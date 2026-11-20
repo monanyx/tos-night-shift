@@ -3,8 +3,7 @@ Copy link
 What is the Instagram Service?
 How is Instagram funded?
 What is the Instagram Privacy Policy?
-We’re updating our Terms of Use. These updates go into effect on January 20, 2027. By using our products or services after January 20, 2027, you agree to the updated Terms of Use.
-Read New Terms
+We sent a notification in error about a Terms update. There are no changes to the current Terms, and they still apply.
 Welcome to Instagram!
 These Terms of Use (or “Terms”) govern your access and use of Instagram, except where we expressly state that separate terms (and not these) apply, and provide information about the Instagram Service (the “Service”), outlined below. The Meta Terms of Service do not apply to this Service.
 The Instagram Service is one of the Meta Products, provided to you by Meta Platforms, Inc. These Terms of Use therefore constitute an agreement between you and Meta Platforms, Inc. If you do not agree to these Terms, then do not access or use Instagram.
