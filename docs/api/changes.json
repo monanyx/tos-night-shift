@@ -1,5 +1,38 @@
 [
   {
+    "id": "2026-11-21-snapchat-privacy",
+    "service": "snapchat",
+    "service_name": "Snapchat",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://values.snap.com/privacy/privacy-policy",
+    "detected_at": "2026-11-21T09:51:23+00:00",
+    "flags": [
+      {
+        "tag": "ai-training",
+        "label": "AI training",
+        "hits": 1
+      }
+    ],
+    "stats": {
+      "hunks": 18,
+      "added_words": 84,
+      "removed_words": 0
+    },
+    "headline": "Snapchat rewrote its Privacy Policy — new wording on AI training",
+    "summary": "84 words added and 0 removed across 18 sections. New wording touches: AI training. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "**Develop & Improve Features, Algorithms & Machine Learning Models**",
+    "receipt_side": "new",
+    "sideeye": 2,
+    "tags": [
+      "ai-training"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/snapchat/privacy.md",
+    "page": "c/2026-11-21-snapchat-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-21-snapchat-privacy.html"
+  },
+  {
     "id": "2026-11-20-snapchat-privacy",
     "service": "snapchat",
     "service_name": "Snapchat",

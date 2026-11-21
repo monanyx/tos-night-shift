@@ -1,0 +1,158 @@
+{
+  "id": "2026-11-21-snapchat-privacy",
+  "service": "snapchat",
+  "service_name": "Snapchat",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://values.snap.com/privacy/privacy-policy",
+  "detected_at": "2026-11-21T09:51:23+00:00",
+  "flags": [
+    {
+      "tag": "ai-training",
+      "label": "AI training",
+      "hits": 1
+    }
+  ],
+  "stats": {
+    "hunks": 18,
+    "added_words": 84,
+    "removed_words": 0
+  },
+  "headline": "Snapchat rewrote its Privacy Policy — new wording on AI training",
+  "summary": "84 words added and 0 removed across 18 sections. New wording touches: AI training. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "**Develop & Improve Features, Algorithms & Machine Learning Models**",
+  "receipt_side": "new",
+  "sideeye": 2,
+  "tags": [
+    "ai-training"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Information You Provide**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Information We Generate When You Use Our Services**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Data We Receive From Others**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Other Information, With Your Permission**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Keep Things Up & Running (i.e., operate, deliver, and maintain our Services)**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Personalize Your Experience & Give Context**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Provide Relevant Ads**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Develop & Improve Features, Algorithms & Machine Learning Models**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Analytics**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Research**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Enhance the Safety & Security of Our Services**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Contacting You**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Support**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Enforce Our Terms & Policies**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Other Purposes, With Your Permission**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Recipients & Reasons for Sharing**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**Integrated Partners**"
+      ]
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "**International Data Transfers**"
+      ]
+    }
+  ]
+}
