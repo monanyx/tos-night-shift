@@ -1,5 +1,137 @@
 [
   {
+    "id": "2026-11-24-tinder-privacy",
+    "service": "tinder",
+    "service_name": "Tinder",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://policies.tinder.com/privacy/intl/en",
+    "detected_at": "2026-11-24T12:31:46+00:00",
+    "flags": [],
+    "stats": {
+      "hunks": 9,
+      "added_words": 93,
+      "removed_words": 0
+    },
+    "headline": "Tinder edited its Privacy Policy",
+    "summary": "93 words added and 0 removed across 9 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "> MTCH Technology Services Limited",
+    "receipt_side": "new",
+    "sideeye": 0,
+    "tags": [
+      "other"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/tinder/privacy.md",
+    "page": "c/2026-11-24-tinder-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-24-tinder-privacy.html"
+  },
+  {
+    "id": "2026-11-24-snapchat-terms",
+    "service": "snapchat",
+    "service_name": "Snapchat",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://snap.com/en-US/terms",
+    "detected_at": "2026-11-24T12:31:46+00:00",
+    "flags": [
+      {
+        "tag": "arbitration",
+        "label": "Arbitration / no lawsuits",
+        "hits": 2
+      }
+    ],
+    "stats": {
+      "hunks": 50,
+      "added_words": 208,
+      "removed_words": 2239
+    },
+    "headline": "Snapchat rewrote its Terms of Service — new wording on your right to sue",
+    "summary": "208 words added and 2239 removed across 50 sections. New wording touches: Arbitration / no lawsuits. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "Arbitration, Class-Action Waiver and Jury Waiver",
+    "receipt_side": "new",
+    "sideeye": 3,
+    "tags": [
+      "arbitration"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/snapchat/terms.md",
+    "page": "c/2026-11-24-snapchat-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-24-snapchat-terms.html"
+  },
+  {
+    "id": "2026-11-24-discord-terms",
+    "service": "discord",
+    "service_name": "Discord",
+    "doc": "terms",
+    "doc_label": "Terms of Service",
+    "url": "https://discord.com/terms",
+    "detected_at": "2026-11-24T12:31:46+00:00",
+    "flags": [
+      {
+        "tag": "account-termination",
+        "label": "Kicking you out",
+        "hits": 1
+      }
+    ],
+    "stats": {
+      "hunks": 19,
+      "added_words": 467,
+      "removed_words": 296
+    },
+    "headline": "Discord rewrote its Terms of Service — new wording on banning accounts",
+    "summary": "467 words added and 296 removed across 19 sections. New wording touches: Kicking you out. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "We may do so in our discretion, and we make no promises or guarantees to you or others that we will or will not block, remove and/or permanently delete content from the services, or suspend or terminate any accounts.",
+    "receipt_side": "new",
+    "sideeye": 2,
+    "tags": [
+      "account-termination"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/discord/terms.md",
+    "page": "c/2026-11-24-discord-terms.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-24-discord-terms.html"
+  },
+  {
+    "id": "2026-11-24-discord-privacy",
+    "service": "discord",
+    "service_name": "Discord",
+    "doc": "privacy",
+    "doc_label": "Privacy Policy",
+    "url": "https://discord.com/privacy",
+    "detected_at": "2026-11-24T12:31:46+00:00",
+    "flags": [
+      {
+        "tag": "minors",
+        "label": "Kids & teens",
+        "hits": 2
+      },
+      {
+        "tag": "account-termination",
+        "label": "Kicking you out",
+        "hits": 1
+      }
+    ],
+    "stats": {
+      "hunks": 21,
+      "added_words": 943,
+      "removed_words": 277
+    },
+    "headline": "Discord rewrote its Privacy Policy — new wording on kids and teens and banning accounts",
+    "summary": "943 words added and 277 removed across 21 sections. New wording touches: Kids & teens, Kicking you out. Read the receipts below — this summary is automatic, not AI.",
+    "receipt": "Similarly, minors’ privacy and online safety laws (such as the E.U.",
+    "receipt_side": "new",
+    "sideeye": 3,
+    "tags": [
+      "minors",
+      "account-termination"
+    ],
+    "summary_source": "radar",
+    "history_url": "https://github.com/monanyx/tos-night-shift/commits/main/snapshots/discord/privacy.md",
+    "page": "c/2026-11-24-discord-privacy.html",
+    "abs_url": "https://monanyx.github.io/tos-night-shift/c/2026-11-24-discord-privacy.html"
+  },
+  {
     "id": "2026-11-23-snapchat-privacy",
     "service": "snapchat",
     "service_name": "Snapchat",

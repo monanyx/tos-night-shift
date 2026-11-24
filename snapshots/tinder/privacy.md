@@ -18,24 +18,37 @@ This Privacy Policy applies from April 4, 2026. The previous version, available 
 12. <u>How To Contact Us</u>
 ### **1. Who We Are**
 If you live in the European Economic Area (“EEA”), the United Kingdom or Switzerland, the company responsible for your data (the “data controller”) is:
-MTCH Technology Services Limited
-Tinder
-1 Hatch Street Upper
-Dublin 2
-D02 PY28
-Ireland
+> MTCH Technology Services Limited
+>
+> Tinder
+>
+> 1 Hatch Street Upper
+>
+> Dublin 2
+>
+> D02 PY28
+>
+> Ireland
 If you live in Japan, the company responsible for your data is:
-MG Japan Services GK
-4F Sumitomo Fudosan Azabu Bldg
-1-4-1 Mita
-Minato-ku, Tokyo 108-0073
-Japan
+> MG Japan Services GK
+>
+> 4F Sumitomo Fudosan Azabu Bldg
+>
+> 1-4-1 Mita
+>
+> Minato-ku, Tokyo 108-0073
+>
+> Japan
 If you live outside the EEA, the United Kingdom, Switzerland and Japan, the company responsible for your data is:
-Tinder, LLC
-8750 North Central Expressway
-Suite 1400
-Dallas, TX 75231
-United States
+> Tinder, LLC
+>
+> 8750 North Central Expressway
+>
+> Suite 1400
+>
+> Dallas, TX 75231
+>
+> United States
 ### **2. Where This Privacy Policy Applies**
 This Privacy Policy applies to websites, apps, events and other services we operate under the Tinder brand. Whether you're searching for your soulmate, joining us at one of our events, or using any of our other awesome services, this Policy has got you covered. For simplicity, we just refer to all of these as our “service” in this Privacy Policy.
 If for some reason, one of our services requires its own separate privacy policy, then that policy will be made available to you and that policy -- not this Privacy Policy -- will apply.
@@ -129,41 +142,60 @@ If you have questions about this Privacy Policy or would like to make a complain
 #### **If you live in the European Economic Area:**
 Online: <u>here</u>
 By post:
-Data Protection Officer
-MTCH Technology Services Limited
-Tinder
-1 Hatch Street Upper
-Dublin 2
-Dublin
-D02 PY28
-Ireland
+> Data Protection Officer
+>
+> MTCH Technology Services Limited
+>
+> Tinder
+>
+> 1 Hatch Street Upper
+>
+> Dublin 2
+>
+> Dublin
+>
+> D02 PY28
+>
+> Ireland
 #### **If you live in the United Kingdom:**
 Online: <u>here</u>
 By post:
-UK GDPR Representative: Prighter Group
-20 Mortlake Mortlake High Street,
-London, SW14 8JN,
-United Kingdom
+> UK GDPR Representative: Prighter Group
+>
+> 20 Mortlake Mortlake High Street,
+>
+> London, SW14 8JN,
+>
+> United Kingdom
 UK representation certificate and representative details <u>here</u>.
 #### **If you live in Switzerland:**
 Online: <u>here</u>
 By post:
-Prighter Group GmbH
-Obergrundstrasse 17,
-6002 Luzern,
-Switzerland
+> Prighter Group GmbH
+>
+> Obergrundstrasse 17,
+>
+> 6002 Luzern,
+>
+> Switzerland
 Swiss representation certificate and representative details here.
 For more information on how to contact the data protection officer, please click <u>here</u>
 #### **If you live in Japan:**
 Online: <u>here</u>
 By post:
-Data Protection Officer
-MG Japan Services GK
-c/o Tinder, LLC
-8750 North Central Expressway
-Suite 1400
-Dallas, TX 75231
-United States
+> Data Protection Officer
+>
+> MG Japan Services GK
+>
+> c/o Tinder, LLC
+>
+> 8750 North Central Expressway
+>
+> Suite 1400
+>
+> Dallas, TX 75231
+>
+> United States
 #### **If you live in Brazil:**
 Data Controller: GEP Soluções em Compliance
 Responsible: Maurício José Ribeiro Rotta
@@ -172,19 +204,29 @@ Send email to: <u>dpobrazil@gotinder.com</u>
 Online: <u>here</u>
 For information about how to contact Tinder’s Data Protection Office, see the FAQ <u>here</u>.
 By post:
-Data Protection Officer
-Tinder, LLC
-8750 North Central Expressway
-Suite 1400
-Dallas, TX 75231
-United States
+> Data Protection Officer
+>
+> Tinder, LLC
+>
+> 8750 North Central Expressway
+>
+> Suite 1400
+>
+> Dallas, TX 75231
+>
+> United States
 #### **If you live outside the European Economic Area, the United Kingdom, Switzerland, Canada, Japan and Brazil:**
 Online: <u>here</u>
 By post:
-Data Protection Officer
-Tinder, LLC
-8750 North Central Expressway
-Suite 1400
-Dallas, TX 75231
-United States
+> Data Protection Officer
+>
+> Tinder, LLC
+>
+> 8750 North Central Expressway
+>
+> Suite 1400
+>
+> Dallas, TX 75231
+>
+> United States
 **Well, that's it! You’ve made it to the end of our Privacy Policy. We hope it was as engaging and clear as we tried to make it. Now, let’s get out there and start making some memories! We’re excited to be on this journey with you.**

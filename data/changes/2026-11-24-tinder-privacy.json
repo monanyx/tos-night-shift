@@ -1,0 +1,233 @@
+{
+  "id": "2026-11-24-tinder-privacy",
+  "service": "tinder",
+  "service_name": "Tinder",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://policies.tinder.com/privacy/intl/en",
+  "detected_at": "2026-11-24T12:31:46+00:00",
+  "flags": [],
+  "stats": {
+    "hunks": 9,
+    "added_words": 93,
+    "removed_words": 0
+  },
+  "headline": "Tinder edited its Privacy Policy",
+  "summary": "93 words added and 0 removed across 9 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "> MTCH Technology Services Limited",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "MTCH Technology Services Limited",
+        "Tinder",
+        "1 Hatch Street Upper",
+        "Dublin 2",
+        "D02 PY28",
+        "Ireland"
+      ],
+      "new": [
+        "> MTCH Technology Services Limited",
+        ">",
+        "> Tinder",
+        ">",
+        "> 1 Hatch Street Upper",
+        ">",
+        "> Dublin 2",
+        ">",
+        "> D02 PY28",
+        ">",
+        "> Ireland"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "MG Japan Services GK",
+        "4F Sumitomo Fudosan Azabu Bldg",
+        "1-4-1 Mita",
+        "Minato-ku, Tokyo 108-0073",
+        "Japan"
+      ],
+      "new": [
+        "> MG Japan Services GK",
+        ">",
+        "> 4F Sumitomo Fudosan Azabu Bldg",
+        ">",
+        "> 1-4-1 Mita",
+        ">",
+        "> Minato-ku, Tokyo 108-0073",
+        ">",
+        "> Japan"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Tinder, LLC",
+        "8750 North Central Expressway",
+        "Suite 1400",
+        "Dallas, TX 75231",
+        "United States"
+      ],
+      "new": [
+        "> Tinder, LLC",
+        ">",
+        "> 8750 North Central Expressway",
+        ">",
+        "> Suite 1400",
+        ">",
+        "> Dallas, TX 75231",
+        ">",
+        "> United States"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Data Protection Officer",
+        "MTCH Technology Services Limited",
+        "Tinder",
+        "1 Hatch Street Upper",
+        "Dublin 2",
+        "Dublin",
+        "D02 PY28",
+        "Ireland"
+      ],
+      "new": [
+        "> Data Protection Officer",
+        ">",
+        "> MTCH Technology Services Limited",
+        ">",
+        "> Tinder",
+        ">",
+        "> 1 Hatch Street Upper",
+        ">",
+        "> Dublin 2",
+        ">",
+        "> Dublin",
+        ">",
+        "> D02 PY28",
+        ">",
+        "> Ireland"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "UK GDPR Representative: Prighter Group",
+        "20 Mortlake Mortlake High Street,",
+        "London, SW14 8JN,",
+        "United Kingdom"
+      ],
+      "new": [
+        "> UK GDPR Representative: Prighter Group",
+        ">",
+        "> 20 Mortlake Mortlake High Street,",
+        ">",
+        "> London, SW14 8JN,",
+        ">",
+        "> United Kingdom"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Prighter Group GmbH",
+        "Obergrundstrasse 17,",
+        "6002 Luzern,",
+        "Switzerland"
+      ],
+      "new": [
+        "> Prighter Group GmbH",
+        ">",
+        "> Obergrundstrasse 17,",
+        ">",
+        "> 6002 Luzern,",
+        ">",
+        "> Switzerland"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Data Protection Officer",
+        "MG Japan Services GK",
+        "c/o Tinder, LLC",
+        "8750 North Central Expressway",
+        "Suite 1400",
+        "Dallas, TX 75231",
+        "United States"
+      ],
+      "new": [
+        "> Data Protection Officer",
+        ">",
+        "> MG Japan Services GK",
+        ">",
+        "> c/o Tinder, LLC",
+        ">",
+        "> 8750 North Central Expressway",
+        ">",
+        "> Suite 1400",
+        ">",
+        "> Dallas, TX 75231",
+        ">",
+        "> United States"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Data Protection Officer",
+        "Tinder, LLC",
+        "8750 North Central Expressway",
+        "Suite 1400",
+        "Dallas, TX 75231",
+        "United States"
+      ],
+      "new": [
+        "> Data Protection Officer",
+        ">",
+        "> Tinder, LLC",
+        ">",
+        "> 8750 North Central Expressway",
+        ">",
+        "> Suite 1400",
+        ">",
+        "> Dallas, TX 75231",
+        ">",
+        "> United States"
+      ]
+    },
+    {
+      "kind": "changed",
+      "old": [
+        "Data Protection Officer",
+        "Tinder, LLC",
+        "8750 North Central Expressway",
+        "Suite 1400",
+        "Dallas, TX 75231",
+        "United States"
+      ],
+      "new": [
+        "> Data Protection Officer",
+        ">",
+        "> Tinder, LLC",
+        ">",
+        "> 8750 North Central Expressway",
+        ">",
+        "> Suite 1400",
+        ">",
+        "> Dallas, TX 75231",
+        ">",
+        "> United States"
+      ]
+    }
+  ]
+}
