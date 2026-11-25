@@ -1,0 +1,35 @@
+{
+  "id": "2026-11-25-discord-terms",
+  "service": "discord",
+  "service_name": "Discord",
+  "doc": "terms",
+  "doc_label": "Terms of Service",
+  "url": "https://discord.com/terms",
+  "detected_at": "2026-11-25T11:19:44+00:00",
+  "flags": [],
+  "stats": {
+    "hunks": 1,
+    "added_words": 1,
+    "removed_words": 1
+  },
+  "headline": "Discord edited its Terms of Service",
+  "summary": "1 words added and 1 removed across 1 section. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "If you reside in the European Union, you may also be entitled to submit your complaint to the Out-of-Court Dispute Settlement (“OCDS”) mechanism under DSA Article 21.",
+  "receipt_side": "new",
+  "sideeye": 0,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "changed",
+      "old": [
+        "If you reside in the European Union, you may also be entitled to submit your complaint to the Out-of-Court Dispute Settlement (“OCDS”) mechanism under DSA Article 21. Note that a submission via the OCDS mechanism alone, without submitting Discord's Dispute Resolution Form available at \\[URL\\] completely and accurately, will not toll the applicable statutes of limitations or other deadlines."
+      ],
+      "new": [
+        "If you reside in the European Union, you may also be entitled to submit your complaint to the Out-of-Court Dispute Settlement (“OCDS”) mechanism under DSA Article 21. Note that a submission via the OCDS mechanism alone, without submitting Discord's Dispute Resolution Form available at dis.gd/disputes completely and accurately, will not toll the applicable statutes of limitations or other deadlines."
+      ]
+    }
+  ]
+}
