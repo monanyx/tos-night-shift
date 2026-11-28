@@ -1,0 +1,188 @@
+{
+  "id": "2026-11-28-snapchat-privacy",
+  "service": "snapchat",
+  "service_name": "Snapchat",
+  "doc": "privacy",
+  "doc_label": "Privacy Policy",
+  "url": "https://values.snap.com/privacy/privacy-policy",
+  "detected_at": "2026-11-28T10:28:59+00:00",
+  "flags": [],
+  "stats": {
+    "hunks": 20,
+    "added_words": 630,
+    "removed_words": 714
+  },
+  "headline": "Snapchat edited its Privacy Policy",
+  "summary": "630 words added and 714 removed across 20 sections. No red-flag keywords in the new text. Read the receipts below — this summary is automatic, not AI.",
+  "receipt": "How Long We Keep Your Information",
+  "receipt_side": "new",
+  "sideeye": 1,
+  "tags": [
+    "other"
+  ],
+  "summary_source": "radar",
+  "hunks": [
+    {
+      "kind": "removed",
+      "old": [
+        "**Information You Provide**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Information We Generate When You Use Our Services**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Data We Receive From Others**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Other Information, With Your Permission**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Keep Things Up & Running (i.e., operate, deliver, and maintain our Services)**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Personalize Your Experience & Give Context**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Provide Relevant Ads**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Develop & Improve Features, Algorithms & Machine Learning Models**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Analytics**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Research**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Enhance the Safety & Security of Our Services**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Contacting You**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Support**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Enforce Our Terms & Policies**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Other Purposes, With Your Permission**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Recipients & Reasons for Sharing**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**Integrated Partners**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "**International Data Transfers**"
+      ],
+      "new": []
+    },
+    {
+      "kind": "removed",
+      "old": [
+        "How Long We Keep Your Information",
+        "*In this section we provide you with information on how long we keep your information, why we keep your information, and also highlight how we may need to keep your information to comply with laws, courts, and other obligations.*",
+        "As a general rule, we keep information as long as you tell us to, and otherwise as long as we need it to provide our Services, or as required by law. For example, if you store something in Memories, we will keep it as long as you need it, but when you Chat with a friend, our systems are designed to delete Chats you send within 24 hours after your friend reads it (unless you’ve changed your default settings or decide to save it). Whether we retain your data depends on the specific feature, your settings, and how you’re using the Services. Here are some more factors we consider when we decide how long to keep your information:",
+        "- If we need the information to operate or provide our Services. For example, we store your basic <u>account details</u> — like your name, phone number, and email address — to maintain your account.",
+        "- To do the things you expect from our Services and as we’ve described within this Privacy Policy. For example, we maintain your list of friends until you ask us to delete them since friends are key to expressing yourself. Similarly, we keep your shared list of contacts until you ask us to remove them in our app settings (note: updating your device permissions may not remove the contacts you’ve previously shared with Snapchat). Learn more. Conversely, Snaps and Chats sent in Snapchat will be deleted by default from our servers within 24 hours after we detect they’ve been opened by all recipients or have expired, unless you’ve changed your default settings or decide to save something, in which case we will honor your choices.",
+        "- The information itself. For example, we store <u>location information</u> (IP-address based or precise, depending on your permissions) for different lengths of time based on how precise it is and which Services you use. If <u>location information</u> is associated with a Snap — like those saved to Memories or posted to Snap Map or Spotlight — we’ll retain that location as long as we store the Snap. Pro tip: You can see the location data we retain about you by downloading your data.",
+        "- How long we need to retain the information to comply with certain legal obligations.",
+        "- If we need it for other legitimate purposes, such as to prevent harm, investigate possible violations of our Terms of Service or other policies, investigate reports of abuse, or protect ourselves or others.",
+        "- Take a look at our Privacy by Product page and support page for details on the specific retention periods for products.",
+        "Although our systems are designed to delete some of your information automatically, we cannot promise that deletion will take place by a specific time.",
+        "In some cases we need to comply with legal requirements to store your data which stops us from deleting your information. For example, if we receive a notice from a court asking us to keep a copy of your content. Other reasons we may keep a copy of your data are if we get reports of abuse or other Terms or policy violations, or if your account, content created by you, or content created with other Snapchatters is flagged by others or our systems for abuse or other Terms or policy violations. Finally, we may also keep certain information in backup for a limited period of time or as required by law.",
+        "For the latest information about how long we store different types of content, check out our Support Site."
+      ],
+      "new": []
+    },
+    {
+      "kind": "added",
+      "old": [],
+      "new": [
+        "How Long We Keep Your Information",
+        "*In this section we provide you with information on how long we keep your information, why we keep your information, and also highlight how we may need to keep your information to comply with laws, courts, and other obligations.*",
+        "As a general rule, we keep information as long as you tell us to, and otherwise as long as we need it to provide our Services, or as required by law. For example, if you store something in Memories, we will keep it as long as you need it, but when you Chat with a friend, our systems are designed to delete Chats you send within 24 hours after your friend reads it (unless you’ve changed your default settings or decide to save it). Whether we retain your data depends on the specific feature, your settings, and how you’re using the Services. Here are some more factors we consider when we decide how long to keep your information:",
+        "- If we need the information to operate or provide our Services. For example, we store your basic <u>account details</u> — like your name, phone number, and email address — to maintain your account.",
+        "- To do the things you expect from our Services and as we’ve described within this Privacy Policy. For example, we maintain your list of friends until you ask us to delete them since friends are key to expressing yourself. Similarly, we keep your shared list of contacts until you ask us to remove them in our app settings (note: updating your device permissions may not remove the contacts you’ve previously shared with Snapchat). Learn more. Conversely, Snaps and Chats sent in Snapchat will be deleted by default from our servers within 24 hours after we detect they’ve been opened by all recipients or have expired, unless you’ve changed your default settings or decide to save something, in which case we will honor your choices.",
+        "- The information itself. For example, we store <u>location information</u> (IP-address based or precise, depending on your permissions) for different lengths of time based on how precise it is and which Services you use. If <u>location information</u> is associated with a Snap — like those saved to Memories or posted to Snap Map or Spotlight — we’ll retain that location as long as we store the Snap. Pro tip: You can see the location data we retain about you by downloading your data.",
+        "- How long we need to retain the information to comply with certain legal obligations.",
+        "- If we need it for other legitimate purposes, such as to prevent harm, investigate possible violations of our Terms of Service or other policies, investigate reports of abuse, or protect ourselves or others.",
+        "- Take a look at our Privacy by Product page and support page for details on the specific retention periods for products.",
+        "Although our systems are designed to delete some of your information automatically, we cannot promise that deletion will take place by a specific time.",
+        "In some cases we need to comply with legal requirements to store your data which stops us from deleting your information. For example, if we receive a notice from a court asking us to keep a copy of your content. Other reasons we may keep a copy of your data are if we get reports of abuse or other Terms or policy violations, or if your account, content created by you, or content created with other Snapchatters is flagged by others or our systems for abuse or other Terms or policy violations. Finally, we may also keep certain information in backup for a limited period of time or as required by law.",
+        "For the latest information about how long we store different types of content, check out our Support Site."
+      ]
+    }
+  ]
+}
